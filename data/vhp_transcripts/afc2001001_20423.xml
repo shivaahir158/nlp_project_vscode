@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with Irene Robertson, 1/27/2004</title>
+            <author>Thomas Swope</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Matthew McCrady</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with Irene Robertson</title>
+               <author>Thomas Swope</author>
+               <date>1/27/2004</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with Irene Robertson was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with Irene Robertson [1/27/2004]</head>
+            <div2>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>This is the World War II oral history of Irene Robertson. Her maiden name was Norton. She was a factory worker at a defense-related plant on the home front. I'm Tom Swope, and this interview was recorded at Mrs. Robertson's home in Willoughby, Ohio on January 27th, 2004. Irene was 80 at the time of this recording. Where were you living in 1941?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>West Virginia. Wheeling, West Virginia. And when the war started, we came to Cleveland.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>How old were you then, in '41?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Eighteen or nineteen.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Were you out of school?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Yes. Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh. So then you moved to Cleveland shortly after? Do you -- Well, first of all, before we get to that, do you have specific memories of December 7th, 1941?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Yes, because I had a lot of friends in Hawaii at the time.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh. What do you remember about that day, about hearing the news?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Just that there was the bombing, and they lost a lot of boats and things, and that my friends were over there. And that's all I remember, really.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you end up losing any friends over there?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>No. Not really. No. They all came back.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>That's good. What was your personal reaction when you heard the war had started for us?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>[PAUSING]</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>How did you feel -- how did you feel about it when the war began?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Well, I think they had plenty warning, but they just didn't pay attention to it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Like always.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So how soon after that did you move up North?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Came in '43. Mother's Day of forty -- in May of '43.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And then we went to -- got a job at General Motors, building the B-29s. They sent us to a college used to be in Cleveland on Thirtieth Street, Fenn College. They sent us there for training, and then we went to work.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh. Is that why you moved up here?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>To get a job, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>For work? Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Because there was nothing down there.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh. Now, before, in the year or so before you took that job, what do you remember about life on the home front, as far as rationing and that sort of thing?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>[PAUSING]</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Life on the home front, rationing, gas rationing, and that sort of thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Oh, we saved all our gas rationing and give it to the man that used to take us to work. And I remember the meat, which didn't bother us, and that. So --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>-- we sort of shared it with people who didn't have it. Because there was five of us came together.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh. Not much of a hardship for you, though?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>No. No.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Not really?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Huh-uh. No. We didn't drive, and we give our driver the gas coupons, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh. Now, when you took this job at General Motors, did you want to get involved in something that was defense related?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Well, tell me about that job, then.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Well, they sent us for training, and then when we came back to Coit Road Plant we built the nacelles for the B-29. And after we built them there, we sent them to -- they went to the -- it's the I-X Center now -- the bomber plant on the West Side. I think it's the I-X Center, or somewhere over there. And then they sent them to Wichita Falls. And we worked on those. We riveted, we countersunk, we put it together. And then they were having trouble with the supercharger at the time, and myself and another guy went around and recorrected the problem. Other than that, I, you know... I mean, we worked pretty hard. But we enjoyed every minute of it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Were there a lot of women working there?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Mostly.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Mostly --</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Mostly women. They brought a lot of women from down South up here, and they brought a lot of black people from down South up, and taught them how to work, and really did a good job. And all the bosses were people who couldn't get in the service, that had high blood pressure or whatever, couldn't get in, and they were the bosses. And we worked up until the day they signed the -- 1945, in the summer. I think it was July we got all laid off; they closed it down.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>But I showed you the...</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Right. They gave you a -- they gave you a nice little B-29; right?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>A little -- little model of a B-29?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Yeah. There was 15 of them made at the time.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>I was lucky to get one of them.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>How did they decide who got one?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>(Laughing) I guess their pets. I don't know how they decided. But I know that when they said -- my boss said, "They built a B-29 to 100 percent scale, but I can't show it to you; we're putting it in a safe, and when the war's over, I'll give it to you." And that's what happened. And it's supposed to be 100 percent scale. And they didn't have them out at the time that they came in. They were made in casting them, cast iron.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So for security reasons they couldn't let those models go out to the public; right?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>I don't know.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>But yeah, obviously. Did they have this -- did you -- did they make the model before the B-29s were actually flying? Uh-huh?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Uh-huh. You know, the engineer made it from scale. And he said it was 100 percent scale model. And I always did -- whatever they wanted, I would do, you know? And so my boss liked me pretty well, that -- you know, that he looked after me, too, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And so they gave it to us the day the atomic bomb -- they dropped the atomic bomb. That's what they gave us.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And my husband was a navigator on the B-29, so I gave it to him, when he -- when we got married. I gave it to him, and then after he passed away, then I still have it now.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>There was 15 of us that got them.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What did you think when you realized one of those planes dropped the bomb?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Well, we were very happy with those planes. We took very -- I -- we took real cautious -- we were cautious how we made, make sure we didn't make mistakes, and very careful about everything.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh. Did you know what kind of plane you were working on?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Uh-huh. Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>You knew it was a --</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>We didn't know about the atomic bomb, but we knew it was a very special plane, and --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>-- that they didn't want nobody to know anything about it. We weren't allowed to talk about it. We weren't allowed to say anything to anybody. But it -- but from what my boss told me, it was really, really special. And then after we went over and saw one of them completed, we knew how special they were.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Because they had one on the West Side, completed, after, you know, the war was over.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Right. What did you think when you saw one of those B-29s? Great plane?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>They were -- they were -- well, I think -- isn't that the biggest plane they made?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Certainly during World War II I think it was the biggest bomber they had.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And they had all those different turrets in different places, and...</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And my husband said it was really -- his -- his crew was in the CBI area, in the same place where they had dropped the atomic bomb.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>They were out of -- they flew out of there. But, you know, I wasn't there, but I -- we tried to work hard. We never missed work or anything. We worked every day at it. And I really enjoyed every minute. I worked, enjoyed every minute, working for General Motors, all along. So...</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you have a lot of -- go through a lot of security clearance before you could work there?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>No. You had to have your -- they have your fingerprint in Washington. They had your blood -- birth certificate. And they make a badge, and you had to carry your badge with you at all times. But other than that, I don't know that there was any real security.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh. Was there any -- ever any trouble at the plant with anybody talking too much, or anything like that?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>No. Huh-uh. No, nobody did talk. They were all -- everybody was happy with their work.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>I never heard any complaining or anything. You know, they were all interested in it. And I mean, it was a huge plant. You know where Coit Road is, how big that is.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Sure. Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>But they made it clear they didn't want you going home and talking about what you were --</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>No, we were --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>-- doing?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>-- told not to talk to anybody, or not to say anything.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Don't even say what you're doing. I just said we work in an aircraft factory. That's it. We didn't say nothing. As far as I know, with my group, where there was five of us that came here together, and we all worked here. And so I don't -- we had no problems, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Do you think that was the first job for most of those women?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Biggest part of them, yeah -- well, not the first job, but first real... Like they worked in dimestores. That's where we all worked, us four -- five girls; in dimestores, or -- or in baby-sitting. Stuff like that.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And a lot of the girls they brought up from the South, it definitely was their first job. And I think we made about a dollar fifty-two cents an hour, at the start. But that was a lot of money. We used to make -- at the dimestore we made -- what was it? -- for 48 hours, about 20 dollars. So...</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Do you think a lot of women kept working after -- or tried to get another job after they were laid off? Uh-huh?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>All the ones that I knew did. And I've kept working since. I mean, I just quit not too long ago.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And I -- I mean, really, I enjoyed that job. I kept going back, when they called me back, even in the automobile industry. Till 60, I worked. And then my husband made me quit, because it was getting too rough in Cleveland.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Do you think any of the men resented having women work there?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>No. No. Huh-uh. No, they always treated them -- they always treat us with respect, and nice. Never had any problems. And there wasn't too many men there. There was a few, but not a whole lot. More older men, you know, than young men. But...</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you follow war news closely when you were -- during the war? Did you follow the news of the war closely?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Oh, yeah. Uh-huh. Because I had a brother there at the time, too.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And you had to watch it very close. And we were very glad it was over. We celebrated for a whole day. Just as soon as they left us off, we all -- all went out and celebrated, you know, that it was over.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh. Where did you go? Downtown Cleveland?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>No. We lived ninety -- 93rd and Euclid, and we went -- well, we stayed in our neighborhood. And it was such a beautiful neighborhood at the time.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Your brother was in the Pacific?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Yeah. He was in the Navy. He was down on Iwo Jima.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Really?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And he come back okay; he was all right. Fact, he's still okay. He still lives in West Virginia.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you write to him a lot?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Oh, yeah. Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What kinds of things would you write?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Oh, just about what's going on, telling him that we were in -- up here, because that's the first -- none of the rest of the kids ever left home, and I was the first one to leave home. Telling him how good we were doing. And he came to visit just as soon as he got out of the service. I never went back home after that. I mean, to live. I liked it up here too well.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Now, did you move up here with your husband?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>No, I wasn't married --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>You weren't --</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>-- at the time.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>-- married at the time. You moved up alone?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Uh-huh. Well, no; five girls.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Oh, five girls...</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Five girls that hung out together in school and that.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And we all came here. We lived together coming up until -- one of them was already married. Her husband was in the service. And the other four weren't. And as they got married and left, I was the one that stayed. And then I got married, and... Still here.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Do you remember hearing the news about the landings on D-Day?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Yes. Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What was it like at the plant that day?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>It seemed when big things happened, everybody was quiet, and didn't say much, you know. But there wasn't too much -- like the radios and stuff, they didn't have no news in the shop. You'd just hear it from word of mouth. You know. But we never had -- they never played music or anything. We were too busy with whatever. Or you couldn't hear. But once you got a -- when you worked in those nacelles, once you got inside -- like one worked on the outside with the rivet gun; the other worked on the inside with the bucking bar, they called it. You know. And to go down, you couldn't hear nothing anyhow, you know, with all the noise. But it was very interesting, I'll tell you. I worked in several departments, and wound up, like I said, the supercharger locknuts were breaking or something, and so one guy and I was taught how to fix them. And we used to go around and crawl in them nacelles and fix them superchargers. And we got them right, so...</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What were some of the other jobs you had at the plant?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>I worked at rework, where -- where there something was wrong, we -- I redid it. I worked in -- in the nacelles on the inside, with the riveting and that. And the electrical work and that was all done outside the plant, when they took the nacelles. We just made the, basically, shell of the nacelle. That's all we did. And then they took it and put the electrical part in, other places. But all we had was that big, round nacelle to work on. And it was on a line, and they pushed it. Once they got it so far, they put it on wheels and pushed it. Otherwise it hung from the ceiling, and they pushed it now and then. It was assembly.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Everybody had their job to do, and when they come there, they did it. I mean, it's just like -- the automobile industry is the same thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Thinking back to the early days of the war, did you ever have any doubt, that we might not win?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Never ever had any doubts. I never had any doubts that we would ever lose, up until this year. This is the only time I have doubt. I've lost all confidence in our political society.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh. Is this because of Iraq?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>No, because they're -- they're so -- because they're so egotistical that they -- you can't tell them nothing. I mean, they told them. And I mean, I remember, with Castro, and I remember some of these big things. But you can't tell them anything. That's why I write letters constantly. I'm on their case all the time. And it's sad. It's sad. Because they don't have to do things that they do. But what are you going to do?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Who do you write? Congressmen, senators, that sort of thing?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>LaTourette.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>I got some things in there now. DeWine. Used to be Metzenbaum. In fact, I had an advocacy group up at Browning for quite a while. And we had Metzenbaum's secretary. John Glenn's secretary knew my voice. I was on her over the notch (ph) baby stuff.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And in fact, I just sent somebody in Washington a copy of the letter John Glenn gave us. He sent me a letter saying when some of the old people die off -- which he's our age, too -- they'll get that notch money.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And so I sent that off to somebody in Washington the other day. Because they keep sending, asking for money. And I tell them, "Forget it; you're not getting it." And I sent that letter back.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Have you ever heard back from any of these people, other than John Glenn?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Oh, I hear back from most all of them. Yeah. They usually write. In fact, I got a letter the other day from DeWine. And that was about pro abortion, which --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>-- I think you're -- you should be able to do what you want with your own body.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And no, I get involved, and I get carried away. And I keep them -- they close the pool hall --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>-- at Browning when I start, because those guys are all ____ guys.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Were you fairly active politically back during the war, during the war years?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Huh-uh.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>No?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>A little bit -- little bit when -- after I was married and moved to Willowick, I was a little active. I was trying to keep it like country, and I took on (?for city?), and they wanted to bring Uncle Bill's at Willowick. Do you remember that?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>I do.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Shoregate?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Well, I fought that. And when they came -- when they came to build that store, it was going to go on, I think it's 289.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>The dock was going to face 289, and I said no. He said, "What do you know?" I said, "No. You can't have it that way. You have to turn it around and go that way with it." So they -- we fought about three weeks, and finally they turned it around. But he said, "What do you know?" I said, "I got a diploma, and blueprint, I can read blueprints." "Oh, no, no." I said, "Don't tell me it's not, because you know (?for city?)."</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And they turned it around. And so after that, I -- after -- my husband kept saying, "Please. We're going to get sued." So I dropped out. They wanted me to run for councilman, and I said no, because he said no. But I've always been -- what's going on, I try to get, you know, straightened out. And then they wanted street lights in Willowick; I didn't want street lights. So where did they put one? Right on the corner of my driveway. So I was after that one, too. But, you know, if something don't -- bothers me, I -- I holler.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you like FDR?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Yes. I even thought -- what's his name?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Truman?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>No. Oh, I liked Truman; I liked FDR. But I don't think that Nixon was that bad. It's just that somebody -- they did something wrong. But I thought, as far as being a president, I thought he had it together.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And I'm not -- I'm not a Republican. I'm not really - can't -- I'm registered Democrat, but you can't really say, because I vote for LaTourette, and I vote for a few Republicans, but they have to be that -- you know. But I don't know. What can you do?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Yeah. Do you remember the day FDR died?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Yes. Yes. I remember the day Kennedy died, too.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Oh, right. Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>I was working in a drugstore, and I took a walk, and I -- Western Auto was there, and they had a TV in the window. My daughter got -- her picture was published in the News Herald when... When he -- she -- Jackie took her ring off and put it in his hand, she drew that picture for -- in government class, and it was published in the News Herald. So... No, I -- I -- I don't think -- I don't think a lot of things are right, but what can you do?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Was there a lot of sadness in the plant when they heard about FDR dying?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Oh, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Everybody was -- I mean, still we talk about it. It still don't seem right.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>You know? He was a good man. So was Truman a good man. But -- and I liked Clinton. Except for his problems. But after all, he's not alone.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>That's right.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>There's a lot of other ones there that's just as -- worse than him.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>When you think back to the war years, is there a vivid memory that comes to mind, one particularly vivid memory?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Mostly when I -- when they bombed Pearl Harbor. That I remember more than anything. And we never did too much reading in the papers and that, you know, when we were younger. But I remember that because, like I said, a lot of my friends had just gone over there; wasn't over there for long.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And they were all in the Navy at the time, and... In fact, I had some of those e-mails or whatever.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>V-mail; right?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>V-mail. Yeah. And I let Dr. Cullocher (ph) have them. In fact, he had wanted all that stuff I had, but I didn't give it to him.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Where -- where is he from?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>He's here in Willoughby.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Oh, is he a historian?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>No, he's retired.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>He still comes around, but he's retired. And he --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Just collects stuff, huh?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And there was a guy on the West Side that talked me out of those other things that I was telling you I had.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>But...</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Now, what were some of the other things that you -- you gave that other guy?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Huh?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What did you give that other guy again?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Well, we had a frame with all my husband's ribbons and medals.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Oh, right. Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And nobody wanted them, and he said he was going to have them on display.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And I think he was -- you know, I don't know. Anyhow, I had the map of the CBI area, on both sides.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>And the B-29 he had looked at, but I wouldn't let him have that. Oh, and like a yearbook of my husband's time in the service.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>It was just like your high school yearbook --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>-- and had all of that in there. And he said that the Army would like it, and he would... You know, just like I said I was going to go to the museum and give them that plane, and then I changed my mind. Because after he took the stuff, I never heard from him again. You know. And so I don't know whatever happened to it. Probably made some money on it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Possibly. I don't know.</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>So I don't know.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Anything else?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>Nothing that I can think of.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Think that covers it?</p>
+               </sp>
+               <sp>
+                  <speaker>Irene Robertson</speaker>
+                  <p>That's about it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>All right.</p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

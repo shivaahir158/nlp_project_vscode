@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with Warren Blower, July 2, 2004</title>
+            <author>Thomas Swope</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Tanya Brown</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with Warren Blower</title>
+               <author>Thomas Swope</author>
+               <date>July 2, 2004</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with Warren Blower was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with Warren Blower [July 2, 2004]</head>
+            <div2>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>This is the oral history of World War II veteran Warren Alden Blower. Mr. Blower served in the U.S. Army in the 8th Air Force 446 Bomb Group. He served in the European Theater, and his highest rank was Captain. I'm Tom Swope, and this interview was recorded at Mr. Blower's home in Brecksville, Ohio on July 2nd, 2004. Warren was 81 at the time of this recording. Where were you living in 1941?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>In 1941, my wife and I graduated from high school in East Palestine, Ohio.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So you were 18?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>You graduated in June of '41?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you go to college then or work?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Yes, I went to college for a year. Went to Fenn College in Cleveland. And it was that December that I was in school that the Japs bombed Pearl Harbor.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Do you have specific memories of that day?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Yes. I had -- that particular day, I had gone to Jefferson, Ohio, to visit my brother, and we spent quite a bit of the day installing a new kitchen sink for him. And he drove me back to Cleveland that evening -- late in the afternoon I guess. And we heard it on the car radio coming back from Jefferson.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What did you think when you heard that news?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>I thought, well, my college plans are probably going to change.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So did you consider going out and signing up immediately or you figured you'd wait until you'd be called? Warren Blower:: Well, I finished out the college year. I figured I should do that. And then I guess I figured I wouldn't go back in the fall. Another friend of mine and I did some investigating about enlisting, and I guess it was late in the fall of that year, of '42, that I enlisted in the Air Corps and came to Cleveland here and took the mental and physical exams. As a matter of fact, I flunked the eye exam. And I went back home, had my eyes checked, and the doctor couldn't find anything wrong with them. So he said get lots of rest and eat lots of carrots, and so I did. Came back and passed the physical. So that was in late November of '42.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you have to get your parents' signature when you signed up?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Yes. That was a little difficult. They didn't want to do that. But it was about then that they were beginning to draft 18 and 19 year olds. And I convinced them I didn't want to be drafted and I would rather do what I wanted to do. So they did sign for me.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So why did you choose the Air Corps?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>I really don't know.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Just after investigating --</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Maybe it was because they came out with the Army Air Corps song.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>A catchy number, that got you. What can you tell me -- well, first of all, do you remember your first day in training?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Well, it was rather -- I wasn't called up until late in January. And I went down to Fort Thomas in Kentucky right across the river. And they put us on a train still in our civilian clothes and I think it took us a week to get down to Biloxi, Mississippi. It was a dirty trip. Windows open. It was hot. And we were stinking sweaty. But we were then in Biloxi for three weeks, and they ran out of space for us. So they marched us all over to Golfport about ten miles away. And we spent a week there before they sorted us out and then they sent us to college training detachments. My group went to Berlingham Southern College. And we stayed there and they sorted us out again. Since I had a year of college and was fairly good at math, I was in the first group assigned to leave. So I was there about six weeks and then went to Nashville, Tennessee for classification and was classified for pilot training and was sent to Maxwell Field in Montgomery, Alabama. It was there at the end of July -- as a matter of fact, the 26th of July, my girlfriend and my sister came down for a visit, and my girlfriend and I got married. So the two of us went through cadet training and I usually say that I fought the Battle of Arkansas. I was sent to Camden, Arkansas for primary training, Walnut Ridge for basic, and Blytheville, Arkansas for advanced flying. So that was six months Battle of Arkansas. Yeah, six months. It was about two months at each school. So --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>These types can be ___ the editing.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>We no sooner got to Golf Port on that long march, and I started to break out with these red spots all over. We had more or less student officers. So I went to my superior and said, "I think I have the measles. And he looked at me and said, "Nah, you ain't got the measles." So I don't know. I wasn't feeling very good. And the next day, I was even more broken out. So I went to him and I said, "I think I have the measles." And he said, "You don't got the measles." So next day, third day, I had the three-day measles. I was pretty sick by then. So he looked at me and says, "Yeah, you got the measles." It was kind of an epidemic at the time. And he said, "Do you know where the base hospital is?" And I said, "No." He said, "Well, go over to headquarters." So I went over to headquarters and they told me to go back and get my shaving gear. And so I went back and got that. And he said, "No, you got to go to the base hospital." And I said, "Well, I don't know where it is." So he said, "Well, come out here in the company street." He pointed down the street, and it disappeared in the distance. He says, "You go to the end of that street and turn left." So I went down there, turned left, and that street disappeared in the distance. So by the time I got to the hospital, I had -- the measles had sweat out. But I had to stay there three days and scrub floors.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Other than the measles, was it a tough adjustment when you first went into the Army to be there with guys from all over the country?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Not really. It didn't seem -- as I remember, it wasn't a problem. I guess at that age you look at everything as an experience.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>I'm not sure the answer to this question is obvious, but pilot was your first choice?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Yeah. Everybody, that seemed to be their first choice.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>That's true.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So what else can you tell me about your training?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Well, it was rather routine. We went through the usual stuff. We flew the Steermans and primary biplane with open cockpits. That was a lot of fun. And then at basic we through the ___. We called it the vibrator; BT-13 or BT-15, one or the other. Then in the advanced training, we flew what they called an AT-9. It was a twin engine, kind of a choppy little thing. The story was it was originally made for a small pursuit plane. But when they updated that, they put it into the training command and they used it for quite a while. But they were phasing it out, too. So they took them all to Blytheville and kind of patched them together and made one good airplane out of three bad ones or something like that. So we flew them and they were very tricky. It was a good experience. But it was kind of a fast little number, and it landed really hot. We had to land them about 115 miles an hour. But we felt -- and they told us at the base that we were being trained to be like bombing or pursuit pilots, P-38s or A-20. And that's what we all wanted very badly. When we graduated, they sent us to West Overfield in Massachusetts. And there, if you didn't have four-engine transition, you were a co-pilot on a V-24. So they assembled the crews there and sent us out to different fields for training. We went to Savannah, Georgia with a complete crew, all ten of us. And we had a new pilot that had just come out of transition. And of course, I had never been in a V-24 before, but I was still a co-pilot. But we went through two months of training that, to me, didn't go very well. Hate to lay it on somebody, but the pilot was very flighty and seemed to be highly nervous all the time we were in flight. And I'm just the opposite. I'm rather cool and calm, I think. But at the end of our training, they removed him from the crew, gave us a new pilot. We went through the training again. Our new pilot, his name was Tom Gill. Had been an instructor in the training command for a year, year-and-a-half I think. Something like that. And they sent him to V-24 transition and he was first pilot then. We got along very well. He was married and his wife had -- they both had a young one. He left her in Milwaukee and she came and joined him. So we were two married couples in the crew. We got along fine. So we went through the training again and the practice bombing and navigating. While we were there with Tom, we got a little deal going. We had -- it was part of the training. We flew from Savannah down to Fort Myers in Florida on a night cross country. At dusk, we took off and went down there, turned around and came back. We didn't land. So I don't know who got the idea, but they decided maybe we ought to take our wives with us. So we got some fatigue outfits from our crewmen and Peg and Deitra Gill dressed up in them. By the time we got the thing all organized, the crew wasn't going to go. It was just a navigation trip. They all decided they wanted to go. So we got -- we were short of ground transportation, so they allowed us to drive our personal cars out to the plane to take our gear and everything. So we got them in the car with all the parachutes and everything and drove up right next to the plane. And they ducked out and up into the bomb bank. And so anyhow, we had an evening. When we got on the end of the runway, we had the two wives standing between the seats watching. When we start down the runway, one of them -- I think it was Peg -- looked down the runway and said, "Oh, isn't that long?" And by the time we got close to the end, we were still on the ground, she says, "Oh, this is short." But the reason for that I suppose it was combination of conservation and training. But the V-24 was supposed to use 100 octane gasoline. In training, they only gave us 92 octane. So to keep from ruining the engine, they had the throttle stops wired back. So you couldn't put full throttle on them. So it was a long takeoff. It was a 92 octane. So anyhow, was nice and calm and smooth that night. And they got into all the ___ and we showed them the whole thing. I told Peg if she ever told anybody about it, I'd probably be busted. But anyhow, it was a very nice night. When we came back, it was dark, of course. Was early in the morning by then. And as we were coming around to make an approach to the runway, you know, of course, looked about the size of a match stick from the distance. And Peg says, "You mean you're going to put this on that?" But it was a fun trip. We had a lot of good times when we were in training. Beach parties with the crew, a lot of different things.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So sounds like you did get along with your crew.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Yes, we did. And I think that was mostly the case. I think every bomb crew out there was the best in the business. It was just the pride I guess and confidence with our ability. You know, young people are very confident. So anyhow, when we finished training with Tom, we went up to Langley Field in Virginia, and there they were training navigators to be radar operators -- we called them mickey operators -- so we could use the radar for navigating and also for bomb dropping. We dropped through the clouds with radar. So we stayed there about a month as I remember it. And they took our navigator and was training him. But it was kind of a rotation thing. They gave us a different navigator to go oversees. And he stayed with us. And we went over. We left the States on the first of September in '44. So it was after the D Day. And I think the first group -- bomb group activity when I got there was taking plane loads of supplies to Orle (ph) Field in Paris to feed the French people that didn't have food. So at any rate, we went through -- we took off from Langley and flew to Gren (ph) Air Field in New Hampshire. And the next day we went to Goose Bay Laboratory. The following day, we flew across Greenland and landed at Reykjavik in Iceland. And the following day, we went from Iceland to Scotland. We landed about maybe 30 miles south of Scotland in a little place called Ayre, A-y-r-e. And from there, we went by train to an embarkation point. They called it Stubbone (ph). It's where all the bomb crews came in and left from the United Kingdom. So we were there for several days. And then by train again we went to Nowich in East Anglia. Norfolk County I guess it is. From there, by truck, we went down to a little town called Bungay (ph). And it was right outside of Bungay we stayed at Flixton, F-l-i-x-t-o-n. And they took part of the Flixton estate and made this air field for the 446 Bomb Group. So we were there for, I suppose, maybe two or three weeks taking training, getting accustomed to the lay of the land and the coastline, practice formation flying and navigating around some ground instruction. So we became operational. And then we were already -- and the crew was scheduled to fly their first mission on the 26th of September in '44. And it was customary in our group at least to put an experienced pilot on with the crew to kind of guide them through the first bombing raid. So we had a young man. His game was Dave Raynor, R-a-y-n-o-r, who was co-pilot on a different crew, of course. And he had 26 missions at the time. So they felt he would be a good addition to the crew. The idea was he was going to sit in the co-pilot seat and I was going along as an observer, as a spare co-pilot, more or less, and just kind of see what was going on. So we went through the briefing and the mission that day was __ in Ham and the ___ valley. And we finished the briefing, went back to the locker room and got all of our gear and clothing on. And we were outside the Stars (phonetic) waiting for trucks to pick us up and take us out. And they were coming and going. We had GI trucks that take us out to the planes. Just as we were about to get on a truck, the Operations Officer came over and tapped me on the shoulder and he said, "Your name is Blower, isn't it?" I said, "Yeah." He said, "Come with me." So I followed him. And introduced me to a Lieutenant White. And his co-pilot had a sinus problem and was grounded that day. So I flew with Lieutenant White that day and not with the crew I went overseas with.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What do you remember about that mission?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Quite a bit. We were flying in the number four position, which is right behind the leader and just a little bit lower, more or less, leading the second element. And Tom Gill's crew, the crew I went over with, is flying on our right wing in the number five position. Things went pretty well until we crossed the Rhine River and we began to have trouble with the plane we were in. It was an old model. I couldn't tell you what it was. The name of it was Gerdy the Gremlin. And it had the old oil controlled wastegates when old -- of course, the prop fiches were controlled with oil. And at high altitude, if you're up there for a while, you have to keep exercising those to keep the oil from congealing, keep getting warm oil in. And so apparently we didn't do it often enough. So two of the engines we couldn't get full turbo power because the wastegates were stuck in position less than full power. And then in addition to that, one of the prop governors wouldn't hold the RPM down. So we throttled that engine back. So we had partial power on three engines really. It wouldn't too bad, except we were falling a little bit behind. And the pilot decided that we better not hold the second element up, let them keep up. So he decided to abort the mission. And he dropped down and we turned back. And Tom Gill and Dave Raynor and the crew I went over with closed up the formation and moved up into our number four slot. And they proceeded onto the marching ___ dropped. And they got a direct hit -- I'm not sure. I think it was a number two or number three, one of the in-board engines, and pretty well crippled that engine. There was some other battle damage I guess. And on the way back, they left the formation and were trying to get back to England going across the north sea. But part way across, the pilot decided that they weren't going to make it. So he turned back and flew south into Holland and crossed over the Hauge. And just south of the Hauge while going over the Hauge, they were shot up again. They were pretty well crippled. So just south of the Hague he bailed the crew out. And we had that crew to stay with that day, having aborted the mission, we got back to the base early and landed by ourselves. When we pulled up to the disbursal area, there were two Jeeps waiting, one for me and one for the pilot. They took us to separate de-briefings. I think to make sure we had good cause to abort. But that would be a tricky thing anyhow, because as soon as you get back on the ground and the oil warms up, the plane works fine. So it was a tricky thing to determine. Apparently, we didn't get court marshalled, so we must have been exonerated. But I went back to the barracks then and figured I would wait for the crew to come back and then we'd go eat. I don't know. It was late in the afternoon, middle of the afternoon I guess when they came back. And they had put me in a barracks separate from the other three officers. They were in the adjoining barracks. But I was in the separate barracks when some of the crews came in from the mission. And I heard some talk about a crew that had gone down. And someone mentioned, yeah, he thought it was their first mission, too. So I went to the next barracks and I inquired over there and they said yeah, a crew had been shot down. So it was -- it was a lonesome experience. I had just been there over three weeks and I was with a crew. Then I guess the rumor at the time was they didn't see any parachutes, but somebody had witnessed them coming down. If you want the later facts that we found out, four of the crew avoided capture and were with the Dutch underground. Four of them were captured and were determined prisoners, and the two pilots were killed. The instructor pilot, Dave Rayner, from what I understand, was shot in the head coming down in his shoot, and the pilot being the last one out, his shoot didn't have time to open. So he went through the green huts and was killed instantly. The flight engineer was taken to -- he was prisoner -- was taken to identify the body. And that's about the end of that day. From then on, being a co-pilot without a crew, I was used as a spare co-pilot. When somebody needed a co-pilot, it was me. So I flew five missions that way with five different crews. And some of them were, let me just say, disappointing. I was not really enthused with the way the crew operated. In one instance, it seemed as though when the pilot made a decision to do something, it was up for debate. People were trying to convince him that wasn't the right thing to do. They should do something else. And there was a lot of haggling on the crew. And to me, it didn't seem to be the right way to run a ship. But being a co-pilot, I was just an observer, more or less. So anyhow, after five missions of doing that, I decided maybe there was something else I could do. I didn't have any real ideas. But one day I asked the Master Sergeant if some day I could get an appointment and talk to the Colonel or Squadron Commander. And he went around the corner and came back and he said, "He's in there now." I said, "You mean I should see him now?" And he said, "Sure." So I went in and saluted of course and introduced myself. And he said, "Yeah, I know who you are." And he said, "What can I do for you?" I said, "Well, I've flown five missions as a spare co-pilot. And if I had a choice, I would prefer not to finish my missions that way. He said, "Well, why not?" And there I was stuck. What do you say? So I ____ a couple of times. I think I said, "Well, some of these pilots are not too good." And he said, "I know what you mean." He said, "We'll make you first pilot." So I spent -- I don't know -- it was only a couple weeks I guess checking out making landings and things. And then I started to fly as pilot, although there was another co-pilot checking out at the same time with me. And there was a crew that needed a pilot. And it happened to be the crew he was co-pilot on. So for the next six missions we kept switching seats. He'd fly pilot, and the next time I'd fly pilot. So that took me through eleven missions. And at that time, I suppose -- what time period would that have been? It may have been late in October. October, I suppose. But anyhow, a crew came in from the states, their crew. And the pilot of that crew was the captain. His name was Moyer, James Moyer. And they had him fly the crew about five missions. And then in order to promote him to Major, he couldn't fly as a pilot leading -- as a crew. I was a lead pilot. My top rank was Captain. I couldn't go any higher except by having a ground job, an executive job. So they made him Assistant Operations Officer. They gave me his crew. And I always give him lots of credit. He brought a top notch crew over. He did a great job of training them. Bombardier had been an instructor for quite a long time, and he was really good. And the navigator was good. And everybody was very cooperative. It was really something. I was never more pleased with flying then I was with them. But being a new pilot, I felt like I had something to prove. And we were good. I think I managed to keep up with the crew. But we started -- I think we flew a mission or two, and our group decided they needed another crew trained for what they called GH bombing. That's briefly using three radio stations and using the grid. And by doing that in close quarters, we could do tactical bombing directly in front of the troops. So they picked my crew to go to the neighboring fields, the wing headquarters field, and take the GH training. So we went over there. That was a real experience. They dumped us off in front of some hut. Was supposed to be our home while we were there training. We went inside, and what a devastation. You never saw such a place in your life. There were newspapers all over the floor, the mattresses were stacked here and there. The beds were turned over. The inside of the nusan (ph) hut, the ___ was hanging down so you had to watch where you walked or you'd bang your head against a piece of sheet metal. There was no lightbulbs. It was really something. So it was getting late enough we decided that before we faced that mess, we'd go up and have some dinner. So we went up to the officer's club and had our meal. As we were leaving, we decided maybe we should have a scotch and soda to help us face the disaster. So I think before we left we had several. And we managed to get into the barracks and make some kind of a hull out of it, spend the night. And lo and below, of course, they roused us out real early in the morning for check flights. So we had an instructor pilot, instructor navigator, instructor bombardier, and they were checking us out separately. So anyhow, my navigator on that trip, he was very good, but he had a method of his own. The instructor asked him, he pointed to a place on the map and says, "Take us over there." And so my navigator, his method would be to pick out a point ahead of where we are going, pick out an exact setting, and give it to me and give me an exact heading. Well, the other guy didn't like it that way. He said give him an approximate heading, not a corrective measure. And they had a few little discussions. Finally, my navigator said to him, "Look, what do you want me to do, pull a rabbit out of the hat?" And that was the beginning of trouble. So the next morning I was called in alone to the CO's office and he explained that the crew was all fine. They were going to go through the training and everything was just beautiful, except they were going to replace the navigator. And I said, "Well, I understand why you want to do that." But I said, "I'm a new member on the crew and I'm the crew leader. And if I let you begin to break up my crew, I won't be held in very good esteem with the rest of the crew." They said, we understand. So he called our CO and explained it to him. And so our CO responded back and said, "Well, we sent you the best crew we have, train them." So they called us all in and explained that we were going to start the training. My navigator, Chester Kayton, had been in the service before he went into the Air Corps, so he knew a little bit about where he was standing. And so he pipes up and says, "Well," he said, "that's good." But he said, "I understand I'm not qualified to do this because it's very dangerous to be bombing in front of the troops like this." And he said, "I'm not going to do it unless you give me a direct order." CO says, "Well, I'm ordering you to do it." Kayton says, "I want it in writing." Oh, my word. Here we go. I was sure there was going to be a court marshall before it was over. So anyhow, he said, "Well, let me think about that for a while." He said, "We'll let you know." So we went back to our huddle and he got in touch with our CO again. And our CO said, "Well, send them back over here." So we went back to our base and it was fortunate about that time -- fortunate for us, unfortunate for the Germans, the weather broke clear for a while and they gave us some squadron leads. My bombardier hit pretty good targets. And so as long as he hit them, we kept flying them. And it was pretty good. We flew lots of missions. We finished up our tour with no real problem.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>How many missions did you fly lead on?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Well, I flew lead from twelve through 30.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Really?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Eighteen lead missions. Some of them -- on several occasions my squadron led the group. We usually put three squadrons up, ten planes in each one. So my squadron led the group. On those occasions, we would have one of the executive officers flying as command pilot in the co-pilot seat. There is a story about that, but if you want to hear it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>We had a new Major that came in from the States. And as I understood it, he was a B-17 man. Of course, a little rivalry between 17s and 24s. We always thought ours were much superior. We carried heavier bomb loads longer distances. And they flew like kites. We had to fly those airplanes. But anyhow, this guy -- I'm not going to mention his name -- came out. We were standing -- we were out at the planes considerably early. And we were standing in little groups of three or four chatting away, getting ready for time to get on board and start the engines. And up drives this Jeep. This Major gets out, comes over and introduces himself and says he's going to fly as command pilot. So I said okay. And my co-pilot decided he was going to take a little early morning snooze. So he was in the co-pilot seat, kind of sit back and take a little nap. And the Major gets up there and shakes him up. He says, "I think you're sitting in my seat, aren't you?" And the co-pilot says, "I don't know. Who the hell are you?" That was the beginning of a bad day. {Coughing} Excuse me. So he says, "I'm Major" so and so. "I am going to fly as command pilot." So he says, "Well, in that case, I guess I am." So he gets up and takes all the seat cushions with him and goes back to the waste. And he proceeds to get some ____ and make a little carpet on the deck and gets another flak suits and put on top of it. And he plugged his ____ into one of the outlets back there and started to read a book. Well, this is during the mission he was reading this -- you're too young to remember. The name of it was "Forever Amber." It was kind of a red hot book at the time. So he was reading that. And the waste every once in a while heats up on his suit a little bit. It wasn't long until he was laying there perspiring. And then they got on him for reading that hot book. So anyhow, this Major, we're still standing out there on the ramp and he motions me to come over. I went over and he says, "Don't you think we ought to get the crew on board?" And I said, "No, we have lots of time yet. We're going to be in there long enough. No point getting in too soon." So anyhow, after a little while he calls me over and he says, "Don't you think it's time we get everybody on board?" I said, "Oh, maybe pretty soon." And so pretty soon he calls me over and says, "Let's get everybody on board." I said, "Yes, sir." So we did. So we started the engine up and sat there for quite a while. But anyhow, we got out on the take-off run. We always -- no matter what the weather conditions, we always sat at the end of the runway headed down the runway with the brakes, holding the brakes. And we advance the throttles until we had about three-quarters full throttle and the plane was straining and struggling to get going. And then you release the brakes and give the rest of the throttle. Away you go. So it was just more or less customary. We just almost flew off the end of the runway and cleared the fence at the end. And then there was a big clearing. And at the end of the clearing, there was some high trees. And we usually just cleared the trees at the end. And when we got off this day, this Major looked at me and says, "Boy, that was close, wasn't it?" I said, "They're all close." So anyhow, he proceeds to unfold a whole bunch of great big maps of the area. And he gets up a little bit and we're starting to get cool because the flight engineer is up and he's complaining because the cockpit heater isn't working. As a matter of fact, at the time, I didn't know we had cockpit heaters. The flight engineer had to explain to him that none of them work. So anyhow, that was the beginning of that. And then it seems every few minutes he would call the navigator and ask him what town that was, what town this is or where are we now. Are we on time? He kept pestering the navigator all the time. So we were apprehensive about it. But then when we got so I could put it on auto pilot -- and I always flew auto pilot. I think everybody did in that crew. The auto pilot responds much quicker than a pilot can to an indicator. And this particular one was not easy to get to respond the way it should. There was a sensitivity and a ratio. And the ratio controlled the amount of the correction and the sensitivity controlled the frequency of corrections. And in order to get the thing so it was holding the way it should, I had to set the sensitivity up so it was almost chattering. And it was doing the job. But I had taken quite a bit of time to get it to that level, and I was almost at the point where I was going to use the PDI and turn the auto pilot off. And about that time, I did get it so that it was doing a job and I was going to let it do it unless it failed. And we started down the long run. And this Major in the co-pilot seat reaches over and starts to adjust the auto pilot. Well, I put my hand on his and pulled it away and he knew right away what the deal was. And I set it back to where it was. And so we finished the mission and we had a good bomb strike. When we get back to briefing, our CO came over to me and asked me how he did. I said well, "I got to tell you the truth," and I told him. He said, "I'll talk to him." So we later flew another mission with him as co-pilot -- or command pilot and he was good. He was very good. So that's an experience.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Any targets you really dreaded going after?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Not really. It seemed as though after a while you resigned yourself to the fact that, well, maybe you get hit or maybe you don't. Sometimes there's only a few ___ of slack and you get hit. And sometimes the sky is black and you don't get hit. So it doesn't seem much difference how much there was. You adjust it on where you were at the time I guess. We had one occasion -- I think it's in my write-up. It was a time when my squadron was the last one over the target area. And from my position and flying auto pilot, I could observe what was happening to the squadrons ahead of us and how the guns were shooting at them. And they were shooting in pretty good size barrages. Big blasts all at the same time. And I watched them fall, these squadrons around. And then when they got out of range, they'd come back and pick up another squadron. And I thought, boy, we're last over. They're all going to be hitting on us. And it was pretty much true. We had a standard procedure for turning off the target. And everybody did the same thing. So the gunners of course on the gun knew exactly what you're going to do. As soon as you drop, you're going to make a turn. So instead of making the turn, I kept going straight for the little island and the gun barrage moved a little farther over. Well, I figured that isn't going to fool them very long, so I made a little bit of a right-hand correction and there they were right beside me. And so I don't know what I did. I made different things. I think one thing, when we released the bombs, the lead crew only had 2,000 pounds of bombs. And the wing men had six or 7,000. So when you dropped those babies, the plane is at a climbing altitude, so it carries the load and the wings are at a big dihedral from the load being in the fusel lodge. When that load releases, the wings almost act like a slingshot. And your nose-up attitude tends to want to make you gain altitude. So the wing men are going to have a harder time controlling their altitude on the course. So I did let the altitude climb a little, so that helped a little. I don't know how we evaded those barrages on that particular day, but I was sweating on that one. I really was. I made corrections and made corrections, and I was still on auto pilot. All I had to do was twiddle that knob a little bit, and I could get a turn or a correction. But this was the erie part of it. It seems as though after I made eight or ten corrections or twelve -- I don't know how many -- when I reached for the knob, I didn't know what I was going to do. And when I put my hand on it, I didn't know what I was going to do. But something happened and I did something, but I don't know what. And after a while it seemed as though -- seems as though I wasn't doing it. Like someone else was doing it. And it was a strange feeling. When we got back on the ground that day, I discovered that in the squadron I was leading there was not one single bit of damage. And the squadrons ahead of us were considerably damaged. So all of us went into the little snack bar to have a snack of some sort, and there were about six of us in a little booth. And one of the pilots said, "Anybody know this guy named Blower?" And they pointed at me and he said, "That was the most amazing evasive action I've ever seen." I said, "Well, I'll tell you, I had some help up there." He said, "I know what you mean."</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Were there any particularly close calls that you remember?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Well, it wasn't a close call, but I mentioned it earlier. The crew I flew the six missions with was switching co-pilot. When I got my own crew and we started to fly together, they gave us a three-day pass and we flew to London just to get acquainted, I suppose. But while we were in London, we met some guys from our group. And they said this man -- his name was Getnem, William Getmen. The next mission they went out, they were shot up and they crash landed in Belgium and they were all killed. So if I hadn't got that other crew, I probably would have been with them.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>There was a close call. You had no gas left.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Well, we had a -- well, we carried 2700 gallons of gas --</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>Which mission was that?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Oh, I don't know. We often bring a lot of gasoline back if we weren't short and it went according to plan. So somebody decided that we were wasting gasoline carrying it over and bringing it home. So they decided they would give us enough for the mission plus some extra, which makes good sense I guess. So this day they only gave us 2300 gallons and was supposed to be plenty. It was one of those days where we were supposed to drop down to lower altitude and bomb communication targets, railroad, bridges, and ground houses, and what have you just to break up their transportation system. This would have been the third day we did that. We dropped down to 8,000 feet. Started dropping at high altitude. And to do that, we would go over enemy lines 20,000 plus, and then we would come down and drop bombs and climb and come back out. Well, this day there was enough cloud cover that you couldn't take a formation down through it. It was thick and heavy. And so we had some oiler scouts and they told us that the weather -- this was right in central Germany. This told us that the weather in southern part of Germany was clear and we could pick out some targets there. So we were pretty well past central Germany. We turned south and decisions weren't coming. We just kept flying until we were down there near the Alps. And we made a turn and came back just north of the Alps until we're almost over in France again. And then somebody made the decision we would go up and bomb Hannover in the northern Germany. So we turned and went back up across Germany and dropped -- as a matter of fact, we dropped at Hannover through the clouds. But then we came back to England and the top of the clouds when we got home was 12,000 feet. And the base was 300 feet. So that was a cold front. It was there in the morning when we left, but it was supposed to move out. And we could come back over top and land behind it. It didn't move. It stayed there. So we came back -- I think by the time we got back, I only had three planes, me and two others. We had given the rest of them headings for friendly fields in France where they could land and refuel. But we felt we had enough, but we didn't know the weather was going to be bad. And my radio operator couldn't get a report, couldn't get any contact. So anyhow, we had a procedure for landing down through the clouds to land. Had a radio station. We take a heading due west across the station in 30 second intervals. It will often come back across, the station, just above the clouds and start a procedure let down, 500 feet a minute. Then we would let down half the altitude. We'd be out over the north sea by then, make a 180, and turn back and let down the rest of the altitude until we broke out the bottom. This particular plane we were flying that day had two different kinds of carburetors. Three engines had the Stromburg carburetor and a number four engine had -- they called a C Co (ph) carburetor. I don't know much about them, but I knew they had a reputation for burning rich and couldn't lean them out very well. So during the mission, all day long, the waste gunners keep telling me the number four engine was pouring out smoke. We tried everything we could think of to lean it down so that we could burn more efficiently. But nothing was working. So we just had to let it go. When we came back across the radio station to begin our let down, my flight engineer put all of the tanks on cross speed so they would level out by gravity and we'd had the same amount of fuel in each tank for each engine. And so we made our let down, made a turn around, started laying down more. And I knew I had a good altimeter setting so I should be setting pretty close to the true altitude. So I let down until I was reading about 150 feet. And I decided that's low enough. I'm going to level out. Just as I leveled out, the co-pilot looked out the side window and said, "Oh, my God. There's water." Well, I looked out the side window and the wings were splashing up. And just as I looked out, the number four engine ran out of gas. So I had -- because I wasn't sure, I had the navigator and bombardier come out of the nose, and they were standing up on the flight deck. When the flight engineer knew exactly what had happened, so he turned and put the number one and number four on cross feed so they would both work off the number one tank. And here was the radio operator on one side, the mickey operator on the other side, and two guys behind him and the top turret hanging down in there. There was no place for him to go. The bombardier jumped up on the radio operator's back and the navigator didn't have any place to go, so he got a shoulder block, landed down on the bomb bay. The flight engineer got back and put the two engines on the number one tank. In the mean time, I gave it flaps and went back up into the clouds and let down again slowly, this time knowing what I was doing. What had happened was coming down through the clouds, the plane coming down from high altitude being cold as it could be, and the moisture in the clouds was condensing and icing up the wings and the props. So I was watching the wings. And we had these inflatable boots on the prop -- or the wings. And as the ice would build up, I let it build up a while and then I would break it off. And the props seemed to be all right. They weren't icing up. But what I missed was we had inch-and-a-half bulletproof glass on the windshield, and there was ice thick on there so you couldn't see out the front. So by the time I got straightened out, that ice melted off and we came back in and was the navigator and bombardier up on the flight deck. I put the radio compass on so I could hone in the field by the radio signal. And of course, all this time the wind was drifting us a little bit south. But we kept heading so that everybody was drifting the same way. We wouldn't be any interference with one another. So anyhow, when I came into where I was close to the base, I was still just a little above the treetops I guess. We had a system where three men on the ground at the end of the runway spaced maybe a hundred yards apart would fire a yellow flare at the same time so the pilot could line up the flares before I could see the runway. Here I'm coming across the field and I looked down and I could see I was right over one of the disbursal areas I was that close in. And I saw these yellow flares right in front of me. I was going right across the runway. So I did some tricky maneuvers. I gave it full throttle and full RPM and put the gear flaps down and made a couple of turns and landed on the end of the runway. I decided this thing is going on the ground even if I don't hit the runway. But I was just rolling on my turn when the wheels hit the runway. But it was close. We got down to the end of the runway. And by then, my legs were shaking so bad I couldn't control them. I had my heels up on the runners. And you toss, of course, on the break and my legs were shaking so bad I kept jamming the brakes on all the time. So I pulled off the end of the runway and looked at my co-pilot and said, "Could you taxi this airplane?" And he just shook his head no. So I shut the engines off and called the tar and asked them to send a truck out for us. They took it back and they put 2700 gallons in it. It was dry. But that day I think -- that day I think we were up ten hours and they gave us a light load of gas.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>And when all the guys came down ___</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>I think they all came up and kissed me.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>They kissed the ground and kissed Warren. That was mission 15.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>That was mission 15.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>That's what she says.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did your plane have a name?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>I flew different planes. Some crews did fly the same plane all the time. But about the time they made us the lead crew, our CO was shot down over Germany by our own group. They decided that they weren't going to have lead crews in each squadron. They would have a group of lead crews, and they would assign them wherever they wanted to assign them. And they took all of the planes that were equipped with the mickey, the H2S equipment, and they took those into the group headquarters and took all of the lead crews into the group headquarters. And they would classify the plane according to its mechanical conditions, its auto pilot condition. And they would classify the pilots and they would -- so I was in the 707th squadron. I may have been flying a 704 airplane leading a 706 group or squadron. They just mixed us all up. So I don't know if I ever -- well, I did fly some more than once. But it was coincidence if I did.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>Your last mission had a name.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Well, there was a photograph somewhere of my last mission.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>In the book.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>I think I read your last mission -- was it April 18th or something?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>April 18th I think, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>'45?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>During the time -- well, right after I got my own crew, I felt inexperienced to be a first pilot, let alone being a lead pilot. So I talked to the squadron head sergeant, told him that if he had any extra flying duty, I wanted to fly. So when a plane had an engine replaced or overhauled, that engine had to be flown for four hours what we called slow time. In other words, you took off at half power and flew it at half power for four hours before you put full powers on it. So I think I was a squadron slow timer. Whenever they had a job, I went. My bombardier loved to fly. So he would go with me. And in order that we weren't wasting time just going up there sitting around for four hours, he would check out a bomb site. And we would go around England and do practice bombing, without bombs, of course. But it was good experience. And he was very cooperative in that he took _____ readings of the bomb site all the time we were flying. And he kept communicating with the navigator and comparing with the navigator. And so he would pre-set the sites so that he knew the direction of the wind and the wind velocity. And he would know what our heading was going to be on the bomb run. So he would pre-set all that data into the site so that if he got a glimpse of the target, all he had to do was set the crosshairs on everything else. The corrections were made. That way just a brief glimpse. He was good. He was really good. I give him a lot of credit. It was due to him mostly that we got the DFC and I got promoted to Captain.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>They trained a lot together. So they both became --</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>We spent a lot of time in the air.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What did you do on your off days? What was life in England like?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Well, we would take our laundry over to the lady that did our laundry for us. If we were not flying the following day, we would hang around the officer's club and play snooker. You know snooker?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>I don't know that I know how to play snooker.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>It's just a billiards game with a whole bunch of red balls on it and different colored balls. And the colored balls had different values. And before you can sink a colored ball, you have to get a red ball first.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>If I might add, when they took this laundry over to this lady, she had small children. They would take their ration of chocolate over to the children.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>And chewing gum.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>I was impressed with that.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So the English people were pretty friendly to you?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Yeah. And some of the guys would visit the local pubs at night. But I think I went once, maybe twice. It didn't appeal to me too much playing darts with those guys and drinking beer.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Went to London? Did you get the chance --</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>We went to London a couple of different times. Maybe only twice. I don't know. But -- I don't know. There were different kinds of things to do in the wintertime. And what I did, we had -- to begin with, we had just a small coal box maybe two feet long and a foot wide and maybe a foot deep. And that was our allotment of coal for I don't know how long. But we figured we could only burn that little potbelly stove we had -- it was a tiny little stove. We could only burn it for one hour a day. So we would fire it up maybe at 7:00 in the evening and then let it die down. And I found a place on the base where we had a fire all the time. And they also had nice comfortable chairs, overstuffed chairs. And it was the S2 office, the intelligence office. And all the information in there was confidential and secret. But it was available, but you couldn't take it out. So I used to go down there and read the escape reports from somebody that got out after they had been shot down. They would write it up. It was like small novels. It was really interesting. I'd go down there and spend hours reading escape reports.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>And you were warm.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>And I was warm. Talk about warm. Where we were flying and in the wintertime, the average temperature I suppose would be 40 below zero. And that's Fahrenheit or Centigrade, it's the same, 40. Sometimes I guess it got down to 45 below. But cold was a problem. But we had -- we had heated suits, felted suits with heating elements in them. And we had boots and gloves, and vest and trousers that looked like a pair of overalls. And to keep my feet warm, I wore a pair of regular socks, and then my wife would knit me a pair of wool socks. I put those wool socks over my regular socks, and then I put the heated boots on over those socks. And then I had managed to get a pair of size 15 wool socks. I put those over the heated boots, and then I put the fur-lined boots on over that. And my feet were still cold. But those socks my wife knit me are upstairs in our cedar chest. They've been worn 30 times. And that's all. You might be interested in superstition. Some of the guys would wear the same clothes for all their combat missions. And when they finished their missions, they'd make a big pile of clothing and burn them.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>They wouldn't clean them?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Burn them.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you have any good luck charms?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Oh, the wool socks.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>The wool socks were your good luck charm.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>And my wife kept newspaper clippings of European bombing raids. So when I would be on a mission, in one of my letters to her, I would just let her know I wore those nice wool socks she sent me. So she got the message I had flown a mission. So she kept track of them all the time I was there by the wool socks.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So every time you heard -- you read about wool socks, you knew that he was getting a little closer?</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you get a lot of mail from your wife from home?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Yes. The mail was pretty good. I don't remember how often it took or how long it took.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>Coming back every ten days. So I knew he was safe ten days ago. Every ten days, I got sent a letter.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What kinds of things would she write? You can leave out the personal stuff.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Well, she was pregnant at the time. So I think I finished my missions on the 18th of April and our son was born on the 20th. So --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Well, go ahead and tell me about that last mission then, April 18th, 1945; right?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>It was a fairly straightforward mission. It was long. We went down to Passau just on the Danube River. And that photograph is right here. This is where the bomb strike was. I believe -- I believe that's the one that the Major flew with us on. And that mission, I was leading the group. My squadron was the group leader. And he was a full fledged good honest to goodness command pilot.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Pretty uneventful, that mission?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>As I remember, yeah. It was fairly straightforward. That's the commendation we got for that one.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>This is for getting how close to the target?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Well, it was 100 percent within a thousand feet.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>100 percent within a thousand feet of the target?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Yeah. It was a ___ yard, so it was an area target anyhow. This is the railroad yard going right along the river. And other groups had been bombing before us. That's true you see all the smoke from previous bomb strikes. This is the smoke marker from our plane. That pinpoints where your bombs hit.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>This area that you see, that small circle, that was three big hangers and a whole bunch of workshops.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Oh, yeah. Got it.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Boy. And it makes you wish there was nobody in there.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>I'll read from this in case they don't see the written thing. Average length of a mission: 7 hours, 30 minutes. Longest mission for you was Number 25: Nine hours, 30 minutes. Shortest mission was five hours, 45 minutes. And any time you aborted a mission, that didn't count; right? Is that right?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>If you crossed enemy territory, it counted. If it was before you got to enemy territory, it didn't count.Thomas Swope:: Were you able -- getting back to mail. Were you able to write much back to her at all other than talking about wool socks?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>And you knew what you could get away with and what you couldn't?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Well, I just didn't want to take a chance on being censored I guess. I wanted to cooperate.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>You were willing to play along?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>But speaking of that, it's startling what our German enemies knew about it. This crew that was shot down on the 26th of September, the bombardier was captured. He was a Jewish fellow. And the underground got him first and they figured they better try to get him out. They did have some boats they could get him across the channel with, I guess. So they were going to ship him out across the channel. And they hid him in a greenhouse and told him not to show himself until somebody came along whistling something, Yankee Doodle or something like that. And he heard some commotion and peeked to see what it was, and it was a couple of German soldiers with guns leveled at him. And he was a prisoner. So it was kind of interesting when we had our reunion he was telling me -- well, I guess it was when I visited him in Brooklyn one time. He said that the general trend of the interrogation he got was about my whereabouts. And apparently they knew I was on the crew and they felt I was on the ground loose someplace and they were searching for me. But it was at the last minute I was taken off. And he said that it was interesting that they knew where I graduated from high school, what pilot training school I graduated from. They knew the day we left the United States to fly over. And of course, they compile this and they tell people that to convince them that you don't know anything they don't know, so you can give them a little bit more I guess. But it was interesting they had put that much together about me. And I wasn't even there.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Wow.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>Would it be interesting the story -- I don't remember which one of the crew members that was hiding in the closet.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Well, that was a ball turret gunner. The underground people had various places they could conceal people. And this particular household housed a lot of students -- graduate students or whatever you call it, advanced students. And he seemed to fit in good with that crowd. He was the same age, I guess. So they took him into this house. The underground took him there and hid him there. But periodically the Germans would come and raid the house to see if they had anybody that shouldn't be there. And they had a place -- in the European buildings sometimes when they added on they didn't -- they made a space between and put a hallway connecting. So there was a space between buildings I guess that was enclosed. So they hid him in there I guess. It was the back of a clothes closet. And it was paneled I guess. So whenever there was a raid, they would run him into there. And I guess on one day they were -- they came in and they were convinced there was someone there, so they were firing through ceilings and walls and things. And they came to this area where he was, and I guess they knew he was there. And he came out or they discovered him, one or the other. Said he had his hands up and had this gun pointed right at his chest and right against his chest. And he said he was shaking so bad he was afraid he was going to make the gun go off.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Oh, boy.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>But they took this family as an example, took them out on the building square and roused everybody out to observe and shot them.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>Grandparents, children.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>As an example.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>When did you finally get home?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>I got home I guess it would have been in the middle of May. I can't tell you exactly when it was. It was ___ the debarkation point on D Day. And from there, I think it was either the next day or day after that that we boarded the Ile de France and it took us seven or eight days to get home, something like that. They were still doing the zigzag course. The Ile de France could outrun the submarines, but they did a zigzag to avoid whatever might be shot at them. And I think they took us over to Camp Kilmer. From there, to Camp Alderbear (ph) in Indiana, and we got our passes there. And I came from Indiana to Cleveland and then down to East Palestine by train. But I don't know the exact day when I got home. It was on a Saturday, I know.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>I think our son was six weeks old.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Yeah. So it would be six weeks after the 20th of April.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So what was your reunion like with your wife and new son?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>That's secret. Well, this is another side story. But when I got there, there was never a time to give her a call and tell her I was near home. I had called her in New Jersey to tell her I was in the states. But I didn't know myself what was going to happen. And things seemed to happen so quickly that it was late at night when I got to Cleveland and it was early in the morning when I left Cleveland. And so I thought well, I might as well keep going. And she was just a new mother so I didn't want to unnecessarily disturb her. So I came to East Palestine on this train, and I had this great big A3 bag. My B4 bag was bulging out like a big cow. And at the train station there, I walked over to the corner of the train station and I dumped them down there and went over to the station agent and I said, "I'll be back and get those later." And I walked out to Peg's home where she was staying, and it was strange. It was about 10:00 or 10:30 on Saturday morning. I walked probably close to three quarters of a mile, maybe a mile. I just solitaire slow from the time I got off the train to the time I got to her house. I walked up and knocked on the door.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>Tell about the Ile de France coming into harbor. The Ile de France.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>The ship came into America.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Yeah. It was the first big ship to come in after big D Day. And it was a French ship. It was confiscated by the British, operated on __. So they provisioned in New York and went over and back on the same provisions. So when we got into the harbor, there was a USO boat with dancing girls and big time band. And they were circling around the Ile and all kinds of celebrations. And when the showboat would be on one side, all the troops would be over on that side. And the Captain was on the bullhorn telling everybody, "We're going to capsize. We're going to capsize." He'd get all the deckhands out there and get them on the other side. About that time, the showboat would come around the end and these deck hands would get stampeded, the troops coming across again. I think there were about 12,000 of us on that thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>Explain why though.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Well, the hull is empty. The hull is empty. We're going to capsize.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Everybody on deck.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>When they go over, they have loads of food and fuel.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Oh, right. Right. Exactly.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Coming back, it was empty.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>And nobody wanted to be down below.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>And coming back, they didn't have all that food and clothing and equipment.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>I was fortunate though. It wasn't a bad trip. The Captains and above were in cabins. So we were on A Deck. I think there were twelve of us in the cabin. But that was good compared to those guys down in the hull. They took I guess -- I don't know which officers, but they took Captains at least and put them in charge of 200 troops down in the hull. And of course, Air Force Captains aren't Infantry Captains. So anyhow, I went down to view what I was responsible for and they had inspections every day. And everything was supposed to be ship shape. So I was going through looking at this group of people. The bunks were stacked four or five high and they were so close you could hardly walk between them. And my word, what am I going to do? How am I going to get these guys to have it ready for inspection? And lo and below, I'd come across a Sergeant that had all the stripes up above and a whole bunch of them down below on his lower -- on his forearm. There is a guy I need. So I said, "I want to see you." And we walked into the gangway and I said, "You're in charge. If you need any help, let me know."</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>But you can imagine even though they were so crowded the joy coming home. Coming home.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So you were mostly with grounds troops on that ship coming home?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Oh, no.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>I mean on the ship overall, was it --</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>It was mostly ground troops. A bunch of Canadian nurses I guess came back. And some Canadian troops. But the lower decks -- I think the upper deck was about the only flight person Captain and above. But all the guys in the cabin I was in were Captains. I met a guy there I met later and down in North Carolina when they had a rest and rehabilitation, they called it. By the time we got there, they were three months behind with our flight pay. If you didn't get four hours a month, you didn't get that extra 100 bucks or whatever it was. And so he had a BT-13, a basic trainer, out a dirt field outside of this place. And it was available for us to get our flight time in. So he and I buddied up. ___ and one day he would fly pilot and I would fly instructor pilot. You couldn't fly co-pilot in a single engine plane. So anyhow, we could be instructors. So we took turns flying. We each got our twelve hours flying time in to get our back pay. It was interesting, this thing is difficult to get started. And there is a prop for it that you learn when you're in basic training. Basically, there is a level down on the right-hand side that you pump up and down, and you get pressure for the fuel line pressure. And over on the left-hand side on the console there was a primer pump. You had to pump it with your left hand. And you're supposed to hold the stick back so that the elevators would be up. And if you get a blast of wind, it wouldn't lift the tail up. And you could pull the tail down, and the ignition energizing the starting motor you flipped a toggle switch one way. And to engage it, you flip it back the other way. So the only way to do it was to put your leg around the stick to hold it, run the wobble pump like this and the primer like that and hit the switch with your toe.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Not a quality design.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>So anyhow, the two of us tried and tried and tried to start that thing, and we couldn't get it started. So we had to get out and let the crew chief get in and start it for us. This guy was from North Carolina. And we were supposed to stay with him I think 25 miles in that little field. But he knew the state like the back of his -- we flew all over North Carolina.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>'Cause he could find his way back. Anything else that comes to mind?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>I was thinking about flying around different places. The training when we were flying twin engine, we always had to fly co-pilot for one another. And I had an occasion we had to do a lot of night flying, and a lot of it was night landings. So I was co-pilot for a student one night, and he didn't quite have the knack of night landings. I don't know if he ever would. But he came in one night and he leveled off about ten feet above the ground, and I thought the plane was going to come apart when we hit. And next time he made a correction on that and he never did level off. He flew right into the ground and we bounced off. And I guess that time we got off of the runway and we were down over a little grade, and we were bouncing around trying to get the thing off the ground, came back around and took off again. And he said to me, he said, "I've had enough of that. I'm going to go up and circle around and come back around and work on ten landings." I said, "That's fine with me." I wasn't anxious to go through any more of those either. So anyhow, he goes up and starts to circle around and I decided this was a good time to take a snooze. We're wasting time anyhow. So I leaned -- the seat had a reclining back. I leaned it back and I went to sleep. And after I don't know how long he reached over, shook me a little bit and said, "Where are we?" I said, "What do you mean where are we?" And he says, "I can't see the field." And I looked around, and in Arkansas it was like black as your hat. No stars, no lights on the ground, nothing. And so I said, "Well, climb, and we'll see if we can see anything." We got up to 12,000 feet and way off on the right you could see a beacon light with a green light on the back of it. I said, "I don't know where that is, but that's where we're going." So he flew to the light. We were half an hour away before he got back to the field and we landed. It was our field, fortunately. What a shock waking up, "Where are we?"</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>Tell about when you left Langley Field. When you left Langley field to go overseas on the beach.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Oh, well, I knew we were going to fly over. ___ I don't know because the instructions -- after we took off, the instructions were in a sealed envelope. And the pilot had it, and he opened them after we took off to tell us where we were going to go. But we figured -- and I lived out on Virginia Beach. And I told her if she was out there at such and such a time in the morning --</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>The crack of dawn.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>It was early. We'd fly by. So we did. She was out on the beach. And we flew by as we were going.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>And we knew. You know, we knew.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>But we didn't know at that time if I was going to England or the South Pacific.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>No. We just knew you were going.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Because Marlen Bidding (ph), our friend, left the same way and he wound up in the South Pacific.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>We just knew you were going, leaving.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>That was a sad case. We were very good friends. We went through cadet training together. And the fact of the matter, we lived in the same house on Virginia Beach before we went over. And he went to the South Pacific. And they were a part of a snooper squadron they called it. The planes were painted black and the exhaust had flame rusters on them so the exhaust didn't show. And they went at night up and down the coast of Berma (ph) bombing shipping. And on one occasion, they took off and the plane exploded and they were all killed, of course. But from the stories we heard later, it was not necessary, because some battle damage had occurred that was not reported, not repaired. So those things -- if it was a gasoline leak at the wrong place, it would set things off. And that's probably what it was. On one occasion, we had a real humdinger. We were -- the night engineer was transferring fuel, and there was a fuel transfer pump right on the catwalk in bomb bays. And this thing apparently blew its seal and was spraying gasoline all over the inside of the bomb bays. And so we were just in the process of opening the bomb doors and getting it ventilated out when one of the oxygen line goes. So we were full of gasoline and oxygen for a little while. And as soon as we put the landing gear down so we could get some air through the nose rail opening, we took the casing off to get -- open everything up to let it breathe out. When we were pretty well settled down again, I got on the intercom and I says, "I don't suppose I have to tell anybody not to smoke."</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>And that's what they do when they finish a bomb run, they're still up high. They take off their oxygen mask and smoke.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Exactly.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Yeah. It was interesting. You could take a breath of oxygen and then take the mask away and take a drag on the cigarette and take another drag of oxygen. But you could smoke a cigarette for half an hour and it practically didn't burn at all, the oxygen was so thin in the air. But when you got tired of smoking and you didn't want to smoke anymore, take a deep breathe of oxygen and blow through the cigarette and make the flame this long.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Burn it up. Oh, great. You think that covers it? It's not going to cover it.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>I guess so.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>You think it's what you want now anyway?</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Well, yeah. I was telling Peg when we finish this thing, I'm glad we finished it, because by the time we finished it, I was apprehensive again going through it all.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Oh, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>And same thing now. After doing it now --</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>I noticed.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>I'm up high. I'm high now. And I was reading in the paper the other day about this -- what do they call it? Posttraumatic syndrome. I'm sure a lot of people that came back from World War II had it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>My dad was diagnosed with that.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>In fact, some of them may never have gotten over it. I don't know. But we used to have some occasion where crews would have particularly bad luck and get shot up quite frequently and they would get pretty jumpy. And our flight surgeon would ground them for a while. And there was a place -- there was a resort town down on the southern coast of England. The name of the town was Bournemouth. And apparently had a lot of residential areas, vacation areas. And they sent them down -- we always refer to it as the flak (ph) home. Where they sent the guys that were getting flak happy. But when I got home, I felt a little strange because I didn't have any wounds. Had both arms. I was 100 percent whole. And it felt like you haven't done enough or something. In fact, when I was at this rest and rehabilitation point, I was expecting to go to Boise, Ohio and in between nine transition and go to the South Pacific. And I was standing at the BOQ and all the bachelors in there were taking their releases and going home. Suddenly, there was only a few of us left and I said, "What the heck are you doing here?" So I went over and said, "What do you have to do to get out of here?" And the guy says, "How many points do you have?" And I said, "120." You only needed 90 to get out. He said, "What are you doing here?" And I said, "I just asked myself the same thing."</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>He used to dream a lot too when he first came home. He'd wake up at night and ___.</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>What I remember is I would jump.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Blower</speaker>
+                  <p>Uh-huh</p>
+               </sp>
+               <sp>
+                  <speaker>Warren Blower</speaker>
+                  <p>Overseas, we used to call it the clanks. It's a mental attitude you have to really adjust to. And one of the things I think most of us did was to finally bring ourselves to the realization we were not going to survive. And what we were going to do was make it last as long as we could. You just go from day to day, from mission to mission.</p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

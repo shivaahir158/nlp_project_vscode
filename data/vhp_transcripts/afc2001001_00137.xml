@@ -1,0 +1,1406 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd" >
+<!--
+<!DOCTYPE TEI.2 SYSTEM "../teixlite.dtd" >
+-->
+<TEI.2>
+<teiHeader type="vets_interview">
+<fileDesc>
+<titleStmt>
+<title>Interview with Robert W. Miller</title>
+<author>Tom Swope</author>
+<respStmt>
+<resp>Encoded by</resp>
+<name>Tanya Brown Branch</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<p/>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title>Interview with Robert W. Miller</title>
+<author>Tom Swope</author>
+<date>May 2, 2001</date>
+</bibl>
+<p/>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+</projectDesc>
+<samplingDecl><p>The entire interview with Robert W. Miller was digitized. </p></samplingDecl>
+<editorialDecl>
+<p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+</editorialDecl>
+</encodingDesc>
+</teiHeader>
+<text>
+<body>
+<div1 type="title" id="Miller1" n="1">
+<!--begins encoded document-->
+<head>INTERVIEW WITH ROBERT W. MILLER,  MAY 2, 2001</head>
+<div2 type="body_text" id="Miller2" n="2">
+<sp>
+<speaker>Tom Swope</speaker>
+<p>This is the oral history of World War II veteran <name type="person" key="RWM" reg="Miller, Robert W. ">Bob Miller</name>.  <name type="person" key="RWM" reg="Miller, Robert W. ">Mr. Miller</name> was in the U.S. Army 80th Infantry Division, 319th Regiment, F Company.  He served in Europe and was awarded a Bronze Star with a V, a Purple Heart, four Battle Stars, and a Combat Infantryman's Badge.  I'm <rs type="person" key="TS" reg="Swope, Tom">Tom Swope</rs>, and we recorded this at <name type="person" key="RWM" reg="Miller, Robert W. ">Mr. Miller</name>'s home in Willoughby, Ohio, on May 2, 2001. <name type="person" key="RWM" reg="Miller, Robert W. ">Bob</name>'s age at the time was 79.  So what year did you go into the service?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Let's see.  December&#151;must have been '41, latter part of '41.  No, it was about six months after Pearl Harbor.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Six months after Pearl Harbor?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>So that would be the middle of '42?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah, somewhere like that, I guess.  Yeah.</p>
+<p>Yeah.  Okay.  Yeah, that's right.  Uh-huh.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>And you joined the U.S. Army?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  I was sort of lucky; I never had to go through basic training.  When I went in, they were just forming this division, the 80th Infantry.  It's down at Camp Forrest, Tennessee.  And we just had a small cadre from Alabama National or Georgia National Guard.</p>
+<p>And they just filled it up, to make up a division.  Then we started right in training, from, like, almost individual, then into squad, then into platoon, then into company, then division maneuvers and that.  So I was with the 80th when I started, and was up until a short time, just before disbanded over in Europe, I think it was.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Where did the 80th train?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Trained at Camp Forrest, Tennessee, for a year.  Then we went to&#151;we got furloughs home.  Then we had to report out.  Half of us furloughs home.  Then we had to report out to Camp Phillips, I think it was, in Kansas.  We stayed there, marksmanship and small maneuvers in the prairie.  Then we moved from there to Camp Laguna in Arizona, which is about 40 miles outside of Yuma, Arizona,  right outside of --</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>What time of the year was that?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well, it wasn't in the heat of the summer; it was mostly in the winter time.  We stayed there for about six months.  We did maneuvers in Arizona and then up in the&#151;army maneuvers in the Mojave Desert up there.  And then we moved from there.  Yeah.  Okay, yeah, moved to Fort Dix, New Jersey.  Stayed there a little bit for marksmanship.  Then we went to Camp Kilmer, stayed there about a week or so, and got on the Queen Mary, the home division did.  Then we went over unescorted to&#151;because it was a fast ship.  Went over to Wingord, Scotland.  Landed there.  Then we moved down to the Midlands, our combat team was.  And we stayed in a town called&#151;outside of a town called Wilmsoo,</p>
+<p>W-i-l-m-s-o-o.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Where is that, again?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>That's in the Midlands of England.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>In the Midlands of England, okay.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yes.  And then we went from there to South Hampton and went over into&#151;went across the channel into Normandy.  We landed; I forget which beach it was, Utah or Omaha.  But by that time, the fighting had moved on.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>D-Day plus what?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Oh, I'd say I got there about the first of August.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Okay.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>And we were with Patton.  That's when Patton come in.  And then made the breakout of the Normandy Peninsula.  Our division was one of the&#151;I don't know if you call it shock troop.  They punched a hole and then everybody else poured through it.  We had a big rat race across France.  And, let's see, where else did we go?</p>
+<p>Oh, then we wound up&#151;well, we&#151;central France,</p>
+<p>Europe.  Then we wound up in the Bulge.  Come out of the Bulge and rested for about five days, took showers, you know, and got new clothing and that.  Then we made the assault across the Rohr River, Rohr or the Our, I forget which it was.  But it separated Luxembourg from Germany.</p>
+<p>We went and made that crossing.  We made a lot of river crossings.  That's where we took our most casualties.</p>
+<p>And on February 7th, we made the crossing about two o'clock in the morning, in the Rohr.  And that's when I got hit.  And I got sent back to a hospital.  I was off the line for about two weeks, then I rejoined the outfit.  They were through most of the Seigfreid line by that time, so we pushed on.  And we wound up in&#151;way up in the Alps, in Austria.  Beautiful country.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>We liberated&#151;well, we liberated, actually, two concentration camps.  One, I think, was Buchenwellen, I'm not quite sure.  But the other was Ebensee, in Austria, on Lake Amunden.  And the&#151;at that time, they had a death rate of over 200 a day, I think, or something like that.  Concentration camp.  They couldn't save them.  So&#151;and I come.  And all the highpoint men, well, we stayed there doing occupation duty.  Then the war with Japan ended.  And then all the highpoint men in the division, they formed&#151;they took us out of that division, formed another outfit that had just come over, took those guys, put them in as our replacements in the division, then we went over.  We went back home.  We were all 80th division men, but we were in a&#151;gave us another designation, field artillery observation battalion or something.  Then we come back home.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Now, so, were you preparing to go to Japan, if needed?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.  But you were still in Europe at the time?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yes, we were still in Europe.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>When V-J Day came?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>I should probably get the particulars about, let's see, 80th Division.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Regiment, battalion, company.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Oh, okay.  I was in&#151;first --</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p><note>(Inaudible.)</note></p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah, yeah, yeah.  First Squad, First Platoon, F Company, Second Battalion, 319th Infantry Regiment, 80th Infantry Division.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>And what was your rank?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Fluctuated a couple times.  But I main&#151;I was a BAR gunner, and that was just PFC rank.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.  Exactly.  So you're what&#151;how would you describe your job?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well, an infantry squad is 12 men.  You have a sergeant, then you have&#151;the next two men are first scout and second scout.  Then you have a BAR man, which I was.  Then you have assistant BAR gunner.  And then you have an ammunition carrier.  And the rest of them were plain riflemen.  I was the only one with the automatic rifle.  My weapon had 20 rounds of ammunition.  It was like a machine gun.  You could fire bloop, bloop, bloop, you know, like that there.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Is that a pretty heavy gun?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>The normal infantry rifle weighed about eight pounds, eight and a half pounds.  Mine weighed, with bi-pod, 21 pounds.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Wow.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Then I had the ammunition belts, which weighed a lot more.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well, they&#151;yeah, they...</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>You didn't do&#151;probably not do a lot of traveling on trucks and that sort of thing, right?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well, yeah, sometimes we did.  We, we rode a lot on tanks.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>We had a&#151;we worked with the 4th Armored Division.  We were with them quite a bit.  We rode on their tanks and we also had a tank battalion that was assigned to our regiment, our battalion, yeah.  And we became quite friends with the tankers.  And a lot of times, we would go from Point A to Point B.  Some would ride in trucks, some would ride on the outside of the tanks.  And if we ran into trouble, then we'd jump off the tanks and fan out on each side.  And we supported the tanks when we were in the town, city, you know, because they could hide up, the Krauts could hide up anyplace in there, like that.  And they had what they called a panzerfaust.  It's a tank gunner.  Very simple weapon.</p>
+<p>And blow a hole in the tank.  And so we had to go ahead of the tank.  And we supported them and they supported us.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>So how did that work?  How did the panzerfaust work?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>It's like a broom stick with a big warhead on the head of it.  It has what they call a Monroe effect.  Our bazookas had that.  It's a shaped charge, so when it hits, all the power from the explosion is funneled down into one point and shoots ahead.  What it actually does, it actually melts through the tank.  And the metal inside flies around the tank, blows everything up, kills the crew.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>So they can shoot it anywhere at the tank?</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>What?</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>They wouldn't have to shoot at any particular --</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Oh, yeah, yeah.  You had to shoot it.  If you hit it in the treads, you'd just stop it.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Okay.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>And&#151;but if you&#151;the Krauts had such heavy armor that our bazookas really didn't have much of effect on them, so we used the bazooka mostly when we was fighting in towns.  You know, you'd aim at a window and try to blow the sniper out of there.  But the panzerfaust was a very good weapon.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.  Any particular memories about the Bulge that you were&#151;could tell us?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  It was cold, very cold.  And when we went in, we were at the&#151;when we&#151;we&#151;down to the southern&#151;let me see that map a minute, please.  I don't know if I can find it.  Yeah, we were down south here someplace, and getting ready to attack, make the attack into, into southern Germany there.  But they rousted us out and told us to rip off our patches.  And they&#151;and then we had to mount up on tanks and trucks.</p>
+<p>And we traveled all night.  They took&#151;they covered up the insignias on the track, tanks and the trucks, you know, so if anybody would see us, they wouldn't know what, who we were.  And then we traveled all night and got up into, like, Luxembourg City.  And then the morning we got there, we were all cold.  But the captain&#151;we stopped on a bridge.  Captain come by, we said, </p>
+<p>"Hey,Captain, where the hell are we?"  Said, "We're in Luxembourg City."  And none ever heard of it.  You know, we asked, "Well, whose side they on?"  So then we moved on up.  We went out a little.  I forget how it is, but we moved up.  And we sort of leapfrogging, you know, until we busted into the Krauts.  We busted into them somewhat of that night, I think it was.  And then we kept attacking.  And...</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>So although you were removing the patches and all, that was just to confuse the enemy, so they --</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well, we had to, yeah, rip them off so they wouldn't know --</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>They would have no idea who was going where?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  Yeah.  So we suffered a lot from the cold.  Our feet are still bad.  I had frostbitten feet.</p>
+<p>I think my<note place="inline">(inaudible)</note> .  But we weren't&#151;didn't have the clothing for the winter, you know.  I didn't have any gloves, so I had to have a pair&#151;I had an extra pair of socks, to change.  But I used the socks as gloves.  And it was the coldest winter there, I think, that they had recorded in Europe.  We had, like, outposts and was at&#151;we usually sent two men on outpost, for two hours at a time.  And it was so cold and the wind chill, we had to send three men out.  And we stayed&#151;most we stayed was, at some point, was half an hour.  Then they had to bring us back in because it was so cold.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>So was it a total surprise when the Bulge?</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>I think it was, yeah.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>I don't know.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Was the general attitude is that you were just waiting to go into Germany at that point, right?</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  Then says, "Where the hell are we going now?"  So we went up there and&#151;yeah.  Then --</p>
+<p>I'm confused about the date.  I think December 6th.  And I belong to a veterans organization, Veterans of Battle of the Bulge.  And in order to be in there, you had to have&#151;be in the Bulge.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>So...</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Are there a lot of guys in that?  This is a local organization?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>No, it's --</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Oh, they're national?  Okay.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>National organization.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Are there other local members of it?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Oh, yeah.  Yeah.  Yeah.  There's&#151;we have the group here.  Then I think another group is down in Cincinnati or something like that there.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Well, give them my number, if any&#151;if you think any of them want to talk to me.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  Okay.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>But one thing, when was it, yeah, on Christmas Day, we had to make an attack on a town.  We drove the Krauts out.  And it was a town there that's just four or five houses you might see in a little group.  And then there was a hill.  And there was another town, house up on top of there.  Well, the rest of the company went in to occupy the town, if you want to call it a town.  And our platoon went up and occupied the house on top of the hill.  Well, then the Krauts counterattacked and they cut off the whole town.  And they drove a wedge between the town and our house.  So we were surrounded.  The town was surrounded.  And the whole kaboodle was surrounded.  We was there for about two and a half days.  And they, they promised us if we took the town they'd bring in Christmas dinner for us.  Well, we got Christmas dinner three days, three or four days later, when we were relieved and went back to another town.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>So they had you surrounded, but they didn't close it, close it off?  They didn't close it?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>No.  We fought them off.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>You just, you just held off?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Uh-huh.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Now, who relieved you?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>I don't think anybody relieved us.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>You just --</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>I think the Krauts&#151;we drove the Krauts back.  And I think, at that time, probably say we better&#151;Krauts felt they better get out of there.  So that was it.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>They didn't want to stay in one place too long.</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>No.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>The rest of the army would catch up with them.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  But it was a wild time there.  And we was in the house.  And we used to rotate around for guard duty.  You know what I'm talking about.  We'd be up in --</p>
+<p>I'd be upstairs in the house.  It was sort of funny because there were six of us left in the squad there.</p>
+<p>You know, the squad usually has 12 men, but there were only six of us in the squad.  And we were in a corner room, where they had&#151;they stored in mason jars cherries and everything like that, you know.  And I think there was one, one or two windows in there.  But you had three guys at the windows, shooting away at the Krauts, and the rest of us were against the wall eating the cherries, you know.  They got tired of shooting at the windows, so&#151;out the windows, so we switched parts.</p>
+<p>They come on back and they started feeding.  But the&#151;we rotated around.  And I got&#151;one of the best spots was, like, down in the window, like that, over there, you know, looking out.  I <note place="inline">(inaudible)</note> what they call a "field of fire."  But I was standing next to a cow.  I was in the lower part of the house.  Lower parts of the houses there were like the barn, you know, in the Bulge.  They put the animals underneath.  Well, I stood against the cow, and the cow was warm.  And crapped on the ground, you know, and was&#151;the straw mixed in with it.  So my feet kept warm.  And I kept warm leaning against the cow.  But I said, "Never mind. I'll stay here.  Don't worry.  Don't relieve me, I'll stay here."  It was the best place.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Oh, gee.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>But we were in this house.  And after we had made the attack, what we did, we usually tried to start a fire or something so we could&#151;in the stove, so we could get our&#151;make some coffee, you know.  We were upstairs.  And, all of a sudden, wham-bo, the top of the shell hit the top of the house, you know, the chimney.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Oh, the chimney.  Okay.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>The chimney, yeah.  And so we started running downstairs, ran into the kitchen.  The kitchen was all covered with smoke because it hit the chimney, you know.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>And we looked at where our coffee cups were, our canteen cups were, they were all covered with soot.</p>
+<p>And were also a bunch of hams and bacon and that stuff, that had been up in there, in the chimney, smoking.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>So they fell down, you know.  Anyway, ran out there, the kitchen, into the&#151;it was like a hallway.  I'd say here was the kitchen.  I ran out.  Here was the hallway.  When I ran out to the hallway, I got knocked flat because the one tank we had with us had pulled up and put its muzzle right by the side of the thing and was firing at the Krauts.  Well, they had flash deflectors on the side of it, so with the concussion of flash would go out.  Well, the flash come right down the hallway and hit us, and went tumbling.  But we stayed there for about almost two, two and a half, three days.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Geez.  Do you remember any particular&#151;my dad always tells about the buddies that he had.  Do you remember any particular buddies?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah, a guy named Ally.  Oh, he was a replacement.  I got his picture down there.  Here.  And he was an Italian kid.  And, yeah, we bunkered up most of the time, you know.  But my&#151;when I went over, I knew most of the guys in the company.  And, of course, this&#151;and the assistant gunner, and then the&#151;here's a guy named Ford, from Akron.  And then this&#151;his name&#151;an ammo carrier.  He was going to some university in New Jersey, I think it was.  And we sort of were together.</p>
+<p>But we had a lot of combat fatigue casualties because we didn't&#151;first three months we was in there, we didn't&#151;I never changed my clothes, never had a hot meal.  And there's just so much, you know, you can take after a while.  Well, he got&#151;my assistant gunner, I yelled over at him one time.  I said, "What"&#151;then he had&#151;he wasn't there taking on.  Next time I saw him was when I come back in the states, and he was&#151;he was in the mess hall.  And I heard this voice.  Was walking down with his tray.  And here he had been&#151;well, he walked back.  So he couldn't take it anymore, I guess.</p>
+<p>They sent him to England, where he was repairing tires.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Really?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  They found out he was from Akron, he must know something about it.  What the hell?  But the&#151;then my ammo carrier, he went nuts and was off the line for almost a couple of months.  And then they&#151;he came back and was put into another outfit, another squad.</p>
+<p>Then he lost his voice.  He would talk like that, you know.  I don't know.  And when I was hit, I wound up in the basement of this one place.  And I looked&#151;I was leaning against the wall.  They was putting a patch, a bandage around my chest.  And I looked up, and there he was.  He had blown his stack again.  You know, he couldn't take it.  He was sitting on stairs, just trembling, like that.  So I don't know what happened to him.  But not&#151;like I said, I knew them, knew most of the guys in the company.  Then they got&#151;we got whittled down, you know, and then we got replacements in.</p>
+<p>And, you know, at that time, the Army Air&#151;the Air Corps was part of the army.  Well, they&#151;we had so many casualties that they took all the guys that swept out the hangers and everything like that, and shipped them to the infantry.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Put them in the infantry?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>How did those guys do?  They didn't have much training, right?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well, they came in rather late.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>See?</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>So this was after the Bulge, when they came in?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  Yeah.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Oh, so they --</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  After I got&#151;after I was hit, and then I went back on line again, and then they started.</p>
+<p>We started getting them in, you know.  They didn't&#151;well, it was toward the end of the war, maybe two months or something like that before the end of the&#151;no, maybe about a month before the end of the war.  And all those guys had rank, sergeants, you know, like that.  So they put them in charge.  But they didn't know what they were doing.  Go <note place="inline">(inaudible)</note>organizations that the older guys couldn't take over the squad because the Air Force guys had the rank, and they were in charge.  But, you know, so wound up that the privates were telling the sergeants what to do, from the Air Corps, you know.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>And did they listen?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>They'd better listen.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>If they wanted to survive.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  But, no, actually, I was just buddies with probably one guy for most of the time in the&#151;and he was a replacement that come on in.  That's about it.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>My dad talked about maintaining his sanity by, you know, coming up with jokes and writing songs.</p>
+<p>Did you do anything like that?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Didn't write any songs, but did sort of a raw humor, you know, like that there.  I mean, you had to have that or else you would have gone nuts.  So that even carries over now, you know.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.  Yeah.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p> Wife is rather religious, you know.  She thinks I'm rotten, I guess.  But it's a carryover from there.  You know, you don't really take anything too seriously.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>You know.  But the one thing that I can remember, that is I'd say paramount among memories, is how tired you could become and weary.  You know what I mean, just say, "Oh, the hell with it," where you didn't really care if you survived or not.  You know, just say,</p>
+<p>"The hell with it."  So that was it.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>And that had to be stress related, right? I mean, you were --</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well, it was --</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Twenty-four hours.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  But it, it, it&#151;funny to say, but it became&#151;how can I put it&#151;almost like a nine-to-five job, but it was 24 hours.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.  Right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>You know, and so you just in the&#151;we're going to make an attack.  Okay, fine.  Let's go on ahead with it, you know.  And&#151;but you didn't&#151; after a while, you didn't think much of it.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>And one of those, that thing over there said, what, the maximum time in combat was 200 days before he reached the breaking point, an infantryman?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  Well, that&#151;that's what that said.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>The guys got out before.  When did I --</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>How many days did you&#151;were you out there?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>You mean total, the time on line?</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yeah, exactly.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>From August till --</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Till the end of the war?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>End of the war.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>So you were well over 200 days.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah, but I blew my stack before that.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Oh, you did?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>What did you do?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p> Let me think this over.  I forget how long it was.  Must have been over three months, three months, you know.  And, of course, we didn't have any sleep, we didn't have any food, you know, or anything.  But we made an attack.  And at night we had to&#151;we stopped.  We took a ridge line or something like that.  And we heard tanks.  And they said, "Hey, tanks down there."  So they told us, "Don't worry.  Those are our tanks down there."</p>
+<p>Well, then the next morning, we heard the tanks coming up.  They didn't have white stars on them;  they had crosses.  Somebody had lied to us.  Anyway, we&#151;the only thing we had in our&#151;was a bazooka.  We didn't have any anti-tank rounds.  We had white, what they call white phosphorus, which is just like a flammable material, you know.  And, well, this isn't going to work.  So they started&#151;the tanks started shooting at us, you know, and that there.  So we picked on up and we took off.  And I looked back.  One of the tanks, the tanks had shot off a red flare.  So what the heck is that, you know.  Next thing, he shot off a green flare.</p>
+<p>So I didn't know what the hell was happening, so I started running.  Trouble is, we were running across a field that had been recently plowed, I guess.  And if you ever been in mud where that you put a foot down you pick up the mud and take another step you pick up more mud.</p>
+<p>And I guess we weren't in the best of health.  But we started&#151;we&#151;a lot of our guys were hit and we picked up our wounded and were trying to drag them back.  We was trying to rush back to the edge of the&#151;out of the field and into the woods.  And this one guy, we got right to the edge of the woods, couldn't get him over a thing.</p>
+<p>He said, "What's the matter?"  You know, on the side of&#151;we saw his, part of his leg had been blown away.  And you could see the tendons in there, you know.  Took him, got him back, I forget where.  Took him to the aid station, somebody else took over.  But started back.  And we got to the edge of the woods.  And just as I got there, the Krauts tossed in what they call tree, tree burst.  In other words, they&#151;the shell would be instantaneous when it hit something, so when it hit the shell, the top of the trees showered down.  See, thus, I remember crawling around a tree trunk.  And just everything was turning orange, I think it was, you know.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>And then the next thing I remember is&#151;was an ambulance and some guys, driver saying there's a hospital down the valley.  So we stayed down there for --</p>
+<p>I slept for almost 48 hours, got up, tried to go to the toilet to piss, and I couldn't even get up.  So two medics come along and help me up, out the slit trench, come on back.  It was just a tent we were in, with stretchers on the ground, you know.  And I think half my outfit was in there.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>So you were hit by shrapnel?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well, no, not that time.  I wasn't hit at all that time.  But when I went across the&#151;we were carrying a boat down, on February 7th, trying to cross the Rohr River.  And, all of a sudden, there was a lot of confusion.  There were 12 men on this boat, was trying to carry it down, to get&#151;go across the river.  All of a sudden, there was a crash, you know, white thing, like a white flare-up.  And I wound up crawling around in the muck and yelling I had been hit.  But I don't know how I got from where I was hit back to the aid station.  I have no idea about that.  All I remember is back when I was in the aid station they were wrapping a bandage around my chest.  But the night, night before, we had taken our boats down.  And we picked up the boat and took them down, and tried to hide them behind the buildings there by the river.  Well, the Krauts heard us coming down, you know, because it was a mess going down.  The road was a serpentine road going down.  It was ice, you know.  So we all slipping and banging boats.  But when we got back, we got&#151;I found out that we got&#151;in our platoon was about 40 men.  We got&#151;well, we were way below strength.  We got in 15 replacements.  And they made the attack with us.  And then, 24 hours, found out later, 24 hours later, out of those 15 there were just one of them left.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Now, you said you blew your stack, so I got the impression that you snapped a little bit or --</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well --</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p><note>(Inaudible.)</note></p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>I don't know how you can define "a little bit," you know.  I just&#151;I was out of it for almost two days, you might say, almost three days.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>And then I started coming around okay.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>That was after that shell in the tree top?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  Yeah.  Uh-huh.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>You just&#151;yeah.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>No.  No.  Wait a minute.  Wait a minute.  We were&#151;it's screwed up here.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Jumping around a little bit too much?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Okay.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>I was&#151;when I was hit at the Rohr River crossing, I, I just didn't know how I got from where I was hit down near the river&#151;in fact, I never even did see the river&#151;back to the aid station.  I don't know how I got there.  But from there on, from the aid station to&#151;I went back to the various hospitals, and into Luxembourg City.  Was the general hospital there.  That's where they did the op&#151;well, the&#151;if you've seen "M&ast;A&ast;S&ast;H," you saw&#151;went into one of those.  But then they took us out.  Went to a general hospital, where they had nurses and everything like that.  And in the operating room&#151;how many?  They had six or eight operating tables that were going full blast.  Yes?</p></sp>
+<sp>
+<speaker>Unidentified woman</speaker>
+<p>I need to get my car out.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Oh, okay.  I think it was&#151;toward the end of the war, in Ebensee, in this concentration camp.  You ever see "Schindler's List"?</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well, there's one scene where that&#151;it shows the inside of another barracks, and dark.  And they were just jam packed up like that.  I remember that.  And hate to see the people there, you know.  They were, I don't know, just dying.  And they, they wouldn't move their head.  They finally go like this here, you know, with your eyes.  Then we was over by the crematorium, you know, where they burned the people.  And there was, I think, about six ovens and doors open on a couple.  You see the skeletons in there that had been completely burned.  And then, over in the one corner, there must have been about 10 or 15 bodies, you know, just laying there, ready to be put into the oven.  And also in the same room was a table, and about like this, with concrete, smooth, with gutters along the side, where they would take the people, knock their teeth out for the gold and all, and cut their hair.  But the people that were stacked against the wall, beside the wall, right by the oven, you couldn't tell&#151;they were all just skin and bone, like parchment paper stretched over a bunch of bones.  And one thing that stuck out was their, right there, tattoos on here, you know.  See an arm flopping out and you see a tattoo.  Didn't strike me that much.</p>
+<p>You know, I said, "Hmmmmm."  You know, you get used to seeing dead people.  But, oh, years later, I saw this movie, "Dr. Zhivago."  And I don't know if you ever saw it.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>The heroine was the nurse, Lara.  And this KGB officer was Zhivago's brother.  He was trying to trace their daughter down and find her.  And Dr.&#151;the gal wanted to know what happened to her mother.  So the&#151;she was arrested by the KGB, you know, the secret police, shipped off to a gulag in Siberia where she became a nameless number on a list that was later misplaced.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>And I think&#151;thought back to, you know, the&#151;saw those things.  And when we took the town, we&#151;the place&#151;we trashed the headquarters, you know.</p>
+<p>You just open a drawer, rip the papers out.  We was looking for hooch or any kind of souvenir.  Maybe they hid their pistol there or something, you know, like that there, that sort of stuff.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>But what else was there?  That's&#151;I can't really remember.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>I don't know if we got that on tape.  What camps did you liberate?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Ebensee.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Ebensee.  And did you say in Buchenbad (ph), too or --</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well, I didn't liberate, I wasn't in&#151;we were off to the side.  I think there was this&#151;our division did it.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>I can't remember.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>But not your particular --</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>No, not in my particular outfit, no.  But we helped liberate this Ebensee.  And I don't know.  It's a vivid memory.  I can't...</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>My dad talked about all the souvenir hunters.</p>
+<p>Did you do much of that?  Did you collect a bunch?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>No.  I couldn't, couldn't collect anything.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p><note>(Inaudible.)</note></p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>What we collected, we had&#151;it all went around, you know.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yeah.  Yeah.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>The only thing I had was, I still got it, was a German pistol.  Because my weapon, like, you know, in a fox hole, laying down <note place="inline">(inaudible)</note> I'd lay in the slit trench and I'd have the pistol laying on my stomach, you know, so that if anything, Krauts came in, I could start shooting.  But my gun was a little too awkward to try to pick it up and spray, you know.  So...</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>They didn't issue you a pistol?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>No, no.  Only the machine gunners had pistols.  So all the BAR men got&#151;we'd get German pistols, you know.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>So would these have been Lugers you're talking about?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>No, it was a P-38.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>A P-38.  Was it a better gun than what we had?</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>I don't know.  The .45, if&#151;I'd hate to be hit by a .45.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>But the P-38 was&#151;had a smaller bullet, you know.  It was a good weapon.  I still got it upstairs.  But I forget, there was one, one time that I remember we were making an attack.  I forget what it was, but we had&#151;on a cliff.  The cliff was here and there was a&#151;we had to get down to a little ledge down there.  And so we chopped down a tree and hung it on over.  And I'd sit on the edge of the cliff, like this, you know, grab the tree and then work my way down.  Well,</p>
+<p>I sat on the edge of the cliff, like this here.  And I started working my way down.  And, all of a sudden, I heard a "yike."  And this one kid, he'd slipped.  He was right behind me.  And he slipped.  He come down and landed on my shoulders.  And I, I had to let go of the tree.  And I bounced down the doggone, hit the cliff, you know.  I figured, all right.  But I hit down to the bottom.  And I really didn't like the kid anyway.  But when he hit, I was so mad, I reached down&#151;I carried my trench knife in my boot.  I pulled out of my knife and I went after him.  I was going to kill him.  And he yelled to stop.  That's one thing I remember.  The other might sound funny, but we was hiking up in France one time.  I saw three kids in a ditch, down in the bottom there, you know.  Must have been about 12 years old.  Had their hands tied behind there.  They had all been shot.  Every once in a while, you get, what can I say, some of a memory of it.  Like, you can be sleeping and wake up, you know, and you say, "Oh, my."  There's something that related to the war, but it&#151;it's like a door, back of your mind opening up and then slamming shut, but just a little thing pops out.  And you can't remember what it is, you know, or anything like that.  Something like that.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Wow.</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>But one of the other things, I was passing,</p>
+<p>I think it was through Angiers, I think it was, we passed by a cemetery I remember.  And the&#151;there's some guy laying on top of a crypt, you know, arms folded like this here.  And he had blue coveralls on.  I guess they didn't have time to bury him; they just put him on top of there.  But the&#151;and I can&#151;I can remember some, but I can't now.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Do you still have any kind of&#151;like you said, do you still actually have little dreams or little moments?</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well, every once in a while I did have them for quite a while after.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.  The same with my dad.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>But now I don't.  You know, I haven't had one in, like, things that related to, that you think is related, though, I haven't had those for years.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.  Yeah.  Same as my dad.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  Uh-huh.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>I mean, all the guys&#151;now, you didn't really have counseling when you came back.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>What?</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>You didn't have counseling when you came back, right?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>No.  No.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>No adjustment?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>But I didn't&#151;I didn't think I needed it.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>None of the guys did.  They were just glad to get back.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  Yeah.  I come back, you know, and within in a week or so I was back at work.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Really?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>You know, hey, didn't have much money.  And the only one&#151;well, I didn't have any parents.  My mother died when I was out in the desert in Arizona.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Now, I --</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>If you ever want to know what being tired is, or worried, just being in the infantry, like that there.  And we got the Combat Infantryman's Badge, which they gave us ten bucks extra a month combat pay.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Oh, really?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  And the only reason we got it was the war correspondent named Ernie Pyle.  He wrote about the plain ordinary soldiers, you know, and like that there.</p>
+<p>He wrote in the&#151;he wrote about the Navy and Air Force and all like that.  And he was wondering why we never got combat pay, the infantry.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>So how, how was the Combat Infantryman Badge awarded?  It was awarded after you shot your gun in combat?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well, it&#151;I got mine&#151;it was probably one of the&#151;in the first bunch that got them, you know.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.  My dad got one, too.  Yeah.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>You had to have&#151;you had to have 90 days on the line.  Had to have 90 days on the line, in combat, in a combat outfit, which is either&#151;well, which was infantry.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.  Yeah.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>And, but now they've got them.  I guess in Desert Storm, which lasted just a couple&#151;well, 100 hours.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>I think the guys got them there.  What the hell?</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Not quite the same.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah, not quite the same indeed.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Well, I noticed somebody was pretty impressed that my dad had one, because I guess since it was from World War II he knew what it signified.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  Yeah.  Well, the&#151;it wasn't just because you were in combat that they gave it out; it was because the&#151;well, you might say the hardship you went through, you know.  You know, sometimes&#151;I remember one time I couldn't&#151;after we did a hike, you had to go to a place across the street, you know, at the end of the hike.  And I leaned against a tree, and I said, "I don't think I can make it, you know, going that distance."  But then you had to keep going, so made it.</p></sp>
+<p><note>(End of side one.)</note></p>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>I never had a hot meal for the first three months we was there, just lived off of K rations and C rations.  And then you cut down on those.  The only thing you saved out of those was maybe the crackers or the coffee and the toilet paper.  So&#151;and toward when we got into Germany, we started living off the country.  So we'd --</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>-- raid their pantries and all like that, you know, and that there.  But they honed us when we got back.  They honed us off the line and ran us through.  We had to take all our clothing off.  They ran us through.</p>
+<p>We had a couple minutes to take a shower.  Went out the other side and they gave us fresh clothing.  Uh-huh.</p>
+<p>And&#151;let's see.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>What were the civilians like over there?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>What?</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>What were the civilians like, the French, the Germans?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well, we fought for&#151;we had the&#151;what they&#151;the Free French Forces, Marquay (ph),  I think it was.  They sort of tried to work with us, you know.  And the Germans, when we took them prisoner, they would surrender to us rather than the French.  But we'd take them, take their weapons away and everything like that.</p>
+<p>And then we'd take and turn them over to the French.  And they'd probably shoot them.  I don't know.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Now --</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Oh, but one time, we crossed a place, it was a World War I battlefield, Solanges Sur Marne, which means the city down off Solanges.  It was on the Marne River.  Well, we made the assault across it.  It was the only time I went across a river without getting wet because they had blown the bridge.  And we&#151;our platoon snuck across, was the point, the bridge, climbing over the girders.  And we got into the&#151;just like a square.</p>
+<p>You know, it was all flat and everything like that.  And then we started going up a hill.  All of a sudden, the door opened on that, you know.  It was like a little light inside there.  And they hollered at the French, you know, get back in.  They said <note>(inaudible)</note> Americans, you know.  Oh, American.  They start pouring out.  Get the hell back in there and shut up, you know.  We worked our way up on top.  Must have been a&#151;was, like I said,</p>
+<p>Solanges was a World War I battlefield.  There must have been a fort on top of it.  Maybe it was a national park when we got there at night.  It was white.  The&#151;just the walls, like they was white washed, you know.  Well, we bunkered down in there.  We set up our defensive line outside there.  But it was, it was a nice place, nicely mowed lawn and everything.  And then, in the back of us, we could hear the French singing the "Marsellaise."  Oh, they were having a big time, you know.  All of a sudden, hey, what's that?  There in front of us, off in the distance there, we heard the Germans' bugle playing the equivalent of our "Taps."  The Germans were burying their dead, you know, up ahead of us.  And here in back of us were the French singing the "Marseillaise," you know.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Wow.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>That's&#151;that's&#151;I remember, what the hell is this?  But other&#151;yeah, can't remember now much of it.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yeah.  Another Library of Congress question.</p>
+<p>They ask about military life and culture.  What do you remember about getting mail from home, letters, that sort of thing?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Oh, I&#151;they had what they call e-mail, you know, that was you'd write a letter, then they'd photograph and send it to you.  I remember my stepdad saying that&#151;I don't know if he was kidding in the letter or what, but he said that they couldn't get much meat back here, the only thing that they could get is steak.  I don't know whether he was kidding, but I was ready to kill him there, you know.  I had this can of beans I was eating there.  And got one package, was up in the Bulge, was in a town there.  And my buddy's wife sent it to me.  And it was a cake, chocolate cake, that had turned sour.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Oh.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>And packed around the cake&#151;well, we ate it anyway.  It was&#151;but packed around the cake, you know, was, like, talcum powder and foot powder and all like that.  They took that and threw it all around the<note place="inline">(inaudible.)</note>  You know, I said, "What the hell am I going to do with this stuff?"  But I&#151;I really didn't get that much because I didn't have&#151;the only one I had to write me was my stepdad, you know.  I didn't have family back, a family to write.  When I'd get a chance&#151;I got one letter.  When I was hit, I sent a letter back, e-mail letter back, and telling them that I had been hit, because I guess it took time for the Army to notify my stepdad that I had been hit, you know.  And I think the e-mail got there before the war department sent the telegram.  So I still got the telegram up there that I had been hit.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p> What's the "E" in e-mail stand for?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>I have no idea.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Okay.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Just e-mail.  Emergency mail or something like that.  I have no idea.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Oh, okay.  But it was obviously&#151;I've heard of this.  You know, they did that to cut down on the sorting.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Oh, yeah, on the --</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>You'd put it all on little micro&#151;yeah.</p>
+<p>Exactly.  Entertainment.  Do you remember any shows or anything that you might have seen?  Or, might be something that you guys --</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Not to the&#151;not until after the war.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>And what the heck was it?  We saw Bing Crosby and Bob Hope on the stage.  We had to go to the air field, where the Air Force was.  They were putting on a show for them.  But all during the war, never saw a damn thing.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>And saw&#151;I remember Bing Crosby was&#151;they were interviewing him, what he thought of the people overseas.  He says, well, he liked the guys on the line, you know, the people up front, because they were dressed snappier and they were saluting,  they were more military than the rear echelon was, which was a line of bull you never&#151;God.  I don't think he was ever on the front line there, no, in the back.  I know he wasn't.  But he&#151;it was because we didn't salute when he was on the line.  If you saluted anybody, the officer'd kill you.</p>
+<p>Don't call attention to me.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.  So where did you see Bing and Bob?</p>
+<p>Was that in Germany?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah, southern&#151;we moved from&#151;where the hell were we?  Yeah, we moved from here.  Oh, yeah, we were, we were stationed here.  Then we moved back into southern&#151;well, into around Munich and Bavaria, down through here.  And this just shows the path of the division.  But various parts of the&#151;no, the 319.  We were stationed up here, down here, and all that like, you know.  And, but, we knew it was an occupation duty.  We'd go out early in the morning, surround the towns and move in.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>And find out if they had any contraband or any&#151;and if we found&#151;like, one time we found a mess kit, army mess kit that we had in this one town, one house.  We trashed the house.  And we'd round up the&#151;check and see if they had any arms or ammunition or anything like that, you know.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>I didn't get your&#151;what medals were you awarded?  Obviously, the Purple Heart.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  I got the --</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>The Combat Infantryman Badge?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  I got the Bronze Star with a V.  The Bronze Star is given out for heroic and meritorious service, you know.  For heroic service, you got a V and for meritorious service you just didn't get, just a bronze.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Bronze Star, right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>But after, if you got the&#151;I forget if you were wounded, or I think if you had the Combat Infantryman's Badge, then you were awarded&#151;this was after the war,<note place="inline"> (inaudible)</note> you were awarded the Bronze Star.  Like I say, you didn't get it for heroic actions or anything like that, then they awarded it to you for meritorious service because you got a Combat Infantryman.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Because you were involved in combat?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  So, actually, I got the&#151;I was twice awarded the Bronze Star, one for heroic, one for meritorious.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>But...</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Talked to a couple of guys about the day FDR died.  Do you remember where you were and what that was like?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>No, I don't remember that.  But they got&#151;you know, they said all the guys was sitting down, crying, because&#151;we couldn't care less if he died or not.  Didn't, didn't&#151;he had no relation to me whatsoever, you know.  I couldn't understand why they'd show pictures of&#151;when they were all back here, I guess, you know.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>People weeping and moaning.  What the hell?</p>
+<p>Just another guy died.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yeah.  Oh, yeah.  And you'd seen a lot of that, right?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  Why should I worry about him?</p>
+</sp><sp>
+<speaker>Tom Swope</speaker>
+<p>Worrying about yourself.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>The one thing I remember was the, semi-remember, was when they dropped the bomb.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>As I was standing guard duty, and they come on up and says, "Hey, they just dropped a great big bomb, you know, wiped out the city of Hiroshima," or one of those.  Yeah, I guess Hiroshima.  Wiped it off the map.</p>
+<p>Good.  Fine.  Drop another one.  You know, hey.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>And they did.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  Hey, you know, there's a lot of talk about, well, they&#151;maybe they shouldn't have dropped the bomb or anything.  Hey, you know, hey, people that are saying that weren't the ones who were going to go on over there and fight.  You know, that's great.  You can say that.  Great.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>But when they're estimating that there might have been a million casualties --</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yes.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>-- if they invaded Japan.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  And the&#151;hey.  Actually, I think the dropping the bomb saved more lives than<note place="inline">(inaudible)</note> yeah.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Exactly.  I mean, there's no doubt about that.  Anybody that truly understood it --</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>You know, I think it's people that don't understand.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Let's start with that.  Yeah.  Exactly.  Do you remember&#151;I can't remember if I asked you this --VE Day?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah, I remember VE Day.  We were&#151;said we were up in the mountains there at&#151;in Austria.  And we shot off most of our ammunition, ah, good time, you know.  And the only thing we had to drink was a drink called musk.  It was like a semi-high-powered wine.  So we couldn't&#151;we were&#151;we're back in the mountains, in this small little town, you know.  Nothing to it, you know.  We didn't&#151;but then, a short time later, you know, hey, the Krauts are coming down the road.  And here's a Kraut outfit with their tanks, the infantry along with them, you know.  They're coming down this one road.  And it was sort of a sunken road.  We were up on top.  So we got&#151;went out and stood guard alongside the roads.  And if they'd had started anything, we couldn't have done much because all I had was 20 rounds of ammunition in my&#151;I had shot the rest of it up, you know.  Didn't have any hand grenades.  Well, yeah, we had hand grenades.  But then they just&#151;I remember just going down.  And we just looked at them, you know, and just looked right.  And they just looked back at us.</p>
+<p>Nobody said anything.  You know, just kept right on going.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Wow.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Nonsense.  But what we did later on was we took our hand grenades and went down to the river, stationed some guys downstream, ran upstream.  It was a beautiful place.  Took our hand grenades and wherever there was, like, a deep pool, you know, we threw them in.  And they'd explode.  And you'd see the fish floating up, lying down.  The guys down below would grab the fish, throw them on the bank, and we'd have a fish fry.  But that's all I remember about VE Day.  And I don't remember anything about VJ Day, you know.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Everybody I've talked to so far says the same thing, is that VJ Day was sort of expected.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah, it was, yeah.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>So it was an anti-climax.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah, it was, uh-huh.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>You know, VE Day was where everybody really celebrated.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah, they would celebrate.  Oh, boy, they were having a big time in London and Paris and New York, all places.  Hey, but, I was stuck out in the boondocks.</p>
+<p>Boy.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Was VJ Day and then the signing of the surrender was just, you know, relief?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Nothing.  I can't remember anything about that.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yeah.  Uh-huh.  Just everybody was thankful it was finally over, right?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  But in the towns where we were, you know, was one town where our battalion was.  Each company that we had, we stayed in what they call an "accost house," you know.  And each company had their own beer joint.  And we had beer after it was&#151;evening was over.</p>
+<p>You'd go down to the beer joint, you know, and it was strictly for us.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>That there, that was good.  And what the heck else was there?  I remember going down the road, and we were riding in trucks.  And some of our guys were riding on tanks, you know.  And I said this one tank battalion, new tankers, we'd become friendly with them, you know.  And we had a big wooden box, like this.  And that's where we kept all of our hooch, on the back of it.  Was going down at night.  All of a sudden, this big flare up.  We saw a big fire in front of us, you know.</p>
+<p>So when we sped&#151;when we come near it, all the trucks and tanks sped up, you know, to get away from it because the Krauts could fire in, zero in on the fire, you know.</p>
+<p>They knew it was us.  And here what it was, was this tank that we had our hooch on, somehow it had back fired and the  motor had caught fire.  So the tank crew that the infantry was riding with were standing there, trying to have us pick them up as we went by, you know.  And we'd grab one or two of them, pull them on, you know, and take off, you know.  We found out that it was the tank where we had our hooch on.  We was getting ready to throw the guys back off.  Why didn't you save the hooch, you bastards?</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Great.</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>They weren't exactly&#151;they just wanted to get the hell away from there.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Oh, man.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>But there were some funny times.  After a while, you know, it just became like a nine-to-five job.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Only it lasted 24 hours.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right, a very intense 24-hour, nine-to-five job.</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Any other questions?</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>No.  Do you, do you basically&#151;do you have&#151;well, I don't know if you could say it fond memories, but do you have good memories of that experience, in some way, or just proud memories, maybe?</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well, it's sort of a hazy thing.  But...</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.  It must seem very unreal when you --</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well, no.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>&#151;get away from it, after a while?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>You know, it was&#151;we lost all of our officers in this one attack, you know.  Was getting ready to retreat and all like that.  And the Krauts were coming back at us.  And we could have went, taken off.  You know, it was&#151;I don't know who it was or how it was.</p>
+<p>So we said, all of a sudden, we just all decided to stay there and fight.  And we could have saved our own butts,</p>
+<p>I guess, if we ran back there.  That, that was sort of, you know, a good moment.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>But the one thing, when I got married to my wife, you know, she made pea soup one time.  And I told her, "You ever do that again, I'll divorce you."  Because they had&#151;the Army issued dehydrated peas, you know.</p>
+<p>And they made pea soup out of it.  Well, first, when I was overseas, you know, we couldn't&#151;we didn't have anything to put&#151;we had a canteen cup.  You could either put soup in it or coffee.  All of us wanted the coffee.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>But they took the peas and made them, like, into mashed potatoes.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>And, oh, God, they were terrible.  God.  My wife made it.  I says, "What's that?"  That's that pea soup.  I says, "I don't want it.  I don't want anything that has to do with peas."</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>So you haven't eaten a lot of peas since then?</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Oh, no, no.  She makes good pea soup now.</p>
+<p>I've gotten over it.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Oh, okay.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>But the one thing that was when I come back, you know, and even to this day, I don't eat much chocolate because we had what they call the emergency rations.  And the lowest emergency ration was a&#151;what they called the "D bar."  You had Class A ration, Class B, Class C, which is emergency ration.  Then Class D was emergency, emergency, emergency ration, which was a chocolate bar made out of tropical chocolate.  You couldn't melt it.  In order to eat it, you had to whittle it, you know, like that.  And I lived off that for a while, you know.  Hey, this is it.  I come back, I couldn't eat, I couldn't eat chocolate.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>And that was the&#151;mainly because they thought that would give you energy, so they would --</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah, something.  It was an emergency, but...</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Did it taste good at all?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>It tasted horrible.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Pretty bad?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>God, it was awful.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>They had to do something with it to keep it that hard, right?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Oh, it was, it was like rock.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>I could have thrown it at the enemy and killed them with it.  Another thing that I remember is we were going across France, after the breakout from the Normandy Peninsula, you know.  And we was hiking.  And sometimes we'd ride trucks.  They'd take us here.  But we were going by this one road, stopped for a rest.  And some guy, "Hey, look at this."  Here it was, we went through the&#151;off the road.  There were trenches from World War I.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Wow.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>And they&#151;these were&#151;they were stuck and they were fighting for months, in that spot, you know.  You could see barbed wire and that there.  We were walking right through it.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Wow.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>You know, it's what the heck you fighting for this for again?</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.  Exactly.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>But...</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>That's very strange, isn't it?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  The Krauts had&#151;they had a lot better weapons than some that we had there.  Our tanks were like coffins.  The German tanks were&#151;shells would bounce off of them, you know.  They were good tanks.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Machine guns were good.  The&#151;our machine gunners, you know, like the light machine guns we had, if the barrel got hot, they had to unscrew it and get another one, screw it back on in, you know, and then check for head space, and then they could start firing.</p>
+<p>It took time.  The Krauts, all they had to push the lever, the thing popped out, the barrel popped out, they'd pop another one and slam it shut and start shooting.  Well, one time there the&#151;up in the Bulge, the&#151;some of it's starting coming back to me.  We were pulled off the line after we were, you know, the Christmas Day charade or whatever it was, back into the town.  And usually when we went into the town, we&#151;for a rest period, the&#151;it wasn't much of a rest because two days later the Krauts attacked the town again, this town.  But we usually tried to stay down to the bottom of a town, you know, in the house, you know.  Well, we were so doggone tired, nobody cared.  I was up on the second floor, I think it was.  And there was an attic above us.</p>
+<p>You know, some guys went up there.  What the heck?</p>
+<p>Practically in the rear echelon here, you know.  And down&#151;well, the one went into the basement, tried to go into there.  And there's like a fruit cellar, you know.</p>
+<p>There was a dog in there.  And that dog went nuts when we went in there.  You know, hey, let's get out of here.</p>
+<p>So, anyway, we're sleeping.  There were three of us in a bed, you know, in the&#151;trying to sleep.  All of a sudden, about twelve o'clock, it was all hell broke loose.  And here Patton decided to celebrate New Year's, the coming of New Year's.  So he sent out a big artillery barrage against the Krauts.  Only, unfortunately, two of the rounds were short rounds and they blew the roof off the house, the attic.  Killed a couple guys up there and drove our&#151;you know, decided&#151;we ran out, out of bed, you know, tried to get down the stairs.  You know, I was the first one there.  I tried to feel for the stairs.</p>
+<p>The rest of the guys hit me, you know.  I went tumbling out there.  Ran out, ran into the cellar, you know, trying to get&#151;are they shelling us or what the&#151;we didn't know.  But this&#151;in there, hey, what happened to the dog?  Shined a flashlight around.  Here the dog was way over in the corner, shivering like that.  All these guys are rushing on into there, and the dog just<note place="inline">(laughing.)</note> Anyway, we had to go back out.  We had to pull our wounded out of there.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Geez.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>We had guys&#151;the Army had what they called ASTP, Army Specialist Training Program.  They were guys, if they were in college and they were eligible for the draft, you know, say, hey, you got one&#151;you can go into the Army right now or we'll leave you in college here, you know, and you can be in the Army, but you can continue going to school.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>We'll give you a little training and all like that.  <note place="inline">(Inaudible)</note> got a lot of casualties.  And the government said, "Hey, enough of this."  So they took the people out of the AST programs, you know, and sent them to the infantry.  And, at this time, we&#151;well, when we got a group, a bunch of them in, they were University of Missouri, I think.  And here they had been living in fraternity houses and all like that.  They came to us.</p>
+<p>And they&#151;we were out in the desert.  And we weren't exactly the most&#151;sort of raunchy bunch.  And I remember, I went into town with a buddy, into Yuma.  And we sort of got drunk.  And when we come on back, got off at the wrong place.  The head of the regiment was practically crawling down the company streets, looking at the guy, going "Ah."  This is E Company.  Hey, what company, are you all?"  One time, God, our company went down.  We were just in pyramidal tents there.  There's just sand.  And we come on in.  And this one guy didn't want to go into town with us to get drunk.  Well, we were kind of boozed up, you know.  "Damn Price, he wouldn't go in with us.  Let's cut his throat."  Had our bayonets, you know, like that.  "Price, we're going to cut your damn throat."  He said, "Oh, shut up and go to bed."  You know.  Okay.  Went to bed.  Next morning, we got on up, you know, looked over.  Here's this one guy.  Who are you?  He was a replacement that had come on in from the ASTP.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Uh-huh.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>And here he had been living in the life of Riley, you might say.  You know, the only companions he had was the fraternity brothers and all.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Then he comes on to us.  He told me later, that night he cried himself to sleep.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Oh, wow.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>He was so shook up, you know.  We wouldn't have cut his throat or anything.  We were just kidding him.  But, oh, but they suffered.  You know, they were put into an infantry.  They hadn't done anything.  We used to go across the desert, hiking, you know, and all.</p>
+<p>Oh, boy.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Wow.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Well, the infantry wasn't so bad because, you know, in a tank or anything like that, then you had to take care of the tank and everything.  Artillery, you had to take care of the artillery.  The infantry, all you had to take care of was your own weapon.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Right.  That's true.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>But you sure got tired.  I think I told you about my assistant gunner.  He had&#151;a tank going into France.  And we got hung up in the woods.  You know, the Krauts got us.  They stopped us.  And we all hit the ground.  I yelled over to the assistant gunner.  I says,</p>
+<p>"You okay?"  And he wouldn't answer, you know.  Finally, they tossed in artillery on us, got tree burst, so we had to retreat.  Was running back and he showed me his helmet.  He had a bullet hole here and a bullet here where it come out.  Just missed him.  There were two holes in his helmet, in the side of the head.</p></sp>
+<sp>
+<speaker>Unidentified man</speaker>
+<p>Right through the helmet?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Right through the helmet, you know, two holes.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Whoa.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Let's see.  And sort of a funny thing I remember was my&#151;up here, Interstate 90.  We were on one side of the interstate.  And we had to attack.  We got a new lieutenant in.  We had to attack across the interstate and then turn left and follow the ditch down, you know.  He wouldn't tell us what our object was.</p>
+<p>Well, the object was that we had to cross over.  And we were to make a diversionary attack on that town.  Well, the main group come in on the other town.  Well, we went&#151; started going away from it.  And everybody was all in a line going down.  I was BAR gunner, so I was the last one.  Our squad was the last and I was the last man.  And I thought, "Oh, boy.  This is great.  You know, they've got to kill about 30 people before they get to me."  You know, this is a wonder.  All of a sudden, the&#151;we heard firing from the back.  And the sergeant got mad and grabbed the lieutenant, said, "What are they supposed to do?"  Finally, the lieutenant told him, said,</p>
+<p>"You jackass, you know, we're supposed to attack there."</p>
+<p>So he said, "Everybody turn around and run back.  Head back up the ditch."  Well, here one minute I had about 30 guys ahead of me.  The next minute, I turned around, ain't nobody there.  I was&#151;that was one of the most unhappiest times of my life.  But the other was sort of a funny thing.  I remember it was&#151;we were attacking a town.  And they threw in some artillery shells.  Well, the French towns there, you know, they're just like a group.  There's no suburbs or anything like that.  And there was a farmer had a bunch of sheep in the&#151;right outside in the pens and all like that.  The artillery caught them, and they were blown to&#151;some blown to bits, some legs blown off.  They're bleating, you know, and walking around and laying there.  And the guy said, well, the guy said, "Hey, shoot the sheep.  You know, put them out of their misery."  Well, nobody wanted to shoot the sheep, you know, because they said, hey, maybe the farmer will be able to save them.  You know, God.  But nobody wanted to shoot the sheep.  Just then, little while later, then about eight or nine Krauts were manning a machine gun unit.  They jumped off and made a break for it, by the houses, you know.  Everybody opened up on them.  They killed them.  We killed all of them, you know.  In fact, we had our tank with us.  The tank commander popped the top turret.  He has a 45.  He's banging away, you know, all like that.  Thought it was sort of funny that here nobody wanted to shoot the sheep, but the Krauts got out and everybody shot them.</p></sp>
+<sp>
+<speaker>Unidentified man</speaker>
+<p>That's a great story.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yeah.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>That's about it.  Well...</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Okay.  Tell&#151;well, go ahead.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>I was telling your buddy here about up in the Ardens, we&#151;took a town.  And it was L-shaped.  We took the first part of the town, you know.  Then they sent us up on top of the mountain, our squad up on top of the mountain, to serve as a guard.  And got up on top of the mountain.  And dig in, dig in.  I think we dug a foxhole about&#151;it was frozen ground, you know.  Well, I had&#151;I didn't have any underwear on because soiled that.  I just had pants.  I had OD pants, OD shirt,</p>
+<p>German army sweater.  What the heck was it?  I had coveralls that a tank guy gave me.  I had a field jacket on and I had a raincoat on, no, an overcoat on, and I had a raincoat on top of that.  All of a sudden, I had to take a crap.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Good time.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>And so I threw everything off, you know, and I got down to the coveralls.  And I threw my arms back, like that.  And it just&#151;everything let go.  Was pissing and shitting in my pants.  Felt the stuff rolling.  Wasn't a solid turd, you know, just liquid, just rolling down both legs.  You know, oh, Christ, I was&#151;I had had it, you know.  I said, "Hey, I've had it."  And, at that time, I was the&#151; one of the oldest guys on line for our company.  I didn't mean by age, but I mean who had been on line, you know. So I just had about enough of the war.  I said, "I got to get down.</p>
+<p>I've got to take this crap out of my pants."  So I went down.  And I was going down a fence line, I think, and I&#151;there was a cliff there.  I fell off the cliff.  And I&#151;we had our shovels.  You know, we had&#151;and the shovel went out, like that.  And I came on down.  I, I thought I broke my ribs anyway.  I got into the town.</p>
+<p>And they challenged me.  And I didn't know the password or anything like that, so I got mad anyway.  Walked in.</p>
+<p>And in the house, there was a bunch of dead people lined up there, you know.  And I walked in and it looked like a scene out of hell.  There's&#151;one guy was in a chair, crying his eyes out.  And two guys were standing.  He's saying, "I can't take it anymore."  You know, and guys were slapping him around.  There was&#151;some guys were over on a stove, trying to fry potatoes.  That's what we lived on a lot, you know.  Then I'm over there in my pants, I'm trying to scrape the shit off my legs, scrape the shit off my pants, you know, and all like that.  And nobody paid attention to that, you know.  You smell bad, but so did everybody else.  And then the next morning, I joined up with the outfit and made the other attack and&#151;around there.  And then the guys that were left in the squad, they come on down.  They&#151;two of them were hit and there was only, I think, five of them left.  And two of them were hit.  And one guy just disappeared.</p>
+<p>Never did find him.  So that's about most that I can remember.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Tell the raincoat story that you were talking about.  Get that on tape.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Oh.  The&#151;we had raincoats, you know.  And it's, I don't know, November or somewhere like that.  And our raincoats just came down partway, you know.  Well, the Krauts had long rain coats.  And this one guy decided that he'd take his raincoat and take another raincoat, rip it up and sew it on the bottom, to make it long, you know.  So that was a good idea, except for he was in the town and he got mixed up.  I forget where it was, but the Krauts&#151;a couple of our guys come around the corner of a house, in the street, running, because I think the Krauts were after them or something.  And then this one guy was with them.  Well, our guys looked and saw the raincoat, thought he was a Kraut, they all open up and killed him.  Uh-huh.  It wasn't&#151;what the heck?  There was one other, one other thing.  I can't remember what it was.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>When I was wrapping up, you talked about the P-47s.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Oh, yeah.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>And what you thought about them.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  They came.  They used to fly support for us, the P-47s, you know.  They'd come on in and fly ahead of us.  Sometimes they come down in two's, you know, and sometimes they'd get shot down.  And somehow we felt more sorry for those guys than we felt for our own guys that got killed.  There was something else; I can't remember what it was.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>The other, the other thing that you were talking about was the colored smoke from the tank that was hit.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Oh, yeah.  Yeah.  The&#151;it was outside a castle.  It was&#151;we attacked a castle in Germany.</p>
+<p>And&#151;it was on the edge of a field.  And a tank&#151;think there were about five tanks coming at us from Germany, the German side.  And two or three of them were American tanks and two were German.  Well, we had a tank destroyer.  Well, the tank destroyer is an open turret.</p>
+<p>And our tank destroyer pulled up, tried to knock him out.</p>
+<p>He fired twice.  Krauts fired once and hit him.  Tank&#151;there was a beautiful column of smoke, like that there.</p>
+<p>Went up, you know.  And it was black, gray, red, all kinds, you know, from the ammunition in the tank.  Saw that.  We'd better get the hell out of here.  The tanks were coming and all we could do is&#151;we didn't have anything to fight them, so we turned back and run.  I was running behind&#151;I was running.  A couple of the tankers got out of it, you know.  I think three of them were killed.  Two of them were&#151;I was running back.  And this guy had a sheepskin jacket on.  And looked at the back of that, finally running right in back of him, about from here to you, you know.  And what the hell is on his back?  Here it was blood and guts from one of the other tankers, you know, that had blown up and hit him.  And there was something else, I just remembered it, and now my mind went back.</p></sp>
+<sp>
+<speaker>Unidentified man</speaker>
+<p>Better than I thought it would be.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Boy.</p></sp>
+<sp>
+<speaker>Unidentified man</speaker>
+<p>He never opened like&#151;opened up like that to me.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Well, you'll have to hear the whole tape then.</p></sp>
+<sp>
+<speaker>Unidentified man</speaker>
+<p>What's that?</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Oh, God, no.</p></sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>If he lets you, you'll have to hear the whole tape.</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>No.  But&#151;oh, yeah.  Yeah.  That's right.</p>
+<p>I remember.  The&#151;we were in Germany.  And we attacked&#151;I forget the name of the town, but we had to cross the cross street, you know.  Our first scout went across, and he didn't go all the way.  He jumped behind some pile of rubble.  And the guy said, saying, "Hey, I think they're shooting at us from down here, you know."</p>
+<p>And the guy said&#151;well, guy's name was Quinn.  He said he didn't know what they were shooting at.  He said, "You jackass, they're shooting at you."  Just then, he got it right through the head, killed him.  But we made it across, except the last guy.  I was the second last guy.</p>
+<p>And instead of running directly across, I went at an angle because I thought, you know, I had sighted Kraut snipers sited in along there.  So if I could take him by surprise, I ran on the&#151;I made it, but the other guy didn't.  He got shot through the leg.  And helped patch him up, dragged him out of there.  But there was&#151;I think the maps were all screwed up.  And they had a medical Jeep was flying a Red Cross flag.  And they had the driver and they had a German nurse in the front seat.</p>
+<p>And they were taking a German soldier, had his leg blown off, to a German hospital, trying to find a German hospital.  I don't know what the heck was happening.  But there was two other medics in there.  All of a sudden, they like&#151;we come up onto them, after they&#151;about a minute or two later.  What had happened was there was a&#151;what they had&#151;what they called a panzerfaust, a tank killer.  And they were in this administration center.  And they were trying to defend that.  And they shot this panzerfaust.  They must have hit the German nurse right here because when we got up to the Jeep she was gone from here all the way up, just the legs were there.  And I think I counted three hands, you know, in there.  And there was one of the medics, I forget what happened to the other, but it looked he&#151;he was laying back.  His back of his shirt, that was all torn open, you know.  Looked like they took a can opener and went right down his spine and opened it up.  But the part of the&#151;what&#151;the guy that fired that panzerfaust was a 12-year-old kid with the Hitler Youth or something like that, you know, that they gave him the panzerfaust and told them to shoot at anything that come about.</p>
+<p>Twelve-year-old kid, he killed them.  And the only one that survived was the Kraut that had the leg blown off.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Geez.  So those would be the closing months?</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah.  Yeah.  It was towards the end of the war.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p><note>(Inaudible.)</note></p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>But our captain, oh, he was, he was pissed.</p>
+<p>He was ready to shoot anybody he could get his hands on when he saw that.  But I don't know why, why the medics were doing that.  I have no idea.  Humanitarian act, you might say.  But it was a bad thing.  But the German people, you know, they&#151;we told them.  They said that Hitler was good.  We was in this house.  We let the people stay there.  I had the "Life" magazine sent over, copies, without the advertising.  I had one about the camp in Buchenbaum, I think it was, showed stacks of dead bodies and all like that, you know.</p></sp>
+<sp>
+<speaker>Unidentified man</speaker>
+<p>Are we close to Odra?</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>No.  I don't know.  I don't know.</p></sp>
+<sp>
+<speaker>Unidentified man</speaker>
+<p>That concentration camp <note place="inline">(inaudible.)</note></p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>You showed those to the German people then?</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Yeah, we showed that to these German&#151;they said that Hitler was okay.  In a way, he was, in a way, because he made the autobahn, he gave them all jobs, you know, and all.  They say Hitler was&#151;showed them a picture, guy got the picture in the magazine, showed them the pictures of these concentration camp people, you know, dead, skinny as bones, showing them to the German man and his wife.  His wife says, "Oh, that's all right.</p>
+<p>Those are just Jews."  Holy mackerel.</p></sp>
+<sp>
+<speaker>Unidentified man</speaker>
+<p>That's the way they felt.</p>
+</sp>
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Yup.</p></sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>They lived in that house for about 30, 15 seconds.  We threw them out, threatened to kill them if they come back.  I saw&#151;back in France, I saw a scene that was sort of funny.  It was the&#151;took this, this one town.  They must have been shelling it for I forget how long.  It was all going to hell.  Was finally working our way in.  Saw a horse there, you know, and just legs sticking out, like that, laying on its side.  Great big pig with his front legs on the horse was nuzzled down, eating the guts out of the horse.</p></sp>
+
+<sp>
+<speaker>Tom Swope</speaker>
+<p>Wow.</p>
+</sp>
+<sp>
+<speaker>Robert W. Miller</speaker>
+<p>Lucky we were on short rations and didn't have pork chops.</p></sp>
+<p><note>(Tape ends.)</note></p>
+
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

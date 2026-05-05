@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd" >
+
+<!--
+<!DOCTYPE TEI.2 SYSTEM "c:/standards/teilite/teixlite.dtd" >
+-->
+
+
+<TEI.2>
+  <teiHeader type="personal_narrative">
+    <fileDesc>
+      <titleStmt>
+	<title>Veterans Share Their Memories: Carlisle Evans, May 27, 2004</title>
+	<author></author>
+	<respStmt>
+	  <resp>Encoded by</resp>
+	  <name>Matthew McCrady</name>
+	</respStmt>
+      </titleStmt>
+      <publicationStmt>
+	<idno>013282.pn0001</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<bibl>
+	  <title>Veterans Share Their Memories: Carlisle Evans, May 27, 2004</title>
+	  <author></author>
+	  <date>May 27, 2004</date>
+	</bibl>
+	<p/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+	<p>Encoded for the "World War II Reunion 2004" web site for the Veterans History Project.</p>
+      </projectDesc>
+      <samplingDecl>
+	<p>All items in the Carlisle Evans collection were digitized.</p>
+      </samplingDecl>
+      <editorialDecl>
+	<p>A VHP staff member or volunteer transcribed this narrative from the dictation of the veteran.  The transcription is meant to reflect minimal changes to the spoken account in an effort to communicate the veteran's experiences more accurately and clearly.</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+	<p>When I was in high school, they had one of these programs that if you were in the upper third of your class and five businessmen wrote recommendations, you could volunteer for officer training. They had the physical exam in the Moline, Illinois, Post Office. I passed everything except the dental exam; they said I didn't have enough molars. I went to the Rock Island Post Office, and they passed for the Navy Air Corps, but they told me it would be three months before they had another class starting up. I went back to the Moline Post Office the next day where I volunteered for the Marines. I told the doctor that they had kept me out because of my teeth and he said, "What did they think you were going to do, bite the enemy?"</p>
+	<p>I had seen that John Payne movie, The Shores of Tripoli, and I wanted to be in the Marines. I finished boot camp and went overseas with the 30th Replacement Battalion and went to Oahu, and from Oahu, over to Maui, where I joined up with the 22nd Marines, B Company, First Platoon. I became a BAR - a Browning Automatic Rifleman. The 22nd was a lone regiment for the Marshall Islands campaign. We went from Marshalls down to Guadalcanal for more training. We left Guadalcanal in the first part of May, heading up to the Marianas. The Marines invaded Saipan on the 15th of June 1944. We joined up with the Fourth Regiment and we formed the First Marine Provisional Brigade. When they hit Saipan on the 15th, we were supposed to hit Guam on the 18th.  But they had so much trouble on Saipan that we laid up on ship for about sixty days from Guadalcanal. We hit Guam on the 21st of July 1944. I went in on the first wave at a village named Agat. We were just about through with capturing the Orotie [?] Peninsula, and on the afternoon of the 29th of July, two days after my 19th birthday, the tanks came up behind our front lines and the Japs started dropping mortars on them, and one of the mortars fell short and hit about five feet to my left, and I was injured. My friend called for a corpsman, and he got hit in the hand while he was working on me. My friend bandaged him up. They put me on an amphibious duck boat and took me to a Higgins boat that took me out to a hospital ship where they operated on me. They were able to get all but two pieces of shrapnel out of me. Then they took me back to Pearl Harbor to the Navy Hospital, and that's one time that the Navy is terrific for the Marines. I had a private room and a private nurse beside my bed. They told me that I'd never walk, never work, and never participate in any sports. I was walking by the time I left Pearl. I had a paralyzed left arm and they had an electrical treatment there for it. I had shrapnel in my stomach, a hole to my hipbone, a blast concussion and peritonitis in my kidneys. I spent three months in Pearl Harbor, and transferred over to Oak Knoll hospital. From there, they transferred me to San Leandro Hospital in California. While I was in the hospital there, my girlfriend from home, Barbara Haney, came to see me and we were married. It's sixty years now. I snuck out with one of my nurses and a Marine friend, who was my best man.</p>
+	<p>I went back home to Illinois and went to University of Illinois at Urbana-Champaign on Public Law 16, for disabled veterans. I graduated with a degree in architectural engineering. Back then, you had to have a degree plus three years experience working for an architect before you could take the exam, which I did. I eventually became a government architect, traveling the country working on military installations. I was traveling 25-30 weeks a year some years. I was on a national design board for the government. We did barracks, chapels, housing, industrial buildings.  We did 160 installations, total. I went as far as Japan. I retired in October of 1987. I went with a contractor, doing the same thing for the government for three years. We've been fortunate; we have two boys and two girls.</p>
+	<note>End of Transcript</note>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

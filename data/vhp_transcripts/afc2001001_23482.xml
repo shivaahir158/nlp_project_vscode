@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with Valentin Ulrich, n.d.</title>
+            <author>Melissa Nethken and Linda S. Blackburn [transcriber]</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Matthew McCrady</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with Valentin Ulrich</title>
+               <author>Melissa Nethken and Linda S. Blackburn [transcriber]</author>
+               <date>n.d.</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with Valentin Ulrich was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with Valentin Ulrich [n.d.]</head>
+            <div2>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>My name is Melissa Nethken. I'm at the West Virginia University School of Journalism, and I am interviewing Mr. -- tell us your name.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Ulrich.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Mr. Ulrich. And, Mr. Ulrich, can you say your full name for us?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Val Ulrich.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Val Ulrich?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>And where are you from?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, I'm from West Virginia. I've lived here most of my life. I was born in Pens -- in Nor -- in Eastern Pennsylvania, and then I grew up for most of my teens in New Jersey, went to school there and so forth and so on, and to college and --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Where'd you go to college?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Rutgers University.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>At Rutgers?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>What'd you study at Rutgers?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, my undergraduate work was in -- a degree in the natural sciences and then my graduate degree was in physiology and genetics basically.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Wow. That's -- that's something else.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>What branch of the military were you in?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>I was in the Marine Corps.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>You were in the Marine Corps?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>And in what wars did you serve?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>In the Second World War and in the Korean War.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay. So --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- with World War II --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- did you enlist in that war, or did you --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah, um-hmm.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- join? You enlisted?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. Well, we were a volunteer force.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>You were volunteer?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay. So when did you go into World War II?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>1944, in the spring. I can't remember the time, you know. I know I finished high school, and I was off.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>So you joined up in 1944?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>And what did you do when you joined the Marine Corps; what was your job?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, like all Marines, I was basically a rifleman, but then they set up schools, and the one that I got into was military police and -- but most of my experience was related to what might be called combat intelligence, and I did all kinds of things, you know. I -- I -- I was a private first and I did a lot of guard duty and a lot of patrolling, and -- and then later on I even had a turn at helping to run a Naval prison and --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Where was that at?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>In the Philippines. And then some more of the same, the patrolling, the -- the guarding of supplies, security of bases, and -- and this sort of thing. And when my time came to come home, well, I came directly back to the states, and I went into the Reserves and this is how I happened to be called up for the Korean war. I was in college at the time, and I remember I finished my summer finals and -- on Friday, and Monday I was off.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Wow.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>So --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Were -- you were drafted for the Korean War?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>No, no, no.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Or you were just --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>-- activated.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Well, you were --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Activated.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- activated.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. Well, I was in the Active Reserves --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>-- to begin with, and they just activated the battalion I was in and we all shipped out for California and then for Korea.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>How long -- how -- how much notice were you given?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>About a week.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>About a week?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>So you finished up on Friday and then you took off on Monday?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>That's right.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>What did you do to prepare to go?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, really didn't need very much, you know. I mean, I just -- you take a watch and a pen or something like this, you know, to write, and a pocketknife, and you have your uniforms, of course, which are issued.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>And aside from that, you don't -- you don't need anything else. I like to take something to read along because one of the things that I found is that was the best way to break some of the monotony, and there's an awful lot of monotony being with in service.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Now, let's go back a little bit when you were in World War II. How long --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- did you serve? From 1944 to?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>1946.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>And where were you at for the majority of your time?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, it was split between the Mariana Islands and the Philippines.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. The Mariana Islands are Guam and Saipan, Tinian, and so forth. And then in the Philippines, I was in the southern Samar, which is the island directly below Leyte, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay. Was that a particularly active time or area?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. Because the -- the area that I was in was -- was what was called the Eastern Sea Frontier base, and it was a base where they could repair just about any ship of the Navy. And there were enormous supplies there which had been brought in for the invasion of Japan, and there was also a real theft problem and so they wanted that base to be more secured. And apparently as soon as the war was over, most of the men who had time in, they went home, and that left them with a real gap, so they took some of us who hadn't finished our time yet, and they flew us in. One of the problems were the supplies were going into China, and the Chinese communists apparently were buying them, purchasing them.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Oh.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>And this put a lot of stress on the First and Sixth Marine Division over there, as well as the China -- the regular Chinese Army, so they wanted to cut that supply line, I think. But, you know, this is from -- I was what -- a PFC at the time, so it's a kind of a low-level viewpoint, but this -- something like this is what we were told.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Now, how old were you at this point?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, I was 17 when I went in, and I was 20 when I came home, you know, so --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>And then after you came home is when you started college?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, I had some -- I -- I had to pick up some academic courses yet, so I went to night school and worked, and then when I had these finished, then I entered college, and I really didn't know what I wanted to do. There was so much to do.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>I found everything very interesting in college, but the USDA was always on our backs to get finished, get finished, this is government money you're spending, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>So why did you choose the fields that you went into?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, I was -- I was very interested in all these things that I was studying, geology, chemistry, physics, mathematics. I had a minor in German. I'd taken my German on examination for the requirement for college, so I took graduate courses and senior courses in German. I liked that, but I couldn't see any way of making a living with German literature unless I wanted to teach.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>And I was also looking for well-rounded education, so I took a lot of really disconnected things, but I finally had a lot of work in -- in physiology, and so I decided, well, I'll just take the one in natural history because that encompassed the -- the geology, the chemistry, the physics, and the biological sciences. In fact is I had to put it together because the -- the VA was saying you have been in college long enough, finish your degree, you're not going to become a professional student.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure, sure. So you were in college from roughly '47 to '50?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>No, no. I got in, in the -- January of '49.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>'49?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>'49.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>So right before you left?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. So I had a whole year in. Well, let's see, I was in from '49 -- I was there from '49 till '50, and then from the spring of '51 until the summer, so I had -- I basically had two years of college in that time because I also went through summer school.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay. So during the time you were in college, did you sense that this war -- that you were going to be involved in another war so soon?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>No, not at all. This came as a complete surprise. Everybody was shocked with the invasion of South Korea. You know, nobody was expecting that kind of a move from the North Koreans. And this is, I think, part of the problem with that war initially, was that the armed forces were just not prepared. They had cut them down drastically from the Second World War because they weren't expecting any combat, and the troops they had were not trained for combat, most of them anyway, you know. So everybody was surprised, and nobody was really prepared. And I think this is one reason they activated the Reserves so quickly. They needed a large mass of troops, and there were many men in the Reserves who had seen service in the Second World War and they formed the -- rather basis of the new units that -- or the old units that were being activated.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>At the time you found out that you were going to be going, you went to Korea, correct?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>When you found out you were going to Korea, you were in college. Were you married at the time or --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>No. I was still single, thank goodness, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Still single?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>How did that affect your family at the time?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, I don't think they really expected anything different from me, because I was always the guy who liked to wander around, you know. I -- I was too curious to just settle down to just one thing, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Were you excited to go back or --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>No, I don't think I was excited anymore. I was just saying I haven't been there yet, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>So you looked at it as an adventure, correct?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. That's -- I think most of us did. I -- I -- I liked the timing because I went to a lot of different places and saw a lot of different things. I mean, I could not have gone into the Mariana Islands. I could not have gone to the Philippines on my own, at least not very easily, or lived in Japan for a while or seen Korea. These were things, you know, that were -- oh, they were very foreign to us.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>The distances, you know, were enormous. Now you don't think anything of it. You can -- $1100, you can go visit Tokyo for a week or something, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure. So you left for Korea on that Monday. Do you remember it was in the summer?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. It was September 6th.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>September 6th --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- of 1950 --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>'50, right.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- correct? Do you remember arriving?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, I -- I remember we -- we arrived at Camp Pendleton about five days later. And we had a lot of the kids in the Reserves who had not had formal military training except what they had in summer camps, and so they took three weeks to try to give them some grounding, which was quite, quite different from what we had experienced in the Second World War. We -- we got about nine months of training -- well, six months of training them, but we had three months of boot camp, and it's in boot camp that the Marine Corps really forms, though, the discipline and the esprit and all that.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>So we were trying to train this these guys as we were going across the Pacific Ocean, and the training was not as, for many of -- for them, was not as strict and as strenuous as -- as it had been for us, but we had a lot of people to give leadership, so that helped.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Did you feel like that created any kind of disconnect between your troops, between kind of the new and the old and the well-trained and the not-so-well-trained or --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>No. I think that we -- the one -- the ones of us who had had experience, we felt it was our job to train them. Because in the Marine Corps, it was usually the sergeants that did the training, you know, whether you were in boot camp or you went into Camp Lejeune for advanced infantry or machine gun and mortar school, artillery, or what have you, the sergeants were the ones who were the source of the knowledge that you received. So that -- that was something that you were expected to do. One of the things you did was that you -- you were a teacher. You know, I mean, you weren't always running around parading or standing guard duty. You were always training. So that wasn't unusual. Of course, they -- the -- the ones who had not been, they had not shock -- been shocked out of their civilian life yet, whereas the experience at Parris Island is a very dramatic one, you know, and -- but they served the purpose. We got over there. And I know we -- we -- we landed. We went -- first we went to Kobe, Japan, then from Kobe, Japan, we went to Wonsan, Korea, which was up in the northern part. We landed up there, but it was a -- basically an administrative landing, and then we went up into the north further.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay. Kimberly: Could I interrupt for one second? I'm sorry. I hate to say, do you mind kind of just be aware of the -- the microphone there? It's small, but it picks up every noise, like if your left -- if your hands hit it or something.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Oh, yeah? Kimberly: Yeah. It goes {sound effects}. So that -- no. I'm sorry. I -- I hate to -- I hate to interrupt you and tell you that, but --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, I wish I'd known that, you know. Kimberly: No. That's okay. It wasn't -- that's okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>No, that's all right. Kimberly: It's all right. It's not a big deal. You can forget that it -- it's so small, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure. So you landed -- you left on September 6th. And when did you say you got into Japan and moved into Korea?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, I can't remember the dates, but I think we got to Korea the end of October.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>The end of October?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>And it was just when Indian summer was over, and it really got cold.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay. So you were pretty active once you got there. You guys were --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Oh, yeah, yeah. We were -- we were -- we -- we engaged the Chinese almost immediately, and we had -- well, until we pulled out of North Korea, we had a tremendous battle up there.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>In what area were you in --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>In the --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- region?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Let's see, the Chosin Reservoir.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay. Okay. So that would have been in November. At that time, you were with the Seventh Marine Regiment --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- correct? Okay. Can you give a little context to what was happening in the war at that time and what you guys were doing in that area?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, mainly what I relate to you is scuttlebutt. You know, when you're a corporal or a sergeant, you don't -- you're not well informed of -- about the whole -- or any of the strategy, but the idea was that the war was going to be over soon, and I think Mac -- MacArthur made the famous statement that we'd all be home by Christmas. Well, the Chinese came down with two armies and on -- and they began their attack on the 27th of November, and this is when the fighting really became intense. You know, they had, I guess, a quarter of a million men. And it -- it took about three weeks, I guess, to extricate ourselves from that, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>So when you say it took you that long to -- to get out of that situation, were you kind of cornered in that situation or --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>We were completely surrounded --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>-- you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>So you were massively outnumbered?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. And the -- the regiments were strung out along the -- the main supply line, which was a road about like a dirt gravel leading to a garage, very narrow, very mountainous, and a lot of snow. So we had to -- first, we had to get the regiments together. We had to pull into -- so that we could all face them as a united mass, and that was accomplished and then we fought our way out of that. And the -- the temperatures were really bad, you know, like 20 below zero, and there was no shelter basically except to sleep in the snow.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>How did you guys handle that -- that type of temperature challenge, among other things?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, I really -- I look back and I really wonder how we did that, but we did that. Now, there was a lot of frostbite, you know, because the -- the clothing we had was not suited to temperatures that were that low. I mean, they were good cold weather clothing, but not when you were 20 below zero. In some places, it was colder. And then, of course, the wind was blowing, so you had a windchill. And, for instance, you couldn't thaw any rations to eat them. It's like trying to go into your deep freeze and eat a steak, you know, that -- but the men coped, and we got out of there. Then we got our wounded out, and we buried the dead. And -- well, I went to the hospital after that because I was wounded several times.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>What -- what happened there?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>What do you mean?</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>How were you wounded? Where were --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>I was shot.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- you wounded?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>I was shot in the legs. First in one leg and then in the other, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>But you continued to fight?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Oh, yeah. We all did.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>How do -- do you -- do you recall how you, you know, kind of --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- got yourself through that?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>The guys were put on trucks, and the trucks rolling along. And if you were -- and the Chinese would attack the column, and they, of course, were greeted with a lot of fire. And when we got down to a town called Hagaru-ri, the engineers had flattened out a rice field. The rice field was in steps, you know, in terraces, and they flew planes in, and they flew out the wounded, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>And so you were -- were you flown out at that point --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah, uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- after you guys had kind of made your way?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. But we had a long way to go to get to that field.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>You know, we did.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure. That's amazing.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Oh, that's been written up a dozen time -- a hundred times, I guess.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Do you know approximately how many casualties and injuries came out of that situation for you guys?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>I -- they had something like -- I don't remember, but nine or ten thousand bad cases of frostbite. I'm talking about people losing limbs, fingers, and feet --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Boy.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>-- and hands, you know. And there were over a thousand that were killed by enemy fire. I know that. I know when I came back the next spring, there was hardly anyone left in the company that I'd been in, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure. While you were -- when you went to Korea, I know that when you were in World War II, you were a combat military policeman. Correct?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Were you doing the same thing in Korea?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>No. In Korea, first, I was in the Second Battalion, which was an infantry battalion. I was -- and there, I was a squad leader. And after I was wounded, I came back to the battalion, and I went into the Combat Intelligence unit because I had an intelligence rating. The only thing is the rating wasn't for Korea or China or Asia, it was for Germany, but I still had that rating.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>What does that mean when you say, "I had an intelligence rating"?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, it means that I spoke the language, I spoke a dialect, and I had lived there --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>-- you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay. How long were you in the hospital?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Oh, about three months, about three --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Did you have contact with your family during that time?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. I wrote them letters. And one time my mother called up and wanted to know what I was doing. I think she was afraid I was goofing off, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Were they worried?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Oh, yeah. Because in the first scramble that was up there, they lost track of me, and they reported me missing in action. And it wasn't until I got to Japan and I wrote a letter and the mailman saw it, well, that they knew, you know, I was in the hospital.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure, sure. So they thought that you were missing in action --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- for quite some time?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>And then they realized that you were --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- injured and in the hospital.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>And then you were able to talk to your mom, and she thought you were goofing off.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. Well, I think she always worried about that.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Yeah, yeah. So after your three months in the hospital, why didn't you get to go home; why did you go back to the war?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, if you were physically capable, you didn't go home, you know. This -- you had to have at least two Purple Hearts to get taken out of a combat zone, and I had one, you know. So I went back, and I -- I was there until I know in August, beginning of September, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>When you say you went back, you went back to?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>The battalion that I had been in, in Korea.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>And where were they at that time when you returned?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>They were just below the 38th parallel --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>-- as I recall, and then we went north from there. We went into an area called an Iron -- the Iron Triangle. I noticed they had one in Korea, too -- I mean in Viet -- Vietnam. It was a supply area, and we -- we took that and we forced them out of there. And then I guess the peace talks were coming in at that time, so the line became established at that point, and it --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>So that was in '50?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>One.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>In '51?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. '51, yeah. And then it was the -- the fighting -- well, it -- it didn't have a broad sweep, you know. There -- there would be very intense fighting in some spots and....</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>What was your regiment doing at that time?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>At the time of the peace talks or that -- that they initiated?</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>When you went back in and the peace talks were --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Oh, we were -- we were moving north again. We were attacking the Chinese. And the Chinese had assembled a very large force of men and they were starting to attack south again, and we headed them off. And this was the Chinese Spring Offensive, and they -- they had tremendous casualties; they just had enormous casualties. We took a lot of prisoners, too, at that time.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>What would happen when you would take a prisoner of war?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, first, the poor guy would be scared stiff, of course.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>You can imagine. And you try to put him at ease, you know. If you had a cigarette, you'd offer him a cigarette, or if he was staring at your canteen, he was probably thirsty, so you give him some water. And the prisoners then would go back to battalion headquarters where they were assembled, and then they were taken there -- from there to regiment. And at regiment, they had a -- a team of interrogators, and they would classify these guys, separate the officers from the men, and -- and they would be processed into a prison of war camp, you know. If they were wounded, then -- then, of course, their wounds were taken care of, you know. They were treated according to the Geneva Convention --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>-- in the handling of prisoners.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>We had Japanese prisoners, too, in the Second World War, and they were one happy gang of guys. I just -- I'd heard all this fierceness, you know, and -- but when you made a one-to-one contact with them, they were -- you know, they were all right. They were just like the Japanese civilians. They were, you know, very nice people. I was amazed at that, and when I was in Japan, you know, how much I enjoyed my stay there. But -- but this happened pretty much with all the prisoners that we had, whether they were Korean or they were Chinese or they were Japanese, when they -- when they saw it was over for them, they were really happy. And I guess this is one thing the United States has that's in its favor, it had a good reputation for the treatment of civilians and -- and prisoners. In fact, is when we pulled out of North Korea, we -- we evacuated over a hundred thousand civilians with us.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Wow.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>They didn't want any part of that anymore. And can you imagine getting down to the harbor and trying to load up a hundred thousand civilians aboard ships and take them away? But that was done, you know. If they had a chance to get out, they would walk their way out. They would not stay there --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>-- you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>So at the time of the peace talks, do you remember how you felt? Were you anxious --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- to get out of there or --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>No, no. I don't know why, you know. I guess it's the training you receive that you pretty well take it as it comes, and you cope with it, you know. I was glad to get home, you know, to go -- to leave in some respects, but then I was -- although there was a bit of sadness, too, because there were a lot of people there that I knew and liked, and the camaraderie was going to be gone now and so forth and so on.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>So during the -- kind of the quieter times when you were over there, were there quieter times?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Oh, yeah. You know, when you're in that kind of a war, you probably have about 95 percent sheer monotony and about five percent sheer terror, you know, something of -- I don't know if the proportions are right, but there's an awful lot of slack time because everybody is maneuvering --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>-- and you're continuously walking here and marching there and digging holes all over the place, you know, and -- and so forth and so on, so -- and there's very little -- there's no entertainment. I mean, books are scarce. And if you have a book and you read it, there are probably a hundred guys have already lined up to read it, too, you know --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>-- this sort of thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Did you guys devise any kind of entertainment for yourselves?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, we played cards. And we had a -- we'd have a bulk -- the rec -- recreation officer had a -- each battalion had one. He'd have a football and a basketball, maybe a soccer ball. But you see, you -- you really didn't have any time to do this because you were always moving. And unless they pulled you off the line, which they didn't do unless you needed replacements and needed new clothing and this sort of thing, you were pretty much engaged. I know that when we weren't fighting, one of my chief jobs, I -- I was a scout observer, and I would always be hunting out there, you know, either with telescopic sites and so forth, looking for enemy movement and -- or looking for prisoners to bring in or looking for civilians and bringing them in to get them interrogated, see what they knew about where the enemy was. So you were always busy with a lot of work, and there wasn't much time for play, even though there was this monotony. And every night, you were standing watch, you know. This is the other thing. You had 50 percent watch, supposedly. These are the front lines now. This is not anywheres to the rear --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>-- you know. This is where the action will take place. The Chinese were act -- were active mainly at night, you know, and there was a simple reason for it. First, they didn't want to be spotted; secondly, they wanted the element of surprise; and third, that we had enormous firepower that we could bring down on them which they couldn't match. So if they attacked, they attacked at night.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>So when did you sleep?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, you slept half the night, you know, two hours on, two hours off, and then during the day, you -- if you stopped someplace, you'd sleep. You'd grab sleep wherever you could. Sometimes nothing would happen for days. Then other times, it was just you'd really hit the jackpot, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Did -- did that affect you, not being able to sleep?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>I got tired and grouchy. I'll be honest with you.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure, sure. Did you get any medals during your times in the military or --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- ___ awards?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>-- you get a Purple Heart for being wounded. And then I don't know whether we had three Presidential Unit Citations, or four. I know we got one from the Korean government during the time that I was there, you know. But, I mean, I didn't get a Silver Star or Navy Cross or anything like that.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>What did you receive the award from the Korean government for?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, for the -- well, the proficiency, I suppose, in military activity. See, this is where a whole unit is cited for their conduct in combat, you know, this sort of thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>And the other -- the other awards were the same thing?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. They came -- they were given by the president.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay. Do you remember when you got to come home from the war?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. I mean, I remember, you know, the -- I was surprised. They -- they flew us down to Pusan, which was about two to three hundred miles to the south of where we were, and we anticipated we were going to get a long, dusty truck ride back, but they flew us down, and we waited there and we were put aboard ship, and we went to Japan and we spent a couple days in Japan buying souvenirs and things. You could really buy some nice things there. And then we got back aboard ship, and we took the northern route home, you know, and we saw the North Pacific in the fall, stormy and foggy, you know. It wasn't like crossing in the tropical part, which is very calm, you know. But we got to -- we pulled into San Francisco, and I remember the -- it was all fogged in. We went under the Golden Gate. The -- we could see the bridge above us, but we couldn't see anything else. And we went to Treasure Island for a night, and then they put us aboard a train and they took us down to the boot camp in San Di -- in, yeah, San Diego, and we were discharged from there. You had to go through a lot of physicals because there was a lot of -- there were a lot of parasites, and they wanted to make sure that they weren't bringing a lot of these things in. So the guys who were parasitized, we called them "germy," they had to stay until they were cleaned up, and the rest of us went home.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure, sure. What -- what's your most memorable experience from your time in Korea?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, I was always impressed at how beautiful the place was. You'd sit on a mountainside in the spring and you'd see the tamaracks, they were just being starting to green, and the sky was blue; and then in the fall, it was the same way, there was a color change, and the sky was brilliant; and then in -- in the wintertime when it was so cold, the sky was clear, and you thought you could pluck the stars out and bring them down, you know. The whole landscape was covered with snow, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>So you liked the traveling, seeing --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Oh, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- the world?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>When you came back, do you remember when you first saw your family and your mother, who thought you were goofing off?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>I think they were pretty shocked to see me, because I weighed about 150 pounds then. I'd lost a lot of weight, and I was really burnt dark, you know, by the exposure. But they were glad to see me, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Did they have anything special for you or --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, I don't -- no. No. We went home, and we had dinner, you know, and I talked with my family. They wanted to know what had been going on and so forth, you know. They told me of things that were happening in the family, you know, and -- and so forth and so on.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure. Did you keep -- after you got home, did you keep in touch with anyone that was in your unit?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Oh, yeah. I kept in touch for a while. In fact, some of them, they're start -- they're dying now, you know. They're -- and still, one of my friends is -- that lives still in Florida now, and another one is living up in Long Island. And that was about it though.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>So when you came home from the war, did you come home to New Jersey; was that where you were?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah, uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>And what did you do at that time? Did you get a job or you --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- you went back to school?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, I came back too late for the fall semester, so I went down to the government employment office or the state employment offices and I told them I'm looking for a job, and they got me a really good job and -- at least for that time, and I worked until the spring semester started and I went back to college and --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>What did you do there; what did you do when you were working?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Oh, I was -- I was playing the role of a chemist. I kept checking these solutions for their solids concentration, because they were picking them out of a vat and then rolling them and making sheets out of this material, and they had to keep those solids at a certain level in order to get the thickness they needed. It was really a dumb job, you know, but it -- it paid well. I guess the union got the title for it.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure. So when you went back to school, your education was supported by the GI Bill?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah, uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Do you think you would have gone to college without that?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, I was always pretty much of a bookworm. I always loved to read and -- but I honestly didn't know what colleges were. I know people went to them, but I didn't know what they did there. And the few of the people that had gone there who were, let's say, within a few years of me, they were usually people from pretty wealthy families, you know, and they went to Yale or Columbia or Princeton or Harvard or something like that, or Rutgers. And then the -- the people that I knew from the church affiliation that had gone to college, they were -- they were the people that I liked the most for some reason. You know, they were educated, and -- and I just didn't -- you know, the family -- we -- we had never had a college graduate in our family. Our family had always been business oriented and this sort of thing, and they were working people, you know, and -- but they didn't go to college, so --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Was that part of your reason for joining the military?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Oh, no, no. Because when I joined there, there was no GI Bill offered.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>No?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>I remembered we were -- we were sitting on Saipan there waiting to go on an invasion of Japan, and one of the guys came in all excited. He had gotten hold of a newspaper someplace. This was the other thing. You had no information of what was going on in the world. You knew when the Germans surrendered, and that was about it, you know. And he said, "Hey, you know what Congress did?" "No. What'd they do?" He said, "Well, they passed what they call a GI Bill of Rights, which means you -- they'll pay for you to go to college." And, of course, at that time there wasn't much opportunity at home because we were -- we had just come out of the Depression, and I -- and I was seriously thinking of making that a career, and when I heard that, I said, "By, God, I'm going to go to college, and if I go back in service, I'm going to try to go back as an officer," you know. So the GI Bill was tremendous. It really was. It was one of the best things that this country ever did --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>-- you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>So once you finally were persuaded that you couldn't be a full-time student, what did you do after that when you finally graduated from college and --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, when -- I had done quite well, and a couple of my professors encouraged me to go for a Ph.D., and I knew -- I knew they had PhDs, but I had no idea what it entailed. I mean, this was all new territory for me. So one of them got me an assistantship, and I started college that way, so I had some money, because the -- the Veterans Administration wouldn't support me for a doctorate's degree, you know. Enough is enough. But I found later on -- I found out later on that when I first started, when I first applied, if I had told them that I was going for a doctor's degree, they would have funded me all the way through.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Oh, shucks, huh?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Wow. Did you take part in any kind of veterans organizations; did you join --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Oh, I joined the -- the Marine Corps League for a while, and I'm still a member here in town, you know, but I don't go very regularly. No, not really. And I belong, of course, to the First Marine Division Association, you know, but that's about it.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>And we have a meeting once a year, and I usually attend that, so....</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>What's the Marine Corps mean to you?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, I can't tell you.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>You can't tell me?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>'Cause it -- it shaped your life? Yeah, I can tell. It's given you a lot. It's given you a lot. Do you think that without the military, you would have gone to school and -- and --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Oh, sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>You would have found a way?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Uh-huh. Because I had to start working, and I started going to night school. See?</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>And I would have gone on because my grades were always good, you know. I -- and I enjoyed studying. And, of course, when I found the research angle, that was even more fun, you know, and I was fortunate in starting that with one of the professors of physiology when I was an undergraduate, so I enjoyed that aspect, you know. I wasn't really a well-focused student. For instance, I'd go in the library to write a paper, and, "Ah, look at that, there's some Chinese short stories," so I'd sit down, and I'd start reading them. I'd liable to spend a week in that place in a stack and forget everything else, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Have you traveled since your time in the military?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, no -- well, yes. I'd have to -- I -- my wife and I have gone to England. We've been twice to Belgium. We went to -- because, well, my niece was in -- in Brussels. And we went to France and several times to Germany, you know, and....</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Have you ever been back to Korea or --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>No. No. I was thinking -- but it's too hard for my wife to get time off to go to these places, and she doesn't like for me to go alone, you know. And I'm -- well, you know, I also have the feeling you can't go home again, if you know -- like Virginia Woolf said. And I talked to the guys who went, and they said, "I went to the place I got shot, and I didn't realize it," said, "It was all overgrown with woods." Well, any place you fight, the shrubbery, it really gets destroyed, you know. You -- it looks like a World War I landscape. And they were amazed at the progress that had been made in Korea, and they -- they felt very good about it, you know. They felt it's something that we did which we did extremely well, and the Korean people are much better off because of us, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>So you really feel like you gave -- gave a lot to the Korean people. That's really great. I'm just going to look here real quick. You want to get a drink of water there?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. I think I'll have a drink.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>If you want to, you can ___+. Kimberly: Yeah. I'll __.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure. Are you getting hot under those lights yet?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>We're not sweating you out yet?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Not yet.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>I couldn't handle it, that's for sure. Of course, he looks a lot better on camera than we do.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Keep up the flattery, ladies.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Well, I think I've kind of covered everything I wanted to go through. Kimberly has a couple questions she wanted --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>-- to ask, so I'm going to let her kind of take over here for a minute. Kimberly: ___+ the mic is, and let me know when we're about at, I don't know, 55 or 60 minutes or so.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Sure. Kimberly: Okay. Okay. I just have a couple of questions, and just trying to think about how to piece this story together for the video and some other things I'm just curious about. I was doing some reading online, and I watched -- I just watched a documentary video today actually, and a lot of it focused on the movement of the troops from South Korea into North Korea and towards the Manchurian border. And there was -- I don't -- I just watched it like three hours ago, and I -- I couldn't get all the names of the places and everything right. And I was wondering if you could give me just kind of some historical background, I guess you'd say, on like what was going on in the south of Korea when you were at the -- at the Chosin -- is it Chosin Reservoir --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. Kimberly: -- is that what it's called? Like what -- what was going on tactically around -- around south of Korea and -- and North Korea?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, the -- the problem that happened is that -- I don't know, the Army, I guess was -- just was not prepared at that time, and they had a -- they had a disaster. I think the -- they had problems with leadership, I think they had problems with training, and when things became extremely severe, of course, there was a general collapse. Now, some -- don't misunderstand -- some units fought -- fought extremely well, but some of them, they were just -- I don't know why they were even in -- why these men were in the Army, to be truthful from the -- their attitudes that I encountered, you know. So they were trying to reorganize them, and they did. They got down past the 38th, and they reorganized. Then they got newly trained men in, and apparently this changed the whole perspective for them. You know, it took them about, I'd say, six months to get reoriented and get the men in who would accept war as something that an army does, you know. Kimberly: Now, when you were at the Chosin Reservoir, was all the activity that had happened in South Korea, had that already taken place, or was this happening at the same time and troops were at --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, what happened, the -- the First Marine Division had the task of going up through the middle of the peninsula to get to the Yalu, and the -- I think it was the Second Army Division was going up in the west or -- and some other -- and some Korean regiments and so forth, and then there was another group going up in the east, and the -- the Army -- and this is, again, you know, very foggy with me, they pretty well collapsed, you know. They left their equipment and they just took off, and we were standing there, we were still being ordered to attack north, and I guess the reason was to take the pressure off these other people. Now, this is nothing that I can say is official, what about -- what I'm saying, but this seemed to be what was going on. Well, we had this general, Marine General Oliver P. Smith, and he realized that he was getting so far separated from his source of supplies and stretched out so thin, like 75 miles -- you can imagine being stretched out at one division, 17,000 men, that if -- if an attack came, it would be a disaster, because when the Chinese came down, they hit us with -- I think it was 120,000 men, and so he stalled and he tried to bring the units together and he managed to do that, and this is probably one reason that we got out. This was one of the reasons. So in the south, I don't know what was going on with regard to other Army units or anything like this. The -- the South Koreans, the ones below the 38th, I think -- think, before the invasion, they had been propagandized, and I think they had a view that communism was a desirable thing. Well, when the North Korean armies came down through, they found out it wasn't quite what they had been told, and like the North Korean people, they just wanted out, and they came out with us. And you can imagine going down a road that's maybe as wide as from the wall over to here and evacuating a hundred thousand civilians over that road for a stretch of 50 or 60 miles at the temperatures that we were encountering. Our -- our wagon train was 17 miles long. Now, try to defend something like that. The enemy can pick wherever they want to fight, and they can bring in tremendous forces, concentrate them and cut it here and cut it there if they wanted to, but they didn't succeed in that, you know. So all the guys that I was with -- and we -- we never doubted that we were going to come out and that we were going to win. We were going to make it, you know. We knew that. Kimberly: How did you -- I mean, how did you manage to keep -- I want to -- I want to talk a little bit about the -- the kind of environment you were in, in terms of the weather. But before that, how -- I mean, how did you keep your morale up, I mean? I mean, were there -- did you guys do things? I mean, did you --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, I swore at all the guys who hadn't been through boot camp, you know, and they were pretty mad at me, and I think this was one we did a lot, you know. We would -- we were still trying to endow them with this esprit, and that's what carried it. Kimberly: Amazing. Tell me about, if you can, what -- I mean, from what I've read and what I've seen, I can't imagine enduring the elements like you and your men did in terms of the weather and the cold and the snow and the freezing temperatures. I mean, what -- how different was that for you from anything else you'd ever experienced?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, the guys always asked, "Was it this bad in the Pacific?" And I'd say, "No. At least I could lay down there without waking up dead the next morning, you know, being frozen to death." I mean, you know, our temperatures there were 80s, 90s, 100, 110. Here, it got 15 degrees above zero during the day. And if -- when we wanted to eat, we had to take our cans and we had to build a little shelter and build a fire in it and then take the can and hold it by the fire, not opened, and when you'd hear it pop, you know, let it come up a little bit. You'd shake it when you did -- when you heard it pop three times, then you took this little can opener and you opened it up, and you could eat. The stuff would be soft enough to swallow, you know. Kimberly: Not warm, though, huh?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, it was hot around the edges, but the middle might not be warm, you know. Kimberly: It's like a frozen TV dinner.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. And I know one time they came over and they were going to supply us with something to eat, and the Air Force guys, they didn't know what they could drop that we could eat immediately, you know, because everything was going to be frozen, so they bombed us with Tootsie Rolls. They flew over with cargo planes and they dumped these cases of Tootsie Rolls out, and they were all over the place, you know, but they were sugar and they'd melt, and this is what we needed was energy, you know. Kimberly: Wow.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Because we swore at them, you know. One wise guy came up and he -- he'd send up an order to the planes, "We want some steaks down here," so one of the planes came up, and they dropped 10 steaks. Well, we set those on fire, you know. It was this kind -- you know, we -- we'd have somebody to swear at and somebody to yell at, and that was all right. We -- we managed. Kimberly: You had to. My goodness.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. Kimberly: In terms of your -- when you were wounded, how -- I mean, how did they handle treatment? I mean, if -- if you were having a hard time thawing food to eat, I mean, were -- I mean, did they have IV bags? I mean, were things -- you know, morphine shots? I mean, were things -- were supplies like that frozen as well?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, the guys -- the corpsmen used to put the morphine ampules in their mouth to melt them. See? And as far as serum goes, forget it. That would just be frozen solid, you know. And they had to just take the worst cases, and they would fly them out on the observation planes, the two-seaters, the guys that had the worst wounds and get them to -- what's that television program about that Korean surgery unit? Kimberly: MASH?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>A MASH unit, yeah, which was, you know, in a safe area. And the rest of us, every day we'd get a great big ole penicillin pill, and I got that for I don't know how many days, but when I got into Japan, I was a mess from the wounds, you know, because they had -- they had started to become infected to some degree, and this is when you started getting some aid. Now, the -- the -- the physicians, they were doing the emergency stuff. I know they had a schoolhouse that they'd taken over at Hagaru-ri, which was right at -- on the reservoir, and they were just working day and night on the guys that had, you know, severe wounds that they could save with operations and so forth. They worked day and night. They got a tremendous number of wounded in there, you know. So every -- maybe in some respects, the cold was a blessing, because I think it kept the infection rate down with the penicillin, and also it slowed the bleeding, you know. Kimberly: I imagine, yeah. It seems the blood would like freeze before it would even have a chance to --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, I know mine was running down into my boot, and it was only getting down about this far before it froze, you know. Kimberly: That's just -- that amazes me. It amazes me that, you know, people can do that and make it through it and -- and, like you were saying, still keep your spirits up and feel, you know -- it's just amazing. What -- this -- your division that was kind of strung out along the 75-mile kind of -- I don't know if we would -- if you would call it -- you know what? Do you mind --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Supply line, I guess, you know, communication line. Kimberly: Let me move this up just a tad.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Okay. Kimberly: Just a tad there.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Okay. Kimberly: It's right where your hand was. That's --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. Kimberly: -- __ good. Yeah. This -- okay. So the 75-mile supply line, what did that feel like being -- knowing that, you know, your -- your men in your division were completely kind of stretched out along this way and -- I mean, were -- were the -- was there -- was the communication in play?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Oh, yeah, there was communication. It wasn't really tops, because the Marine Corps had a bad habit of buying surplus Army equipment for communications, at least we always accused them of it, get a lot of static, you know. But each unit was pretty self-contained. I think this was one of the strengths. And we had airpower, so we could get support from the air, providing that it wasn't snowing or cloudy or something like this. And on the battalion level, we had -- we had our own artillery, so we had the essentials that were required for very powerful defense, and then we would usually have a couple of tanks along. Now, tanks weren't very useful in Korea except as mobile artillery, at least not in the -- at that time. And so you could always put up a perimetered defense, and if they knew where you were, they would supply you. Like I was laying in the -- in one place they'd moved me to, and they wanted to know anybody here who knows where Fox Company is. Now, Fox was one of the companies of the Second Battalion. And we had come through that -- what was called the Toktong Pass. This was a pass between Hagaru-ri and Yudami-ni, and we had held that pass for a couple days before the Chinese came down, then we moved down to Yudami-ni, and Fox Company came in. Well, somehow, the guys who knew where Fox Company was had gotten killed or wounded, so, you know, I'm looking at this one fellow, and I says, "Hey, they replaced us up on the Toktong Pass." And the -- the intelligence officer says, "Where the hell's the Toktong Pass?" And we showed him where it was on the map. He had a -- a topo map. And they -- and sure enough, there they were sitting up on that pass, and they sat up there for over a week and held out against the Chinese, and they were supplied from the air, you know, to -- to a degree, you know. Kimberly: Did you all continually advance with -- in this area, or was it a matter of --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well -- Kimberly: -- holding your ground?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, when we got up to Hag -- to Yudami-ni on the 27 -- on the 27th and the 28th, we were supposed to advance north. Well, the Chinese blocked it, and there was some really ferocious fighting. And the officers, of course, knew immediately what was going on, so they pulled back into -- and put up a defense for Yudami-ni. See, there were only about 2,000 troops at Yudami-ni, and, I don't know, there were -- I've heard all kinds of numbers -- like 18,000 Chinese troops around it, so there was a couple days of really hard fighting up there while they built the airstrip and got the men out, you know, and this sort of thing. And by this time, the First -- the First Marine Regiment had come up and the First -- the Fifth and the -- the Seventh, which are the three regiments, infantry regiments, of the First Division, they were now assembled, see, and this gave -- this gave us a great deal of power, you know. After that, the efforts -- [The video recording stopped.] Kimberly: I'm just going to let that run for one second. Lost my pen. Get myself back together here. I'm sorry. Do you mind kind of going back to what you were talking about, about the Chinese kind of cutting this kind of --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. They -- they -- they interdicted the road in a number of places. They just cut out the whole road and -- because the engineers managed to restore it in most places, but the one place, it was just impossible because the span was too great. So the Air Force -- when Air -- an Air Force officer knew where they were, some of these bridges, that could be dropped by air, and they did drop them by air and they were inserted into this gap. And there was a real gruesome aspect about this. They were just a little bit too short, and they couldn't -- we couldn't dig anything to fill it in, so what they did is they filled it in with Chinese -- frozen Chinese bodies and put some wooden planks over them, you know, I mean, not the building material at that moment, you know. But they got the trucks and the vehicles and everything else out, and most of the civilians, you know, or a lot of the civilians. I don't know about most of the civilians. Kimberly: Talk to me a little bit about -- about what you saw with some of the North Korean civilians being kind of, I guess, evacuated, kind of refugees. I mean, just kind of speak to your experience about that, and, I mean, what was going through your mind as --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, you know, when you see families and kids and women and -- and so forth, you feel sorry for them, and really they deserve sympathy because they had a hellish life up there with the communists, you know. I remember going in on a -- on a patrol, we were trying to find out whether the Chinese troops had come down and where they were, and so we went out on a patrol and we went from village to village, and we would ask these --what we'd do is we'd get them to send all the men out. The -- our interpreters would want all the men out and we'd have them in a group, and then we'd take them one by one and the interpreters would ask them "Have you seen any Chinese going by? Have you seen any North Koreans? If you have, what were they -- did they -- what kind of weapons did they have?" And -- see, and we -- we kept them separate so that nobody could say that they had said this or that, because they had to live there, and you know very well that the -- the CCF forces were going to ask them. Well, the first village we came to, we interviewed a group of them like that, and then when we were -- and when we had -- when we had gotten the men out of the village, the women and children, they were all standing there and crying, you know. "What the hell's going on here," you know, I said. And so when we were finished, we told them, "Okay. Go back," you know, so forth, "Thank you for your cooperation," and so on. Now, I don't know Korean, but this is what the interpreter was telling me. And the guys, they were all smiling and bowing to us, and the women, they were so happy, you know. And I said to the interpreter, "What the hell's going on with this? What -- this is kind of an occasion." And he gave me this kind of a rotten grin, looking malicious, and he said, "They thought you were going to shoot them." This is what they expected. Kimberly: I mean, other than that initial fear when you came into their village, were they relieved that -- that you were there, or were they just kind of fearing for their own lives? Were they, I mean --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, they apparently had a pretty good grapevine, you know. They would know that we were there. They would know what we had done and what we hadn't done, you know. And we had a case where a couple of the guys grabbed a Korean girl in Hagaru-Ri there, and her father came around the street shouting and yelling, you know, and we found out what he wanted. We went back there, and we grabbed the two guys, we gave them a good, thorough beating, and I think that made a tremendous impression on the Koreans, you know, because this is not what they would expect with the Chinese and even their own Korean -- their fellow Korean soldiers, you know. They -- because you'd find them, they'd try to get away. And you'd be on a patrol and you'd find a whole family, and they'd all been shot. And they were accused of, you know, I guess returning their country and trying to flee to the Americans or whatever rubbish the -- the communists came up with. And this was not uncommon that they would -- that these atrocities would occur, you know. Kimberly: Did you mainly then engage in combat against Chinese forces and not so much North Korean?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Mainly against Chinese, yeah, because the Korean Army was pretty well defeated. They still had units, and they were still using them, but I think they were having some troubles with them. But mainly we had Chinese, yeah. Kimberly: And mostly the North Korean units were kind of dismantled, I mean, it sounds like at that point in time.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. I don't know. I didn't run into a great many of these people. Sometimes I'd run into someone, I'd be on a patrol or, you know, scouting, and, you know, you'd -- I'd yell at them, and they would give up and then I'd bring them back, you know, and this sort of thing would happen. They were -- I think if they could get out of it, they would. Now, I don't know if this was everybody's experience, but I had this kind of experience more than once. One time I heard a boy crying, and he was over a ridge. I was on one side of the ridge, walking. I didn't want to walk on the other side because I was exposed to enemy fire. And I heard this boy crying over there, or this child anyway, and I came over the ridge, and there were -- there must have been four or five boys. And a shell had come in and had exploded, and he had gotten hit in the arm by a lot of shell splinters. It wasn't anything serious, but, you know, you can imagine being 11 years old and how frightened he must have been. And they had an old Korean sergeant there. You could tell he was probably a top sergeant because he was fat enough for it. And I pointed my rifle at him, and he just shook his head and -- you know, and he waved his hand, and then I waved for him to come over and I took them back down to headquarters, to company headquarters, you know. And this is the kind of thing that happened. I guess they'd get these old guys to try to round up these kids to do some fighting for them, you know, and it was really sad, you know. Kimberly: Wow. This is the -- I'll make my paper rattling noise here. I mean, just one other thing I wanted to talk about and -- because I noticed this in, you know, some of the footage that I was seeing in some, you know, different things, and you mentioned it earlier, was that the Chinese tended to attack at night. And, I mean, was that unexpected?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. Kimberly: I mean, what -- how did you -- I mean, how did the American forces kind of react to that? You said you would have plenty of air support during the daytime.</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Well, you didn't get that at night, and you -- you got very little of anything. They would drop some flares for you some -- they -- you know, they would fire flares. But those were rare, you know. They -- they didn't have very many of them, and they had to really save them. So what you do is you fought at night. This is true in the -- in the islands too. The Japanese would attack at night, you know. And -- and I kept -- I'd always tell the guys, "Now, don't shoot until you can put their muzzles in their belly buttons," you know. It sounds gruesome, but this was -- and the reason was you -- you -- if you fired and they were some distance away, one, you were -- you were going to have a rather poor chance of hitting them; second, you'd give yourself away. So if you brought them right up close and then fought, you know.... And this worked pretty good. Of course, you know, you were never fighting on -- on level ground. You were always on top of a hill someplace with -- with them coming up the hill or down the ridge or something like this. Kimberly: I just have one more question, and you just -- I knew I was thinking about it earlier, and you just -- you reminded me there again. You talked a lot about how the men that were activated from the Reserves kind of did a lot of impromptu training --</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Yeah. Kimberly: -- for the younger guys, and -- and I guess the -- the newer troops. I mean, what about you in particular; I mean, do you feel as though you were really a mentor to some folks in particular?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Oh, sure, sure. Because in -- they were mainly seven -- they were mainly 18 years old, some of them were 17, they lied about their age, you know, and they were 18, some of them were 19, and I was what, 24, 25 at the time, and -- 25, I guess, and they were looking for leadership, and I was one of the old men by this time, you know. It -- it's sad, but it's true, you know. And the guys that were -- most of them were overwhelmingly willing to learn, and no matter how frightened they were, they did what they had to do, you know, without the total package of training that the rest of us had gone through, and they did very well, you know. They did very well. But you really had to -- you really had to lead, you know, because they weren't -- they -- they couldn't conjure up what to do next even if you had told them, you know. We had a lot of practice. I mean, when we weren't fighting before, we were practicing, we were training, you know, and so everything became second nature to you. Well, these people, these kids, they had not -- or these men, they were men, they fought like men, it hadn't become second nature to them yet, you know. Kimberly: Excellent. I think -- I think that's good. I think that's all I was going to kind of --</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Do you have anything you would want to add about your experiences or...?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>No. I -- I like my experience.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Do you want to add anything to that?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>Huh-uh.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay. Is that all?</p>
+               </sp>
+               <sp>
+                  <speaker>Valentin Ulrich</speaker>
+                  <p>That's all.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Okay. Kimberly: All right.</p>
+               </sp>
+               <sp>
+                  <speaker>Melissa Nethken</speaker>
+                  <p>Thank you.</p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

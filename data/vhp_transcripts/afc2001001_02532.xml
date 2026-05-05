@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd" >
+<!--
+<!DOCTYPE TEI.2 SYSTEM "../teixlite.dtd" >
+-->
+<TEI.2>
+	<teiHeader type="vets_interview">
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of interview with John Henry Kauffman, Jr. on April 9, 2002</title>
+				<author>Sherry Dee Gilson</author>
+				<respStmt>
+					<resp>Encoded by</resp>
+					<name>Matthew McCrady</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Transcript of interview with John Henry Kauffman, Jr. on April 9, 2002</title>
+					<author>Sherry Dee Gilson</author>
+					<date>April 9, 2002</date>
+				</bibl>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Encoded for the Experiencing War web site.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>The entire interview with John Henry Kauffman, Jr. was digitized.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+			</editorialDecl>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div0 type="title" id="Kauff1" n="1">
+			<!-- begins encoded document -->
+			<p>TRANSCRIPT OF TAPE RECORDING OF MASTER CHIEF JOHN HENRY KAUFFMAN, JR. (RETIRED) ON April 9,2002.</p>
+			<div1 type="preface_text" id="Kauff2" n="1">
+				<!-- No Preface -->
+		   <div2 type="body_text" id="Kauff3" n="1">
+		   <sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>Today is Tuesday, April 9, 2002. The veteran's name is <name type="person" key="JHK" reg="Kauffman, John Henry, Jr.">John Henry Kauffman, Jr.</name> His birth date is December 27, 1917 and his current address is 19 East Roberts Court, Portsmouth, Virginia. The wars during which he served are <name type="thing" key="WWII" reg="World War II">World War II</name>, <name type="thing" key="KWAR" reg="Korean War">the Korean War</name> and <name type="thing" key="VWAR" reg="Vietnam War">the Vietnam War</name>. He was in the United States Navy from the 26th of February 1941, to the 1st of October 1968 and retired as a Master Chief.  My name is <rs type="person" key="SDG" reg="Gilson, Sherry D">Sherry Dee Gilson</rs> and I am his daughter. </p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>This is <name type="person" key="JHK" reg="Kauffman, John Henry, Jr.">John Kauffman</name>. I'm talking to my daughter, interviewed to find out about my service, how long I served, if I really enjoyed the Navy and so forth.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>I'd like you to talk now, Dad, about when you enlisted, where were you living, why did you join and why did you pick the Navy and what was it like during your time in boot camp.</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>Before I joined the Navy, I was working in a grocery store in Newton, Kansas. I had 
+gone there after graduating from high school and heard rumors that there might be a war starting so I decided to enlist in the Navy. I joined the Navy in Kansas City, Missouri in February of 1941. I went to boot camp at the Great Lakes Naval Training Station and enjoyed it very much. From there I had a choice of what I wanted to do or where I wanted to go to school. And I decided to be a hospital corpsman so I volunteered for school and went to Brooklyn, New York.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>Why did you pick the Navy, Dad? And why did you decide that you'd like to be a hospital corpsman?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>Before joining the Navy, I had talked to several people who worked in the drugstore in my hometown in Missouri and thought that being a corpsman or working with sick people would be my best choice. </p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>When you were in boot camp do you remember any of your instructors and did any of them make a particular impression on you?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>We had one. They always pick a leader from your class at Great Lakes to be the leader of your class. And we had one guy who I liked very much who was picked to be the leader. And we didn't have any trouble and I don't remember any names personally at boot camp. Although we did have quite a few cases of flu and I was lucky enough not to get it. </p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>How about when you first went to school to be a hospital corpsman? Are there any particular memories or experiences that you have about that? </p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>When I went to Brooklyn to go to Corps School, a Lieutenant Commander in the Hospital Corps called me in his office and said that most of the leaders and best grades have been made by people from the Mdwest; therefore, I'm going to select you as the adjutant to lead the class while you're here.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>And how long did the school last and where did you go after that?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>After school, which lasted about six weeks, around six weeks then, I was asked where I wanted to go. I could have stayed at Brooklyn, New York, but I decided to go to Newport, Rhode Island, to work with the recruits there.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>And how long did you stay in Newport and what was your job while you were there?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>I stayed in Newport, Rhode Island ftom about June 1941 to about March 1942. 1 enjoyed it very much and advanced to, not quite. I didn't make petty officer there. And was ordered to go to a hospital in Ireland.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>So your first overseas experience was in Ireland. How long did you serve there and what were your duties during the time that you were there?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>We had a hospital in Northern Ireland, in Londonderry, Northern Ireland. All our officers were selected doctors from all the big hospitals in the United States, specialists ftom the Mayo Clinic and so forth. I worked on a surgical ward for about a year and also worked in EENT and helped the doctor in the operation of tonsillectomies.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>I know from looking through your albums that at least one famous person visited while you were there, Eleanor Roosevelt. Can you talk a little about that and about any other of your memories about Northern Ireland?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>Eleanor Roosevelt was traveling all over the world at this time; this was the latter part of 1942. She came to our hospital one day. Of course, all the officers were lined up to greet her and I was standing close by with my camera and I got a very good shot of Mrs. Roosevelt and she said 'Hello".</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>After your time in Londonderry, Northern Ireland, what happened next?</p>
+				</sp>
+<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>At the time, I'd met a girl in Fall River, Massachusetts, before I went overseas, Diana Michaud, and we had been writing letters quite frequently. So when I returned from Ireland, I immediately reported to Long Beach, New York, then I went to see her.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>That, of course, would be my mother and shortly after arriving back in Fall River, as a matter of fact, I think after three days of arriving, they were married and then went on their honeymoon back to Missouri to visit my father's family and from there, what happened next, Dad?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>From there, I was ordered to Great Lakes for duty. By this time, I'd made Hospital man First Class and I was in charge, or was the head of one of the dispensaries at Great Lakes. At that time, Great Lakes was the largest city in the state of Illinois. They had more people at Great Lakes, counting civil service and sailors, than the city of Chicago and I enjoyed my work there very much.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>The war, of course, was still going on and after your time in Great Lakes, what was your next assignment?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>After Great Lakes, I was ordered to go to <name type="place" key="OKJP" reg="Okinawa, Japan">Okinawa</name>. Well, at first they trained a bunch of us corpsman in Lido Beach, New York, to probably join the Marines and we were supposed to invade Japan. We went to training with the Marines and then went to <name type="place" key="OKJP" reg="Okinawa, Japan">Okinawa</name>. And as we stepped off the ship on <name type="place" key="OKJP" reg="Okinawa, Japan">Okinawa</name> the war was declared over.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>But although the war was over, I know that you stayed in <name type="place" key="OKJP" reg="Okinawa, Japan">Okinawa</name> for a long time because I've been told you went overseas when I was two weeks old and came home when I was two and one-half years old. So what did you do during that time in <name type="place" key="OKJP" reg="Okinawa, Japan">Okinawa</name>?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>In <name type="place" key="OKJP" reg="Okinawa, Japan">Okinawa</name> we had many experiences. Of course, we have to realize that at that time there were some Japanese still running around on the island of <name type="place" key="OKJP" reg="Okinawa, Japan">Okinawa</name> even though the war was over. We built a big hospital there, the Seabees did, and we had many patients in the next couple of years before I was ordered back to the United States.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>Who were the patients? Were they just Navy folks or other people and what did you do with the patients and how long were you there?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>Of course, this was a regular hospital, a large hospital. We had nurses, officers, doctors. We took care of a lot of Navy people, of course, and at one time during the time I was there, we had a big typhoon and had a lot of casualties from that, off the ship. We just took care of our own patients, our own sailors.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>Following <name type="place" key="OKJP" reg="Okinawa, Japan">Okinawa</name>, you returned, of course, to the United States and then would you tell us some about the rest of your career up until Guam which was the next time, even though a war wasn't on, that you had some experience with that while you were there.</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>After coming back from Okinawa, of course, I came back to the States. My daughter at that time, I don't think she even said a word of English because my wife was from Canada and spoke French in her home so my daughter really didn't speak any English with me, but it seemed like she recognized me right away. And I was ordered then to Chelsea, Massachusetts, and soon after I arrived there they sent me to Pharmacy and Chemistry School in Bethesda, Maryland. I became a Pharmacy Technician and came back to Chelsea and worked there for the next two years as a Pharmacy Technician, running a pharmacy and then I was ordered to Guam. After about eighteen months, my wife and daughter joined me in Guam and we had a very good time there for the next two - two and a half years.</p>
+				</sp>
+<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>Why was it that my mother and I weren't able to go to Guam with you at the beginning? What was going on in the island at that time?</p>
+				</sp>
+<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>At the time I was ordered to Guam, of course, the Vietnam War hadn't broken out as fierce as it came, but that was where most of the trouble was so that's why your family couldn't join you in Guam right away. You had to wait and see if anything got any better.</p>
+				</sp>
+<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>Let's go back and talk a little bit about Northern Ireland. While you were there, how did you stay in touch with Mom and with your family back home? What was the food like? Did you have the medical supplies you needed at the hospital? </p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>Oh yes, I guess in Londonderry, Northern Ireland, I guess the Navy had planned many years ahead of time that probably this was going to happen and, of course, Londonderry, Northern Ireland, had a big Navy base there where they repaired ships and, of course, in Belfast, the Air Force, a big Boeing aircraft factory was there during the war so this was something that had been planned for some time. In Northern Ireland we had great food although a lot of it came over as frozen food, but we were treated well, had a great hospital there and a great bunch of corpsman and of course we enjoyed ourselves very much while we were in Northern Ireland.</p>
+				</sp>
+				 <sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>Did you get time off while you were there and if you did, what did you do for entertainment, either there or did you get to travel at all?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>While we were in Northern Ireland, they had an Admiral in London, the head of A the Naval forces, who said that at least while you had a two year tour you were granted at least a thirty day leave, a ten day leave, I'm sorry, at one time during your tour. So most of us went to London for a ten-day leave although that time the Germans were bombing the place continuously. But there were shelters, of course, and we went with all the Englishmen to the shelters. And we had a great time there and even at one time, I was on a baseball team and we played baseball there one time.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>I know that during the war there were lots of folks going around entertaining. Did you have any entertainers come and entertain you guys while you were in Ireland?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>Of yes, while we were in Northern Ireland probably the biggest group that came over was <name type="person" key="BH" reg="Hope. Bob">Bob Hope</name> with all his group and he was really an entertainer. Anne Devork and a couple of other people were with him and we really had a great time and he really put on a great show.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>How about your time in <name type="place" key="OKJP" reg="Okinawa, Japan">Okinawa</name>? How was the situation there? Since you basically built this place from scratch, regarding the food and supplies and generally your life there?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>We had great food. Of course the ships come in and you have food, the only thing you lack very much of during wartime is fresh vegetables, like lettuce and stuff like that.  But of course you got all your frozen meats, frozen milk came in that way. But we didn't have anybody visit us while we were in <name type="place" key="OKJP" reg="Okinawa, Japan">Okinawa</name>. No shows were going on there because at that time we still had trouble with Japanese running all over the place.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>Did you get any leave during the time you were in <name type="place" key="OKJP" reg="Okinawa, Japan">Okinawa</name> or did you stay there during the entire time and were you aboard ship or did you live at the hospital itself?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>No, while we were on <name type="place" key="OKJP" reg="Okinawa, Japan">Okinawa</name> we did not get any vacation, leave whatsoever. I was there about a year and a half, I guess, and really no entertainment whatsoever. We played a lot of softball among our group of sailors and air force, but outside of that, no visitors of any kind.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>OK, we've gotten you up to Guam. Once you finished your time in Guam, where did you go from there?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>When I came back from Guam, I was ordered to the Naval Air Station in Brunswick, Maine. It was here that our son was bom. That time, my wife Diana, there was no hospital right at Brunswick Maine, so we had to drive to Portsmouth, New Hampshire, a distance of, I think it was about sixty miles, where she gave birth to our son John. We stayed there for about two and a half years and then was ordered to the USS Macon, a big heavy cruiser in Norfok VA. This was in about 1952.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>I think just a small correction, the Macon. OK, I'm sorry, the Macon moved to Boston and then my father spent time there while we, for the first time, my Mom, my little brother and I, lived in Fall River Massachusetts, which is my mother's home, which is only about fifty miles away. I remember during that time Dad was on many, many cruises. He was gone more than he was home during that period of time. Can you talk to us some about that?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>Of course, the Macon had probably the first Regulas missile, which was on the Macon, and we did have the atomic bomb capabllity with the Regulas missile. We were honored to have the midshipmen on most of our cruises. We went to Sweden on one cruise with the midshipmen. We also went across the Equator down to South America. The midshipmen were on that cruise. But we never ran into any trouble while I was on the Macon, but this was a great crew, we had great skippers and had a great time.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>And once you were done with your time on the Macon, where did you go from there?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>After being on the Macon, I was ordered to go to Instructors School and become an instructor, as the Navy likes to use their sailors, especially their senior rates. At this time, I was a Chief Hospital Corpsman and I was ordered to Norfolk, Virginia and from there to the Naval Hospital in Portsmouth, Virginia, as an instructor to teach various classes during the year and I instructed, being a pharmacy technician, I instructed, Materia Medica at the school for the next three years and also occasionally instructed the Pharmacy students and at that time our family bought a home in Portsmouth, Virginia, and my family was here during that time.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>After your first stint in instructor's school, I know that you went back to sea while I was off in college. Talk to us about that part of your Navy life.</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>Of course, you have a rotation of duty and after you have about three years of shore duty, you are ordered back to sea for three years to even up the service and I was ordered to go aboard the <name type="thing" key="MOUN" reg="U.S.S. Mountrail">USS Mount rail (sic.), an APA 213</name>. at Little Creek, Virginia. Of course, the Little Creek has many operations, including the Marines and from there we took on Marines from Morehead City and would go to make practice landings in Spain, Italy and various places. So here again we made about three Med cruises on the <name type="thing" key="MOUN" reg="U.S.S. Mountrail">Mount rail</name>.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>I think, if I remember correctly, at that time, <name type="thing" key="CMC" reg="Cuban Missle Crisis">the Cuban missile crisis</name> came along and I believe, if I remember right, your ship went off to that. You want to talk about that a little bit. </p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>We were ordered one day on a Sunday&#151;got a telephone call, hey, we got quite an operation down in Guantanamo Bay so they ordered a bunch of us transport ships down there to bring back the dependents and all their cars from Guantanamo. We pulled in and sat near the dock for about four hours and listened to whether or not <name type="person" key="JFK" reg="Kennedy, John F.">President Kennedy</name> was going to invade Guantanamo. At the last minute this was called off so we left the dependents there and all their automobiles and, of course, we returned to the states.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>And after your tour on <name type="thing" key="MOUN" reg="U.S.S. Mountrail">the Mount rail</name>, you returned back to Portsmouth Naval Hospital until your retirement. You want to talk a little bit about your last, there was more than one tour, I think, your last time there.</p>
+				</sp>
+<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>Yes, this tour was my last one. This was around 1962, something like that. Of course, while we were down on <name type="thing" key="MOUN" reg="U.S.S. Mountrail">the Mount rail</name> on one trip, down to Puerto Rico, San Juan, of course, our President was assassinated and that was a very bad time for all of us. But then about 1965, my cruise on <name type="thing" key="MOUN" reg="U.S.S. Mountrail">the Mount rail</name> was over and as an instructor, I was ordered back to the Naval Hospital for the same position that I had before. Of course, during this time, I had a chance to get advanced in rating and became a senior chief and from there I retired in 1968.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>And during the time you were working at the Hospital, I know that you worked part time as a pharmacist at a local pharmacy. Talk to us some about the work you continued to do after you retired from the Navy.</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>While I was stationed at the Naval Hospital we had chances to work part time at various jobs. I had a chance to work at a local drugstore every other night and also every other weekend; therefore, I got a lot of experience working at civilian pharmacies. And after I retired, I got a fulltime position as a pharmacy technician. I worked there until I drew Social Security, which all together amounted to about 16 years of service&#151;of duty in working in a drugstore in civilian life. Now in my older life, I volunteer for the Navy, which has a satellite pharmacy at Scott Center at the Naval Shipyard, and there I volunteer four hours every week to keep busy.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>And besides that I know that you are also part of a veterans organization here. Can you talk about that and what you do there and how you spend your time there? </p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>Yes, we have, of course, many fleet reserve associations all over the United States and I'm a member of Reserve Fleet 40 which is located in Chesapeake, VA. I haven't attended those meetings too often, but we are involved in going there for various celebrations on the 4h of July and stay close and go to many of their outings and also enjoy having dinner there every Friday night.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>And I believe one of your ships, I think it's the <name type="thing" key="MAC" reg="U.S.S. Macon CA-132">Macon</name>, has regular reunions. You want to talk about that too.</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p> <name type="thing" key="MAC" reg="U.S.S. Macon CA-132">The USS Macon</name> and also the other places, we've been to two or three reunions that <name type="thing" key="MAC" reg="U.S.S. Macon CA-132">the USS Macon</name> has had&#151;one in Boston, one in Philadelphia, one here in Norfok and also the Hospital Corpsman have a club and we were very fortunate to attend a reunion of the Hospital Corps out in San Diego a couple of years ago and we really had a good time.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>OK, well, I think that we've gotten up until today.  Is there anything that you'd like to add, Dad, that we haven't covered in this interview?</p>
+				</sp>
+				<sp>
+		   <speaker>John Henry Kauffman, Jr.</speaker>
+				<p>No, all I can say I'm very proud that I've been a sailor in the United States Navy. My twenty-eight years of service I really enjoyed most of it. That's part of the Navy fife and I enjoyed every bit of it.</p>
+				</sp>
+				<sp>
+		   <speaker>Sherry Gilson</speaker>
+				<p>Well, Dad, thanks very much for this opportunity to interview you and listen to your story. I've learned some things that I didn't know and I hope that the people that listen to this in the future will find it useful and interesting.</p>
+				</sp>
+				<trailer>Conclusion of interview.</trailer>
+				</div2>
+				</div1>
+			</div0>
+		</body>
+	</text>
+</TEI.2>

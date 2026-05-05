@@ -1,0 +1,16 @@
+spacy
+textstat
+datefinder
+pandas
+scikit-learn
+matplotlib
+seaborn
+requests
+aiohttp
+nest_asyncio
+PyPDF2
+tqdm
+lxml
+sentence-transformers
+vaderSentiment
+nrclex

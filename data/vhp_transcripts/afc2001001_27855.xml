@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with Margaret Marie Harlan, 4/14/2005</title>
+            <author>Mary Beelek</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Matthew McCrady</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with Margaret Marie Harlan</title>
+               <author>Mary Beelek</author>
+               <date>4/14/2005</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with Margaret Marie Harlan was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with Margaret Marie Harlan [4/14/2005]</head>
+            <div2>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Margaret, will you give me your full name?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Margaret Marie Harlan</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>And your date of birth?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>9/2/16</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Where were you born, Margaret?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Grafton, Illinois.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>What is your address now?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>909 Center Street, Warrenton, Mo. 63383</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Were you raised in Grafton?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>'Til I was 5 years old.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Then where did you move?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>We moved to Portage de Sioux, Mo.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>How many children were in your family, Margaret?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Three girls, 4 boys.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>I was the oldest daughter...the 3rd child.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Did you have any of your birth family in the military?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes, my oldest brother, Diamond was in the Army.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>In what war?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>WWII</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Do you have any idea when he went into the Army?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>I think maybe '41.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Did he have to go overseas?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>No. He was discharged because of medical reasons (ulcers).</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Were any of your other brothers in the service?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Gilbert was in service.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>What branch of the service was he in?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>The Navy.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Did he have overseas duty?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>He was on Guadalcanal, I know that.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>And any place else you can remember?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Why does Guadalcanal...?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Well, he said that was really a bad spot. And also he was bit by a scorpion there it really made him sick and we found that out.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Do you know what his duty was in the military?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes, he was a cook.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>I understand your Dad had been a cook in WW I.</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes. And my oldest brother was a cook too.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Were there any other family members in the service?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes. Howard</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>When was he in?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Between the two wars, between WW II and Korea.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Did he have to serve overseas?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>No, he was in the Military Police the whole time in Albuquerque, New Mexico.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>While Gilbert was in and overseas, did you have the slightest idea where he was?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes, we did. Dad had a big map in the hallway where people couldn't see it just walking around, like in the family area. And he started right away. Any information he got of the family and all the neighbors, he put their names on there. And he would keep track of them with what information he could because at the time they couldn't write where they were and what they were doing. We had this code we used, like if they were in Europe and we found out a few things like that.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>So, since your Dad had WW I experience, he was smart enough to devise a code with his boys?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes. And he knew who they served under which really helped because he would keep track MacArthur, and everybody, Patton, and he knew where they were. When they left the farm they never kept that map. They just threw it away.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>After you and Willie were married where did you live?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>We lived at Palmyra, Mo. And Willie worked for a dairy up there. They furnished us a house and then we got the word he had to go. In fact, he and his brother had anticipated this and they planted a big garden all in potatoes. So, when he got ready to go into service, we had all these potatoes, bushels and bushels of potatoes!. I never saw so many potatoes! And we only had a few days ...we sold them for, I think, for 50cents a bushel. And he gave away a lot of them to people in town.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>When were you and Willie married?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>We were married May 16, 1942 in Warrenton, Mo. Married by the minister at the United Church of Christ.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>How did your family feel about your marriage?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Well, Dad thought I was awfully young. I was 15, soon to be 16. He wanted me to go on to school and I told him I would work toward that but I wanted to get married though. So, he said since Willie wouldn't have to go to service - he didn't think Willie was very strong - he was a real skinny boy. So we got married. He was 19. So there's where we lived. We got nice furniture to furnish the house with and a week later Willie got his notice. So we just took it back and they gave us our money back.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Then where did you move?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>He moved me back home to my parents and I stayed there all during the war.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>at that time your parents were living where?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>At Augusta, Mo.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>If you were from Portage and Willie was from Palmyra, how come you got married in Warrenton?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Well, before moving to Augusta, we had lived at Schluersburg. That's a little German town over from Augusta. There we went to the little country school where they taught everybody in 1 room. And we learned from the older ones. It was really nice. Willie's parents had a timber company cutting timber off back in there. They came by our place, just walking by and my brothers were about the same age as Willie. They just started talking. They started coming up every once in a while and Willie started looking for work around there and he was hired on the dairy farm right down from where we lived. We just grew up together. And the first time I saw him, I knew then. He was like my brothers.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>So, how did it come about that you were married in Warrenton?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Because at that time we went to the Evangelical Church in Augusta. And that summer they had no minister. And Mom said "My girls are going to be married in church." And so we came to Warrenton to get our license, that same man issued my parents license when they got married, issued our license. And we got married by the United Church of Christ minister here.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>And when were your parents married, remember?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>I understand there was a little personal information that you didn't share with Willie when he went to Basic Training.</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>No. I was pregnant - at least I suspicioned it, but I didn't say a word because I didn't want to worry him. Although Dad said he won't be in the service very long with a baby coming - you know, he'll be out. But it didn't work that way.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Well, Uncle Sam had a different idea, didn't he?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>So when did Willie learn that you were pregnant?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>He got a 3 day pass between deployments - it was after boots. I was just barely showing pretty good and he knew. That baby was born premature. Now, they could have saved him-he weighed about 6 pounds. We named him Wilbur Diamond. He made 1 cry. The doctor was there, at home, but couldn't do anything. They had; an American Legion Post there and my Dad belonged. He belonged to the American Legion ever since it started - down at Portage de Sioux and all the people of Augusta were so good to us. He is buried in the cemetery there.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>After you moved back home what did you do?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Well, after I had my baby, I helped Mom take care of my brothers and sisters. We lived on a farm and raised chickens. We did everything, had cows, pigs, garden - we did everything farmers do. And I went back -a year and a half so I have a GED. Mom had like a nervous breakdown, but when Mom got better I went to work at the shoe factory in Washington to make paratrooper boots. And my sister, Gladys was already working There and they needed help.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Did Gladys live at home too?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>How old were you when you started there, do you know?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>About 18.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>So what part of the making paratrooper boots did you do?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>I sewed the uppers on and the tongue in.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Were there any men working at the factory?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>There were, but they were older men or handicapped. There were older ladies and really young kids. I don't know if they if they had a law at that time, but my sister was much younger than me and I don't think she was 16.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>I learned that was the case from research I've done - they weren't too particular about the age if they were able to do the job.</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>My sister was a big girl and she looked more mature than she was. But there were several girls that worked there and they really were healthy, sturdy people.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Did they give you training on the sewing machine before you actually did the work?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Do you know how long that training was?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Well, no. I do know I got an award and had my picture in the Washington paper because I had made perfect paratrooper boots.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>What kind of an award did you get?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Just paper. Everybody stood around and there was some Army personnel there, I guess making sure everything was done right. You know, that's all we did at that time - make things for the service.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Was this award something the factory dreamed up of was it from the production forces in America would make awards.</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes, and I remember there was service personnel there and a couple of distinguished looking gentlemen and I thought they were connected with the International Shoe Factory. And I think we had some snacks or something.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Do you have a picture of the event?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>No. My Mom and Dad had all that stuff. I don't know whatever happened to it all.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Did you like that work?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes. We rode on an old battered-up school bus over there. We only made 42 cents an hour. And we paid 50 cents a week to ride that old school bus. And we walked a mile and a half to catch the school bus.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>What shift did you work?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Day.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>The men that worked at the factory. How did they treat you?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Very well. I never had any problems. Most were older men and women. They didn't need to work, but they were needed to work.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>So what were some of your worries during that period?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>I'll tell you what. I've always had a really strong faith. And I believed things would turn out the way they were supposed to.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>That's what got you through comparatively well?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes, and a good family. And I had a lot of friends there. The people of Augusta were great and supported us, especially if something would happen.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>What did that do to the group of you who were war wives when you heard of a casualty?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Oh, everybody rallied around them. You know, when there were happy times like birthdays and anything that come up - like my Dad, had a radio and he never missed the news. He only turned it on for the news. And we always had the newspaper. We didn't have a lot of money, but we did things like that, getting together and talking to neighbors. I just really had never thought that Willie would not get back. His mother always said she knew he wouldn't make it, but I knew he would.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Compare the relationship of a group of military families back then and the spirit of families and neighborhoods today.</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>There was never any put-downs. Maybe it was because we were all going through the same thing. And we knew everybody because we went to school with them. Or if you didn't go to school with them you went with their brothers.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>And chances are, every family had somebody in the military?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Oh, yes. In fact, a couple of the young men did not qualify for service. I never heard anybody call them bad names because they stepped right up to do things that had to be done during the war. I knew one man, Ludwig Borgman. He could not pass because he was flat-footed. He was real tall. At least to me he looked tall. For entertainment they would have barn dances or harvest dances and he would go and he would dance with every one of us ladies. Just as nice and polite as he could be. And there were several like that. Sometimes we'd go to a movie in his car. No romance or trying to steal somebody's girlfriend while they were gone.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>How did you get the news that Willie had been wounded?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Well, our mail carrier, Mr. Meyer, whenever we'd get mail, he would bring it right up to the house and here he came driving up to the house and he said, "I want you to open this box." And he said, "Did you get any calls or anything?" He said these boxes usually have the Purple Heart in them and I opened it and there was the Purple Heart.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>So you got the Purple Heart before you even heard he was wounded?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>It was in the box and then I got a call the next day from the chaplain. Willie was in the hospital in England. Then after that I got a letter from the chaplain of the Red Cross.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>I've never heard that before...that the Purple Heart was delivered before the word was delivered.</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes. It was. Willie said the Red Cross was there right away and he gave them my name and all. And when he got better, they took him on little trips so he could get out a little. He didn't have any money, so they gave him some when he went out and we paid them back so they could have it for somebody else if they needed it. They were very good to him.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>How often did you write to Willie?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Every day. And Willie's family was very good to me. Willie had a little sister the same age as my little brother. And they would bring her down and she would stay with us as long as I wanted. She'd play with my little brother. But Willie's mother had a very pessimistic outlook. She'd say, "Margaret, Willie will not be back." We didn't visit too much. And this lady went to church all the time, but she couldn't look on the bright side. I saved up and got Willie one of those new lounge chairs and she said "He will never get to sit in it." And I said, Yes, he will. So I didn't talk to her too much.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>What Civil Defense programs did you have in the Augusta area? Did you have air raids?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes, we did. Not too much because we were very rural. We, of course, bought bonds and stamps, you know. We didn't always use the gas allotment. We used to use the horse and buggy to go to church. None of the fanners around there used all of it. And we were allotted sugar and we never did use all of ours because we had a lot of maple trees and Dad would tap those maple trees and we made our own syrup. It took gallons and gallons of sap to make just a little bit of syrup. And honey, we had bees. And the coffee, Mom and Dad were the only ones who drank coffee.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>And for fuel oil, I bet you heated with wood?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Oh, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>So none of the rationing had a real negative impact on your family because you were so self sufficient?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Oh, no, we had our garden and the corn. We ate a lot of cornmeal mush. And we had cows. That's the way everybody was. About the only ones who really used their ration stamps were those who lived in town. Because the rest of us one the farm didn't really need them. Shoes were the biggest problem because you could only get, what was it, 2 pair a year?</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>I think so. I'm not sure that it was even 2 pair. I think it was kind of sporadic. They'd say, okay, you can buy a pair of shoes and use this stamp for it. Then when you could get another pair, they'd announce it.</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>And they weren't made out of good stuff either. My sister worked in the fields with the boys and she was hard on them. They used to buy her regular boys' shoes. I really didn't use a pair of shoes - a pair of shoes lasted me a long time. In fact, I remember very well that when we'd go to school, we carried our shoes until we got to school and then we'd put them on.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Margaret, I know you had a garden. Was there anything on it that indicated it was a Victory Garden?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>No, not that I knew of, we just grew everything.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Some families would make a little sign that said "Victory Garden".</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>No, we didn't do that. We were back in the country.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>So, what did you do with the extra produce that you had in the garden?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Well, we canned half gallon jars.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Oh, well, I guess you would for a big family, wouldn't you?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes. And there were people that lived in town with big families and the fathers were gone. And I'm telling you, the pay that the families got was terrible. And so there was a place in town where everybody brought their produce where older people and families could just get it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>So there was no charge for it, you just shared?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes. We had one big grocer there - Arthur Haverkamp. He was so nice. You could put it in front of his store with a real big long covered porch. My Dad always admired him. He made his living selling food and then let us.....</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Let you come there and put your produce in? Again, that's part of the spirit of the time?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Did you family save grease?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>I don't remember that at all. I know we had grease and I know Mom made home-made soap. That comes from fat. I remember stirring in that big old iron pot, but I don't remember saving it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>But it is very possible on the farm you used every bit of your grease.</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>We butchered and we rendered the lard.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>So for the farm family that butchered, they didn't need to get extra red tokens for their grease to buy meat with because they already had their meat?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Do you remember any scrap drives in Augusta?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>I really don't.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>What about - did you see anything of that when you went to Washington to work?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes, tires, rubber - they had a place over there that used to take that.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Who kept the ration stamps in your family?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>My Mom.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>What did you understand about ration stamps - their purpose or value?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>About the only thing we used them for was sugar. My Mom would get some sugar, but not very much. We used about half of them. She would give the some of them to those big families in town. Mom preferred to use honey.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>That's interesting because one of the things they weren't supposed to do was to give their extra stamps away.</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>But Mom used to do that. Now, I don't know if this is true or not, but there was one family there whose father never worked very good. And it was a big family. They had a baby about every 18 months. They took him into service because he wouldn't support his family. Now that was local draft board. There were a couple families that that happened to. So everybody helped them more. They helped them before, but they really had to help them then..</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Where was the draft board for Augusta?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>I know there were several men from Augusta on that board but I don't know where it was.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Tell me about the medical care your family had.</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Well, we had a country doctor there, Dr. Clay - a very nice man. When I was pregnant I went to Dr. Clay.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>I presume Dr. Clay did home visits?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes he did. That's where all the babies were born. Very few were ever born at the hospital. And I got along very good with my pregnancy.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Did he have an office there?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes, he did.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>And how did people pay - cash or other means?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>With cash. It wasn't a lot.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>You mentioned something about your Dad listening to the news. Did you listen?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes. You didn't really hear a lot of things because they didn't tell a lot about what was going on.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Do you remember V-E Day? Tell me about that.</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Well, if I'm not mistaken, I think I was at the American Legion Post in Augusta. We had a dinner and something else was going on. My Mom really was happy,</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>What was the mood of the people on V-E Day?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Oh, everybody was happy. They had church services and the whole thing. Any time people could get together and have a happy good thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>So when you heard about V-E Day did that raise your hopes about Willie being home soon?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Well, yeah. We all got our hopes up. It wouldn't take long. When Mom heard that Roosevelt died I never will forget that. She heard it on the radio, Dad was just outside there by the chicken house. She run out of the house just screaming and screaming. And she said, "Diamond, President Roosevelt died. Now the boys will never get home." She just had a plain fit. Of course, Dad headed for the house to hear. She was really upset, I have never in my life seen her so upset. She just knew that the war would never be over. And what else was Dad so upset about? (Willie - in background: When Truman fired MacArthur.)</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>When Truman fired MacArthur?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Oh, then Dad got upset. I think we were the most informed family in that little area because Dad did have that radio. (Willie told about the map on the Young's wall.)</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>How did you learn that Willie was coming home?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>I got a telegram that he was coming home. On leave. It wasn't very long. (Willie said that in Boston they had numbered phrases that you could choose from and just put that number on the paper you filled out.)</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Did you get just 1 telegram?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>No, I got that one and (another?) when he actually came in.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>What did it say?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>It said something that, "Your old war daddy's coming home." Dad just looked at that thing and you couldn't figure it out until you put all the letters together, you know. The letters were like this (motioned up and down). But that's how we knew and then, there he was.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>So the letters were all out of line so you had to put them together to read the message?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes. One word might be way up here and the other one way t here and it was just like... It was awful.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>So where were you when Willie actually came home?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>When I knew that he was going to be coming home before long, my sister and me, Gladys, right underneath me in age, we moved to an apartment in Augusta. Up over Haverkamp's grocery store, they had apartments there. And that's where I was when he come home. Gladys was always the daredevil. I was the one that got scared about noises. She'd knock anybody's head off if they looked at her cross-ways, but anyway we knew he was coming but we didn't know when. So, here in the middle of the night - and to get into our apartment you had to go up steps, a little porch, up steps and there we were. And it had a wood railing on it. There was this terrible noise. A couple times we had people try to scare us and we pushed the table in front of that door. We kept hearing this noise coming up there - bang, bang, bang - clop, clop, clop. It got up, knocked on our door and Gladys said, "Who is it?" "It's Willie!" And I said, "No, it couldn't be Willie. I don't think so. What are you going to do?" And she said, "I'm going to move this table away from this door and I'm going to open this door." It was about a 20 foot drop down from that railing. And she said, "If you're not Willie Harlan, you're going to hit the ground!" There he stood. They had give him drinks on the train (Willie said everyone at Union Station bought them ail drinks.) and then he brought a sword home - he had a souvenir sword, and every step he took, that sword clinked up that stairwell. I was scared to death. There I stood with my hair up in rollers and I had bought a new dress because I wanted to meet him down at Union Station and be all dressed up. Well, there I stood. I think he had drank a little bit because he didn't act like he was in full command of his wits. And that's how he came home. He was home for so long and he had to go back and be mustered out. Willie didn't know, really where I lived. This guy that owned the store downstairs, he was at the depot and he told Willie where we lived. He'd probably been down there to pick him up if Gladys hadn't recognized him.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>So did you keep your job after the war?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>I did for a while. In fact, Willie was always very antsy - couldn't sit still a minute. So he said, "Well, I'll ride over and work at the shoe factory too." He only worked - not very long and he said there's got to be something different than that, so then he went to the Sand company and he didn't stay there too long and (Willie said that at the shoe factory he made $18.00 a week and he could get $20.00 a week from the government, so he was better off quitting the shoe factory.)</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Do you belong to any organizations, Margaret?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes, I belong to the American Legion Auxiliary at Post 122 - I'm a life member. And I belong to the VFW - Warrenton Post 2180 and I'm a life member of that.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>What are some of the activities you participated in at the American Legion or the VFW that you found particularly rewarding?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>I have held every office at the American Legion. And I was president of the VFW at Jonesburg and I transferred to Warrenton. I like the V A and R (Veterans Affairs and Rehabilitation), Children and Youth and Education. In fact, every program they have is good.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Did you have children after the war?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Yes. We have one daughter, Leora Marie, born Oct. 18, 1946.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Margaret, Is there some thought you'd like to pass along to future generations?</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>About what?</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>Life. You've lived through a lot of different situations.</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>Well, I've learned you've just got to accept things. And I don't know what people do that don't have faith -1 really don't. If you can't have steak, then you can have hamburger and be grateful for that. That's how we were raised. My daughter was named for two of my girlfriends and we were together all through the war. My girlfriend's fiancee, she was Leora Fuhr, went in and he was killed first thing. She never married. Marie Fuhr was her cousin. They were a little bit older than me.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Beelek</speaker>
+                  <p>I think that concludes the interview. Is there anything else you would like to add/</p>
+               </sp>
+               <sp>
+                  <speaker>Margaret Marie Harlan</speaker>
+                  <p>No, I think that's all. Support all the veterans as much as you can. And be grateful for all the help you get through the veterans organizations. I'm proud to be American!</p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

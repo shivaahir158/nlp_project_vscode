@@ -1,0 +1,2919 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd" >
+<!--
+<!DOCTYPE TEI.2 SYSTEM "../teixlite.dtd" >
+-->
+<TEI.2>
+	<teiHeader type="vets_interview">
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of interview with William R. Willert on July 21, 2001</title>
+				<author>Tom Swope</author>
+				<respStmt>
+					<resp>Encoded by</resp>
+					<name>Matthew McCrady</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Transcript of interview with William R. Willert on July 21, 2001</title>
+					<author>Lora L. McDaniel (transcriptionist)</author>
+					<date>July 21, 2001</date>
+				</bibl>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Encoded for the Experiencing War web site, "POW" release, for the Veterans History Project, September 2004.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>The entire interview with William R. Willert was digitized.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+			</editorialDecl>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div0 type="title" id="Willert1" n="1">
+			<!-- begins encoded document -->
+			<!-- no title -->
+			<div1 type="preface_text" id="Willert2" n="1">
+				<p>Preface</p>
+				<p>The following oral history is the result of an
+ 
+             audiotaped interview with Mr. William R. Willert on
+ 
+             July 21, 2001, conducted by Tom Swope.  The interview
+ 
+             took place in Euclid, Ohio, and is part of the Library
+ 
+             of Congress collection of oral testimonies.</p>
+				<p>This interview was transcribed and processed by
+ 
+             Vivian Baumhover, CSR, RPR, of Des Moines, Iowa, in
+ 
+             March of 2003.</p>
+				<p>The reader should bear in mind that she or he is
+ 
+             reading a verbatim transcript of spoken rather than
+ 
+             written prose. Insofar as possible, this transcript
+ 
+             tries to represent the spoken word. Thus, it should be
+ 
+             read as a personal memoir and not as either a
+ 
+             researched monograph or edited account.</p>
+				<p>To the extent possible, the spelling of place
+ 
+             names, foreign words, and personal names have been
+ 
+             verified, either by reference resources or directly
+ 
+             by the interviewee. Some uncertainties will inevitably
+ 
+             remain regarding some words and their spellings. In
+ 
+             these scenarios, a (ph) follows a word or name that is
+ 
+             spelled phonetically.</p>
+		   <div2 type="body_text" id="Willert3" n="1">
+		   <sp>
+		   <speaker>TOM SWOPE:</speaker>
+				<p>This is the oral history of <name type="thing" key="WWII" reg="World War II">World War II</name> veteran <name type="person" key="WRW" reg="Willert, William R.">William R. Willert</name>.  <name type="person" key="WRW" reg="Willert, William R.">Mr. Willert</name>was in
+ 
+             the U.S. Navy and served aboard the aircraft carrier
+ 
+             <name type="thing" key="bell" reg="U.S.S. Belleau Wood LHA 3">U.S.S. Belleau Wood</name>.   was a pilot of a TBM
+ 
+             Avenger and served in the Pacific.  His highest rank
+ 
+             was Lieutenant JG.  I'm <rs type="person" key="TS" reg="Swope, Tom">Tom Swope</rs>, and we recorded this
+ 
+             at <name type="person" key="WRW" reg="Willert, William R.">Mr. Willert's</name> home in Euclid, Ohio, on July 21st,
+ 
+             2001.  <name type="person" key="WRW" reg="Willert, William R.">Bill's</name> age at the time was 80.</p>
+		   </sp>
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+				<p>Question.  So when did you go into the service?</p>
+		   </sp>
+		   <sp>
+		   <speaker>William Willert</speaker>
+				<p>Answer:  Well, I was going to Fenn College.  I
+ 
+             started there in '30 -- late '39, and I -- there were
+ 
+             quarterly programs because Fenn was a co-op college,
+ 
+             something I could afford, about $300 a quarter.  But I
+ 
+             was going -- I -- first thing I did was to go down
+ 
+             there to find out how -- what I needed, and I started
+ 
+             probably in the latter part of '39.  I can't recall the
+ 
+             month.  And then I stayed there from '39 and '40.  And,
+ 
+             of course, in '41 it hit the fan, and I immediately
+ 
+             tried to find out -- listening to my dad about World
+ 
+             War I in France fighting in the trenches kind of
+ 
+             discouraged me of playing in the mud, so I thought,
+ 
+             "Dad, if it's all right with you, I'm going to join
+ 
+             the Navy."  I don't know what caused me to do that, but
+ 
+             I had to go downtown to Cleveland to find out a little bit about the Navy because I wanted to become a pilot,
+ 
+             and I don't know why that either.  But they said I
+ 
+             would have to go to Columbus to enlist.  They didn't
+ 
+             know how to do it here.  So I borrowed my dad's car and
+ 
+             drove down to Columbus, and I passed all the tests, but
+ 
+             they didn't sign me up.  And about two or three months
+ 
+             later I'm sitting there waiting for something, and
+ 
+             suddenly I got a draft notice, and that really scared
+ 
+             me.  I said, "I don't want any part of it."  So I wrote
+ 
+             them a quick letter, and it was the kind you sign for
+ 
+             because I wanted to make sure the right people got it.
+ 
+             Anyway, they said, "Go ahead and take the test and then
+ 
+             come down here."  And so I drove -- you can tell, I
+ 
+             drove 150 miles one way twice just to get into the
+ 
+             service.  I didn't drive a thousand miles north to get
+ 
+             out of it.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. Right.</p>
+		   </sp>
+		   <sp>
+		   <speaker>William R. Willert</speaker>
+				<p>A. Anyhow, they finally signed me up.  And then I
+ 
+             got a list here of all the things that I went through.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. Getting back to <name type="thing" key="PH" reg="Pearl Harbor Attack">Pearl Harbor</name>, do you remember
+ 
+             specifically where you were when <name type="thing" key="PH" reg="Pearl Harbor Attack">Pearl Harbor</name> was --</p>
+				</sp>
+				<sp>
+				<speaker>William R. Willert</speaker>
+				<p>A. Yes, I was in school, definitely at Fenn
+ 
+             College.  And I knew right away that this was going to
+ 
+             be trouble, but I didn't know how.  I wanted to get
+ 
+             involved, like I said.  My dad was -- he was kind of a nervous wreck, and I had an uncle who was in World
+ 
+             War I also, and he ended up in Chillicothe Veterans
+ 
+             Hospital, where -- some kind of a head case that ends
+ 
+             up down there.  But when I enlisted, after they finally
+ 
+             signed me up, they told me I was going to go to Detroit
+ 
+             for some indoctrination, and so I went.  And then they
+ 
+             gave me a choice -- that was nice.  They gave me a
+ 
+             choice -- a piece of paper that had colleges on.  They
+ 
+             said, "If you want to get in the V5 program, here's a
+ 
+             list of colleges that you can pick."  So they had
+ 
+             Baldwin Wallace, they had Case, they had Western
+ 
+             Reserve, and they had Fenn.  So I put down all four of
+ 
+             them because -- Fenn was first.  So I came back, and
+ 
+             Fenn sent me of all places to Borea to learn the
+ 
+             basics, and how to fly was done at Cleveland Hopkins
+ 
+             Airport, but it wasn't Cleveland Hopkins then.  It was
+ 
+             just a big mat, no runways.  The biggest plane I think
+ 
+             they had ever landed there at the time was probably a
+ 
+             DC-3.  But anyway, they got -- they had the Aroncas,
+ 
+             which is a two-seating plane, with an instructor and a
+ 
+             pilot or somebody that was hoping to be a pilot, and
+ 
+             they taught us how to fly.  And this was in the winter
+ 
+             of probably '42, and we usually had no problem.  There
+ 
+             were no radio in the car -- in the plane.  So when you
+ 
+             took off, you had to watch the lights in the tower.  A yellow light means okay, and green light meant land,
+ 
+             red light, don't land.  So we -- all we did was fly
+ 
+             around the field just to get the feel of the plane and
+ 
+             how to taxi and how to take off and how to land.  That
+ 
+             was -- the main -- the main thing in flying was how to
+ 
+             land because if you can walk away from it, it's a good
+ 
+             one.  So we did that for three months, and there
+ 
+             were -- there were about maybe a dozen V5 fellas there
+ 
+             and maybe another dozen or two fellas that were
+ 
+             learning to fly for the Army, mostly to learn how to
+ 
+             transport aircraft from one base to another.  That
+ 
+             certainly wasn't my idea of fighting a war, but that's
+ 
+             what they wanted to do.  And there were a lot of
+ 
+             courses I had to take there, but I finally graduated.
+ 
+             And then they sent me home on leave.  And it took -- I
+ 
+             could take a streetcar home from the old airport
+ 
+             because it used to run right up to the front, and it
+ 
+             took two and a half hours to get from the airport to
+ 
+             Cleveland Heights.  I had to take the streetcar to the
+ 
+             public square, get on another streetcar and take me up
+ 
+             to Noble and Mayfield, and then I would get on a bus,
+ 
+             and that would take me down to where -- near where I
+ 
+             lived.  That was an interesting trip.  I didn't do it
+ 
+             too often.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. What did the V5 designation, what did that mean?</p>
+				</sp>
+				<sp>
+				<speaker>William Willert</speaker>
+				<p>V5.  Well, V in the Navy means heavier than
+ 
+             air, and 5 was just the group --</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. Okay.</p>
+				</sp>
+				<sp>
+				<speaker>William Willert</speaker>
+				<p>A. -- that they were -- because they had all kinds
+ 
+             of Vs.  But anytime you see a V in the Navy, it means
+ 
+             heavier than air because if you flew in a blimp, it
+ 
+             wouldn't be a V.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. Okay.</p>
+		   </sp>
+		   <sp>
+		   <speaker>William Willert</speaker>
+				<p>A. It would -- or -- no matter what kind of a --
+ 
+             if the plane was heavier than air, it had -- it was a V
+ 
+             program.</p>
+		   </sp>
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+				<p>Q. So whenever you see a VMF or whatever, a V
+ 
+             designation on a squadron --</p>
+				</sp>
+				<sp>
+				<speaker>William Willert</speaker>
+				<p>A. Right, right.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. -- that's what that means?</p>
+				</sp>
+				<sp>
+				<speaker>William Willert</speaker>
+				<p>A. All the letters have like a V -- my air group
+ 
+             was Air Group 30.  Now, the fighters were called VF and
+ 
+             the torpedo -- the bombers -- well, actually the
+ 
+             torpedo squadron was VT, and then it's a number,
+ 
+             because there's all kinds of torpedo squadrons.  So the
+ 
+             T designated the -- and the same way with aircraft.
+ 
+             They all had different ways of designating, like the
+ 
+             Avenger, the original was built by Grumman, and that's
+ 
+             called a TBF.  And torpedo bomber, F stood for Grumman.  And later on Grumman got too busy making
+ 
+             fighter planes, the F-6 Hellcat, and so they farmed it
+ 
+             out to General Motors.  So that's why the plane became
+ 
+             a TBM.  But they make good planes.  I mean, they were
+ 
+             all -- I had no problem with my first TBM.  After I
+ 
+             finished at Fenn, I think they sent me down to
+ 
+             Chapel Hill, North Carolina, at the University of North
+ 
+             Carolina.  And we stayed there, and they call that
+ 
+             learning but no flying.  And I'm telling you, we had to
+ 
+             run the obstacle course every morning first thing.
+ 
+             They fed us well, but everything was called rough,
+ 
+             tough and smart down there.  We did nothing but -- we
+ 
+             did track which was not rough, and we did soccer and
+ 
+             that was rough.  And I recall one -- the only soccer
+ 
+             game that I ever played in, two students met each other
+ 
+             head on.  One of them got up and the other was carried
+ 
+             away.  I don't know whether -- I think he broke a leg,
+ 
+             but I didn't follow up on that.  But anyway, the Navy
+ 
+             built a huge swimming pool down there, and we spent at
+ 
+             least four hours a day in that swimming pool, not only
+ 
+             learning to swim but how to save yourself if you ever
+ 
+             got shot down.  We had to learn how to turn our shirt
+ 
+             into a Mae West or some kind of a air holder, and we
+ 
+             also had to do that with our pants.  We had khaki pants
+ 
+             back then.  And then they would put us in a makeshift cockpit, and we'd go on a hill and right into the pool,
+ 
+             and you had to learn how to get out of there.  Of
+ 
+             course, if you land a Grumman Avenger in the water, you
+ 
+             don't have any bottom to that pool.  I think it would
+ 
+             float for about 30 seconds if you landed it properly.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. Uh-huh.</p>
+		   </sp>
+		   <sp>
+		   <speaker>William Willert</speaker>
+				<p>A. And that was my deal after we all got together,
+ 
+             my crew and myself, I said, "Look, if I'm able, I'm
+ 
+             going to land the thing, and you two guys get the
+ 
+             four-man life raft out."  And there's a big bag of
+ 
+             goodies that we filled up with things that we wanted in
+ 
+             case we were going to be floating for a week or two.
+ 
+             And I keep telling people, I says, "It's the only time
+ 
+             I ever used the condom."  I said, "The skipper -- the
+ 
+             flight surgeon would give us these things, and we would
+ 
+             wrap our cigarettes in them so that we didn't want them
+ 
+             to get wet."  I said, "That's the only time I used
+ 
+             them."</p>
+		   </sp>
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+				<p>Q. Makes sense</p>
+		   </sp>
+		   <sp>
+		   <speaker>William Willert</speaker>
+				<p>A. Yeah.  And the trouble is aboard ship during a
+ 
+             typhoon, the -- some little truck got loose on the
+ 
+             hanger deck and tore the tail off my plane, and they
+ 
+             just threw the thing overboard.  The only thing I got
+ 
+             out of it is a clock.  That's upstairs by itself.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. Did you keep a lot of your personal -- some of your personal things on the plane?</p>
+		   </sp>
+		   <sp>
+		   <speaker>William Willert</speaker>
+		   <p> A. Well, no, just in the -- just -- no, just the
+ 
+             things that we needed for the flight.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh, right.</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. We did -- we weren't allowed to fly -- or smoke
+ 
+             on takeoff, but as soon as we were in the air, it was
+ 
+             up to us.  But normally when you're flying with an air
+ 
+             group of five or six other planes, you're flying so
+ 
+             close to them that you ain't got time to diddle around
+ 
+             with CDs and tapes and all this other stuff that they
+ 
+             got nowadays.  Matter of fact, we had -- if we were
+ 
+             going on a mission, we were loaded with up to 2,000
+ 
+             pounds of bombs or one torpedo.  And that's another
+ 
+             thing, we took turns to drop those.  If it were
+ 
+             bombs -- 500-pound bombs, we had four of them.  The
+ 
+             original Avenger was designed to drop a torpedo at
+ 
+             about 50 feet, and they found out -- the Torpedo
+ 
+             Squadron 8 didn't have the Avenger.  They were flying
+ 
+             another aircraft, and they had -- the torpedoes were
+ 
+             rotten then, absolutely rotten.  They didn't shoot --
+ 
+             even if they were -- would survive the attack, they
+ 
+             weren't sure if the torpedo would explode, and a lot of
+ 
+             them didn't.  And that's why when you're flying at 50
+ 
+             feet, the enemy guns, all they had to do was fire a
+ 
+             shell into the water and the explosion would throw 
+ water up and that would knock the plane down, and they
+ 
+             did that.  I met Ensign Gabe (ph) at one of our
+ 
+             reunions down in Charleston, South Carolina.  He has
+ 
+             since died.  But I've read the stories and heard the
+ 
+             stories about what he had to go through, and he ended
+ 
+             up getting shot down too, but he was the only
+ 
+             survivor.  And I didn't realize at the time that he
+ 
+             didn't have an Avenger.  I thought he did, but he
+ 
+             didn't.  His was a different aircraft, and I can't
+ 
+             recall the type at the time, but he ended up sitting in
+ 
+             the water in his -- well, his Mae West.  They finally
+ 
+             picked him up after they dispersed the enemies, but
+ 
+             that's why they all got shot down.  The torpedoes were
+ 
+             no good.  They had to drop them at 50 feet.  And later
+ 
+             on in my experience on the carrier, only once did we
+ 
+             carry a torpedo out of 26 flights that I made, as I
+ 
+             started to say before I spilled the beans.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. What was the exact name of your unit?</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. VT 30.  It was called Torpedo Squadron 30.  I
+ 
+             will give you some history of that because that -- it
+ 
+             started prior to my getting into it.  Our -- the group
+ 
+             that I was with, it seemed like it took so damn long to
+ 
+             get into action.  I didn't think I was going to make
+ 
+             the war because I enlisted in '42 June.  I was sworn in
+ 
+             in August of '42, and I didn't even get aboard the carrier until 19 -- January of '45.  And I went -- you
+ 
+             know, I spent a lot of time learning.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. So you did not go overseas until 1945 then?</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. Correct, yeah.  Here's a chronology of what I
+ 
+             did.  But after I left Chapel Hill we came home -- and
+ 
+             here again, I learned this later, but the Navy for some
+ 
+             reason was a big drawing card back then.  They had
+ 
+             pilots coming out of their ears or prospective pilots,
+ 
+             and they had to delay them.  Now, George Bush was one
+ 
+             of them, and he cheated and got in.  He was the
+ 
+             youngest Navy pilot ever to get in, and I think there
+ 
+             was a guy in my group that was the second youngest.
+ 
+             But that's a debate.  But anyway, every time we went to
+ 
+             a base, we were sent home for two weeks and then sent
+ 
+             to another base.  After Chapel Hill I was sent to a
+ 
+             little town in Indiana called Bunker Hill.  That later
+ 
+             ended up as a Air Force base, and I mean Air Force, not
+ 
+             Army Air Corps.  The Air Force is about 51 years old
+ 
+             now, I think.  Anyhow, they took over the field after
+ 
+             the war.  But anyway, in Bunker Hill we learned how to
+ 
+             fly the Stearman that we saw out at the -- and that's
+ 
+             what they were giving rides in.  It's a two-seater.
+ 
+             Yellow Peril they called it.  It was built by Stearman
+ 
+             back then.  Now it's owned by Boeing, and I didn't know
+ 
+             that until the other day.  This was -- this is a good
+ 
+ aircraft.  If they had had a dozen of these in World
+ 
+             War I, they could have won that war six months earlier
+ 
+             because that plane was not like those things that the
+ 
+             Germans and the French and whoever -- I'm not too sure
+ 
+             what they did over there, but I know about the Red
+ 
+             Baron and all that.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Right.</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. But that Stearman was a -- we would go up there
+ 
+             with an instructor for several weeks and just fly
+ 
+             around.  Indiana is flat country.  All you did was look
+ 
+             for the Wabash River and the only place you would see
+ 
+             any trees.  We never flew over any cities because they
+ 
+             were -- or towns.  There was strict rules about that,
+ 
+             and the altitude rules are still pretty high.  The only
+ 
+             time you're low is when you land.  But anyway, we would
+ 
+             fly around there, and the Stearman -- the instructor
+ 
+             would take you up, and he would control the plane for a
+ 
+             while, and then suddenly he would cut the engine.  He
+ 
+             would say, "Okay. Land it."  And this is how we learned
+ 
+             because you never know when you're ready to do this.
+ 
+             You have to be prepared for these things, and he did it
+ 
+             well.  But we actually would touch those wheels to the
+ 
+             ground and then ________+ the old throttle.  I'm not
+ 
+             sure whether there was a throttle in both cockpits.  I
+ 
+             think only one.  So if he cut it, you couldn't correct it.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. But anyway, we would do that for -- that took
+ 
+             another three months.  Sent me home on leave again.
+ 
+             And -- well, Bunker Hill was, I think, the last place
+ 
+             until I was sent to I think it says Pensacola next.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Pensacola, right.  October of '43 Pensacola
+ 
+             Naval Air Station.</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. And that one I stayed at for nine months.  I
+ 
+             didn't think I'd ever get the heck out of there.  And
+ 
+             back in those days Pensacola had nine airfields.  Each
+ 
+             one was designated for different types of learning
+ 
+             things, and we would try them all because they didn't
+ 
+             know at the time, and neither did we, whether you were
+ 
+             going to be a fighter pilot or torpedo pilot,
+ 
+             amphibious pilot or whatever.  And you had to learn all
+ 
+             the tricks of the trade.  And down there we -- on that
+ 
+             program that we had at the museum, there was the
+ 
+             Valty (ph) vibrator they called it, which was a fixed
+ 
+             landing gear type of plane, but it was a two-seater.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p> Q. Uh-huh.</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. And you learned in that first.  Then they
+ 
+             finally gave us the SNJ which had a retractable landing
+ 
+             gear, and it also had two .30 caliber machine guns, one
+ 
+             on each wing.  And that was for further training, and
+ 
+ 
+ 
+ 
+ 
+
+ 
+             INTERVIEW WITH WILLIAM R. WILLERT 7-21-01
+                                                               15
+ 
+             we would fly for maybe a half an hour or so.  And they
+ 
+             would paint each of our bullets a different color, and
+ 
+             another plane would tow what they called a sleeve.  It
+ 
+             was probably about two or three feet in diameter and
+ 
+             just nothing, air in it.  And we would take turns
+ 
+             strafing that.  And, in fact, later on I think even our
+ 
+             crew -- I didn't have a crew right away, but later on
+ 
+             when I did, they were able to fire another gun in a
+ 
+             specially built plane for that.  But anyway, I wanted
+ 
+             to be -- everybody wants to be a fighter pilot, but
+ 
+             they not only trained us how to strafe, they would --
+ 
+             they trained us how to drop little -- well, eventually
+ 
+             would be depth charges, but they were just two little
+ 
+             bombs that would leave a -- some kind of a mark on the
+ 
+             ocean.  And this was -- the so-called submarine was a
+ 
+             flat board or something being towed by a boat, and we
+ 
+             would drop these special bombs.  And if you were -- I
+ 
+             always got a hundred percent on that sucker.  I still
+ 
+             have some of the pictures showing my -- the results.
+ 
+             And that's why I ended up with a torpedo instead of a
+ 
+             fighter.  I was disappointed, but what the heck.  And I
+ 
+             ended up with probably the easiest, the slowest and the
+ 
+             biggest single-engine plane in the Navy or in the world
+ 
+             for that matter.  We could fly, oh, I think, like 200,
+ 
+             250 miles per hour on the level, but normally we'd fly
+ 
+ 
+ 
+ 
+ 
+
+ 
+             INTERVIEW WITH WILLIAM R. WILLERT 7-21-01
+                                                               16
+ 
+             probably less than that, depending on the situation.
+ 
+             Okay.  We would -- after we we learned all this stuff,
+ 
+             it took nine months.  Matter of fact, we even had snow
+ 
+             while we were down there, and the southern pilots
+ 
+             didn't know what to do with it, so we showed them.  We
+ 
+             went over to some of the aircraft and scraped up the
+ 
+             snow -- there wasn't much -- and we showed them how
+ 
+             to make snowballs.  And we had a little fun doing
+ 
+             that.  In fact, it was such a rarity that -- we learned
+ 
+             later that everybody in school and the local businesses
+ 
+             all came outside to see what it was like because they
+ 
+             never saw it before.  I said, "Heck, I just come off of
+ 
+             the ice skating rinks in Cleveland," because I played
+ 
+             hockey here.  I was playing hockey in high school when
+ 
+             I graduated, and I ended up playing hockey in the
+ 
+             amateur league and later on college.  But no ice
+ 
+             skating in the Navy, so I just stopped playing hockey,
+ 
+             and I kept all my teeth too.  Not now.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. How big was the crew on the Avenger?</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. Well, the pilot, the gunner and a radio man.
+ 
+             The original idea was to put -- they had a -- the
+ 
+             original TBF had a .30 caliber machine gun firing down
+ 
+             and the .50 caliber firing up and sideways either way.
+ 
+             And by the time I got out there, they decided that .30
+ 
+             caliber was like throwing rice at a bride, so they got
+ 
+ 
+ 
+ 
+ 
+
+ 
+             INTERVIEW WITH WILLIAM R. WILLERT 7-21-01
+                                                               17
+ 
+             rid of it and they put a camera in.  It was -- and then
+ 
+             they gave that particular crewman a radio and a radar
+ 
+             machine down there, and he could use the radar to find
+ 
+             out where we were, you know, coming to anything or --
+ 
+             and, of course, he didn't use the radio unless I let
+ 
+             him because that was -- the Navy is very strict.  You
+ 
+             don't fly and talk to people unless it's absolutely
+ 
+             necessary.  But he would take pictures of whatever I
+ 
+             bombed.  And I'm not sure he got a picture, but the day
+ 
+             I took -- I had my torpedo -- which I mentioned, our
+ 
+             carrier was so small that we only had enough for one
+ 
+             mission, and we got wind of a seven or eight group of
+ 
+             Jap ships that was in the South China Sea, so they sent
+ 
+             us up there.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Was this shortly after you got there then in
+ 
+             January of '45?</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. No.  That's when we left.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. We didn't -- that's another story.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Oh.</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. When we left the States in January, we went
+ 
+             under the Golden Gate Bridge and waved good-bye to the
+ 
+             U.S.A. and floated over to Hawaii, and we stopped there
+ 
+             for a day or two or three.  I can't recall the length.
+ 
+             It might tell you in that group there.  But anyway, we
+             
+             went over with some very rare ships.  They only made
+ 
+             one what they call battle cruiser and it was named the
+ 
+             Alaska, and I don't think you'll see that anywhere on
+ 
+             the -- well, there might be something.  The Navy built
+ 
+             the thing, so they'll stick with it.  The different
+ 
+             ships that we were with is in there somewhere.  Bunker
+ 
+             Hill was there, and incidentally, the Bunker Hill has
+ 
+             got a connection too because the father of the current
+ 
+             Euclid mayor was on board that one.  And that baby,
+ 
+             that carrier, really got hit by kamikazes later on in
+ 
+             the war.  The Belleau Wood did too but prior to me
+ 
+             being on it.  Fortunately I didn't get on it until
+ 
+             January of '45, but in October of '44 it got hit too on
+ 
+             the tail, and it killed a lot of people.  I have a
+ 
+             picture of that upstairs, and I'll show you.  But
+ 
+             anyway, when we -- all the way over we had the air
+ 
+             combat officer, ACI, Air Combat Intelligence,
+ 
+             explaining what our first mission was going to be, but
+ 
+             they didn't tell me or us where.  We floated all the
+ 
+             way over there.  I went ashore on -- at -- in Hawaii.
+ 
+             We were allowed to stay overnight one night, so we went
+ 
+             to the Ala Moana Hotel which was one of two at the
+ 
+             time, the Ala Moana and the Pink Palace, which are
+ 
+             still there.  And we just wandered around and took
+ 
+             pictures, and some of us were able to keep the
+             pictures, but come the -- in fact, I have some of those
+ 
+             pictures available somewhere.  Anyway, we saw Waikiki
+ 
+             Beach.  And the Pink Palace only had women nurses in
+ 
+             it, nothing else, so that's why we went to the
+ 
+             Ala Moana.  We weren't allowed near -- for some reason
+ 
+             there was some attraction to us young kids and those
+ 
+             young nurses.  But we were only there three days, and
+ 
+             there were curfews too.  You had to be off the streets
+ 
+             at 6:00 p.m., and you couldn't go back onto them until
+ 
+             maybe 6:00 a.m., but that didn't bother us.  And we had
+ 
+             to go back to the carrier and eventually left.  We
+ 
+             still didn't know what our first target was going to
+ 
+             be.  The ACI officer was telling us all about -- well,
+ 
+             one thing we had to learn in the Navy, especially if
+ 
+             you're flying over water and have no place to walk to,
+ 
+             you have to learn all about the weather.  And they told
+ 
+             us what kind of clouds to -- all about the different
+ 
+             kind of clouds, and to this day I -- even my wife,
+ 
+             "What kind of a cloud is that?  What kind is that?"  I
+ 
+             said, "The little ones that look like cotton balls are
+ 
+             called cumulus," but I said, "The ones that are real
+ 
+             high and have a flat top to them, those are anvil
+ 
+             clouds.  They're also -- but they're called
+ 
+             cumulonimbus, and you don't want to fly through
+ 
+             there."  No pilot, including all today's, would go
+             anywhere near them because that's where the lightning
+ 
+             is and the updrafts.  The wind goes up and down.  Why,
+ 
+             you'll yo-yo in that thing.  That's why there's so many
+ 
+             different sizes of hail.  And I flew through a front
+ 
+             one day, and those are usually at a front, and we --
+ 
+             our whole squadron was doing this in formation.  And we
+ 
+             kept going up and down because we were trying to find
+ 
+             the ships so we could land.  And I can't recall which
+ 
+             one of our missions this was, but I can find out, but
+ 
+             the -- we kept going up and down.  They said the
+ 
+             ceiling was 500 feet.  We got down to three or 400 and
+ 
+             we still couldn't see the water.  So we come back up to
+ 
+             get above the clouds, and we did this for -- several
+ 
+             times, several trips, and finally we did get near the
+ 
+             carriers.  And the reason I use the plural is each task
+ 
+             group had four carriers, and at the time we had two
+ 
+             CVLs and two CVs.  CV is a -- there again you've got
+ 
+             the Vs.  The CV were roughly a thousand feet -- 800
+ 
+             feet, not a thousand, 800 feet.  The CVL was about 500
+ 
+             feet.  I'm talking flight deck, and that's the only
+ 
+             part we used, so we had to know that.  And we flew
+ 
+             through this front not knowing at the time, but when we
+ 
+             got back to the carrier and finally landed, we noticed
+ 
+             that there was no paint on the forward edge of our --
+ 
+             the point that's on the propeller and on the flight --
+ 
+ on the wings, and we knew then that we flew -- went
+ 
+             through something that wasn't friendly.  But anyhow, we
+ 
+             survived it.  We didn't lose anybody that day, but it
+ 
+             was -- the scary part of it was we kept going up and
+ 
+             down and then we would lose sight of each other, and if
+ 
+             you're flying within a foot or two of another aircraft
+ 
+             and you can't see them, you're careful where you got to
+ 
+             go.  You don't want to go into his prop because that
+ 
+             gives you a quick haircut, a permanent one.  So we
+ 
+             finally managed to survive all this.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. You flew that close together, though, when --</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. Always, except in a bomb -- bombing mission.
+ 
+             We would peel off in our turn, take our turn and do our
+ 
+             bombing.  And then when we bombed Iwo Jima and
+ 
+             Okinawa -- this is what I started to say before I hit
+ 
+             the fan -- we had six bombs, and they would only allow
+ 
+             us to drop one at a time.  This wasn't area bombing.
+ 
+             This was -- if they -- well, what happened, they had
+ 
+             a -- the Marines on the land would call like another
+ 
+             aircraft and tell them where they needed help.  And we
+ 
+             carried a book in our plane of pictures of the entire
+ 
+             island, and they would tell us what sector they were
+ 
+             in, so we would open it up to that sector and then go
+ 
+             look for it.  And then they would say what they wanted
+ 
+             bombed in that section.  The Navy taught us if we --
+             
+             when we did -- when we took some of our training, some
+ 
+             in -- I didn't mention this, but Pasco, Washington, was
+ 
+             done after we were all made into a air group and we
+ 
+             were -- we had little bombs about that big that had
+ 
+             a -- like a shotgun shell in it, but it was -- and when
+ 
+             it would hit, it would -- puff of smoke would come up
+ 
+             so we could tell where it hit.  And we learned this at
+ 
+             Pasco, Washington, and that's where the -- it wasn't
+ 
+             far from where the nuclear bomb site was, I mean, where
+ 
+             they were making it.  We didn't know that either at the
+ 
+             time.  And anyway, we would drop these little things,
+ 
+             and we could hit that circle perfectly anytime, so
+ 
+             that's why they sent us and gave me a torpedo plane.
+ 
+             So we would drop one bomb and then go back.  If they
+ 
+             needed more bombs in the same area, we would go back
+ 
+             again.  In the meantime, we're flying around close
+ 
+             together and get our -- we would get more -- we had to
+ 
+             get rid of all four of our bombs before we went back.
+ 
+             They don't like you flying -- or landing with bombs,
+ 
+             although I did do that once, but fortunately it was
+ 
+             100-pounders and they wouldn't have blown the hell out
+ 
+             of us.  Out of me they would have.  But I had a
+ 
+             hydraulic problem with the plane.  Nothing would open.
+ 
+             The bomb bay wouldn't open.  The wheels wouldn't come
+ 
+             down properly.  The flaps wouldn't work.  I had to do
+             
+             all this manually, and that was another day that I
+ 
+             probably got a few gray hairs.  But anyway, they
+ 
+             finally let me bomb -- or land on the carrier.  We were
+ 
+             supposed to -- we were gonna -- what we were gonna do
+ 
+             with these hundred-pounders was drop them on a sled
+ 
+             which one of the battleships had -- we had with us.  We
+ 
+             did have the Missouri off and on, but that didn't mean
+ 
+             nothing then.  But anyway, we -- I didn't get a chance
+ 
+             to drop mine.  I couldn't open the bomb bay, and my
+ 
+             crew were sweating in the back too.  But anyway, I
+ 
+             finally got the wheels down, that's the main thing, and
+ 
+             the hook.  The hook came down because my crew could
+ 
+             tell me that.  And I managed to land safely and didn't
+ 
+             rattle any of the bombs, so I had a good guardian angel
+ 
+             back then.  I didn't realize it, but I did later.  Kept
+ 
+             me from doing anything foolish.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Those kind of bombs were always armed then?
+ 
+             There was --</p></sp>
+				<sp><speaker>William Willert</speaker><p>                  A. No, they're not armed until they drop so far.
+ 
+             That's why it's safe to drop and land.  But anyway, I
+ 
+             did have a situation on our first flight.  That's
+ 
+             another story.  But anyway, as I said, we mentioned --
+ 
+             we came all the way over until in January -- or
+ 
+             February 16th I think it was they announced that we
+ 
+             were going to bomb Tokyo.  And I said, "You're sending
+ 
+             all us greenhorn ensigns to bomb Tokyo.  You don't need
+ 
+             us, do you?"  They always told us that we were -- you
+ 
+             know, they had extra ones around.  They didn't need us
+ 
+             that bad.  But anyway, fortunately the day before we
+ 
+             were going to land there they decided that the weather
+ 
+             was too bad.  Guardian angel was at it again.  And they
+ 
+             cancelled Tokyo.  But then they said Yokohama.  I said,
+ 
+             "So what?  That's just as bad."  We had to fly over
+ 
+             Yokohama to get to Tokyo anyway, so they probably
+ 
+             weren't ________+ -- trouble with Yokohama is they had
+ 
+             ships, and shipping has always got a lot of
+ 
+             antiaircraft guns.  I hated to go against shipping.
+ 
+             But anyway, the -- we got to Yokohama.  We're all
+ 
+             taking off.  We're on the boat together, ready to go.
+ 
+             They called us from the carrier, "We cancelled
+ 
+             Yokohama.  You're now going to so-and-so."  Nobody can
+ 
+             remember where that so-and-so was.  But we started
+ 
+             heading -- this is -- remind me now, this is Japan, not
+ 
+             little islands here and there.  But anyway, we're near
+ 
+             the mainland, and we had to let them know we were
+ 
+             getting close.  But anyway, we're flying south on the
+ 
+             island of Honshu away from Tokyo, and pretty soon the
+ 
+             skipper of the fighter group comes on the intercom and
+ 
+             says -- told our skipper -- of course, we could talk on
+ 
+             different lines or whatever they want to call them.
+ 
+             Anyway, he called and he says, "We won't make it back
+ 
+             if we go to that mission."  So we decided to find our
+ 
+             own.  And they found one.  They found a little airfield
+ 
+             in the little town of Yazu (ph), I think.  I have to
+ 
+             look on my Japanese map, but I -- we didn't know at
+ 
+             the time what it was or where we were.  But anyway, we
+ 
+             only luckily had one 2,000-pound bomb that day.  They
+ 
+             were giving us that much of a break.  They weren't
+ 
+             going to make us do six times -- or four times, so we
+ 
+             dropped it.  We found this big hangar, so we
+ 
+             air-conditioned it for them.  And there was about five
+ 
+             or six of us, and each one of them dropped their bomb,
+ 
+             and then I was number two.  Skipper was number one.
+ 
+             And he goes out and we're rendezvousing, and he finds a
+ 
+             little old boat out in the water, a small one.  But he
+ 
+             calls the fighter group and said, "There's a little
+ 
+             boat out here.  I want you guys to come and get it and
+ 
+             strafe it," you know, shoot it up or whatever, whatever
+ 
+             they said.  But I never heard this conversation for --
+ 
+             learned about it later.  And the skipper of the fighter
+ 
+             squadron said, "Sorry, we're too busy chasing trains,
+ 
+             strafing planes," and whatever else was in their path,
+ 
+             and they were having a ball.  Nobody shooting back at
+ 
+             them that day or us either.  So the skipper decides
+ 
+             that we were going to be -- strafe this little whatever
+ 
+             it was.  And so I was number two.  I armed my
+ 
+              .50 calibers.  First time I ever -- in fact, the only
+ 
+             time I ever used them.  And it's -- people say, "Do you
+ 
+             like to fly?"  I said, "Not the way they make me fly."
+ 
+             I like to fly low and skim.  That's what we did that
+ 
+             day, and I was down to about 50 feet strafing this
+ 
+             little boat.  Well, just as I flew over it, the little
+ 
+             bugger blew up.  It scared the hell out of me and
+ 
+             knocked the windows out of -- the kind that slide back
+ 
+             and forth, not the front one.  That's bulletproof.  You
+ 
+             don't blow them out.  But anyway, I lost the windows
+ 
+             that protect me from the air, that's all.  Plus on the
+ 
+             Avenger there are windows all the way back.  They were
+ 
+             all gone.  I still don't know to this day what the heck
+ 
+             that ship was, but I think it may have been a mine
+ 
+             layer, and we must have hit one of them.  But anyway, I
+ 
+             finished it.  It didn't lay any more mines.  I must
+ 
+             have hit one of them.  So they called me and said, "Are
+ 
+             you okay?"  I says, "Yes, I'm fine.  I just don't have
+ 
+             any windows."  So in the meantime this -- now,
+ 
+             remember, this was in February of 1945, and Tokyo has
+ 
+             the same kind of weather we do in Ohio.  So we flew
+ 
+             back to the carrier, and I'm freezing my buns in that
+ 
+             cockpit, and they didn't -- I didn't have to fly too
+ 
+             close going home.  We just flew nearby.  And I'm flying
+ 
+             home, trying to sit on my hands and fly and this way
+ 
+             and finally got back to the ship, and they said,
+ 
+             "Willert, you're going to land first."  I says, "No,
+ 
+             let me fly and land in my regular" -- fly -- "Land
+ 
+             now."  So I had to get to the end of the landing
+ 
+             pattern, and then in the carriers when you get into a
+ 
+             landing pattern.  You start flying up the starboard
+ 
+             side of the ship and then go all the way up in front
+ 
+             and then come back down and then come in one at a
+ 
+             time.  And every 30 seconds you can land a plane
+ 
+             ________+ right.  But anyway, that day when I came in I
+ 
+             was so damn cold I didn't realize that I was crabbing,
+ 
+             flying sideways, so I hit the deck fine, but the left
+ 
+             wheel went over the side.  And then I jumped out
+ 
+             quickly, looked for my crew.  They were gone.  I said,
+ 
+             "Don't tell me they jumped and didn't tell me."  Well,
+ 
+             they hadn't jumped.  I found this out a lot later.  But
+ 
+             anyway, I delayed all of the landing from then on for
+ 
+             maybe an hour or so, and these guys didn't have a lot
+ 
+             of gas, and that's another thing that bothered you.
+ 
+             But anyway, I went down to the ready room, and they
+ 
+             said, "Where did you bomb?"  And I was so cold my
+ 
+             finger must have covered 500 square miles, so they
+ 
+             said, "Willert, get out of here.  Go lay down."  But
+ 
+             first they gave me a doubleheader.  That's the only
+             
+             time you get a drink in the Navy aboard ship is -- in
+ 
+             fact, we had to bring our own aboard, and the flight
+ 
+             surgeon was in charge of them.  So he gave me a
+ 
+             doubleheader.  Well, I don't normally drink booze like
+ 
+             that, but I took it anyway.  I needed to be warmed up.
+ 
+             So I just sat around, and finally the guys got in all
+ 
+             safely, and then they all decided where we were and
+ 
+             what we had done and -- but I was so ________ cold I
+ 
+             didn't even pay any attention ________.  They gave me
+ 
+             another doubleheader when all of the guys were -- I
+ 
+             ended up with three of them.
+</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. And that's enough to knock me for a loop.  So I
+ 
+             went back to my sack, and I fell asleep just like I do
+ 
+             with the television.  But we decided that we bombed
+ 
+             Yazu (ph).  And after that they didn't bother us so
+ 
+             much.  But, in fact, I think the whole -- that thing
+ 
+             will tell you, but I think we headed south after we had
+ 
+             done the first -- this was the first Navy air carrier
+ 
+             bombing of Japan.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p> Q. I hesitate to ask, but what did happen to
+ 
+             your -- the rest of your crew?</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. Nothing.  They ran like hell to get the hell
+ 
+             off the deck.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p> Q. They got out before you came?</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. Well, they thought that I was going overboard
+ 
+             which --</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. -- I don't blame them.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. So they managed to --</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. They probably didn't wait until I stopped
+ 
+             rolling because there's a little hold in the side of
+ 
+             the ship of the plane on the right-hand side --</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Right.</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. -- that you can open up and get in it, and
+ 
+             there's only one guy can get out at a time, but they
+ 
+             both got out.  They had to watch the tail, but they got
+ 
+             out.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. But they were already down below before you --</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. Apparently.  I don't know.  I really -- I
+ 
+             couldn't see them.  I kept asking the boy, I said, "Do
+ 
+             you see my crew?"  "No, no."  The ship gang wasn't
+ 
+             looking at that.  They were watching me.  So anyway,
+ 
+             they were -- they were safe.  They didn't get hurt,
+ 
+             and then the explosion didn't bother them either.  But
+ 
+             my plane did look like hell after I got through.  Well,
+ 
+             the wing -- the windows.  That's all.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. You started to talk about a mission in
+ 
+             South China Sea against ships.</p></sp>
+				<sp><speaker>William Willert</speaker><p>A. Yes.  Well, that was later on, but anyway,
+				they called -- they called our air group.  Incidentally, the
+ 
+             task group 58 or 38 are the same thing, but there's
+ 
+             four sections to each task group, 58.1, .2, .3 and .4.</p></sp>
+             <sp><speaker>Tom Swope</speaker>
+             <p>Q. Uh-huh.</p></sp>
+             <sp><speaker>William Willert</speaker>
+             <p>A. Each task group has four carriers in it.  That
+ 
+             means we had 16, a minimum of 16 carriers in a group,
+ 
+             and they're different ones.  Sometimes they were
+ 
+             interchangeable, but we were always in number one, our
+ 
+             carrier was.</p></sp>
+             <note>END OF SIDE ONE, TAPE ONE. BEGIN SIDE TWO, TAPE ONE.</note>
+             <sp><speaker>William Willert</speaker>
+             <p>A. It was our turn to -- we had torpedoes, our
+ 
+             group -- our plane -- our ship, so they loaded us with
+ 
+             torpedoes that day and told us where to go.  Now, every
+ 
+             Navy pilot has a big plastic board that slides into
+ 
+             the -- a slot in the cockpit.  Prior to takeoff you'd
+ 
+             had to do your navigation.  We didn't have navigators
+ 
+             like the Army did.  We had to do everything ourself.
+ 
+             We're the pilot.  We're the bombardier.  We're the
+ 
+             front gunner and the navigator and the bombardier,
+ 
+             whatever.  So we were told to go to the South China Sea
+ 
+             what -- they didn't say that, but they gave us latitude
+ 
+             and longitude.  And on this plastic board we would put
+ 
+             down where the fleet was when we took off and where
+ 
+             they're going to be when we come back after so many
+ 
+             hours, and then we would make our -- we had to do this
+ 
+             navigation in the ready room on the ship prior to
+ 
+             takeoff.  And we would -- if you ever watch movies,
+ 
+             you'll see every pilot -- I don't know about fighters,
+ 
+             but I think they had to do it too.  But they would
+ 
+             carry this big board into the cockpit with them, and
+ 
+             they would slide it in or lock it in, and they wouldn't
+ 
+             look at it until they took -- landed and got out.  But
+ 
+             anyway, that one day when we were told from Yokohama
+ 
+             from -- was cancelled -- matter of fact, I think when
+ 
+             we took off, they cancelled Tokyo and then did
+ 
+             Yokohama.  We had to -- we had to do our navigation in
+ 
+             the air, and that's a trick.  It's hard to fly and
+ 
+             write and all this crap.  We didn't do a good job
+ 
+             obviously, but anyway, this -- we went to the
+ 
+             South China Sea and they -- we had a group of about
+ 
+             four cargo ships and a couple of, I think, destroyers.
+ 
+             I'm not too sure, but I didn't see them all.  But
+ 
+             anyway, we were -- we were giving -- being allotted to
+ 
+             sink the cargo ships.  So I was number two going in on
+ 
+             that too, and we -- I could drop my -- the torpedoes
+ 
+             were good then.  I didn't have to go to 50 feet.  I
+ 
+             went down to maybe 500 and dropped it, and I blew this
+ 
+             one cargo ship in half.  Good shot.  What the hell.
+ 
+             That's what I'm trained for.  And when we left there
+ 
+             there was nothing floating but debris.  All of those
+ 
+             cargo ships and the Navy destroyer, whatever they were,
+ 
+             were gone.  They were all sunk.  We cleaned that out.
+ 
+             It was at least eight ships.  So we cleaned that out
+ 
+             and headed back.  That was our first good victory
+ 
+             from -- at least that I -- something that I did because
+ 
+             most of the time I was bombing -- making holes in the
+ 
+             ground, didn't know what the heck I was doing.  We
+ 
+             ________ bombed some Jap islands that were -- the main
+ 
+             island is called Honshu.  The big -- then there was
+ 
+             another one called Kyushu.  Incidentally, the -- that
+ 
+             flag up there has got another story too.  We were
+ 
+             bombing Okinawa one day and the skipper says, "We're
+ 
+             going to land and wait until the bombing area is
+ 
+             clear.  It's clouded now, overcast."  We couldn't help
+ 
+             the Marines any, so we landed on an airline -- airfield
+ 
+             call Kadina.  Have you heard that lately?</p></sp>
+             <sp><speaker>Tom Swope</speaker>
+             <p>Q. Huh-uh.</p></sp>
+             <sp><speaker>William Willert</speaker>
+             <p>A. That's where that sergeant is from that's being
+ 
+             hit for being raped -- or raping someone.</p></sp>
+             <sp><speaker>Tom Swope</speaker>
+														<p>Q. Okay.</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Anyway, this is -- Kadina is one of the most
+ 
+             notable landing strips on that island.  And the Marines
+ 
+             took that first, and that's where we -- the Marines had
+ 
+             their home base there.  So we landed, and another day
+ 
+             while -- I had four or 500 pounds that day, and I
+ 
+             landed carefully.  And my gunner calls me, and he could
+ 
+             see what I'm doing, but he says, "Hey, Pappy" -- and
+ 
+             that's -- that's a new one to me, but we got along that
+ 
+             way.  He says, "When you gonna land?"  I said, "Mack,
+ 
+             we've been on the ground for three minutes."  I landed
+ 
+             very carefully on those 500 -- even though they won't
+ 
+             explode until they -- they have to go through the air
+ 
+             so many feet before they -- they're -- in fact, I did
+ 
+             drop one one day, a 1,000-pounder that never did harm.
+ 
+             It just splattered.  I might have squashed a Jap, but I
+ 
+             don't know.  But you have to have so many feet before
+ 
+             these things bomb.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Is that like an arming wire, the wire --</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Well, when you release it, the arming process
+ 
+             takes effect.  But it has to go so long, and if you're
+ 
+             too damn low, it ain't going to explode.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Yeah.</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. So we were careful.  The big -- probably
+ 
+             dropped it at 500 feet.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. So he didn't know you had landed, this guy?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Well, he couldn't tell because I landed
+ 
+             carefully that day.  And it's -- I said, "Well, Mack,
+ 
+             we're on the ground."  So anyway, we taxied to where we
+ 
+             were going to park the planes and turned them off, the
+ 
+             engines, and wandered around, met a few of the Marines,
+             
+             and the -- one of the Marines had a _______ Jap flag,
+ 
+             and I said, "Hey, you got a spare?" and he says,
+ 
+             "Yeah."  "How much?"  "20 bucks."  I said, "I will
+ 
+             take it."  I don't know if I had 20 bucks with me at
+ 
+             the time, but I must have.  So I bought it.  That was
+ 
+             white.  That was clear white and red in the middle.
+ 
+             That was another story.  My mother had a -- they had a
+ 
+             smoke fire at my house in Cleveland Heights, and that's
+ 
+             how it got brown.  I took it -- I took it back.  I was
+ 
+             real proud to get one of those suckers.  I took it
+ 
+             back, and I had every ship's officer sign it plus the
+ 
+             air group officers, but you can hardly read them now.
+ 
+             But anyway, they -- I got that for 20 bucks, and when I
+ 
+             brought it home, I had it in a drawer, but it didn't
+ 
+             save it.  I had it framed because I wanted to keep it
+ 
+             for posterity, and my youngest son wants it now.
+ 
+             Incidentally, when we were going to -- you can keep
+ 
+             that.  I just copied that on the computer this
+ 
+             morning.  But anyway, when we were told about Tokyo,
+ 
+             this was the -- a bombing picture that they gave us and
+ 
+             they told us not to bomb here.  That's the emperor's
+ 
+             palace.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Right.</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. And they didn't want us to get him irritated
+ 
+             because they had a lot of our prisoners over there, and
+             they figured if we'd have killed their emperor, we
+ 
+             would have been in trouble, the whole world would.  But
+ 
+             anyway --</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. ________+?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. No, no, that's a copy of a picture.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Oh. Good copy.</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>                  A. Well, nowadays you get better things.  And this
+ 
+             is a little history of Air Group 30.  Well, after the
+ 
+             torpedo incident, there's an atoll down there in the
+ 
+             Caroline Islands called Ulithi, and it's not far from
+ 
+             Yap, if you ever heard of Yap.  Incidentally, Yap is --
+ 
+             was taken over by the Japs at the time, but it's some
+ 
+             kind of a tourist trap now.  But anyway, Yap was within
+ 
+             300 miles or whatever.  Ulithi is a big
+ 
+             horseshoe-shaped atoll that the U.S. Navy had taken
+ 
+             over, and there were several little islands in a
+ 
+             horseshoe shape.  And apparently the coral connected
+ 
+             all of these islands in this horseshoe so that the
+ 
+             entire United States fleet could park in there.  So
+ 
+             that means it had to be a big area.  At any rate, they
+ 
+             would take us down there about every two weeks.  That
+ 
+             was an R and R section, and there was one island where
+ 
+             they removed all of the natives and the Navy took it
+ 
+             over, and first thing the Navy does when they take over
+ 
+             an island is put up a bar, one for the officers, one 
+             for the enlisted men.  We are allowed three cans of
+ 
+             beer, no more, no less, and then they hand you those
+ 
+             three cans and they open them right away.  But some
+ 
+             guys got tricky, but anyway, they would take them back
+ 
+             to the ship.  I never did.  I would drink them.  And on
+ 
+             the lee side of the island were two mountains about the
+ 
+             height of this house of beer cans, empty beer cans, and
+ 
+             there was two of them.  And another thing I tell all
+ 
+             the women now, I said, "That was the biggest nude beach
+ 
+             in the world ever and all it was was men, Navy boys."
+ 
+             And I said, "95 percent of them didn't have bathing
+ 
+             suits."  Who the hell would have taken a bathing suit
+ 
+             aboard ship going to war?  Who needs it?  I never even
+ 
+             thought about it.  But anyway, I swam there one day,
+ 
+             and I did -- well, I -- of course, when I went to the
+ 
+             island, I had clothes, but I had to remove them to go
+ 
+             swimming.  But anyway, I happened to be -- I used to be
+ 
+             a shell-looker-for, you know, find shells.  And I
+ 
+             spotted this one little -- it was a nice shell.  And I
+ 
+             picked it up, and a little hermit crab was hanging out,
+ 
+             and he reached out and bit my finger.  And I dropped it
+ 
+             real quick, and I picked it up and I said, "You son of
+ 
+             a gun."  I said, "I was just looking at you.  I wasn't
+ 
+             going to eat you."  But anyway, I got my lighter out
+ 
+             and I heated the bottom and he popped out.  I said, 
+             "Now go find another shell.  I'm keeping this one."
+ 
+             So I found a bunch of shells, and eventually aboard
+ 
+             ship I -- I was making a necklace and a ring and a
+ 
+             bracelet and just something to kill time aboard ship.
+ 
+             I had other hobbies aboard ship too.  And, in fact, I
+ 
+             would go to the ship's dentist, and he gave me some
+ 
+             broken tools, and I would use them.  Still got it.
+ 
+             That's -- that was a broken tool.  So he gave it to me,
+ 
+             and I -- and then he gave me some cotton and some
+ 
+             plaster of paris, and somehow I got some wire.  And I
+ 
+             would curl both ends of the wire, put a slice in the
+ 
+             shell, shove it down with these tools, put some cotton
+ 
+             in it and then some plaster of paris, and that's how I
+ 
+             held them together and I made a necklace.  I even used
+ 
+             a dime for a ring, but I don't know where that is
+ 
+             anymore.  Anyhow, I got the necklace.  Never gave it to
+ 
+             anybody.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Did you have anybody back home that you were
+ 
+             writing to or --</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Oh, yeah.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. ________+?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p> A. Oh, did I get letters.  I had two cousins and
+ 
+             an aunt at one house, and each one of them wrote
+ 
+             letters separately.  I had a girl friend on the West
+ 
+             Coast, which I don't even know where she is anymore.
+ 
+             But, see, we changed bases frequently, and I don't
+ 
+             remember how many of them I did get, but my mother
+ 
+             wrote to me, my aunt and my cousins.  I know of one
+ 
+             time -- see, we only get mail about every two weeks,
+ 
+             and I think one of the mail trips I ended up with 23
+ 
+             letters, and I had to write that many.  And there
+ 
+             was -- I had all kinds of stationery with me, so I took
+ 
+             that aboard assuming I was going to do a lot of writing
+ 
+             which I did.  If I -- my three cousins -- or two
+ 
+             cousins and aunt, if I got a letter from each one of
+ 
+             them on one trip, each one got an answer.  I haven't
+ 
+             seen those -- my aunt has passed on, but I still
+ 
+             haven't seen my cousins.  One of them lives in Huron,
+ 
+             another one lives in Oleria, so I haven't seen them.  I
+ 
+             don't recall who all I wrote to anymore, but I got
+ 
+             plenty of them.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. What kinds of things did you write about, could
+ 
+             you write about?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Yeah.  Well, once in a while I would just tell
+ 
+             them that we're out in the South Pacific, and I would
+ 
+             tell them about Mogmog.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Mogmog?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Yeah, that's the name of the island in Ulithi
+ 
+             that we were allowed to go ashore and had that beach
+ 
+             and the beer cans, and we would sit around there and
+ 
+             shoot the breeze and tell war stories.  And I learned
+ 
+             about my former roommate that was taking off one day
+ 
+             with a load of depth charges because he was on a --
+ 
+             what they called anti-sub patrol.  And he would --
+ 
+             anti-sub patrol for the Navy, one carrier would be
+ 
+             designated to do it, not every day, but whenever it was
+ 
+             necessary.  And you would fly for maybe four hours, and
+ 
+             you would fly a set pattern.  The fleet would be going
+ 
+             this way, so if you're -- there was four planes doing
+ 
+             this.  One would go up in the front and then back, and
+ 
+             one would be in the back on starboard side and one on
+ 
+             the port side.  It was four guys, and you would fly
+ 
+             this program.  Every once in a while I would fly over
+ 
+             one of our own cannons, and I had been -- I can recall
+ 
+             looking down five-inch barrels, but I'm only -- I'm at
+ 
+             2,500 feet.  We flew low, but that's relatively low.
+ 
+             Anyway, the -- I've looked down five-inch guns.  But we
+ 
+             had signals each day, and this particular day we
+ 
+             could -- you drop your right wing twice, and the radio
+ 
+             man in the back had a blinker, and he would give a
+ 
+             signal with his -- with the blinker.  I said, "Be sure
+ 
+             you get these guys because they're aiming at us now."
+ 
+             Because our five-inch guns -- a five-inch gun is like
+ 
+             listening to fireworks when those big explosions go
+ 
+             off.  Of course, I've never heard one except when I was
+ 
+             aboard the carrier.  But the five-inch gun in the Navy
+ 
+             at the time had what they call a proximity fuse in it,
+ 
+             and if it got anywhere near metal, it would explode.
+ 
+             And, of course, if it gets near my plane, it's going to
+ 
+             know it's time to blow.  Luckily I've been -- I got
+ 
+             away with it several times, but we would fly this
+ 
+             anti-sub patrol for, as I said, four hours and then
+ 
+             come back to the carrier eventually.  Depth charges are
+ 
+             no problem when you land with them because they don't
+ 
+             go off until they're 50 feet or whatever they're set
+ 
+             for.  And the reason this story brought -- came up is
+ 
+             when I went to Mogmog, I learned that the guy that was
+ 
+             my roommate was on the San Jacinto and I was on the
+ 
+             Belleau Wood.  And I did something wrong back in Frisco
+ 
+             that got me aboard a different ship.  I still think it
+ 
+             was my guardian angel that made me do it wrong.  But
+ 
+             anyway, he went to the San Jacinto.  Incidentally,
+ 
+             President Ford was on that one.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. San Jacinto?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p> A. Yeah.  And -- or, no, was it Monterey?  Anyway,
+ 
+             I think he was on that one.  Anyhow, he took off one
+ 
+             day on this anti-sub patrol with the depth charges, and
+ 
+             the skipper of that ship was in a big hurry.  He sent
+ 
+             them off before they were into the wind, so when he
+ 
+             took off, he apparently -- or the San Jacinto did not
+ 
+             have catapults, either that or -- whatever happened, he
+ 
+             went into the drink.  And his plane got down to where
+ 
+             the depth charges were set for and they blew up, so him
+ 
+             and his crew were killed.  And that's what I learned on
+ 
+             Mogmog.  Luckily my skipper was never in a big hurry.
+ 
+             But we did have two catapults, even though it was a
+ 
+             smaller ship.  Having been hit by this kamikaze in
+ 
+             October, it was home in Frisco being repaired, and they
+ 
+             put two catapults on there.  And a catapult really
+ 
+             sends you off.  You don't dive down.  A lot of them you
+ 
+             see will go down, but an Avenger with the flaps with
+ 
+             that wide -- at least two feet wide and maybe 12 feet
+ 
+             long and one on each side plus the wingspan, so it's a
+ 
+             good plane to take off and land.  We had no trouble
+ 
+             landing, and very seldom did I bounce.  I always landed
+ 
+             and caught the second or third wire.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. There were three wires across then, is that
+ 
+             right?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Oh, no, seven or eight.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Oh, okay.</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Nowadays there's probably only three because
+ 
+             they give -- they have -- they're coming in in jets.
+ 
+             They're probably traveling faster than I could fly.
+ 
+             Now I could land the -- probably the ground speed would
+ 
+             be around 70 miles per hour.  They're going 150 or
+ 
+             200.  And, as I said, our normal speed was around 225
+ 
+             or something, but we didn't do that.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. It wasn't -- for you anyway it wasn't that hard
+ 
+             to land it on the carrier?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. No, no, that was very easy.  I think it was the
+ 
+             best plane in the world ever to land on a carrier.  It
+ 
+             was -- well, I don't know how they were prior to my --
+ 
+             other aircraft, because it just -- it was an excellent
+ 
+             plane for everything, everything.  The only problem
+ 
+             they ever had with the torpedo plane was the torpedoes.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Uh-huh.</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Unfortunately the torpedo -- the Torpedo
+ 
+             Squadron 8 did not have Avengers.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Do you remember any other tough landings other
+ 
+             than that one where you almost went off the side there?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. No, no.  All the rest were --</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. All were pretty easy?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. -- easy.  I made about 26 landings.  The record
+ 
+             is up there.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. About 26 missions?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Yeah, something like that.  Like the day I --
+ 
+             when I landed at Kadina, later on that day after I
+ 
+             dropped my bombs, my plane didn't feel right.  It
+ 
+             didn't sound right.  And I'm still that way today.  I
+ 
+             can tell if something's wrong or -- anyhow, I told the
+ 
+             skipper.  He says, "Well, land at Kadina and have the
+ 
+             Marines check it."  So I did.  I landed all by myself.
+ 
+             Nobody else stopped with me.  And I let them figure out
+ 
+             the plane.  They looked it over.  Nothing wrong with
+ 
+             that.  Okay.  So I had to fly back to the carrier.  By
+ 
+             the time I got there, my ship was secure for the day.
+ 
+             In layman's terms, it was closed.  No more landings
+ 
+             because they had all the planes for tomorrow already on
+ 
+             the deck where I would have landed.  So I had to land
+ 
+             on another carrier, and I think it was the Bennington,
+ 
+             which is a CV.  A CVL is a 75-foot-wide landing deck.
+ 
+             The Avenger was 54 1/2 feet wingspan, leaving me about
+ 
+             ten feet on each side.  We were aboard -- the Navy only
+ 
+             kept their air groups aboard ship for six months, and
+ 
+             then they would send them home for a leave and then
+ 
+             call them back.
+ </p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Uh-huh.</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. And I was sent home in June of '45 right after
+ 
+             a typhoon knocked the daylights out of our fleet.
+ 
+             Well, it happened to be around Okinawa at the time.  We
+ 
+             even lost some of them.  Anyway, the -- two of the
+ 
+             carriers in our group -- our task group, the Bennington
+ 
+             and the Hornet, had 25 feet of their flight deck folded
+ 
+             down like somebody just -- like a playing card, and
+ 
+             that -- that really tells you the strength of the
+ 
+             storm.  Our carrier didn't do anything, didn't do
+ 
+             anything.  It just got tossed about like a cake of
+ 
+             soap.  And there are rumors that we almost took water
+ 
+             down the stack, so that meant we were rolling back and
+ 
+             forth.  And I will never forget that damn time.  That's
+ 
+             12 hours we put up with this, and it started about 2:00
+ 
+             or 2:30 a.m. because one of the folding chairs in our
+ 
+             stateroom -- there's four pilots left in the
+ 
+             stateroom.  One of the folding chairs started sliding
+ 
+             back and forth.  And the room wasn't much larger than
+ 
+             the one we're in, two bunks over there, two bunks over
+ 
+             here, the hatch to come in, plus we each had a little
+ 
+             hutch which was our own desk and our own safe.  But
+ 
+             anyway, I was top bunk on the starboard side and damn
+ 
+             chair started -- woke me up.  I said, "What the heck's
+ 
+             going on?"  So I got up, got dressed, went down to the
+ 
+             ready room.  That's where we always go.  That's where
+ 
+             we're supposed to have breakfast or any other meal for
+ 
+             that matter.  And I sat down in a ready room chair,
+ 
+             which is about twice the size of the chair you're
+ 
+             sitting on and about four times as heavy.  But it's
+ 
+             kind of like a -- one of these fancy chairs they give
+ 
+             us seniors nowadays that you can lean back on, but it
+ 
+             had a little table on it so that we could do our
+ 
+             navigation and what have you.  And they were down in
+ 
+             the officer's mess.  That's where our ready room was.
+ 
+             So I went down there and sat in this chair, and pretty
+ 
+             soon -- somehow or the other, the only thing holding it
+ 
+             to the steel deck was a little angled piece of metal
+ 
+             that kept it where it was.  Well, that broke loose.  So
+ 
+             I sit on this damn ready room chair all by myself, and
+ 
+             the ship is going over from one side to the other, and
+ 
+             I'm riding back and forth on this in the ready room,
+ 
+             and I'm having a ball.  I thought, "Gee, this is a good
+ 
+             ride."  And we'd hit the damn wall on one side and come
+ 
+             back and hit something else, and there were a number of
+ 
+             tables in there which were kind of like -- had sleeves
+ 
+             in them, and it would hit the table and the table would
+ 
+             get shorter.  So finally I thought, "This could be
+ 
+             dangerous," so I got out of the chair and jumped up on
+ 
+             one of these tables.  And then the chair continued to
+ 
+             knock leaves out while I'm laying on it.  Nobody else
+ 
+             is doing this, just me.  And no breakfast available,
+ 
+             not even a hard-boiled egg.  I think one of them did
+ 
+             roll by, but I don't know who got it.  But anyway, I
+ 
+             finally got -- got off the table and I waited until I
+ 
+             had a chance, and I ran toward the exit, which was a
+ 
+             little screen door, and it was locked.  I says, "Why
+ 
+             would this be locked? How are we going to get out of
+ 
+             here?" And I found out later some ship's officer whose
+ 
+             brain was in his underwear locked it.  Why I don't
+ 
+             know, but he was also nosy and he wanted to see how
+ 
+             high the waves were, so he opens the hatch and lets in
+ 
+             a wave of water.  So we had water sloshing all over
+ 
+             that area, and this idiot from the ship of all people
+ 
+             that should have known better.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Uh-huh.</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Anyway, I finally got out, and I just sat
+ 
+             around and waited until it subsided.  Then I went down
+ 
+             to the flight -- the hangar deck.  All of our planes
+ 
+             were put down there because they knew this was coming.
+ 
+             They don't have local Dopplers like they got now, nor
+ 
+             did they have planes looking at the top of one of these
+ 
+             storms to see which way it's going.  But Bull Halsey,
+ 
+             seemed like every time he took over the fleet, it was
+ 
+             his turn to get a typhoon.  His first typhoon he got
+ 
+             stuck for three days.  The second one luckily was only
+ 
+             a half a day.  He got smarter.  So we -- we finally got
+ 
+             out of this typhoon because we had a leave and headed
+ 
+             in an opposite direction.  In the meantime, we lost
+ 
+             about five or six destroyers that were actually sunk
+ 
+             because of it.  Here's a picture of the Hornet, what it
+ 
+             did to it.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Whoa.</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. We were -- we were all sitting on a flight on
+ 
+             the hangar deck one night.  The whole fleet was parked
+ 
+             in this atoll, and we were watching a movie.  Suddenly
+ 
+             all the lights went out.  General quarters blows.
+ 
+             Well, they didn't even bother with that, but they just
+ 
+             turned the lights out, and, I mean, that was like
+ 
+             standing in a closet with no light within 50 feet.  It
+ 
+             was black, and they -- "You're on your own now.  Go
+ 
+             back to your whatever," wherever you could go that you
+ 
+             could have some light because it -- we found out later
+ 
+             that a Jap aircraft from the island of Yap flew over
+ 
+             the atoll and dive-bombed or kamikazed one of the
+ 
+             islands thinking it was a carrier.  So he made a
+ 
+             failure out of himself.  But that's what the lights
+ 
+             went out for.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Uh-huh.</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Of course, they didn't know it at the time.
+ 
+             And that was another thing that I kind of remembered
+ 
+             because I had to find my way in the dark with
+ 
+             absolutely no lights whatsoever.  I don't know how I
+ 
+             did it yet, but I found my way out.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Uh-huh.</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Got back to the ready room or wherever -- I
+ 
+             don't even remember where, but we survived that.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. So you said you were watching a movie.
+ 
+             Anything else you did for entertainment over there?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Oh, we used to play Solitaire and Acey-Deucey
+ 
+             and I don't know what all.  Most of the time we were
+ 
+             shooting the breeze with each other and telling tales
+ 
+             of whatever.  Well, if we weren't on a flight, it was
+ 
+             boring, believe me.  But then when we found out they
+ 
+             were coming back, why, we would try to watch, if we
+ 
+             could.  There were occasions where at night you would
+ 
+             go up to -- on the flight deck and just stand there.
+ 
+             And one night suddenly GQ is sounded again, general
+ 
+             quarters, and the kamikazes were coming.  Of course, we
+ 
+             didn't know from where.  But when you've got a
+ 
+             battleship, two or three cruisers, four carriers and I
+ 
+             don't know how many cannons all shooting up in the air,
+ 
+             you have really seen fireworks.  And I will never see
+ 
+             fireworks like that here in the States.  But I watched
+ 
+             the fireworks.  And one night we were noticing one of
+ 
+             our destroyers was firing and his tracers -- these were
+ 
+             all tracers -- were getting lower and lower, and I
+ 
+             said, "Let's get the heck off of this deck."  And we
+ 
+             went over to the side, and pretty soon that stopped.
+ 
+             And I was supply officer for my squadron, and the next
+ 
+             day I had one of those little rides where you go from
+ 
+             one ship to another on the boatswain's chair they call
+ 
+             it.  Well, I floated over to this other cannon, and
+ 
+             they were going to take me to another carrier so I
+ 
+             could pick something up, probably another plane.
+ 
+             Anyhow, the -- we were talking to the skipper of the
+ 
+             cannon who was probably a captain or whatever, and we
+ 
+             were telling him -- I said, The other night while we
+ 
+             were watching all those fireworks, one of the ship's
+ 
+             tracers were almost over our deck," and he said, "Don't
+ 
+             tell anybody, but that was us."  He says, "Our radar
+ 
+             picked you guys up, and it just automatically takes the
+ 
+             guns with it."  So he said they have to overreact and
+ 
+             cut that off, cease fire.  So that was the end of that
+ 
+             one.  We did have other things that happened that are
+ 
+             recallable, but they're not -- once in a while I
+ 
+             would -- I would take -- I was the only one that did
+ 
+             this type of work for the squadron.  I would go to
+ 
+             another carrier and pick up a plane or just some
+ 
+             supplies and then come back, do the same thing again.
+ 
+             The one pilot that died last October was on -- we were
+ 
+             on our shakedown cruise where we were learning how to
+ 
+             land on a Jeep carrier, and he -- and he was -- I did
+ 
+             mine.  I think we made about six or eight landings.  He
+ 
+             was doing his, and he was one of the earlier ones.  And
+ 
+             he's taking off.  I think I was watching, and suddenly
+ 
+             he starts to slow down and his plane goes right over
+ 
+             the bow into the water.  Well, we found out later on
+ 
+             that he -- he thought he was going too slow, so he was
+ 
+             going to put on the brakes, and you don't do that when
+ 
+             you're in an Avenger, but anyway, he went over the
+ 
+             side.  And he got out, and he was picked up by a
+ 
+             cannon, and he stayed on the cannon for a while and
+ 
+             played cards with the skipper and beat him out of some
+ 
+             money.  Found out later he had -- we used to call him
+ 
+             Wild Bill Mosey (ph).  He had completely demolished
+ 
+             three Avengers and never got a scratch.  And he's the
+ 
+             one that we just lost last October or November, one of
+ 
+             my closest buddies.  So that's about it.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Did they have any U.S.O. shows or anything that
+ 
+             you saw ________+?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Oh, I went to those when I was in Indiana.
+ 
+             Matter of fact, that's when we were flying the
+ 
+             Stearman.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Uh-huh.</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. I did go to the U.S.O. And there was one young
+ 
+             lady there that kind of -- I liked to see her and talk
+ 
+             to her and dance with her and all that stuff, and I
+ 
+             found out where she lived.  I got in my Stearman one
+ 
+             day, and I says, "I know where she lives now."  I don't
+ 
+             know how I did this, but I think I looked in the phone
+ 
+             book, found out her last name.  So I looked and found
+ 
+             out where the farm was, and I was probably 1,500 feet
+ 
+             or so, and I cut the engine and coasted down.  And just
+             as I got to the farmyard I gunned the engine, and it
+ 
+             roars when you do that.  And I think there were
+ 
+             chickens and horses and cows flying in the air that
+ 
+             day, but I got the heck out of here before they saw my
+ 
+             number.  I found out about later, she says, "Oh, they
+ 
+             do that all the time in our neighborhood."  Didn't
+ 
+             bother them apparently.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. You came home in June of '45 then, right?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Right.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. When your tour was up?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Actually I was -- no.  I was on my way home in
+ 
+             June.  I think by the time I got out of Frisco it was
+ 
+             July already.  And I was home on leave when they
+ 
+             dropped the biggies, and, of course, I was -- my
+ 
+             original orders were to return to San Francisco and
+ 
+             perhaps go back, well, aboard another carrier.  I don't
+ 
+             know which one or how.  But the war ended while I was
+ 
+             home on leave, and I was still living in the Cleveland
+ 
+             Heights area with my parents.  And one of my neighbors
+ 
+             up there was -- well -- well, the girl was a high
+ 
+             school friend.  She had a convertible, and anytime I
+ 
+             came home they would let me have that convertible.  So
+ 
+             we were -- I was sitting in the back -- I don't know if
+ 
+             I was driving or not.  But anyway, the night the war
+ 
+             ended -- well, everybody was celebrating, but it was
+ 
+             dark, and we were riding up and down Euclid Avenue, and
+ 
+             it started to rain.  And we were in this convertible,
+ 
+             and it would rain and then it would stop and then it
+ 
+             would rain and stop, so we kept taking the top down.
+ 
+             It was automatic, so we'd open it up and then we would
+ 
+             close it.  I don't think I was driving, but I did have
+ 
+             my Navy uniform on, and I kept my hat on so in case any
+ 
+             other car went by they would know it was a serviceman
+ 
+             because back in those days you could ride free on the
+ 
+             streetcars and buses if you had a uniform on, so I took
+ 
+             advantage of all that.  But I was home on leave, and I
+ 
+             got new orders, report to Jacksonville, Florida, naval
+ 
+             air base or what have you.  So I get down there.  They
+ 
+             gave me three choices, get in, get out or stay in or
+ 
+             something like that.  So I says, "I'll go out."  And
+ 
+             then I went downtown and got my pilot's license or --
+ 
+             not that it was going to do me any good.  I didn't have
+ 
+             any multi-engine plane time anyway.  But anyhow, I got
+ 
+             the license while we were there, and we were there a
+ 
+             month before we finally got out.  I had to make up
+ 
+             about --  oh, about, eight or ten hours of flying
+ 
+             time.  So we end up in these slow-moving aircraft to
+ 
+             fly around doing nothing, just fly from point A to B
+ 
+             and back and forth, and after three or four hours we'd
+ 
+             come down.  In the Navy you had to get a minimum of
+ 
+             four hours per month in order to get flight pay, and
+ 
+             flight pay was 50 percent of your base pay.  An ensign
+ 
+             gets $200 a month back in those days.  And I would fly
+ 
+             the -- well, of course, I didn't need to worry about
+ 
+             flight pay overseas, but I would get my four hours in
+ 
+             and I'd -- I got 300 a month.  And they also -- the
+ 
+             Navy charges their officers back in those days -- I
+ 
+             don't know what it is now -- a dollar a day for food.
+ 
+             They don't charge you for a meal.  They charge you a
+ 
+             dollar a day for food no matter where you're at.  So --
+ 
+             and that's deducted.  And I didn't spend a lot of
+ 
+             money, so I made other arrangements to buy bonds.  I
+ 
+             bought a bunch of war bonds or whatever they called
+ 
+             them back then, and even aboard ship I think all I got
+ 
+             was like 20 or 30 bucks a month.  There's nothing to
+ 
+             buy on board ship other than cigarettes, and a carton
+ 
+             of cigarettes back in those days was 55 cents.  The tax
+ 
+             on one pack is more than that now.  So I'd buy a carton
+ 
+             of cigarettes, and that would last me a couple of
+ 
+             months because I didn't smoke much.  And there were
+ 
+             certain places the smoking lamp is out and you -- if
+ 
+             they were transferring oil or fuel or whatever from one
+ 
+             ship to another, you don't smoke.  That's --</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Most of your missions were then against -- like
+ 
+             on Iwo Jima, did you go in soon after that was invaded?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Actually my ________ went there, but I ended up
+ 
+             doing this anti-sub patrol because that Iwo Jima
+ 
+             mustn't have been more than a week for us, and we don't
+ 
+             take off every day.  It's -- when you've got four
+ 
+             carriers in a task group, each carrier gets the job for
+ 
+             whatever it is.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Uh-huh.</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. And I think all I did at Iwo personally was fly
+ 
+             anti-sub patrol.  But I have, which I will show you, if
+ 
+             I can find them, a book of Iwo Jima pictures so we knew
+ 
+             where to bomb.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Uh-huh, right.</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. And being supply officer for the squadron, I
+ 
+             ended up with these things because I turned things in.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Right.  So you ________+?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. I brought my flight jacket home too, and I
+ 
+             even -- I brought my -- some other junk that I -- I
+ 
+             never brought any guns home or binoculars.  Primarily
+ 
+             what I did leave the ship with was a whole flock of
+ 
+             cigarettes.  I must have had about ten cartons, and our
+ 
+             suitcases back in those days were soft, not hard box
+ 
+             like they do now.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Did you ever hit a sub when you were out there
+ 
+             ________+?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Never found one.  Never even saw one.  Never
+ 
+             even saw a Jap.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Scared them away.  Never saw a Jap?</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. Well, by the time I got up there, we were in
+ 
+             control.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p> Q. Right.</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. And that was fortunate.  And I always blame or
+ 
+             give the credit to my angel --</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Yeah.</p>
+													</sp>
+													<sp><speaker>William Willert</speaker>
+														<p>A. -- for keeping me out of harm's way.</p>
+													</sp>
+													<sp><speaker>Tom Swope</speaker>
+														<p>Q. Did you have the same thing about Okinawa too?</p>
+													
+											</sp>
+											<sp><speaker>William Willert</speaker>
+												<p>A. Oki, yeah.  We had the books, but I apparently
+ 
+             turned my back because I don't have one of those,
+ 
+             but -- because I dropped a total of 49 bombs on
+ 
+             Okinawa, and only twice I think were they more than
+ 
+             500.  It's no fun to drop -- make one run.  We enjoyed
+ 
+             this, but what I mentioned before when I spilled the
+ 
+             beans, I was starting to say that I didn't like the
+ 
+             system that the Navy had.  Even though I had to go down
+ 
+             four times on a mission, they only counted it one.
+ 
+             Now, to my mind, that would have been four because I
+ 
+             got shot at four times, not once.  And, well, you'll
+ 
+             see over there on my missions, but Okinawa was kind of
+ 
+             like a milk run.  We were bombing it -- D Day on
+ 
+             Okinawa was April 1st of 1945, and that was not only
+ 
+             Easter Sunday, but it was -- they called it Love Day.
+ 
+             That was the -- and it would be L minus ten, you would
+ 
+             be doing this and so on now.  So we did that.  We
+ 
+             bombed Okinawa before the Marines and the Army.  The
+ 
+             Marines were at the north end and the Army was at the
+ 
+             southern end.  Now, the Marines went through the north
+ 
+             in a day or two, but there was not too much opposition,
+ 
+             although they are wilder than most.  The Army boys
+ 
+             weren't trained the same way.  And anyway, as I
+ 
+             mentioned, they were -- when we finally got over there
+ 
+             and had these pictures taken so we'd know where to
+ 
+             bomb, we could drop that 500-pound right nearby
+ 
+             ________.  And it was -- it got to be a pretty easy
+ 
+             deal.  Some places -- see, Okinawa, when you're
+ 
+             bombing -- as I mentioned before, I don't like bombing
+ 
+             ships, and occasionally on some other little islands
+ 
+             we'd go down -- these ships had a hell of a lot of fire
+ 
+             power.  We learned that the hard way.  My skipper was
+ 
+             hit and right in front of me and he went in.  I didn't
+ 
+             see it because my plane is in the way, and I dropped my
+ 
+             bombs and got the heck out of there.  And I think that
+ 
+             day I dropped them all at once because we were trying
+ 
+             to -- I don't even know what I hit because the skipper
+ 
+             was hurt that day -- or killed.  We didn't -- I
+ 
+             didn't -- I was more involved with that than I was --
+ 
+             and boys -- the rest of the crew joined up on me
+ 
+             thinking I was the skipper.</p>
+											</sp>
+											<sp><speaker>Tom Swope</speaker>
+												<p>Q. Right.</p>
+											</sp>
+											<sp><speaker>William Willert</speaker>
+												<p>A. I found out later that his crew jumped.  He
+ 
+             went down with the plane, but the crew jumped -- maybe
+ 
+             he did too, but the crewmen from other planes saw that
+ 
+             the Japs machine-gunned them while they were in the
+ 
+             air.  That's why we hate things -- that's why I hate
+ 
+             things in Japanese, made in Japan.  Even when I see a
+ 
+             Toyota now, I don't like it.</p>
+											</sp>
+											<sp><speaker>Tom Swope</speaker>
+												<p>Q. Sorry.</p>
+											</sp>
+											<sp><speaker>William Willert</speaker>
+												<p>A. Is that what you got out there?</p>
+											</sp>
+											<sp><speaker>Tom Swope</speaker>
+												<p>Q. Yeah.</p>
+											</sp>
+											<sp><speaker>William Willert</speaker>
+												<p>A. You're not the first one that was in my yard.
+ 
+             My daughter in Columbus had a Honda, same feeling.</p>
+											</sp>
+											<sp><speaker>Tom Swope</speaker>
+												<p>Q. Right.</p>
+											</sp>
+											<sp><speaker>William Willert</speaker>
+												<p>A. Made there.  It was designed there.  In fact,
+ 
+             last night we saw one and and my wife said, "That's a
+ 
+             nice looking car."  The first thing that came to mind,
+ 
+             they're the best copiers in the world.</p>
+											</sp>
+             
+				<trailer>Conclusion of interview.</trailer>
+				</div2>
+				</div1>
+			</div0>
+		</body>
+	</text>
+</TEI.2>

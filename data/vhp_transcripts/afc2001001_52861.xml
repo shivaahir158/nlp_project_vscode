@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with Charles F. Richards, 8/2007</title>
+            <author>Thomas J. Healy II</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Matthew McCrady</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with Charles F. Richards</title>
+               <author>Thomas J. Healy II</author>
+               <date>8/2007</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with Charles F. Richards was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with Charles F. Richards [8/2007]</head>
+            <div2>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Charles F. Richards Jr. born in Philadelphia, 2730 Rittner (ph) Street, 1915. And when I was 1 year old we moved from Seaford. And from Seaford, at the age of 7, moved to Dover, where I grew up and lived until I moved to Wilmington, after I took my residency and internship and so forth.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Just pull the microphone a few inches back because then you can stretch your legs. Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>There you go, okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>I don't mind.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>No, no, we want you to be as comfortable as possible. What did your family do?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>My dad managed the A and P store in Dover. First he had a business in Seaford which would have made us very -- very rich, but his partner did not want to keep books and Dad says you can't -- you can't run a business, and that was a store that sold everything. Shoes, groceries, cars, farm implements and so forth. But Dad had to leave, and he came to Dover and took over the A and P store. I used to work there myself 'cause we didn't have a lot of money to go to college. And I waited on tables three times a day in college until my senior year, when I wanted to live at the fraternity house. And this other kid and I washed dishes for 60 guys three times a day without a dishwasher. So --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>How did you -- Just to warm up a little bit, what -- how did you -- how did you end up being a doctor, I mean, how did you end up -- you were down there in Dover working?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes, well, I went -- after I graduated from Dover High School, they didn't feel I was ready to go to college, so I spent one year in Mount Hermon in Massachusetts which is the best thing I ever did. From there I went to Wesleyan University in Middletown, Connecticut. And my mother always wanted me to be a doctor, and I guess she implanted that idea in my mind. So from there I went to Jefferson in Philadelphia. It was a lot easier to get in when I went because-- [Interview interrupted by phone ringing]</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Hold on, I'm sorry, got to turn this down.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Is that you?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>No, just fidget -- off switch. You were ringing, I'm not ringing.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>I think what I'm going to do is -- let's see, I think I'll -- did you turn your whole thing off?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Yep.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>I think I'm going to turn my whole thing off too. Sorry. You don't want these things to vibrate, you can hear it.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>I'll bet.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Where was --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Yeah, just -- you were talking about you were at Wesleyan?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah, and then I went to Jefferson. And my dad had -- had driven one of the professors to his house calls, and he took my application and said, "Here, take this man." So -- but it wasn't as difficult to get into medical school then as it is now. My average was around 85 in college so I would have gotten in without any trouble. I finished there, interned at the Delaware Hospital in Wilmington. And then I'd done a certain amount of surgery, but not enough to qualify for the boards. You have to have five years of residency in surgery to qualify for the American Board of Surgery. So there are no -- nowadays, it's very good because you have to have your boards and your specialty to get on a hospital staff. So the caliber of medicine is much better now than it was when I first started. I worked in the Army in M.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>S.H. units, never had as much blood on me as Alan Alda does. But we operated -- all the cases we operated on never went back to duty. They were very badly wounded. And a hard thing to get used to was the fact that one out of every four we did died because they were so badly wounded. And our -- our cases then were transferred to us by ambulance, stretcher and ambulance. So we didn't have any choppers or anything. So many of the patients died, really, before they got to us. So after I finished V.E. day, I then went to Boston to try to get the one year I needed to qualify for the boards. Dr. Leahy (ph) at the Leahy Clinic said I hadn't done enough. Well, we couldn't do any better cases than we did, chests and bellies and so forth. So I ended up in New York at Roosevelt and finished that year and then started practice in Wilmington in 1948. I practiced there from 1948 to '84, when I did my last operation and went through all the -- the positions such as chief and so forth. Very interesting. I think that the -- one of the individuals that I had during -- when I was chief was Owen Longenstein (ph), who was from Ohio, who had trained more professors of surgery than anyone else in the country. Luckily at that time we had an exchange student from Denmark who lived with us in '59 and '60. And he came out after he had given his talk and talked to our exchange student because she was from Denmark and, of course, he was from Sweden. And many other interesting things along the way as far as -- Delaware Hospital is now the part of the Wilmington Hospital, part of Christiana Care Health Service. I'm sorry they ever made it that name because I kid the residents that I'm still on the teaching service and I said, "When you go away, they're going to ask you where did you take your training, are you going to say Christiana Care Health Service? That's going to sound like it's a nursing home." But it's a very good and -- number one in the country in the first -- as far as surgery and everything else is concerned. The new building on cancer, it's -- it's very good. And as I said, I had a heart valve put in, and one of my friends who became president of the American Heart Association, he said, "Charlie, I wouldn't let you be operated on in Wilmington if it wasn't first-class service," and, of course, that made everyone feel good.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>All right. let's go --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Just a second, okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Because now I'm going to get into some --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>These glasses are killing him.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>No, no, it's good now, it's fine.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>I'm keeping my --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>No, you're doing good.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Thank you so much for -- I see that you try not to look up. Sorry, I hope it's not too difficult for you to keep your posture.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>No, it isn't.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>That's good. It looks very natural and looks very good now. It's just a little -- I had a problem before with -- with -- I have absolutely no glare when I see your eyes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>It's good?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes, excellent.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay, when we start this time, we want to do -- you were still in school Pearl Harbor Day?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes, I graduated from Jefferson in 1942.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay. So then let's back up then on -- just tell me -- tell me -- bring me up from December 7th, where you were, if you can remember it, the day, actually, you heard about Pearl Harbor.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Pearl Harbor was '41, wasn't it?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Right, December 7th, 1941, Sunday.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>It would have been -- what time was it back here, 3:00, 3:00, something like that?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>I was a senior at Jefferson Medical School then. And I graduated early 1942. So this is when we -- this is when I heard about Pearl Harbor. Very interesting, one of my wife's roommates' husband was shaving in Pearl Harbor when this attack happened. And a bullet came through the window and hit the mirror that he was using to shave by. But this must have been a very horrible thing 'cause nobody really knew about it and they weren't ready for it and so forth so -- then, after that, I finished my internship at Wilmington Hospital, stayed on to do some surgery. And then reported to duty on Friday, the 13th, at the Medical Field Service School in Carlisle, Pennsylvania, where all doctors, before they went into the Army, went through a course there. We had to learn not to salute sergeants and a few other things.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Excuse me, hold it. Did you -- were you drafted or were you --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>No, I -- I enlisted.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>So bring me up to when you were enlisted, why you enlisted; you were at Wilmington?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, I just --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>You were at Wilmington?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>I didn't take ROTC in medical school. Many of the doctors did, and they, of course, went right in, but I just signed up, and I don't really remember going to an office or anything. They just -- I guess, I don't know whether I did it on the phone or what. But I went to duty on Friday, the 13th, in 1943. So then after that, we -- after six weeks at Carlisle, we were assigned -- I was sent to Camp Swift in Texas, to the 97th Infantry Division, for three months of -- on maneuvers. We -- we -- we practiced up and down the Sabine River, that was a little bit horrible because not used to sleeping on the ground and since I didn't have a lot of money, I didn't buy a sleeping mattress, an air mattress and a bag, so I slept on the ground. Tried -- tried to sleep on stretchers, but they had some metal through that would grease your back so I gave that up. After that I was assigned to Camp Kilmer in New York to be sent overseas. They only gave me -- they told me they'd give me two weeks' leave. I had a new daughter that I hadn't seen, and I only got to see her about 24 hours before I reported to Camp Kilmer. And the next night I was put aboard a "USS Marine Raven" which was a liberty ship. And we left there in a storm and went to Boston to pick up a 600-ship convoy. It sounds like too much, 600 ships. But they were taking all the stuff then -- this was -- this was February of 1944. We had three aircraft carriers, and the thing that upset us, of course, was when we got on the "USS Marine Raven," they -- a voice came over the public address system "Will you workers please take your tools and get off the ship?" Well, we worried a little bit about that, we thought there was something they had to do. So it proved that they did have something they had to do because when we got underway, fresh water came out of the showers and saltwater out of the fountains so they got that backwards. Well, to go on with it, it was a bad storm, but halfway across the north Atlantic in February, the Wolf Pack was sinking so many of our ships. We came up on deck one morning, nothing. There was not a ship in sight. They didn't leave a destroyer or destroyer escort to protect us. And somebody said the propellers fell off. Well, that wasn't true because whatever it was, they fixed it, and within 24 hours we caught up with the convoy. But I'll tell you, we were really worried because sitting by yourself, not moving, it gave some marines a good shot, but evidently there were none there. We landed in Gourock, Scotland, on February 22nd, got on a train and went to Manchester in England which -- which is Stockport, which is just outside Manchester. And I, then, was assigned to a collecting company which did nothing but bring patients from the battalion aid station to the clearing station. And all I would have been doing was giving morphine and starting IVs and so forth, and I wanted to be in a surgery unit. So I asked if we could -- if I could be assigned to a hospital. So --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Do you want some water?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>No, that's all right. So I got orders in about two weeks after I put in that -- asked for that. And I got orders to report to Southern Base Sector, to an LST. Boy, I thought, a surgical team, man! It was a rude awakening when I found out I was going to be on a ship and be off Utah Beach before they landed. But it worked out. After I reported there, we went to an evacuation hospital with a number of other surgeons to be assigned to whatever LST we were going to be assigned to. And no one was supposed to know what we were doing there, but they gave us a party with a Neptune scene so somebody had to know what was going on. One of my friends -- we drank a lot of 95 percent alcohol then. Every time we'd go out to -- we'd stop at a general hospital, this was after we were in France, and we'd pick up 95 percent alcohol. That was to soak our instruments in. We never did soak our instruments in it, we soaked ourselves with it, I think. {LAUGHTER}</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>But at any rate, we'd mix it with a little fruit juice and it tasted good. Well, this friend of mine who had a bunk next to me, he got a little bit too much, I think, and they had to take him over, and he threw up all over my -- my cot, my baggage and everything. And he never did -- we reported the next morning to our LSTs, they thought he was too sick to go aboard so he missed that. After that we went down to Torquay, that's where we got on the LST. And we loaded up with an antiaircraft outfit, and on June the 4th, about 4:00 in the afternoon, we took off to land June the 5th. But it was such a bad storm that Eisenhower called it off. And we were one of five ships and two mine sweepers that were to start and to land June the 5th, but Eisenhower called it off, so what we had to do was to ride up and down the channel in that storm. And it was miserable because we did that for 24 hours. We had a rhino ferry and a rhino tug which is what we were going to use to land the antiaircraft outfit D-day because we wouldn't dry out the LST. When the LSTs dried out, it has to stay for 12 hours, and being on the beach, we didn't know whether the German 88s -- each LST had a barrage balloon so they could hone in on that, so that's the reason that we didn't dry out, that we had this rhino ferry and rhino tug. There was a crew on that, that stayed on that for 24 hours. And the rhino ferry only had about three feet from the water, the top, and it was just a flat deck. These guys had nothing. They were standing up or sitting down or laying down in that storm for 24 hours. Water must have been washing up over them. We had a new crew on board that we used to -- on D-day. But when we got -- when we took off and we landed -- we didn't land, we were about a mile off of shore, about four hours before the troops started to land. And the reason we were there was we had the Army-Navy demolition units, see-bees, who were put overboard in little rover boats with Bangalore torpedos to blow up the motor and land obstacles. I told one of the guys that had to do that, I said, "If I had to do that, we wouldn't win this war." He said, "Ahh, Doc, don't worry about it." He came back on ship the second trip back to take a shower and told us about some of the things that he had done. Well, Utah Beach was a little calmer than Omaha. Omaha was terrible because there was a German division up on a hill, which is where -- our troops had to get up that hill to go on inland and they were just shooting down on our troops. And they had -- they were killing them on the beach as they got out of the LCVPs. Then we -- at Utah Beach, we didn't have much trouble because they were all on Omaha, mostly Now, what happened, Hitler made a bad mistake because he had -- he had four of his super divisions that he did not let loose to -- to work on D-day. And if he'd done that we might have had a hard time getting on the beach. But he was the only one that could give the order for them to go into combat. And he kept them out. So it was -- it was pretty easy for us to get -- get on shore. And the other thing that started on D-day, the Air Force had saturated the back of the beaches, had saturated bombing and such that there couldn't have been much standing or any of the German troops. The other thing, about, oh, I'd say 8:00 that morning, after the bombing, is when the C-47s, with the paratroopers and towing gliders appeared. And there must have been 1,000 of those. They landed the troops, the paratroopers jumped and the gliders landed. And then after that, the German -- well, let me put it before this. D-day night the German Air Force did very little because they had really been knocked out. They had very -- very few planes. And the ones that did appear, they dropped floating mines. And this got to three of our ships because, as they dropped and floated against the metal of a ship, they blew up, they detonated and that sank the ships. We didn't -- we didn't get one of those. It was D-day night, it was not safe to go out on deck without your helmet because each LST had eight 50 mms and four 20mm canons because if they'd see a star falling -- because these guys, every machine gun was manned, they would -- they'd shoot and the debris that came down, you'd hear it hit the deck. But D-day night, it was okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>So now, you were -- okay, so you were -- D-day, at 4:00 in the morning or whatever --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>-- you pull on to the beach?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>You were off shore?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>We were about a mile off shore. We put those guys over. Then we went back out and --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>And this was off which beach?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Utah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay, now, just for the record, the next beach, you were at Omaha, is that like right down the road?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes, down the beach, to our left.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>So it's like -- okay, so it was like you've landed in Avalon, New Jersey?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>But actually -- and Omaha was Stone Harbor, basically?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Was that --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Like that or Wildwood or Sea Isle City?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>It was very close. Each beach ended -- they overlapped, because then beyond Omaha was the English beaches.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay. So you laid off that morning?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah. And the reason we were there is we had an operating room, complete operating room set up on the tank deck, back of the tank deck, to take casualties off of the beach if our medical installations didn't get on. They did, so we didn't have to do that.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay, now, just tell me, tell for the camera what -- how many of those -- you tell me like you did being like all the LSTs had their own surgical --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes, there were 100 LSTs in the whole operation, English --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>And that included Omaha all the way down the beach?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>All the way down, Gold, the English beaches. And there were about 100 -- I guess they could get me a little water because I'm getting a little hoarse. I can get it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Just be careful, there's cables on the floor. {END OF TAPE ONE}</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>We were going to land.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Are you rolling?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Pas-de-Calais, which is where Cherbourg is, where -- it's the shortest distance, and we did more of the bombing there preinvasion. And they thought that's where we were going to land, so they had a number of troops up there.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Doctor, do me a favor and do your glasses again a little bit.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Thank you.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Is that better?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Yeah, yeah, it's fine.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>All right, so now you've told us about the -- there's 100 LSTs?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yep.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>With surgical units?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yep.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Tell me what the teams consisted of, the surgical unit consisted of on board.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>On board?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Each LST had one.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah. The surgeon, and the rest of it was made up of Navy personnel, the anesthesiologist and the assistants. There were all -- had to be male nurses because there were no females. The only time that I really had to -- that I did any surgery on the LST was taking 1,000 German prisoners back, which we did on D plus two. I had about 20 or 30, and they were sort of minor cases, debridements and things like that. The badly wounded ones were operated on in our hospital units on shore. So --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>On Omaha Beach?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Or on Utah?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Utah, all the beaches.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay. So when you were laying off shore that D-day, then did you move up into the beach?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Only to the fact that we tried to put the antiaircraft outfit, which we had, was supposed to be on the beach D-day night, we were supposed to put that on shore by marrying up with the rhino ferry and the rhino tug and that could go in. But we broke the ramp and we couldn't put them on until D plus one. But the others worked out, they got them on all right, the antiaircraft which was necessary for D-day night.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Did you get any sleep that night? I mean, the next days? I mean, how did that work? I mean, you're sitting there like sitting ducks, right?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, yeah, we were pretty well excited so much that we couldn't sleep very much. My room on the LST had a door on it which was the former office, it had two bunks in it, and I -- all the rest of the rooms had a curtain hanging down. Well, what I found out about that was if we would have hit a mine and the ship had been hit, that door would jam and we couldn't get out. So that's why they had the -- they had the drapes on the other rooms. So that's why they had the drapes on the other rooms. But every once in a while something would go off and I'd raise up and hit my head when I was in the bunk.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Was it one of those kind of feelings you just -- it was just so much adrenaline going that you didn't really think about -- you were probably scared afterwards?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>I was scared before and during and afterwards.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Oh, okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>You can't -- we didn't know -- of course, being one of the first five ships, we didn't know what was going to happen to us 'cause we were there before anything happened except the bombing that they did back of the -- so -- but lucky they didn't do anything for us.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Talking about the Germans, the Germans flooded where?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Back of the beaches. They flooded so much so that in places it was deep enough so that when the paratroopers, if they landed in it, and had so much equipment on, that they would drown. But this was part of the Germans trying to keep us from getting on the beach or getting off of the beach, inland.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>So how many days were you there on the beach until you pulled in, till the German prisoners came and --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, we took -- we dried out D plus two.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Now, tell me what "dry out" means.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, the LST at high tide runs in and it drops two anchors in back. And that's used when they pull off, is to pull the ship back. The tide, I think it was -- we had to stay dried out for 12 hours. Now, it might have been six. I can't be sure. But June was picked because the tides were right, number one. Number two, there was only about four hours of darkness, it didn't get dark till about 12:00 midnight 11:00 to 12:00 midnight. It got light again about 3:00 or 4:00, so it gave us daylight so that more could be done.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Plus you had -- I think -- I think reading, you had probably extra high tides and extra low tides at that time?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes, exactly.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Now, when you say "dried out," you meant that it had to stay dried out because it was literally on -- on sand?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Absolutely.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>The water was probably 200 yards in back of the stern of the ship, or more.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>So you guys were basically sitting ducks?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Oh, sure. But with all the bombing and the -- the cruisers and so forth, the lobbing shells back there, there -- the 88s, the German 88s were pretty well knocked out. {INTERRUPTION} Lobbing shells back there. The 88s, the German 88s were pretty well knocked out.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>So how many days were you there before you went back, D plus what?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, we went back with the German prisoners D plus two. We loaded up, we probably got -- it was probably D plus three when we left. But -- and it didn't take -- it took about, oh, eight to 10 hours to go back. It's about 20 miles across, I think, where we were. Maybe a little more. But we went in to Southampton and put out the German prisoners, 1,000. Most of the patients that I had couldn't walk out because there was superficial wounds, was no abdominal wounds or things like that.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Now, did you have to have an infantry guard section that came home with these prisoners or how did you transport the prisoners?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Oh, yes, MPs.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Came on?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>With these thousand prisoners?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes. And boy, it was a mess. Because they had the -- the MPs were stationed above the prisoners. The -- it was interesting in the fact that there were a number of officers which had to be separated from the enlisted men. They had a rope and so forth. But I think we must have had them on board for at least 36 to 48 hours. And when you have 1,000 having to use the facilities, it's -- it filled them up pretty soon. And most of them were sort of cans that they dumped into big oil tank -- oil cans, you know, the hundred gallon or whatever they hold. And it was interesting when they marched out at Southampton, the officers, of course, were all -- boy, they were really done up in their uniforms, and they marched out first. Then the enlisted men came. And as I told you, I happened to go to the movies after I got off the ship late -- late June, and I saw a Pathe newsreel --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Pathe?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>P-A-T-H-E?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah. Which showed the prisoners marching out of LST-47.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>In Southampton?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes. And I was up on the bow watching it. Nobody could tell who I was. I knew where I was because I had on a white trench coat. And that sort of surprised me a little bit. But I've tried to get that, but I couldn't, but we've tried.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Did you tell me that you were talking to -- in these German prisoners that really didn't -- they didn't really want anything to do with it?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>No. And not many of them spoke English at all, I mean...</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay. So -- so after D-day, then there wasn't too much going on for you?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, no. As far as surgery was concerned, we -- we did a lot of different things, like we took the ranger equipment back to England, the ones that were used to scale the wall on Omaha Beach. The other thing we -- we would -- we dried out, we also brought equipment, we brought guns and -- antitank guns and tanks and 3/4 tons and so forth on each trip back. We had to, that's what we were doing, mostly. So as far as surgery was concerned, I had very little to do after --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>So -- so when you got back over there in day three to Southampton with the prisoners --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>-- then what was the rest of that week like, you said you were going back and forth?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah, well, as soon as the prisoners got out --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>You dropped the prisoners off. Go ahead.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>And then we reloaded with tanks and trucks and Jeeps and so forth. So that's what we did then. From then on, we made -- we made five trips, total. And we'd bring back equipment and we'd bring back -- occasionally, we'd bring back patients on stretchers, but that was very little with our LST. But mostly what we did was to bring -- bring patients -- or bring equipment over and then we'd dry out 'cause you'd dry out then, they could just run out the ramp into -- on the beach.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Now, did the -- so you were in that whole operation from D plus one to D plus --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>To D plus probably --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>10 days?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Longer than that.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>14 days?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah. At least, at least. And then --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Go ahead, so then you were back --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Then when I got -- when I got -- when I was put off the LST, I went back to my original outfit, which was a collecting company in Stockport, England, which is close to Manchester. On the way I stopped by Southern Base Sector and talked to two of the surgeons and asked them to put me in an outfit where we were -- we'd be doing surgery. And not very long after that I got assigned to the First Auxillary Surgical Group which was made up of 50 surgical teams. There were five surgical groups in Europe. And we were sent out to -- to M.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>S.H. hospitals, they were known as field hospitals then, and a little different because of our patients being evacuated to us by stretcher and ambulance. They were three units or three platoons in a field hospital. They called them field hospitals rather than M.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>S.H. units then. And as we filled one up, another one would have gone ahead and set up in a school. We set up in city halls, schools, anything that -- rather than having to operate in tents. Tents, a lot of times, which we did operate, when the wind blew, dust would come up and, you know, in the operating room, and of course, the rooms were all contaminated anyway because they had uniform stuff in them, dirt, all kinds of things, grease. The worst ones that I saw was called a bouncing Betty mine. They'd step on the mine, and it would go off, come up about waist high, was filled with, oh, 500 screws and nuts and bolts, and that would hit them and just shatter their abdomen with all those things. And the one thing was hard for us to really tolerate and that was that one out of every four patients that we operated on died. The last patient I operated on was in Oberammergau, in Austria, and both hands and both feet, both legs blown off. He was sitting in an artillery shell, he was leaned over and it went off, it was a booby trap thing he was trying to set up. He died, thank goodness, from blast injury about three or four days afterwards because who can do anything with all your limbs gone? But the other thing --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Now, where was that -- when you were setting up these M.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>S.H. units, where were you then doing all these?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, we went -- the first place we operated was in southern France.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay, so you went back from Stockport?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>When you got into --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>No, I went from Stockport to join the first Auxillary Surgical Group. And this was -- they were in Swanage in England at that time.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>So we stayed there until -- I guess we went back about October, to Germany, or to -- well, we were in southern France 'cause they were still in France. And it's interesting, the first -- the first field hospital that I was assigned -- that our team was assigned to was the major, the head of it, was Dr. Gerald Beatty (ph), was from Wilmington, Delaware. And I'd had -- I'd had dinner with his wife just before I left to go over. The interns and residents had gotten together with some of the staff. And she had told me about Jerry being in Europe. And it was funny that I -- I said to him -- he didn't know me 'cause I hadn't seen him. I said, "Is there a major Beatty around here somewhere?" he said, "You're talking to him." So that's the first place that we worked. And then from there we worked up southern France. And eventually, got into Germany. But that was after the war was -- after it was pretty well decided what was going to happen. Let me see.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Did you run into any Delawareans while you were there?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Any troops? No?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>No. I met one from Baltimore and --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>So now when you got -- when you got -- I just -- I'm just interested in Gerald Beatty -- Beatty, right?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>He came back here after the war?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Did you guys work together then or --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Oh, no, he was an internist, he was with Dr. Flynn, he was an internist, he was not a surgeon, he was just a head -- he was the head of one platoon of the 11th Field Hospital.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Is he still around?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Or did he die?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>He died a long time ago.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay, all right. Okay, so, let's see, you went to France. So you -- you finished up -- what other stuff? Let's go.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>I'm thinking.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Now, do you remember when you -- when you left -- when you came back here?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>You had a layover way over 100 days?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>100 points.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>100 points, I mean. Some of these guys we were hearing about that were -- actually had plenty of points, they gave them such stuff like, by the way, you really helped the government, so you're going to have to stay, we really need you.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, but that was not in Europe because it was to the -- the war was over in Europe and they brought us back here to go on to the Pacific.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay, so they brought you back here --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>We came back here on probably September of '45.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Had to have been earlier than that because September 2nd, '45, is when they -- when they actually signed the declaration on --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>VE Day --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>-- or VJ Day?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Well, VJ was actually August the 15th, VJ Day, but the actual signing of the documents on board the "Missouri" --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>-- was the 2nd of September, '45.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, then they must -- well, I must have been -- must have come back sometime in, gosh, June or before that.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay, so the war was officially over in Europe in June?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah, I think it was --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>I'll have to find those dates. I --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>No, let me see. April 9th I think was when VE Day -- April, May --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Well, June was --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>This is '45, now.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay, well, now, okay, when was -- when was D-day? '44?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Sure, June the 6th, '44.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Oh, oh, oh, I thought -- I -- why did I think that? Okay, all right, so it's been a year. So that was -- that was D-day. So actually, when they took over, I guess, Berlin and stuff and everything, that was in -- would have been in like April or so of '45?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>'45.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>I'm not sure about those dates.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>I'll get those dates.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>But --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>So then you came back. Tell me -- you -- you came back from Europe?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, yeah, we worked -- we worked quite a bit in Europe for the -- with the -- with the field hospitals right up till they went into Berlin. And for instance, just a little sideline, when we weren't operating, we would -- we'd travel and so forth. And we -- I got into Hitler's house in Bergesgarten, the one where he had the big picture window. In fact, I brought a tile back from his bathroom. Also, in Oberammergau, where we finished the war in Austria, the Messerschmitt factory they had built into the Alps. And we got into Willie Messerschmitt's office before any of the GIs got in. In fact, I got a plane, an MA-110, it's lead, from his desk. And we got -- also got his Mercedes, which is about a block long, and it was packed to leave, when we got it before he ever got anywhere to get it. So we drove it for about four days, and then we took it to the quartermaster who painted it O.D. and put "Seventh Army" on it. And we gave it to the general of I guess the 91st Division or 95th because he'd take it away from us anyway, you know. So we had extra transportation because some of the Germans took us back to show us where some sand pits were, probably 20 cars in there. We got a foreign one out of it, we drove it with our other stuff. The other thing that was funny, when -- the last place we operated before we went to Oberammergau, when we were coming to Oberammergau to join a field hospital, we went by a German PX. Nobody was there. So we loaded our truck with 600 bottles of German booze. And we did that so much that when we got to Oberammergau, we didn't have our instruments, we had to send our men back to get our instruments. Well, with VE Day, as I had put in there, we had a party, I'll tell you, with that 600 bottles of booze, there was a lot of people. And we had a couple artillery observation pilots that would fly in these L-5s which had a motor about the size of a Maytag washing machine motor. And so one of them said to me, he was dating our nurse, he said, "C'mon, I'll take you for a ride." Well, hell, we're in the middle of the Alps, and I didn't pay much attention. But that thing couldn't fly over the Alps. And he'd had a little bit extra to drink, I think. So we're riding through the Alps on both sides, the down drafts were terrible. I said if I ever get out of this plane I'll never go up again. We didn't -- we got out all right but I tell you, that was a harrowing experience. And we also found out, it's interesting, the man that played Jesus, his name -- his whole family, Aloiscius Lang, the Lang family, he was a Nazi sympathizer so we didn't pay much attention, we couldn't stand him. The Virgin Mary had two children. So they're the ones that went into the Passion Play. The Passion Play is only given every 10 years. And they give it for a whole year. But the Passion Theater is in Oberammergau. It's a beautiful theater. Open air. And that's one place the GIs didn't loop because everything was intact. The crown of thorns that Jesus wore and all that.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Have you been there?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>No. Yeah, it was April the 9th.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Is that when it was?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>That was V --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>I know it was on the 9th. I remember that.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Yeah, '45.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>VED -- VE Day, right.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>So when you got finished with that, after VE Day, so you were there for a while, oh, then you went back -- okay, the outfit was sent in and assigned to the Pacific. So you came home -- did you come home?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>From Europe?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Then you went immediately to where?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>To Camp Crowder, Missouri, our team, to go -- our outfit, the whole First Hawk Surgical Group, which was our outfit, went to Camp Crowder, Missouri, to be sent to the Pacific. Because at that time I think they couldn't be sure that they weren't going to have to invade or attack Japan. And anytime you're going to -- you're going to attack a location like that, you're going to lose lots and lots of people.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Did you have -- so did you get to the -- did you get to the west coast?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay, because then VJ Day came?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>And that was August the 15th?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>So tell me about -- so then you came back -- what -- tell me about your medals; you got five?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, I had -- I just had the European medal with five battle stars, and an arrow. The arrow was for D-day. All the ones that were in D-day had an arrow put on their -- an arrow on their medal. But that's all because, of course, I wasn't wounded and so forth. We had -- I have many letters and so forth from some of the generals and -- of men that we operated on. One interesting -- we followed their (ph) Army for quite awhile and Patton came to pin medals on some of the patients that we'd operated on, so got a chance to say -- shake hands with Patton, and he had his two pearl-handled revolvers on and so forth. And then I -- I've got them somewhere, but, you know, we got some commendations from different outfits of people that we'd operated on and so forth. But outside of that, that's the only medals I had, only medal I had.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>So then from -- from Camp -- from out in Missouri, now you came back here?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yep.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>So tell me a little bit after the -- you came back and --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, after I was discharged, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Came back to --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>I came back. And I had to finish my surgical residency in order to qualify for the American Board of Surgery. I needed one year because I got -- I think I got a year and a half or nearly two for the cases that we did all through the M.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>S.H. units. Because that's a bigger surgery than ever any occur in private practice or in civilian practice. So I went to Boston, and I saw the professor at Harvard and Mass General. And he said -- he was the one that I talked to in the Southern Base Sector, when they gave me -- took me out of the collecting company, Dr. McKitrick (ph) was his name, and he said, said, "Charlie, I'll give you the year you need if you'll spend a year in the lab with Friday Moore (ph)," who was then working on electrolytes, had just started working on giving IVs of saline and also nutrient material so that we could take care of people who couldn't eat. But I said, "I got two children," I said, and we were paid, of course, as a surgical resident, $25 a month with room and board. So I couldn't take that year. I finally ended up in New York at Roosevelt Hospital for the year that I needed, which was very good, because we had the largest accident ward in New York City because we had our own buses, our own ambulances, And so then I came back and opened practice in 1948. Took my American Board of Surgery in 1951. You had to have a certain number of cases before you took your boards. And the boards consisted of, the first session, you had two doctors who quizzed you, and you'd go see a patient, come back, and they'd quiz you and so forth. And then you went over to the anatomy lab and were given questions on a cadaver that had been dissected. And also looking at slides and so forth. Then the second session -- or the first session -- the second session was a written, where you had five questions that you had to answer and so forth. So I passed that without much trouble. There was a doctor from Wilmington, Raymond Moore, who -- he used to teach at Jeff. And he said to me, says, "Richards, we're in this to win," he says, "when you go to an anatomy lab, you come to my table." I said, "Raymond, I can't do that," they assigned you to somebody, you know. So he found out that my marks were good, so -- but he was funny. He just couldn't get up nerve enough to practice, to do surgery. He went to teaching and so forth. So --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>So how many, how many -- at your career end, how many Delawareans do you think you've operated on?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Oh, gosh.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Guess.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Gee, I don't know. I have one story to tell you, though, that's interesting. I was doing a hernia on a man from Wisconsin. Now, he had to be working for DuPont Company for me to be doing that. But his doctor out there called on my office and said, "Do something crazy." So when he's on the operating table, I'd give a nurse, I said, "Come with me," give her a book, and she stands on one side and I'm over here. I said to him, I said, "Which side is this hernia on?" He said, "The left." I said to the nurse, I said, "I haven't been doing many left-sided hernias. I want you to read to me while I'm doing this." He says, "You talked to my doctor." Most people would have gotten up and ran out of the operating room if you did that to them. But it was fun. I wouldn't know. I would say, gosh, I don't know how many. Probably 5, 6, 7,000. I did -- I practiced for 20 years. So -- and it's hard. Some days I'd be doing three cases, and, of course, emergencies at night, and the thing I missed most, two things, I said, was being wanted, as I retired, and the second thing was driving down Pennsylvania Avenue at 1:00 in the morning whistling after you'd just taken somebody's stomach out and know they're going to do well, you know. Those are the two things that I missed when I retired Of course I'm still -- I'm still on a teaching service at -- at Wilmington Hospital, or at Christiana. I think that the chief, he's -- he likes to say to the residents, look at that 88-year-old, here he is, he's still trying to teach you guys something. So I don't go in the operating room with them anymore. But every case that they did when -- when -- we taught all the way through, the surgical residents, they had to have a doctor with them, I mean, a surgeon with them. We didn't just let them do -- I mean, sure, after they got to the fourth year, we'd -- we might leave after we finished and say, "Sew them up," they're so good at that, they're as good as you are.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>You're on golf circuit though, now, right?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Oh, yeah. I played four times a week when I practiced 'cause I was lucky, I had Dr. Whitney, he has a partner, we had a partnership, and it made it very easy.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Did he die?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Is he still around?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Because the two of you guys were like twins, almost for a while?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>What's he doing?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>He's done. But he -- after -- after he gave up surgery, he went into the administrative part and -- with the medical center, and he stayed on till, oh, practically a couple years ago.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Now, was he in during World War II?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>I don't think so.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>No?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Wes is -- Les is five years younger than I am. But we had the first surgical partnership in Wilmington. We had a guy that wrote for Medical Economics and he came from somewhere down south. And he'd only drink very expensive scotch. But, no, we had a very good relationship. I don't think we had a cross word in 40 or 50 years. 40 years.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Now, tell me quickly -- how much more time do we have?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>On this tape?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Couple minutes?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Couple minutes, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Okay. Tell me about that atrocity thing you were talking about about -- I mean, we're now viewed in the past few days what's going on in Iraq, and then you talked to me about the paratroopers at the beach?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, I hate to sort of do that, but there was a GI marching about, this was very soon after the landing. He was marching maybe 30 or 40 German and some French, because they were put in the trenches with a gun by the Germans. They were made to do it. And I -- a paratrooper came along, and I think this was when -- you know, they were shooting the paratroopers as they came down, the Germans were. And the guy that got caught on the -- on the building was hanging there, and they shot him. I think this guy was so mad that he told the GI, says, "I'll take them down to the beach," because that's where they were going. And he gets down the road a little ways and he guns them all down. But I think it's -- he was just so mad because the Germans were shooting them as they were coming down, and the poor guy up hanging, he couldn't get off, they shot him. So maybe he saw them and saw those -- that guy and he was mad, so he did, he killed them all.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Yeah. What else -- I think it's good.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>I really like always the -- the chronology about the very personal aspects? I think and -- you were afraid before, during and after, some strong statements.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Those were strong statements. That's very interesting. That's really completely enjoying listening to what you said.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>I think it's fine.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>I don't think we have any further questions.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>No. Thank you.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Good.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>That was it. That didn't hurt, did it?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>We didn't have to put you even under any anesthesia.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Is there anything that we didn't ask that you just remember that you would tell us like an interesting anecdote or something that we missed at this point?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Let me see.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Something really personal that nobody else knows or --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, I can't -- my wife -- my wife doesn't like me to tell that story, and I'm not sure I want to publish it, but you're talking about the one I said -- we'd operate 10 hours, and you couldn't go to the john, and I'd get a fecal impaction, and in order to get rid of a fecal impaction, you have to break it up.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Oh.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>So you don't --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Go ahead.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah -- no, I'll catch -- I'll catch it. No, I'm out -- we're in a schoolhouse in Germany somewhere, and I'm in the process of breaking this up out at a john in back of the schoolhouse. And Bed Check Charlie comes along and strafes the road and the hospital, the schoolhouse.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Bed Check Charlie?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Bed Check Charlie, yeah, a German plane. And I said, if I'd have been hit, I'd have gotten a dishonorable discharge. {LAUGHTER}</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>I tell you, I'm going to be in bad trouble, so I don't know, you better blot that out. I was trying to think of some others.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Something that makes you look better than that.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Does -- let's see, how soon were you married before you went -- were you married before you went in?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yeah. 1941, my senior year in medical school.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>And your wife was born -- was she -- did you meet her -- tell me a little bit about that for a second.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, I met her through a Doverite who was teaching in Lewes. My first wife, Marguerite Ringler (ph), was teaching in Lewes, Delaware. She had graduated from western -- {END OF TAPE TWO}</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>I don't -- I was just trying to think of some, some --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>You told some interesting stories of a German hospital you visited in Baden Baden where they had no supplies. When was that?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Near the end of -- near the end of the war, when we were moving fast, we were in Baden Baden and we went into a German hospital. We had dinner with all the German surgeons. And it was more than just our team. And they told us that they were in bad shape. They had no bandages, they had no blood, they had no antibiotics. And all those things were necessary, certainly, for patients that had been operated and had been wounded. I got a German Luger from another German officer, and they were running, and as he went by he gave me his Luger. We were driving out somewhere in Germany. And I still have that, that --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>T.J. have you {inaudible} your pad?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Oh, I'm sorry.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Just have -- looks good.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Huh?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Looks good.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>It's a good thing we're not doing the cuts. Trying to match. Go ahead, I'm sorry, you were driving in this -- bunch of the Germans ran by you?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>No, we were out and they were running out of this town and as this officer went by, he gave me his Luger.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Trusting, wasn't he?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes. Well, it was really pretty much over by then. One thing we used to do, when we were coming back, we first were in Cologne, we -- and the Germans had blown all the river bridges in Cologne, and luckily they had missed a big church, the Ba- -- the Allied bombs. They bombed the railroad station but the church was right near it and just a few windows blown out. Then we went to -- where did we go? Went to some small town, where we stayed. And we played -- a field artillery outfit came over and they brought deer that they'd killed. They'd dug a hole and built a fire and put a bed spring on it and cooked deer steaks on that. And we played a softball game against them. And they had a pitcher -- softball at that time was around Chicago, never anywhere else. And these pitchers, God, they could throw that ball at a very fast rate. In fact, I don't think we got a hit until they took him out. But then we went from there to Camp Lucky Strike which was at Cherbourg, close. And we used to play Bridge 14 hours a day, wasn't much else to do, we were going home. We went into Boston, and they put us on a train, and everybody went to their home, I guess. And then we were to report to Camp Crowder in Missouri. That's where the two German prisoners tore up my car. They were unguarded. And the only reason the general that -- we -- we didn't like it because we were going to go to the South Pacific, and everybody had so much -- so many points. They sent -- he sent people down to lecture us on preparation for overseas movement. How you react overseas and so forth. Some of the guys had been overseas for four years. And so we'd sit there and play Bridge while the guy was lecturing to us. But to go back to the -- my car. One of our officers got the general back and gave him -- he said he had the most chicken --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>You can say --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Chicken shit post he'd ever seen. So when the general found out that the German prisoners hit my car and I belonged to the First Hawk Surgical Group, he wouldn't even tow it off the road at the camp. I had to have it towed into Joplin, Missouri, and have it done, I had to pay for it. And then I drove it back to Wilmington. And they didn't quite get it fixed. I'd be driving along the road and all of a sudden the hood would fly up. And I got it so I tied it down with a rope, but that wasn't -- it cost me money. And they told me that if I wanted to be paid for it, I'd have to write to the War Department. And I knew damn well it wouldn't get paid. So I'm sorry that guy got that general back and told him that we're terrible.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Tell me about -- go back to your family. Before the war, you were in school.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Prewar, yeah, we were married in Jeff. An interesting thing about that, a week before I was going to be married, Dr. Shallow (ph), who had the big clinic which was down, and seats all around, we'd have to go to him to quiz us and so forth. And so one week before I was going to be married, there was another fella going to be married, and Dr. Shallow had a patient, he had a breast tumor. So he goes out and examines him and comes back and Dr. Shallow's quizzing him and he said, "Boy," he says, "you're going to have to do better than that in a week if you, you know, examining a breast" and so forth. So I knew that he was going to call me 'cause even though we had a lot of people in our class, I'm sure somebody would tell him that I was going to be married. Well, I just didn't go that day. He did, he called me and I wasn't there, but I would have gotten the same treatment. But we were married. And we took a honeymoon up through New England. And having been in New England for five years, the school, I had a lot of friends, so we stopped to see them on the way. Then, unfortunately, Marguerite died when she was 59 -- 49 with a brain tumor, which was benign. It was the size of a golf ball, it pressed on the basal ganglia which had to do with breathing and heartbeat. And then I was lucky to find -- meet Eleanor, my present wife, we've been married 38 years. And I've said she's the best Catholic I know. No matter where we've been this 38 years, she's only missed seven Sundays of going to mass, seven weekends in 38 years.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Maybe that's to make up for both of you.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>That's right. Being a good unitarian, I can't brag that much.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Well, it was -- it was one of the priests the other night, said -- we were at this roast and he said something about a guy came in and he said his best friend was an atheist, and this guy was an everyday Catholic. Comes in and sees him laid out and he turns to the wife and he says, "All dressed up and no place to go." {LAUGHTER}</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>God. Oh.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>I think we're good. I just have -- just thinking about what we just heard from you, what comes to my mind, since you have such a fantastic detailed memory, I would just -- I think it's just a fascinating thing, and I've seen this movie "Private -- Looking -- "Searching for Private Ryan," was it?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Private Ryan, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>How was it when you were on that ship and was there -- was the ship completely packed, would people throw up, how was it when you approached, was there a lot of artillery coming, and how was it when the -- did you see when the ramp went down or were you just all the time in your operating room?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Oh, no.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>I would just be curious to get a little more --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Detail.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>-- detail on this and answer me -- answer, please, T.J. because of looking --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Yeah, so you're going to be -- so you take off -- you take off for Omaha, right, Normandy?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Utah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Utah Beach. Middle of the night.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>But did you know -- how much time in advance did you really know that this is the real one, that this is now go?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Oh, we knew it was a real one when we -- we took off at 4:00 in the afternoon from Torquay, which is western southern England. And we knew that we were going and we knew where we were going and why we were going because we had the Army demolition units aboard, Army-Navy demolition units that we were going to have to put overboard. So we knew that we were going to be probably a mile or less off of the beaches at Normandy before they landed, four hours before they landed, because these guys had to go in and blow up these water and land obstacles because they had all these triangular things and so forth. So we knew. But we'd get started across, we got two mine sweepers. And one of the worst things that happened, they would drop a -- a light where they had swept the mines so that the five LSTs could stay within bounds where they had -- had gotten the mines out. And we picked up one of those lights, the red light, and it was in the -- where the rhino ferry was tied on. Here we are telling this damn light, you know, and we didn't know because the German VE boats which was like our PT boats, they were out, and luckily we didn't get sunk by one of them. But they did do some damage on other ships that were coming. So when -- we were scared, of course, 'cause we didn't know what was going to happen. We didn't know whether we were going to get on the beach, we didn't know whether they were going to lob shells at us because, as I said, we had those balloons. Every ship -- every ship that left had a -- had a balloon up in the air, about, oh, maybe couple hun--- 250 feet and we figured that that was a good thing that the German 88s couldn't -- could home in on. And we got over there, and luckily, on Utah Beach, it was fairly quiet. And I guess Omaha was until the guys started landing. That's when they started shooting. But everything that was going on, they were bombing the beach and then the cruisers lobbed shells in and the rockets that they'd set off. But we didn't have anything shoot at us. There was nothing -- no -- it was perfectly quiet. In fact, very few of the ships off of our beach, on D-day were hit by anything.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Talking about -- tell me the size of that landing craft again.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>LSTs, 327 feet. And it's like a bathtub. Because it only draws four feet of water, with all that weight in it. And when you're in a -- when you're in a -- you could see halfway around the bottom of the boat in that storm. Of course, that's where a lot of the poor GIs got sick. I mean, they were -- it was awful. They were all throwing up when they went on the beach and so forth. An interesting story that I didn't tell you. When we got on the liberty ship in Bayonne, New Jersey, when we took off to go to Boston, there was a storm, but we had stew that night. And when I went down to -- I was supposed to sit with the men from 12:00 midnight till 8:00 in the morning. And they were in the bow of the boat, five bunks high. And in that storm the bow would go up and it would slam down. It's like you go up about six stories and then come down. I stepped on potatoes and carrots and meat going down the passageway to get there. And then the poor GIs were throwing up in their helmet and dumping it out in the aisle.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Ooh.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>And I thought if I don't get seasick now, I'll never get seasick, and I didn't have anyplace to go, I had to sit on the steps, sit on the stairs. But I didn't. And we made it. But that was kind of tough.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>So when you got off shore --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Just one question: Were you seeing anything or were you -- I mean, the walls were tall on this ship, right, when you approached?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Oh, no --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Could you see --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>On the bridge.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>You were on the bridge?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Oh, yeah. The time that I saw a friend of mine --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Just look at T.J.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>I was telling him about my wife. Well, the first trip we brought the German prisoners back. And we -- in Southampton, there were two LSTs, we loaded, I went over and had a drink with the surgeon from Baltimore who was -- he was loading his ship. I knew what ship it was. And when we went back, his ship hit a mine and blew up through the ward room and killed about -- I don't know how many officers. I was up on the bridge of our LST, and I didn't have my life preserver, we had a belt life preserver. I ran down to get that because they put another LSVP(?) to go over and see if they could do anything. And the reason that my wife knew that I was in the invasion was she sent me an article that said "Doctors Are Targets Too." And it was written by the doctor that I had a drink with that night who was injured, wasn't killed, he was injured when his ship hit a mine. So I saw the thing happen, I read about it in the "Redbook." No, when we approached the beach, of course it was still dark when we approached the beach. There was nothing, and there was never anything shot at us.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>What time did -- what time -- what time did everybody land, though, was it at 8:00 in the morning, was it 7:00?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>No, it was probably -- it was probably 7:00 or a little earlier.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>So right after dawn, basically, or right after daybreak?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes, yes, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>And you guys were laying offshore about 3:00 a.m. or 4:00 a.m. in the morning?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>And sent the guys up to blow up the --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, we took them in. We were probably only -- we were probably 500 yards off of the beach when we put those guys over. They couldn't paddle those damn things a couple miles. And it was rough anyway. So we put them -- we put them over close, and then we went back out. Because the cruisers and the destroyers were lobbing shells then.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Did any of those guys get hurt that you let off? Did they come back or did they just stay?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>I don't know. The one of them -- yeah, they stayed. I don't know where they went. One of them came back to take a shower and he told us about -- God, he -- he put, a torpedo or a -- something up against the metal door in one of those places where they had the guys with the machine guns.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>The --</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>What do they call them?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>They're not bunk houses.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Not dugouts.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Bunkers.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Bunkers, yeah. He put it up against that and blew the door in, and he's telling me all about it, says, "God, I got in there and there was an arm hanging from the ceiling," and, you know, stuff like that. That's why I told him, I said, "If I had to do that, we wouldn't win this war."</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>These guys were, what, Navy frogmen and stuff?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>See-bees.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>See-bees.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Army-Navy Demolition Units, they were called, but they were see-bees. I guess the see-bees were only Navy, but these guys were Army too, they called them Army-Navy Demolition Units.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>What was the weather like that morning, do you remember?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>It was awful. The -- it was raining, but the water was rough because it was still that storm, even though Eisenhower decided for us to go, because if we didn't go then, it would be another month before the tides and everything would be satisfactory to go ahead and do it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Was it cold, do you remember?</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>No, it wasn't real cold. The wind was blowing, I mean, you know, it was damp, I'd say it was probably 45 degrees, something like that.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>And then the w- -- okay, I think that's it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Yeah. That's good. Done.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Done, good.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas J. Healy II</speaker>
+                  <p>Thank you. Thank you.</p>
+               </sp>
+               <sp>
+                  <speaker>Charles F. Richards</speaker>
+                  <p>Well, I'm glad to do it.</p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

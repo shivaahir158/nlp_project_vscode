@@ -1,0 +1,1230 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd" >
+<!--
+<!DOCTYPE TEI.2 SYSTEM "../teixlite.dtd" >
+-->
+<TEI.2>
+	<teiHeader type="vets_interview">
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of interview with John J. Primeau on July 19th, 2001</title>
+				<author>Tom Swope</author>
+				<respStmt>
+					<resp>Encoded by</resp>
+					<name>Matthew McCrady</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Transcript of interview with John J. Primeau on July 19th, 2001</title>
+					<author>Ellen Marie Gumpel (transcriptionist)</author>
+					<date>July 19th, 2001</date>
+				</bibl>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Encoded for the Experiencing War web site.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>The entire interview with John J. Primeau was digitized.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+			</editorialDecl>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div0 type="title" id="primeau1" n="1">
+			<!--begins encoded document-->
+			<p>INTERVIEW WITH <name type="person" key="JJP" reg="Primeau, John J.">JOHN PRIMEAU</name></p>
+			<p>JULY 19, 2001</p>
+			<div1 type="preface_text" id="primeau2" n="1">
+				<p>Preface</p>
+				<p>This is the oral history of World War II and Korean War Veteran <name type="person" key="JJP" reg="Primeau, John J.">John J. Primeau</name>.  Mr. Primeau served with the Air Force and his highest rank was staff sergeant.  Mr. Primeau served in the Pacific theatre during World War II and state side and in Germany during the Korean War.</p>
+				<p>I'm <rs type="person" key="TS" reg="Swope, Tom">Tom Swope</rs> and we recorded this at Mr. Primeau's home in Willoughby, Ohio on July 19th, 2001.  John's age at the time of this recording was 74.</p>
+				<p>The interview was transcribed and processed by <rs type="person" key="EMG" reg="Gumpel, Ellen Marie">Ellen Marie Gumpel</rs>.</p>
+				<p>The reader should bear in mind that she or he is reading a verbatim transcript of spoken, rather than written prose.  Insofar as possible, this transcript tries to represent the spoken word.  Thus, it should be read as a personal memoir and not as either a researched monograph or edited account.</p>
+           <p>To the extent possible, the spelling of places, names, foreign words and personal names have been verified, either by reference resources or directly by the interviewee.  Some uncertainties will inevitably remain regarding some words and their spellings.  In these scenarios, a (ph) follows a word or name that is spelled phonetically.</p>
+		   <div2 type="body_text" id="primeau3" n="1">
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+				<p>Question:  What was your hometown during the war?</p>
+		   </sp>
+		   <sp>
+		   <speaker>John J. Primeau</speaker>
+				<p>Answer:  Hometown and where I was born and raised essentially was Cleveland, Ohio on the east side of town at approximately 79th and Wade Park.  I had the schooling at Wade Park Elementary, Addison Junior High (ph) and then John Hay Senior High (ph) from whence I departed into the service in June of 1944.</p>
+		   </sp>
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+				<p>Q. Were you drafted or did you sign up?</p>
+		   </sp>
+		   <sp>
+		   <speaker>John J. Primeau</speaker>
+				<p>A. I enlisted in the Air Force &#151; the Army Air Force Reserve Corp. and at the time I was 17 so you can't go on to active duty until you're 18 soI enlisted and was made familiar with the &#151; what they call the armed &#151; Army Specialized Training Reserve Program.  And what this was, was a, a technical education program of about nine months to twelve months for engineering-type technicians, which the Army badly needed for running the various systems, the various tanks and airplanes and etc., etc.  And so they took a lot of kids like myself right out of high school as soon as they had graduated, but they were still ineligible for active duty and so we went into &#151; in the service.  And I went &#151; they had programs all over the country, but I went to University of Dayton in Ohio and then spent three more months, was transferred over to University of Indiana at Bloomington, Indiana.  And then in March of '45, after I turned 18 the previous September, I went on to active duty, was called up and went on to active duty at <name type="place" key="ATT" reg="Camp Atterbury, Indiana">Camp Atterbury, Indiana</name>, which was a large reception center at the time.  I don't know if it's still active now, but it was pretty active then and was accepted into the service and then we went to <name type="place" key="SFTX" reg="Shepherd Field, Texas">Shepherd Field, Texas</name> for basic training.  We would normally have gone to Kessler Field in Louisiana, except that they had a rampaging flu epidemicgoing on and they didn't want to send any new guys in if they didn't have to, so they sent us to Shepherd Field, Texas and we spent our 12, 13 months or weeks of basic training camping, marching, doing things like &#151; all those good things like KP, for example.  And once in awhile we would get a three-day pass over the weekend and have fun, but...</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. What kinds of things did you do for fun?</p>
+		   </sp>
+		   <sp>
+		   <speaker>John J. Primeau</speaker>
+				<p>A. Well, we &#151; one time we took a nice thumb ride down to Fort Worth, Texas.  In &#151; at <name type="place" key="SFTX" reg="Shepherd Field, Texas">Shepherd Field</name>, we were Wichita Falls, which is in Northern Texas and then we went to Fort Worth and Dallas, which is more near mid Texas and just had a good time.  Everybody was, well, talking to the bar people, they wanted to find out what the bartenders know and so on and have a few beers here and there and then thumb our way back to the base.  And most &#151; actually most entertainment and that was what you could do at the local recreation center, which you had movies there and you had some pool tables, ping pong and writing desks and, oh, things like card playing, that, that sort of stuff that was never really too innervating.  And then beyond that was &#151; once in awhile they would have a, a dance for &#151; they would bring the USO girls in and, and then they'd bus them back out again.  And &#151; but everybody would have a good time and most of the time it was chaperoned. Then we were transferred from basic, everybody went every which where and I was assigned to B-29 Gunnery School at <name type="place" key="LFCO" reg="Lowry Field, Colorado">Lowry Field, Texas</name> &#151; or <name type="place" key="LFCO" reg="Lowry Field, Colorado">Lowry Field, Denver, Colorado</name> and was intended to be a remote control turret gunner on B-29s flying over Japan, but along about that time, early August, I believe it was about August 12 or so, they dropped the Atom bomb and this interrupted everybody's training process.  The Army wanted to get everybody out of the service as soon as possible and get them home and &#151; Navy and Air &#151; all the, all the services wanted to get people home that were draftees and that.  And a &#151; but they asked us if those that wanted to stay in for 18 months, we would get a furlough and, and we would be sent overseas to work with dismantling the services and sending people home.  Well, what the hell, I was only 17 or 18 &#151; yeah, about 18 at the time and had no wife or anything that &#151; normal family at home and figured I might as well see the world, it's on the government, it's free and who knows what.  And so I enlisted for 18 more months and went to Salt Lake City where we had a staging area for sending troops overseas, was there a couple of weeks while we outfitted and processed and then went up to Fort Lewis, Washington &#151; I'm sorry, Pittsburg, California, that was the first time, Pittsburg,  California.  And we went to the camp there.  I  can't remem &#151; Stoneman, that's it, Camp Stoneman, it just came to me.  And the port was Pittsburg, California, which was right on the bay, San Francisco Bay.  Well, we processed there and finally loaded on a, on an admiral ship, the Admiral Rodman, R-o-d-m-a-n.  It was a big troop transport.  And we got out of the bay and on in, into the ocean and, of course, we caught the tail end of a typhoon.  They call them typhoons in the Pacific; hurricanes in the Atlantic.  And I never saw so many sick soldiers sitting around &#151; actually, they &#151; because of the wave action and,  and it was so stormy, everybody &#151; most of them were afraid for their lives really, being the first time on board ship and they were sitting on the stairwells that would go up from all the different decks up to the, the top deck, getting ready to bail out, I guess, but a lot of them &#151; a lot of us got sick just from the, the &#151; seasick and the pitching and rolling and all, but then the next morning, it was gone and sheesh everything smoothed out and for the next two weeks was just great sailing.  We went across th ocean to Manila Bay.  We passed through the Saipan and Tinian Island group.  They were right on the way and we went either around them or right through &#151; between them to Manila Bay an pulled into Manila and debarked.  And after processing on shore, we were &#151; where we got our assignments, I was transferred up to Far East Ai Force Headquarters at Manila, Fort McKinley was the actual base site, very close to <name type="place" key="NCF" reg="Nichols Field, Philippine Islands">Nichol's Field (sic)</name>.  Excuse me.  And I was there as a first, first clerk of the personnel section.  There's, there's five or six sections in each Air Force management structure.  There is a, a personnel and then there's A2 for quarter master, supplies and so on, then A3 is intelligence, A4 is transportation, A5 is wing control and so on.  So anyhow, I was in A1, which was personnel and our problem was, the big problem was to process hundreds of thousands of, of airmen to send them home because most of them, by and large, they were draftees and wanted to get home as quick as possible.  And we even had &#151; Walter Winchell and said, We've got to get these troops home.  Theirwives and families are waiting for them.  We've 
+
+    got to get them home.  And then we had the big 
+
+   rallies where thousands of troops were out there 
+
+  and they're all, I want to go home, I want to go 
+
+home, you know.  Well, we processed the troops to 
+
+   get them home as fast as possible, left zillions 
+
+   of dollars worth of equipment there; trucks, 
+
+  tanks, airplanes, machine guns, you name it.  And 
+
+they went home on troop ships, cruisers, 
+
+ battleships, aircraft carriers, submarines, 
+
+ tank-landing craft, anything that would float and 
+
+get them across the ocean, but we got them home.  
+
+And by and large, it was the greatest 
+
+demobilization of any armed force ever in 
+
+history.  It was a &#151; it was a case of reducing 12 million in uniform to &#151; down to about less 
+
+than a million is what it amounted to.  And all 
+
+those troops had to be sent home and processed, 
+
+uniforms turned over.  I think everybody was 
+
+given one uniform and one set of everything, 
+
+except, of course, weapons and they were able to 
+
+take some souvenirs home with them, very few.  
+
+But by and large, got most of them home without anything like that.  And then &#151; so that was our 
+
+main problem, main processing problem.  And 
+
+beyond that, we had essentially a, a structure.  
+
+Far East Air Force headquarters was the air 
+
+command for MacArthur.  He had the ground 
+
+command.  He had the air command.  And he also 
+
+had the sea command.  And we were the air command 
+
+for MacArthur.  And we had five air forces under 
+
+our headquarter's control.  I believe it was the 
+
+1st, the 7th, the 5th, the 13th and one, one air 
+
+division.  And &#151; that wasn't 20th, don't forget 
+
+the 20th.  That was the big one that dropped the 
+
+bomb from Saipan.  And so we had essentially 
+
+administrative control over, over these &#151; all of 
+
+these air forces.  One air force was in Manila, 
+
+one was in Hawaii, one was in Saipan, one was in 
+
+Japan and so on.  They each had their own 
+
+headquarters for various areas.  And that's &#151; 
+
+that same structure is there today, except the 
+
+numbers have changed, but they still have the 
+
+ Pacific Air Command they call it now.  At that 
+
+time it was Far East Air Force headquarters, we 
+
+called it FEAF, another acronym, you know, just 
+to shorten things up, and processed people, 
+
+transferred people, transferred equipment, 
+
+transferred and moved various and sundry units 
+
+for patrol purposes, for flying purposes, for 
+
+sending home and for medical and on and on.  
+
+There is a hundred things that have to be done.  
+
+And my job was to process the paperwork through 
+
+the headquarters and get &#151; make sure it got to 
+
+ the right parties for processing.  I worked for a 
+
+General Wexal (ph).  He was a brigadier general 
+
+and his immediate staff commander was John Pryce 
+
+ (ph), Colonel Pryce (ph).  We had for our 
+
+headquarters the commanding general was White &#151; 
+
+Whitehead, that was it, Whitehead. MSC Whitehead. 
+
+And one interesting thing that occurred while, 
+
+ while I was there was one of our B-29 pilots had 
+
+made the first nonstop trip around the world.  
+
+They tanked up and, and &#151; along the way and they 
+
+flew all the way around the world nonstop.  That 
+
+was a big thing, but I doubt if anybody saw it 
+
+back here in the states, you know, but it was in 
+
+ the headlines there, the papers and...</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. Was it mid-air refueling; is that right or...</p>
+				</sp>
+				<sp>
+				<speaker>John J. Primeau</speaker>
+				<p>A. Mid-air refueling, yeah, yeah.  And stop me if 
+you, if you want to ask questions or anything, 
+
+you know</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. I think you, you mentioned you were the 
+
+headquarters, the unit...</p>
+				</sp>
+				<sp>
+				<speaker>John J. Primeau</speaker>
+				<p>A. Right, head &#151;</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. What was your rank?</p>
+				</sp>
+				<sp>
+				<speaker>John J. Primeau</speaker>
+				<p>A. And I wound up staff sergeant.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. Uh-huh.</p>
+		   </sp>
+		   <sp>
+		   <speaker>John J. Primeau</speaker>
+				<p>A. Yeah. And as a staff sergeant, well, it's, 
+
+it's a decent rank and we lived right there in 
+
+headquarters.  <name type="person" key="DM" reg="MacArthur, Douglas">MacArthur, MacArthur</name> had his 
+
+headquarters in a, in a bank, a former bank 
+
+building. I'll remember it. They called it &#151; the 
+
+different bank or a different building by 
+
+different names and I was just on &#151; I was 
+
+stationed just down the street in the Marinuchi 
+
+(ph) building they called it.  And then we was &#151; 
+
+it happened that we were on Marinuchi (ph) 
+
+Boulevard in Tokyo. Oh, I forgot to mention that 
+
+we had&#151;</p>
+		   </sp>
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+				<p>Q. Yeah.</p>
+				</sp>
+				<sp>
+				<speaker>John J. Primeau</speaker>
+				<p>A. &#151;transferred&#151;</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. To Tokyo.</p>
+				</sp>
+				<sp>
+				<speaker>John J. Primeau</speaker>
+				<p>A. Yeah, we got&#151;</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. I was thinking you mentioned <name type="person" key="DM" reg="MacArthur, Douglas">MacArthur</name>.</p>
+		   </sp>
+		   <sp>
+		   <speaker>John J. Primeau</speaker>
+				<p>A. Yeah.  I forgot that we&#151;</p>
+		   </sp>
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+				<p>Q. When was that?</p>
+		   </sp>
+		   <sp>
+		   <speaker>John J. Primeau</speaker>
+				<p>A. We were in &#151; oh, while we were still in 
+
+Manila, <name type="person" key="DDE" reg="Eisenhower, Dwight David">Eisenhower</name> came and visited us.  He was 
+
+chief of staff at the time, the army chief of 
+
+staff before he started running for president and 
+
+he came and visited our headquarters one time and 
+
+walked through and we all said hi and 
+
+(unintelligible), whoosh, straight through. And 
+
+we used to, we used to go swimming in the, in the 
+
+fort grounds there, the&#151;they had a pool.  And 
+
+I caught a fungus infection in my ear.  I had to 
+
+go to the hospital.  So I spent the hospital&#151;
+
+Christmas and New Year's of 1945 in the hospital 
+
+trying to clear up this infection.  Well, they 
+
+finally got it cured.  I think they used sulfa 
+
+  drugs, I think is what it was.  So we cleared up 
+
+that, that was a&#151;the big serious problem. One 
+
+time, just a little side incident, one time I had 
+
+been in town just socializing and came back to 
+
+the&#151;my base and I was tired and sat down on my 
+
+bunk&#151;at the time we were in tents and bunks, 
+
+dirt floors and so on because they hadn't yet 
+built&#151;rebuilt the base yet.  Anyhow, I pulled 
+ the mosquito netting, which everybody had there, 
+
+you had to have it, I pulled that aside and just 
+
+kind of leaned back on the bunk a little bit and 
+ put my hand right on a snake and it was about 
+
+ that big (indicate) ya-ha, I jumped up.  It was 
+
+about 12:00 at night because I had just come in 
+
+from leave.  It scared the daylights out of me, 
+
+you know, I could use other words but it's a &#151; 
+
+it just scared the hell out of me.  And here I 
+
+found that one of the guys, one of the jokers in 
+
+the, in the barracks or in the tents for the hell 
+of it, he knew I was out and so he had hit this 
+
+snake with his jeep, he had run over the thing 
+
+ and, and killed it, you see, so, Ah, ah, I'll set 
+it up, I'll fix it up for him.  Well, we had a 
+
+few arguments that night and damn, that was a &#151; 
+
+one of those traumatic things you just &#151; you 
+
+know, it gets tucked away and you never forget 
+
+the damn thing, but nothing serious, noth &#151; no 
+
+harm really done.  You just remember it. Well, 
+
+then we went to &#151; we were assigned to, to go up 
+
+to <name type="person" key="DM" reg="MacArthur, Douglas">MacArthur's</name>, up to Tokyo, the whole 
+
+headquarters, Far East Air Forces, FEAF, and so 
+we had to make preparations for that.  And we got 
+
+airplanes lined up and so on and so forth.  We 
+
+finally had our takeoff, we got on the &#151; we flew 
+
+on the &#151; I flew on the C-54, which is &#151; was a 
+
+very popular four-engine airplane at the time.  
+
+ We flew with our generals and I was, of course, 
+
+in the headquarters staff so I flew along with 
+
+them, landed at, at Okinawa, one of the fields 
+there.  And all the officers unloaded and went in 
+
+for lunch and drinks and so on.  The enlisted men 
+
+stayed on the airplane, had a sandwich and pop.  
+
+And then we flew on to Tokyo, landed at, at 
+
+Haneda Air Base just outside of Tokyo and that's 
+
+where I learned to drive a truck on the wrong 
+
+side of the street.  All of Japan's streets are&#151;you drive on the left side rather than the 
+
+right.  And, and the streets are, are so narrow 
+
+and half the time we had to be careful because 
+
+the buildings are up so close to the street and 
+their balconies hang over the street like and we 
+
+had to be careful we didn't take a balcony with 
+
+us as we were driving down the street to get from 
+
+the, from the base, the big motor pool into, into 
+
+Tokyo.  Once you get to Tokyo, it was more like a 
+regular cities where the housing was set back, 
+
+sidewalks and so on.  Well, that was a &#151; to me, 
+
+it was an eye opener.  I had been through Manila 
+
+and the damage that had been caused by the war.  
+
+And in fact had been in the baseball stadium 
+
+where Lou Gehrig's name was up there and Babe 
+
+Ruth and, and Jimmy Fox (ph) and so on.  They had 
+
+come for the celebrated games, you know, where 
+
+they would be the star.  And so they put their 
+
+name up on the walls and &#151; but that stadium was 
+
+the center of a tank battle and everything was 
+ just all blown to hell.  The walls were down 
+
+partly, big holes in the ground, etc., you know, 
+
+all that kind of stuff.  It was just a, a real 
+
+mess.  And likewise, with the rest of Manila, it 
+
+was bomb outs here, buildings tumbled down.  They 
+
+had the streets cleared, but that was all and 
+they hadn't started repairing or rebuilding or 
+
+anything. Well, I had seen all of this in, in 
+
+ Manila.  I was in charge of the motor pool for 
+
+our particular A1 section and I had a jeep every 
+
+night so I went into town and I'd go out with, 
+
+ with the boys, we'd have a couple of beers and so 
+
+on and about the fastest we could ever go was 50 
+miles an hour and that was about for about a half 
+
+a mile stretch outside of Manila where you would &#151;before you would run into bomb craters and 
+
+everything was&#151;you had to go around the hole 
+
+in the street, you know, and, and so on and be 
+
+careful of the traffic.  They were mixing the 
+
+bulls, bullocks and the cows and &#151; right in with 
+
+the main traffic and they had donkey cartatellas 
+
+(ph), you know, where people would ride the 
+
+little carts and the donkeys would go through the 
+
+main &#151; right in the main traffic.  Everything 
+
+was mixed.  They'd have jeeps that were converted 
+
+ to&#151;you know, a four-passenger jeep was 
+
+converted to about fifteen people and, and 
+
+fifteen people would be on it and hanging all 
+
+over it, you know, and the thing would be weighed 
+
+down and so on.  Well, that kind of traffic was 
+
+mixed in with cars, big trucks, little trucks, 
+military movements, donkeys, etcet &#151; you name 
+
+it, you name &#151; it was really a mix of traffic; 
+ that's where I learned to drive. So when we moved 
+
+to Tokyo, though, it was just incredible, 
+
+everything was just flattened.  And Tokyo was a 
+
+big city before the war.  And what it was was the&#151;it was built of wood and straw and bamboo and 
+
+the fire bombs that we had used, low-level fire 
+
+bombs, the strategic commander at the time that 
+
+was, that was directing flights from Saipan, the 
+
+B-29s to Tokyo and the rest of the targets 
+
+decided to go in low level with fire bombs and it 
+
+just burned Tokyo damn near to the ground. Well, 
+
+they were not allowed to aim anywhere near the 
+
+Emperor's palace, which happened to be across the 
+
+street from where I was stationed so everyday 
+
+we'd walk from our barracks building, which was a 
+
+department store that had been converted, an 
+
+eight-story building, concrete.  And, incidently, 
+
+the concrete buildings and brick buildings were 
+the only ones that left standing, everything else 
+
+was burnt to the ground.  And &#151; but the Japanese 
+
+by the time I got there, which was in 
+
+approximately May of forty&#151;April/May of '46, 
+
+we were flown up there.  And by the time we got 
+
+there, they had cleaned the streets, so the 
+
+streets were great, you could really drive down 
+
+them and all brick and so on.  The streetcars 
+
+were running.  But the housing, yes &#151; everything 
+
+was piled rubble, just rubble all over the place.  
+And you would see a building here and one way 
+
+over there and so on; that was all that was left.  
+
+In the main downtown area, which was where most 
+
+of the commercial buildings were was where we 
+
+were based right there.  And in the department 
+
+stores, really.  MacArthur was in the Daichi (ph) 
+
+building.  That's it.  I knew I'd remember sooner 
+
+or later.  And he was, of course, the king man of 
+
+the whole Far East.  He issued an order and 
+
+everybody jumped.  And after reading some of the 
+
+histories of the times and how things developed 
+
+and who did what and when and why and where and 
+
+all that, I started getting a bigger picture of 
+
+where I had been, but while I was there, I was 
+
+just a dumb-guy troop, doing my work, shuffling 
+
+papers, typing and so on as, as a clerk.  I had 
+no idea all this was going on, but sure enough, 
+
+it was going on, according to all these history 
+
+books.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. Did you meet <name type="person" key="DM" reg="MacArthur, Douglas">MacArthur</name>, spend any time with him?</p>
+		   </sp>
+		   <sp>
+		   <speaker>John J. Primeau</speaker>
+		   <p>A. I never did.  And he, he lived almost a reclusive life.  He never went on a holiday to my 
+
+knowledge, vacation, never did.  His family, his 
+wife and his son, they stayed right there.  They 
+
+travelled somewhat around Japan.  They would 
+
+go &#151; escorted all over the place, but he 
+
+never &#151; he never went on vacation to my 
+
+knowledge.  And I do remember sometimes we'd take 
+
+off in the morning and get back later in the 
+
+afternoon or something and we'd go down and watch 
+
+him as he arrived at the office or left the 
+
+office.  And it was a staged show.  It &#151; the big 
+
+staff car would be out front, the motor running 
+with half a dozen MPs dressed in white helmets, 
+
+white bandoliers and white spats and shoes and 
+
+really dressed up and all of them over 6 feet 
+
+ tall, see.  Well, of course, the Japanese were 
+
+only about 5 feet tall so &#151; and MacArthur was 
+
+over 6 feet.  I think he was about 6'1", 6'2", 
+
+something like that.  So he would come out of the 
+
+building and salute the troops and just walk 
+calmly down and get in the car.  And all the 
+
+Japanese were like a big &#151; it was a big audience 
+
+out there, you know.  He had a central walkway 
+
+for him to come out of the building and into the 
+
+car.  And, and the same thing in the morning.  He 
+
+would do the same thing in reverse, have a real 
+show, each, each time he entered and left the 
+
+building.  And he was a showman; that was 
+
+figured &#151; that was part of his command presence.  
+
+In other words, you have to be more than just a 
+
+person to be able to command a million and some 
+
+odd troops, plus tens of millions of civilians 
+
+and all that, you just have to have a presence, 
+
+so he had the presence and he used it.  And, of 
+
+course, he set up the &#151; his headquarters set up 
+
+the Constitution for Japan, which they now 
+
+operate under, allowed women to vote, for 
+
+example, allowed unions to be created.  He set up 
+
+a remarkable society there, completely changed 
+
+from the, from the Shinto Society they had 
+ before. And unfortunately, it was allowed to 
+
+devolve into a, into a society where a few, a 
+
+relatively few families controlled everything and 
+
+they did that before the war.  Well, after 
+
+<name type="person" key="DM" reg="MacArthur, Douglas">MacArthur</name> came in and stopped all that, they 
+
+gradually wormed their way back in and started 
+
+taking control of this and that and the other 
+
+ thing.  And they're &#151; that's the way they're 
+
+operating now in this day and age and the reason 
+
+ for the problems they're having now.  They're in 
+ a recession that won't quit now.  They can't get 
+out of it.  And the government is struggling to, 
+
+at this point in time, to avoid a depression.  
+
+They have a hell of a big market.  I mean, it's 
+
+the third largest in the world and the third 
+ largest producers in the world, but &#151; compared 
+
+to us and somebody else, Europe, I believe it is. 
+
+So we had a relatively calm life living there in 
+
+Tokyo.  The Japanese people were, I would say, 
+
+friendly.  We had workers that worked for us 
+
+doing different things like KP and maintenance 
+
+work and I got, I got to be real good friends 
+
+with a librarian.  His name was Renisaki Fugerara 
+
+(ph), real thin, big heavy glasses, typical 
+
+Japanese-looking man, and &#151; but we'd talk and he 
+
+was learn &#151; trying to learn English.  And I'm 
+
+trying to teach him English and he tried to teach 
+
+me a few things in, in Japanese, but &#151; I didn't 
+
+learn much.  It didn't stick.  We visited his 
+
+family once, several of us, stayed over night at 
+his family.  You go in the house, you take your 
+
+shoes off.  There &#151; that was their custom, 
+
+everybody takes their shoes off when they enter a 
+
+ residence.  And &#151; so you go in and, and then 
+pretty soon we're sitting on the floor on 
+
+pillows, you know, and there's no chairs, just 
+
+sitting on the floor.  Well, then, what do we 
+
+eat?  Well, we're not allowed to eat anything 
+because they're starving there at the time, not 
+
+starving, but they were on minimum rations and, 
+
+and the GIs weren't supposed to take any food 
+
+from the Japanese and &#151; that's the way we did 
+
+it, so &#151; but they did give us a cookie.  I guess 
+you'll remember that thing.  It was just a 
+
+chocolate dough cookie.  It was just hardly &#151; 
+
+no, no flavor to it whatsoever, but it looked 
+
+like a chocolate cookie and they were &#151; it was 
+
+like a &#151; to them, it was a big thing, you know, 
+
+because they &#151; they were living on these poor 
+
+rations and so we, we had brought our own 
+
+K-rations, you, you'd take a pack of K-rations 
+
+with you whereever &#151; if you wanted to go 
+
+anywhere.  So we had those and they had their 
+
+soup and these cookies and, boy, that was a big 
+
+meal for them.  But it was very friendly, very 
+
+nice, we just talked and, and Renisaki (ph) he 
+
+was our interpreter and we tried to exchange 
+
+  ideas and so on, but it &#151; it's tough to get 
+across things, you know; but anyhow, that was 
+
+just an interesting visit.  And we had some times 
+
+with some of the gals.  We had, we had bars 
+
+there, of course.  And we weren't allowed to 
+
+drink any, any of their saki.  That was forbidden 
+
+because there wa&#151;it was not only alcoholic, 
+
+but it was&#151;there was something to it.  I guess 
+
+the way they processed it, it wasn't, it wasn't 
+
+clean or some damn thing, so we were allowed to 
+
+drink beer, but no saki.  And, of course, 
+
+everybody had to try the saki, you know, but I 
+
+didn't hear of anything hap &#151; happening as a 
+
+result of that.  But we, we would go into bars 
+
+and there wasn't anything really to see there, 
+
+except a couple of girls, you know, snaking 
+
+around with music and that.  It just wasn't too 
+
+interesting, but the Ginsa (ph) was the big 
+
+shopping street like Euclid Avenue here in 
+
+Cleveland, but the Ginsa (ph) was the main bars, 
+
+advertising all over the place, you know, the&#151;you'd walk down the street and, geez, there was just lights everywhere with all the neon signs 
+and it got &#151; as I lived there, it got more and 
+more and more.  They just kept adding on all this 
+neon stuff, you know, for advertising.  When I 
+
+left, why the place was bigger than &#151; brighter 
+
+than Euclid Avenue or Prospect.  And &#151; but it 
+
+was a shopping area, souvenirs, women, food, all 
+sorts of, of radios and, and the stuff that Japan 
+
+produced as a, as a &#151; commodities that they, 
+
+they were building at the time.  And it was a 
+
+shopping place.  And, boy, the bars were &#151; they 
+
+were prevalent.  And they had one big theatre 
+
+there, which we used to go to, which was a 
+
+regular Japanese theatre, small seats, you know, 
+
+you'd just sit in the seats and I pitied some of 
+ the guys that were heavy because, boy, they just 
+
+hung over the edge, you know; but anyhow, it was 
+
+called the Ernie Pyle Theatre.  And <name type="person" key="EP" reg="Pyle, Ernie">Ernie Pyle</name>, 
+
+of course, was the big &#151; the famous writer who 
+
+wrote on the scene at the battles and, and the 
+
+landings and the bridge, bridge heads and so on.  
+
+And he wrote about the gory parts of war and, and 
+
+how the guys died and, and how they live, and 
+ their heroism and, and etc., and was a famous 
+
+writer.  And then he was finally &#151; he was killed 
+
+in one of the battles, but they named the theatre 
+
+after him, <name type="person" key="EP" reg="Pyle, Ernie">Ernie Pyle</name>.  And it was a nice picture show theatre where you'd go and see the movies 
+
+ and, and occasionally a play.  And we'd take 
+
+   trips to the countryside every once in awhile.  
+
+We'd get in our jeep and drive around.  And one 
+
+time I took&#151;in the wintertime, I took a three&#151;you know, it was supposed to be a week-long pass for R&amp;R, we called it, rest and 
+
+recuperation.  And well, three of us, I believe, 
+
+ went up to a place called Shiga Heights, which 
+
+was north of&#151;or west of Tokyo, up in the 
+
+mountains and we had to get a &#151; use a train to 
+
+get there.  Well, the trains had rules that you 
+
+had to follow.  The troops, all the &#151; the 
+
+American troops that used &#151; and civilians, 
+
+American civilians, that used the trains had to 
+
+ride in the last car of the train and everybody 
+
+else had to stay in the other cars, all the 
+
+Japanese were in the other cars.  Well, of 
+
+course, we were the oddity so you'd always be 
+
+walking around and people would be looking at 
+you, Oh, geez, look at him, he's a white man kind 
+
+of thing.  And so we were in the troop car and 
+
+going up.  And there were a couple of the guys 
+
+that had &#151; were stationed at this base that we 
+were going to, the hotel, were on the same car.  
+
+And to me, it was an interesting trip because 
+
+you're going through the countryside, you stop in 
+the cities and towns and people get on and off, 
+
+you know, and you want to look out and see what's 
+
+going on.  And I was just plain curious, and so 
+I'd opened a window, the one &#151; the door window, 
+
+it was on the door, the other windows wouldn't 
+
+open, but this door window would open.  Well, 
+
+okay, people would get on and off and I'd be 
+
+standing there with the window open, just hanging 
+
+out and looking to see what's going on, you know.  
+
+This son of a gun that was stationed at the 
+
+hotel, one of the permanent party there, we got 
+
+there, we unpacked, we were all set to start 
+
+enjoying things, we didn't have to wear ties, 
+
+just our regular boots and our OD uniforms, but 
+
+no &#151; we didn't have to have anything official on 
+
+us.  We had our rank, but that was about it.  And 
+
+no ribbons.  And then we went down to dinner.  
+
+Well, I was just getting a &#151; finishing dinner 
+
+and had gotten up and was walking out of the room 
+
+and here comes the captain who was the commander 
+
+of the installation there.  He says, Is your name 
+Primeau?  And I says, Yeah&#151;yes, sir, not yeah, 
+
+yes, sir.  He says, I heard that you were 
+
+creating some ruckus there on the train coming 
+
+up.  I don't want any more of that and if it 
+
+happens again, you're out of here.  I was, What, 
+
+what's going on, what happened?  What, what did I 
+
+do?  Who said this? Well, one of our men reported 
+
+that you were opening and closing the window and 
+
+it got colder than hell in that damn car and he 
+
+was really ticked off about it and he reported it 
+ to me so I don't want you to do anything like 
+
+that around here or else.  Yes, sir.  I went to 
+
+ the Red Cross, you usually go to the Red Cross if 
+
+you have a beef, sometimes they can do something, 
+
+sometimes they can't.  She says, You better just 
+
+drop it.  She says, It's, it's not worth 
+
+bothering with.  I know he probably offended you, 
+but just drop it because it's not really worth it 
+
+and it could get messy.  I says, Well, the hell 
+
+with this damn place, I don't need this any more 
+
+than anybody else does and I'm getting out of 
+
+here.  So I, I went out one afternoon for skiing, 
+
+we had a great time, I packed up and left.  So I 
+
+was out of there the third, the third day.  I 
+ just couldn't stand him.  This son of a gun, 
+
+every time I'd see him &#151; one &#151; and then this 
+
+nasty buck sergeant that had reported me.  And I 
+
+knew &#151; I saw him all the time and &#151; ahg, the 
+
+combination.  You have to live with certain 
+
+things, you have to eat it; but other things, you don't.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Yeah</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. And that was one of the things that I got out of and, and remembered.  And that brings up another point.  When I was still in Manila, three 
+of us went up to a place they called Baguio.   Well, Baguio in Northern, in Northern Luzon Island was the summer capital for Manila because it got so damn hot and muggy in, in, in town, they would go up there because it was 5,000 feet elevation and it was cool and they could run the 
+government from up there and so they had a place they called Camp Roosevelt that was used for R&amp;Rby the troops all through the Philippines or at least at &#151; well, in Luzon, as far as I knew.  So, okay, we were going to go up there for a week and just get out of the heat and so on and so 
+forth and relax and, and enjoy.  Play golf.  They even have a golf course there.  When we signed in 
+to the reception room there and were assigned to our bunks and given instructions about this and that and, and a little map to show where everything was located and so on, now be sure &#151; because there are a lot of thieves around in this place, be sure and put your wallets under your 
+pillow at night so nobody steals them out of your jackets or whatever hanging &#151; pants hanging up 
+on the, on the hook.  Okay.  So we all put our wallets underneath the pillows.  Guess what?  The 
+next morning, the wallets were all gone from underneath our pillows.  I wonder who set that up, huh?
+</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Yeah.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. Yeah, we put&#151;we were naive kids.  We fell for it.  I don't know why.  I lost about 30 bucks is all it was, you know, and%#151;but I'm sure that, that these permanent party people, they&#151; they had something going with the local staff of&#151;</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Yes.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. &#151; natives.  We had a lot of natives working around there, you know, cleaning up and whatever.  And that's all part of the, the game, you know.  They screw you if they can and they will and so we fell for it.  But that happened back in the <name type="place" key="PHI" reg="Philippines">Philippines</name>.  But, at least, up in Japan, we didn't get stolen from.  And that was just a&#151;an aggravating incident, really.  And so I went back home or back to the base where I was stationed in, in Tokyo.  And while I was there, I was still entitled to a 90-day vacation or leave for my enlistment bonus so, okay, I took a month 
+going from Tokyo to home in forty &#151; this was in '46, the summer of '46 and a month coming back, 
+which was travel time, not leave time, you see.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Great.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. So I had 90 days.  Once I got home, I had 90 days to just play around here in Cleveland, which  I did.  And we had a great summer.  Geez, I had a couple of gals going and, boy, things were &#151; and all the guys were coming home from &#151; so we were having a hell of a time; that was a great summer.  And &#151; so then I had to go back.  Well, the way we travelled then was pretty slow, we took the low &#151; the boat from Tokyo to Seattle to <name type="place" key="FLWA" reg="Fort Lewis, Washington">Fort Lewis, Washington</name> and then home on train and then back the same way, the train to <name type="place" key="FLWA" reg="Fort Lewis, Washington">Fort Lewis</name>, jump on the boat, go back to Tokyo.</p></sp>
+				<note>END OF TAPE NO. 1</note>
+				<note>TAPE NO. 2</note>
+				<sp><speaker>John J. Primeau</speaker><p>A. And got to, got to the &#151; got to where I was stationed there and picked up where I left off and, of course, a lot of the guys had gone in the meantime and transferred and so on and &#151; but I worked up until approximately April of, of '47 in Tokyo and then was sent home for discharge. Well, I came home for discharge and stayed in the Air Force Reserve and the Air Force was made an independent branch of the service in 1948.  And 
+they started issuing the new uniforms and so on.  Meanwhile, I was &#151; I had stayed in the Reserve  and I was a weekend warrior, so to speak.  Every month, we'd spend a weekend at Hopkins Airport, which was where our unit was based.  And I was assigned to the 433rd Troop Carrier Wing.  And we had the transports that would carry supplies and, and equipment and troops and fly them around the country for various and sundry reasons, whatever their mission was.  But that was at the Ford&#151;or at&#151;not the Ford, but the Cadillac plant.   We were out there.  And that big building that's in front of it was our headquarters at the time.   And so we were &#151; we would have our weekend warrior stuff going and I was a trainee for aircraft, aircraft radio man.  How I got that, I really don't know, but I &#151; they had to put me in something, so they put me in that.  So anyhow, I was learning to be a radio man.  And then the summer of 1950 &#151; in the meantime, I had been working at various jobs, civilian life, you know, regular jobs and going to night school and so on and trying to figure out what in the hell I'm going to do with my career, career.  And so in  1950, we were at summer camp, <name type="place" key="ATT" reg="Camp Atterbury, Indiana">Atterbury Air Base, Indiana</name>, we were flying missions, practice training, you know, we were there for two weeks, so we were at summer camp when the Japanese or the Koreans, the North Koreans invaded <name type="place" key="SK" reg="South Korea">South Korea</name> and the war started.  And we thought, Oh, boy, we aren't even going to go home, they're going to ship us right to that God &#151; or the God awful hell hole is what it is.  It's just a&#151;terrible in Korea, aghh.  Well, they sent us home.  I guess they had to have time to process things and, and get the machinery moving, you know, and these &#151; trying to move millions of people, it's always a problem.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Yes.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. I don't know how they &#151; I still don't know  how they did it to muster up all the people for World War II.  We had 15, 18 million people in uniform at one time, all the different branches, you know, and Coast Guard and everything. Well, anyhow&#151;so we finally got our orders in September and we had to report to Greenville, South Carolina in October 15th of 1950 for entering onto active duty again.  And we were going to then change airplanes and receive the new C-119, they called it.  It was the airplane with&#151;it had twin boons for the tail, two engines and a big &#151; it looked like a box car, a flying box car really is what they were.  And so we were assigned those airplanes and they flew them in one by one from <name type="place" key="HAGS" reg="Hagerstown, Maryland">Hagerstown, Maryland</name> where they were manufactured and they had some problems.  And, you know, you always have problems with new equipment.  There's always something wrong.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. And, and they can fly them, but that's about it.  They &#151; then once they fly one time, they shake out all the bugs and re &#151; the pilot reports all the difficulties and so on and so that's when we had to get into maintenance and fix them all up and then start flying them regular.  Well, I got assigned to maintenance.  And I was in production control.  And every morning, I would write up all of the work assignments for the troops to &#151; they had to go into, for example, buildup they called it, engine buildup for repairing engines, propellers, the sheet-metal guys, parachute packers, electronics, on and on.  There was about seven &#151; eight, nine sections, something like that.  And I would prepare the work orders for each of the aircraft.  This had to be fixed, that had to be fixed and so you would send it out and work orders would go out to the different section heads and then  they'd pass it out to their workers.  It was a good life.  It wasn't bad at all.  And the key to the good life was the fact that after we had trained for awhile, we shipped over to Germany.  The Chicago wing at the time was No. 1 readiness in the country.  We were No. 2.  No. 1 went to Korea.  Oh, I pity those guys.  Oh, it was terrible over there.  Terrible.  The living conditions, the battle conditions, flying, winter, 90 below and all that kind of stuff, ice.  Oh, terrible there.  And I&#151;our unit was assigned to be the first aircraft wing for NATO.  After NATO had been formed, we were the first wing assigned to NATO by the United States.  That was our contribution to the combined effort over there.  So we went to Frankfurt, Germany, Rheinland Air Base.  A big, huge facility.  In fact, it's the biggest facility now in Europe.  It's been converted mostly&#151;most&#151;there's one small area that's still military, but most of it around the perimeter is, is all civilian and they fly, of course, all over the world.  Well, we were assigned there and set up our facilities and headquarters and we had a couple of visits from the NATO commander and that was a big deal, you know.  And every Saturday we'd have parades, you know.  Boy, we were &#151; I carried the guide-on for our squadron, maintenance squadron.  And the guide-on person marches right behind the major, behind the leader, the leader; that was, that was 
+un.  And we lived pretty normal lives.  We were in barracks that were heated by these old coal stoves.  And the guys within 10 feet of the stoves lived pretty well, it was warm, but 10 &#151; beyond 10 feet, it got colder than hell, you know.  And so we &#151; ahh, we were &#151; you lived through it.  And we travelled around to different places.  I went to France, Switzerland.  And essentially, what we did was we moved troops around and &#151; paratroopers and equipment from  this base to that base and all over Europe and into Africa, North Africa.  And Copenhagen was a big, big town for us because people there could  speak English and there was a great leave center.  It was great for recreation.  Never did&#151;I never did go there, but the guys would come back and tell me stories about this and that and the  other thing and, boy, it was great.  Well, we  just lived a decent life.  It wasn't remarkable.  There was no real big experiences.  We went skiing even down by &#151; near Hitler's headquarters down there near Salzburg.  It was in &#151; they called it Garmisch-Partenkirchen.  It was the winter &#151; the Winter Olympics were held there.   And they still had all the, the jump &#151;</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. &#151;the what&#151;ski, ski jumps and skating and all that stuff was still there.  And so we used it.  And it was fun.  And the&#151;well, just travelling back and forth on the train and I, I had gone down with three lieutenants from our squadron.  I was still a buck sergeant or staff sergeant.  And we had gone down to Garmisch for a  week for just leave.  And we had a hell of a time.  Everything was going great.  Of course, they were officers so they were in one barracks and then&#151;and the enlisted men were in another one.  But they were hotels, they weren't barracks, you know.  It's pretty nice living.  And we got together everyday and went skiing together and had, had a nice time.  And then coming back we decided to stop in Munich to get some lunch.  So we walked over to this officer's club, which was close to the railway station in Munich and went in and sat down.  Well, along comes a waiter dressed in this black uniform, tails and tie and so on, you know, they were very formal.  Sorry, sir, but you have to leave.  What?  What happened?  Why?  You're an enlisted man and these are all officers, so they stay, you go.  So I&#151;well, that's the rule.  I mean, that's the way life was at the time.  And you had your class distinction without question and this was the way we lived.  And the armies all over the world did the same thing.  Officer and enlisted, that was two different worlds.  And so I had to leave.  Well, I left, I, I got a sandwich and carried it out with me.  And that was the thing.  And, and they just had a bowl of soup and a sandwich and then ate and then I met them outside and got on the train and went back, but that little incident, just a little incident, it illus&#151;it illustrates the, the life that we lived.  The officers were a different breed of animal than the enlisted men, you see.  During all of this, of course, we very seldom had any exposure to females, other than civilians.  There were very few women in the service.  They&#151;you see some of the pictures here where they're kind of all over the place; but, hell, that, that never happened in those days.  It happened&#151;it probably started in the 60s/70s when&#151;in Vietnam and so on, you know.  And&#151;but in those days, they had very few women, a few, a few women officers, a few nurses and then you had Red Cross, a lot of Red Crosses around, but those were officer women and you could&#151;that was officer country and you couldn't fool with them.   And the blacks, we didn't have much in the way of activity with the blacks in WII.  In fact, they had nobody that I remember at all in, in my  organizations that were black in WII.  But then  during Korea, we did have about 4 or 5 guys out  of 160 in my maintenance squadron.  And it's&#151;now, I guess it's about maybe 25 to 30 percent  black, but it's&#151;at that&#151;in those days, it  just wasn't.  And, of course, in '48, also,  <name type="person" key="HT" reg="Truman, Harry S.">Truman</name> integrated all the forces.  There were no  longer to be any, any more favoritisms or  promotions or whatever, whatever based on race.   And so it's a &#151; the blacks have, have really 
+
+come to the fore in the services.
+
+Now, let's see.  I was still in Germany and 
+
+they started sending home different ones that 
+
+were replaced by active duty people.  They &#151; it 
+
+always takes time to build up a force and &#151; with 
+
+active people.  And the Reserves fill in until 
+
+they get replaced.  So gradually we were replaced 
+
+by active duties and I was then finally sent home 
+
+with about 20 others of us in May of '52.  And 
+
+because I could not &#151; I had taken tests for &#151; 
+
+to be an officer candidate for switching from 
+
+enlisted to officer category.  I needed 135 on 
+
+the test.  I got 132.  And &#151; so that didn't 
+
+work.  And so that's when I stayed in the service 
+
+as an enlisted man and then promptly said, I 
+
+don't &#151; this isn't going to be for me because I 
+
+didn't like the life.  I mean, an enlisted man 
+
+was dirt and whatever that dumb SB was is he was 
+
+a lieutenant and his word said, Do it, you know.  
+
+And I didn't, I didn't like that kind of living.  
+
+It was a &#151; anyhow, we got home in '52, May of 
+
+'52 and we were finally discharged at Camp &#151; or 
+
+at, at Lockbourne Air Base down at Columbus.  And 
+
+a couple of us started out on the road thumbing 
+
+home from, from there.  And they got a car &#151; one 
+
+guy got a car, another guy got a pickup truck.  I 
+
+got a big truck, a tanker truck.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. I tell you, I'll never ride another tanker or 
+another 18-wheeler ever.  They &#151; oh, run the 
+gears up and down, the engine goes up and down 
+
+and so on.  There's not much left anyhow, so...
+
+Well, anyhow I, I hitchhiked all the way home to 
+
+Mayfield Heights at the time is where I lived 
+
+with the family and my parents and brother.  And 
+
+arrived home at about 3:00 in the morning.  And, 
+
+of course, at that time, it was all farmland 
+
+really up in, in Mayfield Heights.  There was no, 
+
+no development the way it is now.  Right along 
+
+Mayfield Road is where I &#151; we lived, on Mayfield 
+
+Ridge, as a matter of fact.  So I had to walk all 
+
+the way from 91, which is Soma Center (ph) &#151;
+</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. &#151; and Mayfield, which was 322.  And walked from there with the big duffle bag, you know, full of crap and stuff and I finally made it home about 3:00 in the morning and that was my experience with the military.  I told them I wanted out, just a complete discharge.  I didn't want any more interference with my life.  Just &#151;  if you stayed in the Reserve, you were always subject to recall.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. And the hell with it, I didn't want to keep 
+having to report in for any &#151; I wasn't making 
+
+anything out of it.  I wasn't doing any good.  I 
+
+wasn't an officer, that's for sure.  And you make 
+
+a few bucks, but, Christ, that's nothing.  And so 
+
+I just wanted to get on with my life and &#151; so I 
+
+put in all told eight years and about nine months 
+or so of active and reserve time and about &#151; all 
+
+told, about 42 months active time, so I feel I 
+
+made my contribution to the world peace.  And 
+
+beyond that, it was an experience that I 
+
+wouldn't, I wouldn't have missed if &#151; unless I 
+
+was disabled or some damn thing.  I, I really 
+
+enjoyed it all the way, pretty much all the way.  
+
+I never had anybody shoot at me.  I never had to 
+
+shoot at anybody.  I had rifle training, pistol 
+
+training and so on, but never, never used any 
+
+weapons at all. </p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. You had a few of the warriors there when you were on the home front. Do you remember anything about &#151; any home-front memories?</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. Okay. Yeah, during the war years &#151; of course, I was a kid, 17 when I went in, into the Army Specialized Training Program.  Prior to that time, <name type="thing" key="PH" reg="Pearl Harbor Attack">Pearl Harbor</name>, for example, I don't remember much at all of it, other than I was at the Sunday matinee movie theatre and came out and people were talking about Pearl Harbor and, and the bombing and Japan had bombed <name type="thing" key="PH" reg="Pearl Harbor Attack">Pearl Harbor</name>.  Nobody knew anything about <name type="thing" key="PH" reg="Pearl Harbor Attack">Pearl Harbor</name>, where it was, who the Japanese were, other than a country some zillion miles away.  And so there was not much really as a, as a kid of 14, baseball, sports, girls, school, that was our &#151; pretty much our life, local, local life really.  We didn't have a lot of vehicles to run around in.   We didn't have any television or &#151; and, and minor radio influence.  And so you'd see the paper once in awhile, but that battlefield news was remote.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. The same with that battlefield.  It was all  pretty much remote.  We knew things were happening, people were working three shifts, the  red stars were in the windows, you know, for the 
+people that had been killed and &#151; or gold stars or that kind of thing.  Rationing was in full 
+stream with gasoline.  You couldn't get gas for 
+your car, except with those coupons.  You were rationed on meat, on a number of things that &#151; I can't even remember most of it because my mother did work &#151; did, did the shopping.  She kept us fed and that was it.  I was one of nine kids at home so everybody kind of was on their own, so to speak, and we tried to stay healthy and, and active and everybody was.  And then a couple of them started going off to war and we'd hear about them from time to time.  My sisters, they got married and they had &#151; their husbands would be in the service, one was in the Marines, one was 
+in the Army Corps. of Engineers, one was in the Coast Guard, one was in the ships, the Merchant Marine.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. And he sailed the lakes, the Great Lakes here.   He was chief something officer on the &#151; on these boar (ph) boats and, and coal boats on the lakes.   And they were all doing their duty.  And, of course, the girls, the women, they were &#151; for example, my sister, my one sister worked at Fisher body plant.  She, she was building the nacels for the engines on B-29s; that's the big housing around the engine front.  And the big &#151; these are huge things.  I mean, they're up to the ceiling, you know, on big platforms and they had to put pieces together and she was building those during the war.  And then they'd go over to the bomber plant for outfitting on, on the bombers.  Well, then while I was in school &#151; I went to &#151; of course, in, in senior high, I was at John Hay and we had no military units or any of the stuff you have today with the cadets and all that kind of thing.  The Army, Air Force, Navy, they all have these, these high school units now, but didn't have them at my time in the &#151; well, at my school.  And so when the time came in 1944, June 1st, 1944, when I graduated, and June 7th, I went in the service, so it was a week later.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Right.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. And June 6th was D-Day in Europe and that was the big commotion with the papers and the radio and people talking about the &#151; this was the big invasion of Europe, June 6th.  We still celebrate that day today.  But I wanted to read an, an 
+excerpt from the book that, that little did I  know that I was essentially involved in, in this thinking in a remote way, a very remote way.  I'm reading now from &#151; the book by Bruce Lee.  It's called Marching Orders and it describes much of the activity that was going on in secret with Britain, Germany, England our &#151; Russia and United States and the war with Japan and the  planning and strategic thinking at the time &#151; about the time that I went into the service.<note>[Reads from book]</note>A quick review of major events in the Pacific is in order.  January 1945, <name type="person" key="HALS" reg="Halsey, William F.">Admiral Halsey</name> flies to Pearl Harbor to meet <name type="person" key="DM" reg="MacArthur, Douglas">Douglas MacArthur</name> to work on the invasion of Japan.  They decided tentatively on two invasions of the Japanese homelands to bring the un, unconditional surrender of Japan.  The overall invasion plan is called Downfall.  And the next &#151; they were &#151; the two separate operations were four months apart, twice as large as the landings in Normandy, twice as large, and that was the largest landing ever done by anybody anywhere at any time.  The first invasion was actually called Olympic and was designed to secure an 8,000 square mile foothold on the southern coast island of Kyushu.  Olympic will be launched November 1st, 1945.  Four months later on March 1946, a second invasion called Coronet (ph) will be launched and this would be on Honshu, the most heavily populated of the islands.  In February of '45, at a meeting of Stalin, Roosevelt and Churchill at Yalta, Stalin agreed to intervene against Japan within 90 days of the German surrender, German surrender.  February '45, the U.S. Marines landed on Iwo Jima, they secure the island after suffering horrific casualties.   March 3rd, 1945, Manila is occupied by American forces.  March 9th through 10th, Tokyo, low-level incendiary bombing of Japan's capital destroys one-quarter of the city's buildings.  More fearsome is the number of dead, 80,000.  Another million are made homeless overnight.  Knowing  that American troops will attack Okinawa, <name type="person" key="GCM" reg="Marshall, George C.">Marshall</name> must face the gloomy predictions about the cost of invading Japan.  <name type="person" key="GCM" reg="Marshall, George C.">Marshall</name> was the chief of staff of the military forces.   <name type="person" key="DDE" reg="Eisenhower, Dwight David">Eisenhower</name>, you remember, was only a field commander of the forces in Europe.  <name type="person" key="DM" reg="MacArthur, Douglas">MacArthur</name> was in Japan or in Asia, but <name type="person" key="GCM" reg="Marshall, George C.">Marshall</name> had overall and he consulted with <name type="person" key="FDR" reg="Roosevelt, Franklin, Delano">Roosevelt</name> constantly.  The first attack, Olympic will be made by 776,000 troops, all the combined forces of the U.S. Marines supported by Sixth Army, dozens of small beaches and so on, plus Marine casualties is estimated at nearly 100 percent.  One former Marine told the author that the Corps. would have ceased to exist as we know it today.  Operation Coronet (ph), which would be twice, again, the size of Olympic will require 28 divisions, 
+approximately, 2 million men.  The majority of 
+those troops would come from the European 
+theatre.  There will be &#151; the aid will be American troops, no British included.  In the year 1945, the U.S. Armed Services totalled about 12 million or about 10 percent of our population, our total population.  Based on the 30 percent ratio of casualties already experienced on Iwo Jima, which was as &#151; what &#151; they, they fought to the death.  In other words, they did not surrender.  They died running into the guns.  They &#151; this was the impression we thought American troops would run into in Japan, any invasion of Japan.  The worst projections are from 1 million to 1.5 million casualties in a 90-day invasion of Japan.  Approximately, 1 percent of the American population.  In terms of the manpower pool of military-aged males, more than 15 percent of all American able-bodied males alive in 1945 will be killed or wounded invading Japan.  Such casualties are unacceptable to everyone in the Pentagon.  When the time is ripe,  the White House is going to have to be consulted. I won't go any further.  It really is great reading; but, essentially, if you think back on what I've told you up to this point, in 1945, I was trained, moving to Manila and then essentially would have been waiting there in Manila for the invasion in October of '45 or November, whenever the hell it was.
+</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Yeah.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. November 1st.  So I was one of those &#151;</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. &#151; already committed to this invasion scenario.  Fortunately, they dropped the bomb.  They stopped losing 1 percent of our population and 15 percent of all our able-bodied males alive in 1945.  15 percent were dedicated to that mission.  The bomb stopped it.  Now, you tell me.  We killed approximately 80,000 Japanese and I don't know how many others were wounded, I can't remember that number, and about another 90,000 at Nagasaki.  The first one was Hiroshima.  The second bomb was at Nagasaki.  Total, 170,000 casualties.  We would have had a million and a half.
+</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Not to mention what they would have had.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. Not to mention what the Japanese would have had.  And they dedicated themselves to such an extent that 30 percent of their population was going to go down the tubes.  And they had something like 60 million people at the time.  30 percent times 60 million.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. 18 million.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. 18 million Japanese would have been killed.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Right.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. Because they would not give up.  They would  not surrender.  The people there were so dedicated, so mind &#151;</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. &#151; washed with the Emperor and you have to die for the Emperor and whatever he says, do it, don't question, do it.  This type of living is what they were living.  Then they dropped the bomb and the whole world changed, the whole world changed.  And I was one of those that never got shot at.  And, and these people that go around and say, Oh, we never should've dropped that bomb, well, I say, to hell with those people and they should have been living in those times.  And these revisionists, like this &#151; I'm in a group with the Air Force, the United States Aviation Museum.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Right.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. We put the air show on.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Are you, are you responsible for running that thing or, or...</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. Part of it, yeah.  I'm on, I'm on the committee.  We do the show every year.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. And we have a fund that's for the B-29.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. Especially the one that dropped the bomb on Japan, Enola Gay.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. The name of the other airplane that dropped the bomb on Nagasaki was the Boxcar.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Right.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. Okay.  So the Enola Gay was in the Smithsonian Institute Air &#151; Air Museum for years.  And they finally brought it out as a display of the nose only with some additional features that would allow you to recognize it as an airplane.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Right.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. And they had revised the story about the bombing.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. I remember this, yeah.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. So that, that &#151; geez, these historians there, whatever the hell their theory is or their reason for being, I have no idea and how they ever got &#151;</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. &#151; in that position is just beyond belief.  They finally &#151; Congress had to kick them out.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. But anyhow, they had revised the story of Japan, so that story &#151; so that Japan was the one that we were beating on.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Right.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. And Japan had no reason for &#151; we had no reason for being so mean to Japan and they were wonderful people and they &#151; we were &#151; really put upon them.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Right.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. And it was just &#151; it went on and on and on.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. In fact, they have no proof that the Japanese would have fought like that when we invaded their homeland.  That's insane.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. Well, it's &#151; that, that is true.  That I believe simply because everywhere in the homelands was &#151; there were caves.  And there were little, little tiny trains that you could push cars on loaded with stuff.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. You know, how can we destroy Hiroshima and Okinawa.
+</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. Women, children all were trained to carry a rifle and shoot the damn things, you see.  This was &#151; they were ready.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Yeah, exactly.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. And their belief in the Emperor and what the Emperor told them to do, it was god.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Right.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. He was god.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. So you needed to be pure of god to stop him.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. Exactly.  Well, these people tried to revise history.  And, and it is the most shameful thing that I've ever run across in the government.  I've heard some nasty stuff about the government, but this was just downright shameful.  They got rid of those people.  And now they're rebuilding that airplane.  And it's &#151; in fact, it's already &#151; I think it's done now.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Uh-huh.</p></sp>
+				<sp><speaker>John J. Primeau</speaker><p>A. And they're, they're going to mount it at Andrews &#151; at the new museum out at Andrews Air  Base at the &#151; well, was it Andrews or &#151; the new &#151; Dulles, that's it, Dulles.</p></sp>
+				<trailer>Conclusion of interview.</trailer>
+				</div2>
+				</div1>
+			</div0>
+		</body>
+	</text>
+</TEI.2>

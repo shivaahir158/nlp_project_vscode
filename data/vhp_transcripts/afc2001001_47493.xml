@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with Norman C. Adams, 7 October 2005</title>
+            <author>Sue Paul and Joe Strickland [transcriber]</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Matthew McCrady</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with Norman C. Adams</title>
+               <author>Sue Paul and Joe Strickland [transcriber]</author>
+               <date>7 October 2005</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with Norman C. Adams was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with Norman C. Adams [7 October 2005]</head>
+            <div2>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Today is October 7th, 2005, and we're at the Warhawk Air Museum conducting a Veterans History Project interview in conjunction the Library of Congress. Today we will be interviewing Mr. Norman C. Adams. Welcome to the Warhawk Air Museum, sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Thank you.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Also present in the room is Mr. Al Mascia (ph) who will be doing the filming. Sir, could you please tell us the date that you were born and where you were born.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>On [redacted]. San Bernardino, California.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And could you give us your current address.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>[redacted].</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Sir, could you tell us which war, or wars, that you served in and the division of the military.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I was in the Army Air Corps in World War II, the Eighth Air Force. And after -- I stayed in the service through the Vietnam and Korean War and served in the Fifteenth Air Force and the Eighth Air Force after World War II until, I retired in June of 1967.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Well, thank you very much. And we appreciate your coming here to let us do this interview. Norm, you were born in [redacted] in San Bernardino, California?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And what was it like during those early years of the 1900s in that part of the valley?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I always felt that it was the greatest place in the world, but it all changed.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Before smog; right?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>How many people in your family?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I have three -- I had three brothers. My older brother has passed on.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And what did your father do for a living?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>That's a good question. He left us when we were very young.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So your mom raised you?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And what did she do for a living?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Believe it or not, she supported three growing boys working in a laundry.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And did you live in the same town all of your growing up years?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>When I was in the fifth grade we moved from San Bernardino to Pomona, California, and there -- I did my growing up there.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And did your mom continue to work in the same laundry then?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, after we got there.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Did you boys have jobs too?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No. Occasionally, but it was the Depression, there weren't many jobs to be found.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What do you remember about the Depression?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Getting hungry.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Were there a lot of people moving into the valley there?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes. Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>They were coming there from the Dust Bowl areas.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yeah, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So you remember being hungry then?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What did you like to do in high school?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>The only reason I stayed in school is because I loved to play baseball and football and that's why I was in school.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So did you graduate from high school?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, and then I went on to college.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What year did you graduate from high school?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>1936.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>1936. And then where did you go to college?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I went to Pomona Junior College. Graduated from there and went to La Verne College and graduated from there.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What was your interest in college?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Baseball and football.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Any academic interests?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No, I was a very poor student.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>But you did play ball there?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Where were you and your family on December 7th, 1941?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>We were in Pomona. I can remember I was with friends and we were listening to the radio, I believe, and we heard that the Japanese had bombed Pearl Harbor. And I told my friends then I was going the next day to March Field and enlist, which I did.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Had there been any warning? Did anyone have a sense that this was coming to our country?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Not that I know of. I knew there was some kind of negotiations going on between the Japanese and our government, but I don't -- I don't know the outcome or what really went on with it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>How old were you then? You were in your early 20s, maybe?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I was 20 -- 24.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Had you already graduated from college?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No, I was still in college. It took me a long time to get through college.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>The good old GI bill.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What about your brothers? Did they also enlist?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, my older brother was in the Navy. My younger brother also in the Air Corps</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What did your mom have to say about all of this?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>She took it like a trouper. She was a great woman.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Sounds like it. Did you see a radical change in the home front after the attack?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Were people really -- in what way?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>People who you didn't expect to be too patriotic turned very patriotic.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Had you heard anything about Charles Lindbergh --</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>-- and his sense of not wanting our country to go to war? Norman C. Adams. Oh, no, I knew nothing of that.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Just that he was a great aviator, which he was.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes. Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Did you want to fly as a kid? Did you have an interest in airplanes?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>The junior college I went to had a program where they -- you could -- how do I put it -- they were training pilots. Put it that way. And you could get into that program, and a lot of my friends did and went on from there into the Air Corps. When I went in the Air Corps, I didn't want anything to do with the fighting on the ground in the mud and all that.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So it wasn't out of a passion for flying?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Not really.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>It's because you chose to be in the Air Corps rather than the Army.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Did your mother say anything about her three boys going to war, leaving to go to war and she was left alone then at that point?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes. No she didn't say.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Because of patriotism?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Did she continue to work through the war years?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Okay. So you decided to join the Army Air Corps. And where did you do that?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>March Air Force Base in Riverside, California.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Were there a lot of young men there enlisting at the time?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes. Yes, to get into the cadet program you had to take a test and then they gave you the physical and then they interviewed you. After the interview, you found out whether you were accepted into the cadet program.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And were you accepted right away?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Were any of your friends accepted with you?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No, I had friends who were already commissioned and flying in the Air Corps. But when I went in there, I was by myself.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What about your brother? When did he enlist?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>My younger brother went in the Air Corps must have been about two years after I did.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So he didn't go in with you?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And so now you're accepted in the Army Air Corps and tell us about where you went from there. A whole new life.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Okay. They scheduled me to go to primary applied training in Phoenix, Arizona -- this is just my memory -- seems like about a month after I was enlisted and signed. And in the meantime the Air Corps changed their policy and they opened up -- one of the bases was Santa Ana, California, where whole -- all the cadets had to go through there. So instead of going to primary they sent me to Santa Ana and I was there for, I don't know, maybe three months. And then I went to primary, still at Phoenix. And like a lot of guys, I washed out of pilot training. And I asked what is the fastest way that I can get a commission? You could either volunteer to go into navigation training or bombardier training, and they said bombardier training is three or four months shorter. And I said: That's for me. And so that's what I did. And I went from there to New Mexico.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So they sent you to New Mexico for the bombardier training?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>And I graduated from bombardiers training on the 30th of December, '42, it would be.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Had you heard about the Norden bombsight at that point?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>That's what -- I used it all the time I was training.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>That's what you were training, really. What did you think about it?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes. It was a super piece of machinery.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Why?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>If you learned how to use it, it was almost impossible to miss your target. Well, when I -- when I finished school, I don't know many bombs you dropped. But see I'm brand-new at this, never did it before in my life. Never saw a Norden bombsight except at the school. And my circular error was under 100 feet for all the bombs I dropped. So.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>You remember it being a closely guarded secret piece of equipment?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh, yes. Yes, even in school you had to personally check the sight out, take it to the airplane, and bring it back and check in back in. Nobody was to help you; it was you alone. You would sign for it and it was your baby until you brought it back.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Uh-huh. How long were you in New Mexico then for the training?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>It took about seven, maybe eight months. And then I graduated.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And where'd you go from there?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I went from there to Tucson, Arizona, to Davis-Monthan Air Force Base.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Is that were you were assigned? Your group?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>They formed crews there and that's where I joined my B-24 crew.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>And then they sent -- after you were put on a crew, they formed training groups that went from Alamogordo, New Mexico, to another place in New Mexico. I can't think of the name of it. And then they declared your crew combat ready. And we were sent home supposedly -- well, it was for two-weeks leave and then we went back to Topeka, Kansas, picked up a B-24 as a crew, flew it from there to England.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Were you with other B-24s? Norman C. Adams. No.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>By yourselves?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Individually.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Were you ready to go into combat?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh, yeah. Oh, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Time to go.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>That's why I joined.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What did you do the two weeks you were home?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh, spent time with my mother.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>She knew you were going into combat?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes. And I got married.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Okay. Was this a lady that you had known for a while?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, I'd known her for ever since we were little kids, practically. Although we had never -- until just before I went in the cadets, we dated a few times. And then when I went home on leave, I -- we decided it was a good time to get married.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What was her name?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Her name was Joella Woods. She was from Idaho originally. She grew up in Beulah.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Small world.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yeah, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So off you all went to England by yourself, a sole B-24 with a crew?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yeah, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Where did you land? Can you show us on the map where you actually came into England?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I -- let's see.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>You went by way of what, Greenland?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes. Let's see if I can -- it doesn't show Greenland, does it? Let's see if I can find it. First we landed up here by Edinburgh. And there was base there where they took the new airplanes in and modified them. So we left our airplane there and rode on a train down the first night in England. The train went through London and I said I may never go back here again, so I'm going to stay here tonight. And I did. I should have stayed with my crew, but I didn't. I was a nonconformer, I guess. And then our base, let's see -- it was up here. They called this little place the Wash. Our base was close to it. I don't see the name of that town here. And then when we got there they said that our group wouldn't be -- our crew wouldn't be flying any missions out of England; that we were going to start low-level training.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What does that mean?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>That was for the Ploiesti raids, is what that meant. We thought that's what it meant, but we weren't sure. But we flew low-level missions around England just above trees. And then they -- let's see, I think it was in May.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And this would be 2003 now -- I'm sorry, 1943?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>'43, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>1943, okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, we went to North Africa and we flew some missions out of Benghazi up into -- in the desert there, Benghazi, flew up into Italy. And -- I think our crew flew four missions, the most notable was when we bombed Rome. Where is Rome? I don't see it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What were you bombing in Rome?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>We bombed the marshalling yards. All the rails in Italy came through Rome, so we bombed the marshalling yards.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Would you go in with two or three other airplanes or with a fighter escort?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I never saw a fighter escort, no. Our whole group flew. So we would be, say, 30 aircraft in formation. And --</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What was it like using the Norden bombsight the first time in real combat? Out of the classroom; the real thing?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>See, that's what's funny about it. You always train and flying in formation and you didn't have to use the bombsight for what it's made for. You dropped -- when the leader dropped his bombs, you dropped yours. So he was doing the -- our crew was never a lead crew. So --</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So you never really used what you learned?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No, no.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Did you get a lot of flak? What did you have?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Did you have fighters attacking you or was it mostly flak?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>A lot of flak. And on one mission, I think our crew shot down the first jet aircraft in Europe. I think.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Me262?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I saw this fighter coming at us and no propeller and I thought that's a funny airplane. And our top gunner shot him down. I know he did. We saw him explode.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>That would have been the Me262. That was the German --</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I don't know what it was.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Wow. So you were pretty shocked when you saw that?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh, yes, I couldn't believe what I was seeing. An airplane with no propeller?</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Did it appear to be going very fast?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh, yes. A lot faster than you normally saw.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What was it like being in combat maybe the first time?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I guess I'm funny, but it really didn't bother me. I was -- I always felt that nothing was ever going to happen to our crew, and I guess it kept me from worrying about it. A lot of guys went nuts worrying about getting shot down. But --</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Tell us about when you were shot down. Tell us about what happened. You were going into Rumania; is that correct?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, yes. I should have brought that book for you -- to let you have it here -- that tells about the mission. In the first place, it was well planned.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What was the mission?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>The bombing of oil fields in Rumania at low level. And the first thing went wrong was when you're flying a bombing mission you have an initial point where you turn to go to the target. Well, the guy -- the crew that was leading the mission made the wrong turn and picked out the wrong initial point and we turned too soon. And we were supposed to bomb, I think it was, from the west to the east. And the way he turned made us bomb from the east to the west.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Can you show us Rumania on the map where you were bombing?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Where is Ploiesti? I can't find it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>But that's the general area?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Well, here is Bucharest. Ploiesti was north of Bucharest up in here somewhere.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Okay. So he turned the wrong direction?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, see the initial point was supposed to take us -- let's see, we came up here this way. The initial point was supposed to take us this way at the target. Well, we went clear to Bucharest, then turned north, and then back to the target and it screwed up the whole mission.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What happened?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>But -- well, one -- the group behind us flew the mission as planned. So we're going from the east to the west; they're coming at us from the west to the east. So this way on the target. It was not very pleasant.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Was there a name for this mission?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Just -- yes, the Tidal Wave.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And so was there a lot of -- a lot of gunfire going on, or flak?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh, yes. That wrong turn took us right up a railroad track -- about 30 miles of a railroad track, which was probably the most heavily fortified 30 miles in Europe. And we're flying treetop level. They could have thrown rocks at us and hit us. And we got shot up pretty bad. We lost -- let's see, the Number Two engine. Then we lost the Number Four -- no, Two and Three -- and there wasn't enough power to keep us airborne. We dropped the bombs and made it out of the target area and crash-landed in the cornfield. And luckily -- the safest place, supposedly, in the B-24 is up on the flight deck where the pilots and the radar were. And the nose was the worst place you could be. The navigator and I, we never got out of the nose. We were in the nose when we hit the ground. But luckily --</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What were you thinking?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I thought this was it. I really did. You know, they talk about seeing the light at the end of the tunnel. Well, I saw that light. But luckily --</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Was it a glass nose?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Plexiglass.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Plexiglass. And you saw it all through the nose?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yeah. And we were lucky. I don't know -- they had dug a trench across that field and there was a mound of dirt. And when we landed, it was a pretty good crash landing for what had gone on. And before we had hit the ground, we hit the mound of dirt and it broke the nose off and I was in it and it rolled on ahead of the airplane.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Were you knocked out at all?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, I came to feeling heat and I thought: This thing's on fire. I better get out of here. And then I realized I wasn't in the airplane; I was in what was left of the nose. And I got untangled from all the stuff that was in there and got out. And by then the airplane -- what was left of it -- was completely engulfed in flame. And I started to run to get away from there. And then I thought, well, somebody else might want to get out of this thing. And so I went back and I helped our engineer, helped him out of it and away from the airplane. And I helped one of the gunners who, incidentally, both of them died from burns that first night, so my effort was in vain. But at least I did it. And --</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Did the navigator make it through because of you?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No. During our fight to the target, I think it was a 20-millimeter shell came up through -- as far as I could figure went between my legs and hit the navigator somewhere in the chest and he was in bad shape. And I said, "David, I can't do anything for you until I drop these bombs. Why don't you try to get up to the flight deck." And I don't think he ever made it and I think he was probably -- there's a little kind of -- it wasn't a tunnel, it was a hole that you went up from the flight deck to get from the nose. And I think he was in there when it hit the ground. So whatever happened, I don't know. I know he got killed.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What about the pilot and the copilot?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>They both got out. And we got one gunner out. Out of ten people, four of us got out alive.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Any other airplanes in the group go down too?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh, yes. Our group sent -- oh, let's see, I think our group sent 28 aircraft and they got two got back.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Because of the wrong turn?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Well, that's -- I don't know whether anybody will ever admit this, but the wrong turn -- that group, the lead group, they didn't even go to the target. They flew around it. Our group flew to the target. That group didn't lose any airplanes. We lost -- well, not all shot down, but got back to Benghazi that night with two of our aircraft. Some of them were in Bulgaria; some of them were in Turkey. They were all over the place. And there were quite of few of us on the ground too.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So after you got out of the plane, and the pilot and the copilot and one of the gunners, did you all get to stay together?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I thought I was the only one out of the airplane, except the two guys that got away from it. And then we landed in this cornfield and not too far away -- I would say must have been 100, maybe 200 yards away from this was a gun emplacement. German. And before I could really do anything for those two guys when I got out of the airplane, this German had a bayonet and was pushing me off towards -- so I sat in the gun revetment and watched him shoot up B-24s.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>How awful.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Nothing you could do.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yeah, and then also shortly after I got in the gun revetment, they brought our little waist gunner and so I knew there was two of us alive. So we sat there. And then they kind of settled down. They took us to a building, and I don't know what building or anything else. But they assembled all of the guys that survived on the ground and then I saw my two pilots.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>How many were there? How many survived that raid?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>There were 110 of us.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Were you wounded?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I had some flak in my left leg and in my hands. And I don't know whether it was flak or just smoke or something from that shell that went off in the nose, but my face was all black. And little things for years kept coming out of my skin -- I don't know what it was -- and my hands.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So over 110 of you then were detained there in that one spot?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Okay. What then happened?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>They moved us from there, from Ploiesti down to Bucharest to a school house, I think it was. They kept us there for a while. And then they moved us back into the mountains, the Carpathian Mountains to a little town called Timisoara de sus. They made a prison camp up there. 110 of us we were kept there.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Were you the only ones there?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>They didn't bring from other -- Australia or England?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No, there was two civilians from England who had been captured in Germany when the war broke out and the Germans had detained them. They escaped and got all the way to Rumania and they got caught again. So they stuck them with us. And then there were three Russians who were -- let's see, they were captured when the -- when the -- when the Germans went into Russia --</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>-- these three were captured. And why they brought them to Rumania, I don't know, but they put them in our camp. And there was one -- I think he was a Bulgarian pilot that was in our camp. And that was it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Did your family know that you were prison of war? Or how long before your mother knew?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>She -- they got a Missing in Action wire shortly after the mission. And then it was about three months before they knew that I was a POW.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What was your state of mind? It must have been surreal in the beginning when you were first captured and the plane was gone.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>It was, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>It was shock probably. And then --</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Again, I knew I was going to get out of it okay, and it didn't bother me. But our copilot, he was -- he just went out of his mind. He was frantic. But when we finally got loose, he was all right. But he just was a worrier, I guess. But most of the guys in the camp were very good.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What was camp life like? Because that's a small camp. You were in a really small prisoner of war camp. What was it like? You were there for 14 months; is that correct?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What was it like?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>What it was, it was in a retirement area for the railroad workers of Rumania. Then they took it over and put barbed wire fences and the whole deal around it. The building itself wasn't bad.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>How were you treated?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Good, except we -- so, the Germans turned us over to the Rumanians. So the Rumanians were guarding us and there were more guards than there were prisoners. But we ate the same food that the guards ate. And we got hungry at times, but.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Did you ever see any American airplanes come over?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Tell us about that.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I remember being outside of the building and we heard this noise that you can't miss. And sure enough, I can't remember if they were '70s or '24s at high altitude. There was an oil field that was to our east or north of where we were, and that was also a target and that's where they were going.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>How you did feel when you saw them fly over?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Great.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>You knew they were still in the war.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yeah, and they rushed us back in the building. They didn't want us -- but that only happened one time.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Were you ever interrogated about the Norden bombsight? Did they know you were a bombardier and that you had that information, that you had that knowledge?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, but they didn't -- what amazed me about the Germans when they interrogated me, they knew my whole life practically. They knew especially the part of my life that was in the military. They knew where I graduated, when I graduated, what I graduated as. It was amazing. So their intelligence was probably a lot better than ours.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>When it came time -- did you have any sense that the war was coming to an end?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>That we were winning? How did you -- why?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>They would bring us -- about once a month they would bring a barber in if you wanted to get a haircut or whatever. And he smuggled a little radio -- smuggled a little radio into camp and we hid it down in the basement. And we couldn't all go down there, but one or two guys would go down and listen to it. And we knew when D-Day happened. And I told them that happened because that's my birthday.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>How did you feel on that day, on D-Day?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Great. Great, because we knew it wouldn't be long then.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Well, tell us about the liberation of your camp.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Okay. We come up one morning and no guards. And we thought: This is strange. Then the Rumanian captain who was the Commandant of the camp came and told us that the Germans all were pulling out and we were free. And we said: Well, we're free. What do we do now? And like I said, there were more guards than there were prisoners. They were going to move the guards somewhere and I forget how many trucks they had. But we said, well -- and we knew there were quite a few prisoners down in Bucharest, the capital, who had been shot down on high-level raids that came after us. And we knew there were more than 110 of them. We figured that if our government was going to do anything for anybody it would be for them, because of the accessibility and the numbers. And so we said: We've got to get to Bucharest. And so we told the Rumanians: Well, I don't know how many trucks you've got, but I think we took four to get our 110 guys aboard and headed for Bucharest.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>How did that feel to be free after 14 months?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>It was good. But still, very happy -- what do we do now?</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Because no one knew you were there, did they?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>The U.S. Government didn't know you were there?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>They didn't know where we were. That's right. Anyway, we were going down this highway, the German army that's pulling out is going one way and we were going the other way on the same highway. And then the Rumanians, before we got to Bucharest, the Rumanians decided they were going to declare war on Germany. So now there is a war going on between where we are and where we wanted to go. So we stayed -- and I think we stayed three days in a little town. The people took us in and were real great to us. And we stayed there for, I think, three days, until that war went by us, or whatever. We had a clear shot to Bucharest. We got to Bucharest, I think it was, on a Sunday afternoon. And the next morning, B-17s from Italy were flown in to take us out of there. So we just -- we just made it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And where did they fly you to?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Back to Italy.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Back to Italy. And then when did you get to come home?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Well, that's another story. There was one character in the camp -- he was the ranking officer, he was a major -- who collaborated with the Rumanians and the Germans. And so some way our government knew about it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Did you know about it when you were in the camp? Norman C. Adams. Oh, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>You guys knew it?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What did you think of him?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Not very much.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Did he live among you?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes. Anyway, they took -- they took the two pilots, myself, and I don't know, must have been ten other guys back to England from Italy to court-martial -- to stand by to testify in a court-martial for this guy.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Was he convicted? Norman C. Adams. Yes, but he got a slap on the wrist. He was discharged without honor, which is nothing.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>No time in jail?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Nothing.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And after that, now did your mom know at this point that you had been liberated?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Had the Red Cross brought anything in? Did the Red Cross even know you all were there?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>We got Red Cross packages one time. But I think maybe there had been more, but I think the Rumanians took them. I'm not sure; this is just my guess.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So from England, you came back to the United States?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And where did you come to? Where did they bring you?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Washington, D.C.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>How did that feel when you landed on American soil?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Great. Great. And they interrogated us quite extensively for a couple of days</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>About what? What did they want to know?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>What had gone on and also about this court-martial. And then they sent us home.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What was that like when you got home?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh, great, great. My younger brother was there. He was in Cadets in Victorville, California, which is just right close to where we lived. And he was home when -- when I got home. Sue Paul; What about your older brother in the Navy?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>He was in the Navy. I don't know where he was. In fact, I didn't see my older brother until after the war.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So this was in 1945, and you decide to stay in --</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Well, Christmas of '44.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Christmas of '44. And then stayed in the United States then?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes. Yes, that was one thing. Having been a POW, they weren't gonna send us -- wouldn't send us to any -- well, I thought they might send me to the Pacific, but they just wouldn't. They said no.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Had there been any rumors of this incredible bomb that we had?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What had you heard about that?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Just how awesome it was.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Where were you stationed at this point?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I think it was Midland, Texas.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Is that where you were when the A-bomb was dropped?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No, I think I was up in Victorville, California. That was when --</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Is that where you were when VJ came?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes. That was one thing about having been a POW, I could pick where I wanted to be. I wanted to go to March Air Force Base, but there was no place for me. So they sent me up to Victorville, which was all right. I could commute, almost, if I could get the gasoline.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Uh-huh. There wasn't much, was there?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So the home front was pretty patriotic and --</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>-- and a lot going on here, wasn't there:</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And you were with your wife then?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So you all settled in Victorville?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No, she stayed in Pomona.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Oh, she did? Okay. Did you have any children at this point?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No. We never had any children.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Well, when the war ended, VJ Day came and our country, of course, was so ecstatic, the end of the war, what decisions did you make about your life and what you wanted to do at that point?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I already decided that I was going to stay in the service. See I -- I went to college thinking that I might -- I wanted to be a teacher and a coach. Coach is what I wanted to be. But to be a coach most of the time meant that you had to start out as a teacher. But then I decided -- I don't know what they call it now, but then they called it "practice teaching" and after one semester of it, I made up my mind that I would never be a teacher. I couldn't fight those kids. So I already made up my mind that I was going to stay in the service.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>How did your wife feel about that?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>She was great. She was a good trouper.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So you stayed in the Air Force.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Is that when you went into the Fifteenth Air Force, the 22nd Bomb Group? Was it at that point that you were reassigned to that?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>But you stayed as a bombardier?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>That was still your --</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes. There was -- the Air Force had a program they called -- I can't think what they called it. Anyway, what they wanted to do was take all bombardiers that were going to stay in the service to learn navigation and radar operation. So I -- and there was an age limit and I was approaching that age limit. So they -- they sent me to that school. And then when I got out of that school, I was assigned to Fairchild Air Force Base in Washington, and in B-36s.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Where were you when you saw your first jet and what did you think of it and what was it?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Well, the first one I saw, I know, was that fighter that our crew shot down.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Yeah, but we brought that technology here and we developed it --</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>-- successfully in other jets.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Out of B-36 and I went into the B-52. I was a navigator in a B-52 crew for a while.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And where were you stationed at that point?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I was at Fairchild Air Force Base. Went from there to Puerto Rico, still in B-36s. And B-36s in Puerto Rico we flew airborne alert between there and North Africa. And we carried -- well, SAC at that time was probably the biggest deterrent to the Russians. And every crew in SAC had a target assigned in Russia.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Was it a flip-over for you then to go from the Russians being our allies in the first war and now you're fighting the Russians?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>I mean, mentally you had to make that flip-over.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>You might say we were brainwashed about the Russians.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And so North Africa was your area?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Well, we were airborne alert. We flew -- were on alert from the time we took off in Puerto Rico until we landed in North Africa. And then we were on ground alert there, and then took off from there back and airborne halfway back to Puerto Rico. And we had the Big Mom on board.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>With the intent to drop it where? Norman C. Adams. At our assigned target. Every crew in SAC had an assigned target in Russia. And we practiced -- not the mission, but one that would simulate the mission if it would go. The bell rang and we were going to go. So --</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Pretty intense.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yeah, it was. Got pretty tight at times.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Where were you during the Korean War, once Korea became --</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I was assigned to B-36s in Spokane. And again, I was lucky. See, that was our first line of aircraft in the Air Force, was the B-36, and they didn't send them to Korea. And then when Vietnam came along, I was in B-52s in the B-52Gs, which they did not send -- the earlier models, they did go to Vietnam, but the later models, they didn't. So I lucked out again.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>How did you sense the change of tide in America of those three wars, World War II, Korea, Vietnam, the Cold War?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Well, I was always amazed that there was not more recognition of what those people had done, which was -- war is not a happy occurrence.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>But supporting our troops is a very important thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, that's right.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>In World War II, of course, we had such a height of patriotism and togetherness in this country.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, that's right.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Korea, there was kind of a nonchalant attitude.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Like it never happened.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>People wanting to have a life without war.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Although there was a great respect for our soldiers.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Then in Vietnam, of course, the whole country came unglued and it was a divisive moment in time.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I think what happened, especially in Vietnam, was like B-52s are sent over there and they were bombing bamboo bridges. Now, come on. We carried -- in a 52 you could get 30 bombs aboard to bomb bamboo bridges? Come on. We weren't in it to win. That was my opinion.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Well, we didn't win.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>And we bombed Hanoi one time and got their attention, but that was it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>My gosh, your military history took in the three, you know, the most significant wars in the history of this country. Which leaders do you think the most highly of, of those? I mean, because you saw all the great leaders in those three. Do you have any that stood out in your mind that you thought the most of, or the least of? What are your -- give us some comments on that.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>I met Eisenhower when I got out of prison back to England, and I was tremendously impressed by him.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Why? Norman C. Adams. He just had something about him that you knew he was a great guy. Just --</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>A good soldier?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yeah. And then, oh --</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What about MacArthur? You never met him?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Or Patton?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No, but he must have been something else. He must have been. And I'm sure the tales you hear are true. I have talked to and met guys who were in his outfit and the one thing you didn't want to do was bad-mouth Patton, because they would be all over you. And he's to be respected, to me anyway. He was from a wealthy family. He never collected a nickel of -- a nickel as a salary from the being in the Army. Not one nickel.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What about Claire Chennault? Did you ever hear anything about him?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No, no, that's the other direction in the war. I never got in that direction.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>That didn't trickle down?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No, no.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Now, your wife was able to travel with you then? She moved to the different parts of the U.S. with you?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And when did you decide to retire from the military?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh, that is not a nice story. But I worked for a full colonel that I thought was impossible. I would have stayed for 30 years. I made the lieutenant colonel list, but at that time the way it worked you had to stay until -- depending on your majority date of rank, you were somewhere on the list. Because of that date, you didn't know whether you had to wait six months to a year or whatever. And if you put the promotion on, put the 30 days, on you were obligated for two more years in the service. By then, see, I had 26-and-a-half years and was working for -- excuse my language -- a complete idiot. And I just made up by mind I've got to get out of here before I do something that's not --</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>How long were you working under him?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>A year and-a-half.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And that's what made you decide to retire?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes. Yep.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So you put in for your retirement?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And you retired what as a -- you were --</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>A major, when I retired.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Major when you retired. Where were you based when you retired?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>In Maine. Northern Maine. Loring Air Force Base. The end of the world.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And what did you and your wife decide that you were going to do once you retired?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Well, I knew what I wanted to do, and she would go along with anything I wanted to do. Of course, if she wanted to do something she could do it. But I always liked golf as a disease. Hunting and fishing came very close. And I had come -- when I was in Spokane, I'd come down and visit her cousin --</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>In Idaho?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>In Idaho -- and go pheasant hunting with him. And I made up my mind -- that was a long time -- I made up my mind this is where I wanted to retire, was in Idaho. And my wife said that she didn't really want to come back to Idaho. But she said: As long as we are going to retire in Idaho, it's going to be Nampa, because that's where I have my cousin and my aunt and uncle live in Emmett, so and at least I'll know someone. And I said: Fine with me. And that's how I got here.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What year did you move here?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>1968.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And did you stay retired then?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And you fished and hunted and played golf?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>That's all I've done since I got out of the service, until I had the stroke. And now I don't do anything. After I retired, my wife was diagnosed with cancer and she died about four months later. And we had -- we had moved to Nampa. And when she got sick, I took her back to California and took her to the Naval Hospital. That's where she was diagnosed with cancer and then died shortly thereafter. And so I came back to Nampa and I had been to a dentist here in Nampa and talked -- had talked to his receptionist several times. And I don't know how the subject -- the subject came up and I told her that my wife had died. And she said: I have a real good friend I think you should meet. And I wanted to know why and she told me that she also -- she had lost her mate and maybe we'd be good for each other. And I didn't know whether that was a good idea or not. And I kind of kicked it around and kept telling her: I don't think so, I don't think so. And finally, the next time I went in she brought the subject up again and so I said: Okay. I'll meet her. So I met the woman and about year and-a-half later, we were married. I married a family. My first wife and I had no children. Wilma had four and she wasn't too sure whether I could handle four kids or not. But I immediately liked all of them, and especially her, and we have gotten along great. And right at first, the two youngest weren't too sure about this new dad. But the two oldest accepted me right off and were great. And then eventually the two young ones came around and we've been a great family ever since.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Do you have any grandchildren?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>We have ten grandchildren and three great grandchildren.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So a big family?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>A great family.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Uh-huh. It's a blessing you survived in the nose of that B-24 knocked off, but you walked away from that so you could have this experience in your life with this family. The Norden bombsight was one of the most highly classified secrets of World War II and you had the opportunity to train on it and then to use it. Could you tell us what was so special about this bombsight?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>What was special about it? Well, the first thing, if you knew how to use it -- there was no way you could ever really miss your target, if you knew how to use it and used it properly. Plus it helped in navigation, because it would give the navigator wind and drift readings that he needs for his navigation.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Did the navigator in the plane use it also though?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Well, not --</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Or did the bombardier give him information?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, the bombardier gave him the information he needed off of it.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Tell us a little bit about your training, how were you trained to use it?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Well, first, when you first went to bombardier school, they put you on a trainer which amounted to kind of a scaffolding -- a scaffolding on wheels. The bombsight was mounted on at scaffolding on wheels. And on the floor they had -- the school I went to they had pennies on the floor they used it as a target. And the instructor was sitting with you and explaining what to do, how to use the sight. And my instructor was -- I thought -- super, because he taught me things that weren't really in the book on how to use it. And the knobs on it kills your ground speed and wind direction which causes drift, you kill that, it relays it to the autopilot, and it corrects the aircraft to fly where this thing tells you to fly.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>You actually hook the airplane up to this Norden bombsight?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So at some point the plane is turned over to this other person.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>You're flying the airplane. The bombmen, you're flying the airplane with the bombsight.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>How far out from the target is the plane turned over to you?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh, depending on the target -- there's a thing on this called extended vision. You can run the telescope out to where you can see maybe 40 miles. And then you -- at 40 miles all you're doing is making sure you're killing all the drift so that you're on track to the target. And then at a certain point the crosshairs will get to the target. And then you clutch them in and then with a couple of other knobs you kill the ground speed, which that information goes into the bombsight and tells it when to drop the bombs.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>It's not computer driven?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Because we didn't have computers then.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No, no. It's all inside of that thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>You know, there's been rumor forever actually that I've always heard that this -- that the crosshair, one the secrets of the Norden bombsight is the crosshair is from a spiderweb. Is that true?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>That's what we were told, so I guess it's true.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Amazing. So did you feel when you went into combat pretty good knowing that you had this incredible piece of equipment?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Oh, yes. Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Were you told that the Germans wanted them?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes, they had nothing that would compare to this. As far as that goes, the Germans missed the boat anyway. They didn't have any heavy bombardment.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What kind of security surrounded the Norden bombsights, both on the bases and once they were in the airplanes? Norman C. Adams. On the base, they were in a safe. Always. And when you were going to use it in training, and also in combat, the bombardier checked it out, signed for it, took it to the aircraft, installed it, the head of it. This section here was always in the airplane, but the secret part is the top of this bombsight. Something really interesting, there's gyroscopes in the head and in the stabilizer. I forget the RPMs, but it's unreal how fast those gyroscopes are turning. In fact, if you took the head off of the stabilizer before that thing slowed down it could almost throw you on the ground, the torque from the little gyroscope. Well, you can see it. That knob on top is what cages the gyroscope. In other words, it's got a stem that sticks up and that fits over so that the gyroscope won't tumble in all directions.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Did you set it before you left?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>Knowing what your coordinates were, you would set it before you took off?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>No, now this has nothing to do with where you are. What you had to know is what altitude you were going to be flying at and what air speed you were going to be flying at. That's all the bombardier needed to know. When you went into some charts there were -- told you air speed and altitude, told you where to set your disk speed, which converted into ground speed after using the site.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>What happened to yours when you all crashed? Norman C. Adams. On that mission we didn't have one on board. So we were flying low-level. What you could do, you could use them at low-level, but it wasn't that efficient at low-level. It was strictly a high-level piece of equipment. This shows approach to the target of B-24s. This smoke -- (Indicating on photograph) -- they have smoke towers all the way around the target so that they made visibility poor so you couldn't see where your target was. And let's see, here is another picture of it. You can see how low we were. See these towers, that was the cracking plants that produced what was high-octane gasoline. That's what we were bombing. Not the oil fields itself. The refineries is what we were after.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>So is this -- is this actually -- are these pictures of where you were?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yeah, that's an actual picture. That's an actual picture.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And that's of your group?</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Well, I don't know if it was our group. This here makes me think that was -- in fact, I know it was the 98th bomb group which was stationed in North Africa. He was -- the commander of the 98th, Colonel Kane, quite a guy.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>That's quite an airplane, the B-24.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>It got no recognition. I don't know what else to say about that.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>That's great. That's great. Well, my gosh, I have to say to you that this has been an incredible interview. The life that you have had is incredible. You know, from coming from a single-parent family environment with a mom who worked her heart out and you obviously loved and respected tremendously.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And then the greatest war that this world has ever known, you went into that and served so valiantly in the Air Corps and became a prisoner of war, and survived that. Obviously, you were meant to live a long life. Because it's almost a miracle that you have survived what you did.</p>
+               </sp>
+               <sp>
+                  <speaker>Norman C. Adams</speaker>
+                  <p>Long life. That's something that I've said for a long time. When I was in high school if somebody told me I was going to live to be 88 years old, I'd say you've got a screw loose.</p>
+               </sp>
+               <sp>
+                  <speaker>Sue Paul</speaker>
+                  <p>And I tell you, you look like you're 70, so whatever you're doing you're doing well. And then you had a long, distinguished career in the military. And I want to tell you that we are so proud to have you here. And we want to thank you so much for being an American veteran. This country is what it is today because of men like you. And we value so much.</p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

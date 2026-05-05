@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd" >
+
+<!--
+<!DOCTYPE TEI.2 SYSTEM "c:/standards/teilite/teixlite.dtd" >
+-->
+
+
+<TEI.2>
+  <teiHeader type="personal_narrative">
+    <fileDesc>
+      <titleStmt>
+	<title>Veterans Share Their Memories: Andrew Melendrez, May 27, 2004</title>
+	<author></author>
+	<respStmt>
+	  <resp>Encoded by</resp>
+	  <name>Matthew McCrady</name>
+	</respStmt>
+      </titleStmt>
+      <publicationStmt>
+	<idno>013862.pn0001</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<bibl>
+	  <title>Veterans Share Their Memories: Andrew Melendrez, May 27, 2004</title>
+	  <author></author>
+	  <date>May 27, 2004</date>
+	</bibl>
+	<p/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+	<p>Encoded for the "World War II Reunion 2004" web site for the Veterans History Project.</p>
+      </projectDesc>
+      <samplingDecl>
+	<p>All items in the Andrew Melendrez collection were digitized.</p>
+      </samplingDecl>
+      <editorialDecl>
+	<p>A VHP staff member or volunteer transcribed this narrative from the dictation of the veteran.  The transcription is meant to reflect minimal changes to the spoken account in an effort to communicate the veteran's experiences more accurately and clearly.</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+	<p>We started in Normandy. We were surrounded by the Germans because they were trying to push us back to England. We were surrounded for seven days without food or water.  They started dropping ammunition and food, but it kept dropping too far away into German territory.  The glass bottles of medication would break when they dropped them from the air.  Finally, the 32nd Division broke through and got us out.  I wanted to get home for Christmas 1944, but we had to go down to the Bulge to help out.  We didn't have any winter clothing, but we made do. A lot of the unit got frostbite, but luckily enough I didn't.  In February of 1945 I was wounded and they sent me back to the hospital for three months. And then after I got out I was going back to Germany, but the war ended so I had to go back to my outfit.  They pulled us out and brought us back to the States for 30 days, after which I was supposed to report to Jackson, South Carolina, (where my division is from) to go over to Japan. But they dropped the atom bomb so I was discharged.</p>
+	<p>It was always push push push forward, taking back the land the Germans had taken; the wounded and dead were left behind.  We had to go forward even though Germans were firing at you and men were flying up in the air; you just had to keep going.  You had to know your counter-attack. Every morning we'd attack (dawn attack) so by 3 or 4 in the afternoon we could set up for counter-attack.  The squad leader in the evening would have a debriefing to get ready for the next attack.  In the end there were only three guys left; I was getting scareder and scareder every day.  Any guy who says he wasn't scared is lying. We weren't thinking about the job; we were thinking about staying alive.  I see these movies; they don't show the push everyday. We were always moving, pushing on after casualties.  It brings back stuff I've kinda forgot.  I used to carry a little missal in my pocket and one time a shot got caught in it, I didn't even know until later.</p>
+	<p>We never changed clothes. I don't remember going to the bathroom ever, it's funny.  We'd get a change of clothes every two weeks and every two months we'd get two weeks of rest, we'd talk and write letters.  After the attack, some men would find abandoned cars in the street and drive them around town while the buildings were still burning.  We were scared during the attack and afterwards we would celebrate, jubilation.  It was a cruel war, but nobody would believe the things that would happen after we took towns.</p>  
+<p>One time we were in Normandy going from hedge row to hedge row, pushing forward and then also having to retreat back.  One story: I started off as a machine gunner.  The plane was dropping bombs on us, and it was an Allied plane who didn't know he was dropping bombs on his own. He flew over me and was about to drop one, and crazily I got up (in plain view of the Germans) and waved my hands to get his attention and he flew away. He must have seen me.  It's crazy that I survived.</p>
+<p>I was 18 going in, and 21 when I came home-I came home on my 21st birthday. Someone up there must have been watching out for me.</p>
+	<note>End of Transcript</note>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

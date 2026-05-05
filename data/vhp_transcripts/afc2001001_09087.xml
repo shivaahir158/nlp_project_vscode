@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 SYSTEM "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Letter to family from Ellsworth Dewitt Hill [March 3, 1944]</title>
+				<author>Ellsworth Dewitt Hill</author>
+				<respStmt>
+					<resp>Transcribed by</resp>
+					<name>Sarah Mitrani</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoded by</resp>
+					<name>Matthew McCrady</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Letter to family from Ellsworth Dewitt Hill [March 3, 1944]</title>
+					<author>Ellsworth Dewitt Hill</author>
+				</bibl>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Encoded for for the Veterans History Project, October 19, 2020.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>All letters in the Ellsworth Dewitt Hill collection were digitized.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<p>The following letters were transcribed from the handwritten originals by Veterans History Project staff.  No alterations to this transcription has been made, although spelling errors are indicated with [sic].   Any special emphasis (i.e. underlining) is presented *between asterisks*.</p>
+			</editorialDecl>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<!-- begins encoded document -->
+		<body>
+			<div1 type="body">
+				<!-- entire document is designated as body rather than further dividing -->
+				<pb id="pm0003001" n="1"/>
+				<p>March 3, 1944</p>
+				<p>Dear Family-</p>
+				<p>For the empty umpth time I have started to write one of you but something has always prevented me from full filling my grand intentions. By now I hope that you have not only received my note from “somewhere in Newfoundland but also the cable when I arrived “somewhere in England” If you also received a cable from [Ellcey?] you must know that everything turned out alright.</p>
+				<p>I have several days of unexpected winter sports in [redacted] Best of all were the dog sled rider and just so that haney will be jealous I went skiing through</p>
+					<pb id="pm0003002" n="2"/>
+					<p>my efforts were nothing to [rag?] about. In due course we left [redacted] a much aching person. The rest of the trip was really something- but it will have to remain untold at least at present.</p>
+				<p>My new address is- Civil Affairs Center A P O 645 c/o Postmaster New York. As yet I have not received any and from you, though no doubt you have written to the old APO. I doubt that they will reach me after the numerous shifts that have taken place. So the last week I have had four different APO numbers. That is why I did’nt cable you any address until things got somewhat more settled. Strange as it might seem me of the first persons I ran into here at this post was Sam Geeason from Garder City. This post is out [redacted] what was at me time a beautiful estate. Much of the original landscape is still here, and though military needs must have changed it a lot, it is easy</p>
+					<pb id="pm0003003" n="3"/>
+					<p>to see the charm that [mce] was here. The Manor House is used for the officers news and recreation. It is located on a small lake and swans swim in it. The are hundreds of large trees, and right outside my window the violets are blooming and the crocus are not though it still seems cold. That is because the buildings are cold- right at the minute I am writing in my bed room perched almost on top of the pen fire place, baking on one side and chilly on the other. They say that by April 1st the weather here is marvelous andI guess it is. It also looks like good riding country and when the opportunity arrives I let it out and see if it is as good as Syosett</p>
+				<p>Last week [Tellery?] and I went to the theater- it was before we moved. Thought you</p>
+					<pb id="pm0003004" n="4"/>
+					<p>might be interested in the program (enclosed). It was a very smart show, however it seems so strange to go to the theater at six in the evening, and have dinner after the show. All that is on account of the black out. As a matter of fact there was an air raid that might just as we came out. It did’nt amount to much, but the next night the was a bigger one. You probably read about it in the papers. They are quite picturesque to watch, if you can divorce your mind of the misery of them. The anti-air craft fire and other pyrotechnics are a huge fourth of July. The pitiful thing is to see the people sleeping in the subways. They are mostly children and old folks, trying to sleep in a hard cement platform. People in the states cant imagine how fortunate they are.</p>
+				<p>All in all I am feeling fine, and when I get more used to things here, I will probably find it interesting. In the meantime you will get more news from me. With lots of love to you all</p>
+				<p>DeWitt</p>
+				<pb id="pm0003005" n="5"/>
+				<p>Major E. D. Hill</p>
+				<p>Civil Affairs Center</p>
+				<p>A.P.O. 645 U.S</p>
+				<p>rec’d Mar 28, ‘44</p>
+				<p>Mrs. E.D. Hill</p>
+				<p>76 Fourth Street</p>
+				<p>Garden City, L. I.</p>
+				<p>New York</p>
+				<p>U.S.A.</p>
+				<p>Cut out by censor</p>
+			</div1>
+		</body>
+	</text>
+</TEI.2>

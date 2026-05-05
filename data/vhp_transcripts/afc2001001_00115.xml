@@ -1,0 +1,398 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd" >
+<!--
+<!DOCTYPE TEI.2 SYSTEM "../teixlite.dtd" >
+-->
+<TEI.2>
+	<teiHeader type="vets_interview">
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of interview with Edgar Grabhorn on October 9, 2000</title>
+				<author>Victoria L. Pittman (transcriptionist)</author>
+				<respStmt>
+					<resp>Encoded by</resp>
+					<name>Matthew McCrady</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Transcript of interview with Edgar Grabhorn on October 9, 2000</title>
+					<author>Victoria L. Pittman (transcriptionist)</author>
+					<date>October 9, 2000</date>
+				</bibl>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Encoded for the Experiencing War web site, "D-Day 2004" release, for the Veterans History Project, 5/15/2004.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>The entire interview with Harry Guinther was digitized.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+			</editorialDecl>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div0 type="title" id="Grab1" n="1">
+			<!-- begins encoded document -->
+			<head>Interview with Edgar Grabhorn on October 9, 2000</head>
+			<div1 type="preface_text" id="Grab2" n="1">
+				<p>The following oral history testimony is the result of an audiotaped interview with <name type="person" key="EG" reg="Grabhorn, Edgar.">Edgar Grabhorn</name>, conducted by <rs type="person" key="WW" reg="Wilbur, Wynn">Wynn Wilbur</rs> on October 9, 2000, on behalf of the Veterans' Oral History Project.  The interview took place in Concord (Mass?) and is part of the Library of Congress collection of oral testimonies.</p>
+				<p>The Interview was transcribed and processed by <rs type="person" key="VP" reg="Pittman, Victoria L.">Victoria L. Pittman, RPR</rs>.</p>
+				<p>The reader should bear in mind that she or he is reading a verbatim transcript of spoken, rather than written prose.  Insofar as possible, this transcript tries to represent the spoken word.  Thus, it should be read as a personal memoir and not as either a researched monograph or edited account.</p>
+				<p>To the extent possible, the spelling of place names, foreign words and personal names have been verified, either by reference resources or directly by the interviewee.  Some uncertainties will inevitably remain regarding some words and their spellings.  In these scenarios, a (ph) follows a word or name that is spelled phonetically.</p>
+				<div2 type="body_text" id="Grab3" n="1">
+				<sp><speaker>Wynn Wilbur</speaker><p>  This is an interview with Edgar Grabhorn who was in the Air Force during World War II, Korea, and the Vietnam conflict. The interview is being held for the Concord Historical Commission's Oral History Project on October 9, 2000, at the home of Wynn Wilbur, who is the interviewer.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Mr. Grabhorn is presently 70-</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> -6.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> -6 years old. So, Ed, tell us how you happened to get into the service back in World War II years.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I was in high school in 1941, just graduating as a senior, and the War started. I was still too -- I was 17, still too young to get into the service, so I went off to <name type="thing" key="PDU" reg="Purdue University">Purdue</name> -- that was my original plan, anyway, was to get an engineering degree at <name type="thing" key="PDU" reg="Purdue University">Purdue</name>.  In fact, get a mechanical engineering degree and go design automobiles in Detroit. In the course of my enrollment at <name type="thing" key="PDU" reg="Purdue University">Purdue</name>, I saw that I could become an Aviation Cadet after I was 18 and go off to fly if I was called. So I did. I joined the Aviation Cadets in the fall of 1942. And -- thinking the war would be over before I would ever get called to active duty.  But shortly -- in the spring, I did get called to active duty and went off to learn to fly airplanes. So that's how I got into the service. I didn't intend to be a career person in the military, but as you'll hear later on, things conspired to keep me in and so I did.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> When did you -- when did you go overseas? How long were you in training and then what happened?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I got my wings in 1943, late in 1943, and was commissioned as Second Lieutenant and a navigator and received orders to go off to a bomb group, to join a crew and commence training for ultimate combat -- combat duty. I went home for a brief vacation, a week or so, and then joined a group in <name type="place" key="ALNM" reg="Alamogordo, New Mexico">Alamogordo, New Mexico</name>, a four-engine bomb group.  Became the missing member of the -- of the crew.  They had all the other crew members in place, gunners and engineers and pilots and bombardier, and just needed a navigator. And so I filled that role.  We left <name type="place" key="ALNM" reg="Alamogordo, New Mexico">Alamogordo</name> in March, heading overseas.  It was wintertime still in the North Atlantic, so our bomb group was routed down through <name type="place" key="SA" reg="South America">South America</name>, <name type="place" key="AF" reg="Africa">Africa</name>, and then up to <name type="place" key="ENG" reg="England">England</name>. So it was a long and very educational tour for a farm boy from Indiana. We went to <name type="place" key="PR" reg="Puerto Rico">Puerto Rico</name>, we went to <name type="place" key="TD" reg="Trinidad">Trinidad</name>, and down along the northern coast of <name type="place" key="BZ" reg="Brazil">Brazil</name>.  Got to Natal, waited a couple days for winds to be favorable and then flew across to <name type="place" key="DSN" reg="Dakar, Senegal">Dakar</name> in Africa, <name type="place" key="SN" reg="Senegal">Senegal</name>. Then from there up, like the French Foreign Legion, up across the desert. In fact, past Tindu, where they filmed some of the old Foreign Legion films, and then to <name type="place" key="MKMO" reg="Marrakech, Morocco">Marrakesh</name>. <name type="place" key="MKMO" reg="Marrakech, Morocco">Marrakesh</name>, again, we waited for the weather a little bit and then flew out over <name type="place" key="CAMO" reg="Casablanca, Morocco">Casablanca</name>, north along <name type="place" key="POR" reg="Portugal">Portugal</name>, and finally reached England. All that took a couple weeks. We got to the west coast of <name type="place" key="ENG" reg="England">England</name>, I navigated all the way from <name type="place" key="AF" reg="Africa">Africa</name>.  And I was term dead tired, and so were the rest of the crew members, and we were met and said that we were going to fly -- get back into our airplane and fly cross <name type="place" key="ENG" reg="England">England</name> to our air base. We practically revolted.  But they said, Well, nothing to it, you just follow me and when we wiggle our wings, it will be time for you to go down to your base.</p></sp>
+				<p>(Laughter)</p>
+				<sp><speaker>Edgar Grabhorn</speaker><p> (Laughter) We went into -- we followed along. I had -- I had a map, and so I followed them along.  I thought, Well, at least I'll keep track of airfields.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> This is a really dumb question, but did they have radar then?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> No, no radar.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> So you really were telling them where to go.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Right.  Yeah. Oh, yeah. You had to look out. If you couldn't see something, you did it by what's called dead reckoning. In any case, we got over our airfield, he wiggled his wings and we went in and landed. And sure enough, there was the rest of our bomb group. Did a couple more weeks of training.  We began flying combat missions, and...</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> This is the spring of '44?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Uh-huh.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> So you were flying into <name type="place" key="GRM" reg="Germany">Germany</name>.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Yeah. Our mission --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> _____________ (undecipherable).</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Our missions were -- well, combat started immediately because <name type="place" key="FR" reg="France">France</name> was still occupied by the Germans, and so was <name type="place" key="HOL" reg="Holland">Holland</name> and <name type="place" key="BG" reg="Belgium">Belgium</name>.  So we -- we had targets all over. we had targets in <name type="place" key="FR" reg="France">France</name>, we had targets in <name type="place" key="BG" reg="Belgium">Belgium</name>, railway yards and things like that. And then, of course, targets all over <name type="place" key="GRM" reg="Germany">Germany</name>. I flew until my -- on my 11th mission, we were bombing an oil refinery, we did bomb an oil refinery northeast of <name type="place" key="BRGRM" reg="Berlin, Germany">Berlin</name>, and because it was so deep into <name type="place" key="GRM" reg="Germany">Germany</name>, our fighter escort couldn't stay with us, they didn't have enough fuel. And the Germans loved that, because their fighters came up and...</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Uh-huh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> -- and beat us up. And so I was shot down by a German fighter, or our crew was shot down. And I was in various prisons and hospitals and that sort of thing until <name type="person" key="GSP" reg="Patton, George S.">Patton</name> came into <name type="place" key="GRM" reg="Germany">Germany</name> in 1945. I was liberated in April 1945 from what became East Germany and taken out on a stretcher to <name type="place" key="FRGRM" reg="Frankfurt, Germany">Frankfurt</name>, and put into a smaller airplane and flown to <name type="place" key="PFR" reg="Paris, France">Paris</name>, where they put me in a hospital.  And I was -- I was there for, for a month sort of regaining my health. And then moved to a British hospital in <name type="place" key="SAENG" reg="Salisbury, England">Salisbury, England</name>.  And I was there almost another month. And then put on a British hospital ship in July and brought back to the States.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> July of '45?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> July 1945.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> And am I correct in thinking that when you were shot down, your leg was very badly broken, shattered and --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> -- there was a German surgeon who -- who decided not to amputate?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Yeah. I -- I, my leg -- I was shot up while still in the airplane. Among the other things the fighters did, they pretty well riddled our airplane.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh, how horrible.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And actually, my leg collapsed under me. I was laying on the floor in the font part of the airplane where the navigator's stationed, and -- thinking that I was really trapped. And the rest of the crew was sort of collecting around the flight deck. And the next thing I know, I'm out in the air. The airplane had been apparently exploded.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Because all I could see of the airplane was from one engine out toward the one wing tip, sort of whirling around going down to the water. This was over the <name type="place" key="BS" reg="Baltic Sea">Baltic Sea</name>.  And there were three other parachutes that were out in the air besides my own. Yes, my leg was shot up. After I got fished out of the water by a German freighter the next day and taken to East Prussia, put in a naval hospital where the doctor there said that he'd amputate my leg when he had
+ time, but he was still busy with Germans. And the next day, without doing anything, changing dressings that I'd put on or anything else, they put me in a vehicle and took me across the country to a German <name type="thing" key="LUFT" reg="Luftwaffe">Luftwaffe</name> hospital.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Apparently they decided that I wasn't in the jurisdiction of the Navy, that I should be under the Air Force.  And they took put me into that hospital, and there I met a really wonderful doctor who looked at my leg and he said, "I should amputate, but I'll try to save your leg. If I'm unsuccessful, it'll be cut off much higher than it would be right now." And he wanted to know what I felt about that.  And I said "I'd appreciate having my leg." And he did. He did a wonderful job. It was a long _____.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Well, considering that you are in the process of hiking across all of Massachusetts, I'm sure you're very glad to have your leg.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Oh, very much. And although it took a long time, I was in the hospitals and prison camps, and then back in the States in other military hospitals until early 1947 I was finally released back onto active duty.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> _______.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Yeah. I developed a bone infection when I was in prison, and that took a long time to sanitize and clear up, including bone grafts and skin grafts and that kind of thing. But in any case, I went back on flying duty in 1947.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Did at -- some point after the War, you went back and met that surgeon again, didn't you?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I did. Much later in my career, in 1950, I was flying in and out of Germany quite frequently from <name type="place" key="WJARB" reg="Westover Joint Air Reserve Base">Westover</name>, actually, over in western Massachusetts. And I had an address -- he had corresponded with my mother. I had given him my home address, and he'd corresponded. She'd sent him food packages and clothing and all sorts of other stuff. And I had that address, and so I searched him out and found him to be a successful surgeon in a small hospital near <name type="place" key="COGRM" reg="Cologne, Germany">Cologne</name>. And naturally, we had many fine reminiscences, talking about what had happened --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Checking your leg.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> -- what had happened to each of us in the meanwhile. But, yeah, it's sure good to have a leg.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> So in 1947 when you went back into active duty, were you flying again? There was no war at that point.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Not immediately. To explain why I was still in the military in 1947, I wanted to get out of the military in the worst way, like all civilian military people, but I couldn't because my leg was wounded, and there I was. And by 1947, I had gone back to <name type="thing" key="PDU" reg="Purdue University">Purdue</name> and found that where our freshman class was a thousand and had been the largest class <name type="thing" key="PDU" reg="Purdue University">Purdue</name> had ever had, the campus had 10,000 students on it. It was a vast school compared to what it was when I was there, and I -- wasn't all that attractive to me to go back to school.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Wow.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And I liked to fly. Turned out I really enjoyed flying.  So I decided, Well, you know, this is not a bad life. I'll just try it for a little while longer.  And that's why I stayed in.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> You stayed in eventually until 1970-something.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> '69. End of 1969. I -- I was still not really decided about my career, but my next assignment after 1947 was to Hawaii.  I had a wonderful three years in <name type="place" key="HI" reg="Hawaii">Hawaii</name>. Met my present wife, who was a -- an Army officer's daughter. And had some wonderful flying. We -- we laughingly called our group the Fungus Airlines. We flew to every island in the Pacific, which was very entertaining and interesting places you will -- you'll never go, probably -- <name type="place" key="CI" reg="Christmas Island">Christmas Island</name> and <name type="place" key="PI" reg="Palmyra Island">Palmyra Island</name> and things like that -- but it was a -- it was a great experience.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Why were you flying to these places?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Supplies had to be delivered, and sometimes for emergency situations, where people had to be air evac'd out from those places and so we'd go do that.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Did the United States keep occupying little units on all these places after the War?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> They did. Sometimes they were stations for radio aids to navigation where there would be just a transmitting station there, but had to be maintained and people kept it up and people were there on these rocks. <name type="place" key="ENI" REG="Eniwetok Atoll, Marshall islands">Eniwetok</name> as you know, became a big test site for atomic weapons. <name type="place" key="KWA" REG="Kwajalein Atoll, Marshall islands">Kwajalein</name>, <name type="place" key="GUA" reg="Guam">Guam</name>, we went down to the <name type="place" key="FIJ" reg="Fiji Islands">Fijis</name> and <name type="place" key="SAM" reg="American Samoa">Samoa</name> on our way to turn around in <name type="place" key="AUS" reg="Australia">Australia.</name>  And it's a vast ocean.  And, and the navigator has a very important job, which was also interesting.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> But by then, you did have radar, didn't you?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> We did have radar. It was -- it was not the greatest, but it was radar that had been developed during War II, that's right. I was in Hawaii in 1948 and offered a regular commission in the Air Force, and that's when division -- decision day really happened. I accepted it.  And shortly after that, Secretary Johnson, who was Secretary of Defense at the time, had a big reduction in force. They couldn't see that there was going to be any war on the horizon, and so our -- our groups all condensed down to just a few members.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Hmm.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> In 1950, when the <name type="thing" key="KWAR" reg="Korean War">Korean War</name> started, I was just finishing my tour in <name type="place" key="HI" reg="Hawaii">Hawaii</name>, had my orders to come back to <name type="place" key="WJARB" reg="Westover Joint Air Reserve Base">Westover</name> and fly on the North Atlantic. And I was put on the -- along with three other navigators -- put on the last boat that carried people off of <name type="place" key="HI" reg="Hawaii">Hawaii</name>. Everyone else was frozen on the island at the beginning of the <name type="thing" key="KWAR" reg="Korean War">Korean War</name>. They even talked about coming out by helicopter and picking us up and taking us back.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> A long helicopter ride.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> (Laughter) In any case, I no sooner got to <name type="place" key="WJARB" reg="Westover Joint Air Reserve Base">Westover</name>, assigned to transport duty flying to Europe, then we were sent Temporary Duty back to Hawaii. (Laughter)</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> And then off to Korea.  Were you married by then?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> No, no. Marion and I were seriously dating. I had -- I had an airplane of my own in Northampton, and later when I came off the run from flying transports, I'd jump into my little single-engine airplane, fly down to Washington, DC, date Marion, whose father was then stationed in the Pentagon, then I'd fly back up and then go back on the run again.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh. So --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> So I did a minimum -- we all did minimum tours in those days. We could plan -- we could plan that within 12 months of being assigned to the States, we'd be on our way back out again. And my assignment then was to Japan to fly reconnaissance for the <name type="thing" key="KWAR" reg="Korean War">Korean War</name>.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> So this is now 1950?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> 1950.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> All of '50?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> 1952 I ended up in Japan and started flying in RV29s, which was -- had been a big bombing airplane in War II and was developed into a reconnaissance airplane as well as a bomber.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> We flew 15-hour missions.  People talk about long flights being eight hours these days, and it's laughing to think of very commonly flying for 15 hours.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p>  I'm sure the seats weren't as comfortable.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Aw.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> And you didn't get up and walk down the aisle.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Oh, so tedious. Yeah.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> How many --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> We flew in wetsuits, too.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> You realize you're flying in a rubberized suit that's --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> -- cuffed around your arms and your legs, but you can only last -- you could only last 30 minutes in that water, if you went down in the Japan Sea you --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> It was that cold?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> It was that cold. And so we were uncomfortable, but we wore them, wetsuits, the whole time we flew.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Geez.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Until we came out of _______.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> I guess. Where were you -- now, this was 1952.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> 1952.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> So you were flying the <name type="thing" key="DMZ" reg="Demilitarized Zone">DMZ</name> or where?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> We had three -- three basic missions we flew. We flew down over the China Sea and then all along the Chinese coast, up and over <name type="place" key="K" reg="Korea">Korea</name>, and then back down to <name type="place" key="JPN" reg="Japan">Japan</name>, was one -- one mission we flew.  Another one was strictly to go out to <name type="place" key="K" reg="Korea">Korea</name> and do continuing recon -- reconnaissance over <name type="place" key="K" reg="Korea">Korea</name>, <name type="place" key="NK" reg="North Korea">North</name> and <name type="place" key="SOK" reg="South Korea">South Korea</name>. Generally tried to stay south of -- of the <name type="thing" key="DMZ" reg="Demilitarized Zone">DMZ</name>, but many cases we went over it. And then we had another one where we flew from <name type="place" key="JPN" reg="Japan">Japan</name>, up the <name type="place" key="KUI" reg="Kuril Islands">Kuril Islands</name>, which are a chain of islands that run up to <name type="place" key="PPAV" reg="Petropavlovsk">Petropavlovsk</name> in eastern <name type="place" key="RUS" reg="Russia">Russia</name>, then we flew up there and then turned around, flew back. The Russians were based heavily along there. In fact, very frequently had fighters jump up to come after us. And all we had to do was turn out over the Pacific and they would turn around and go back.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Because they weren't about to get very far from home.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Did the Chinese fly and try to attack your plane?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Beg your pardon?</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Did the Chinese have --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> We shot at.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> -- fighters who tried to --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> We got shot at on the China Sea from boats, yeah.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> From boats?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> From boats.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Yeah.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> They never hit us.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> They didn't have fighter planes, though that you --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> No, they didn't come out with fighters, just boats.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Was your job as -- in recon also to be bombing convoys of things if you see them coming --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> No.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> -- down --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> We carried no weapons other than machine guns to fight off fighters.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> So, attacks.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Yeah.  No, we didn't ever carry bombs. It was strictly reconnaissance. we had lots of reconnaissance equipment on our airplane.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> So you were photographing changes --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And -- and sensing radio signals and things like that, what's called ELINT, electronic intelligence. And we had another device on our airplane that was used to collect debris from atomic explosions so that if we were flying along the <name type="place" key="KUI" reg="Kuril Islands">Kuril Islands</name> and the Russians had set off an A test, the debris that from that would float in the atmosphere and we would collect particles and bring them back to be analyzed.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Collect it where?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> In the air.  In the air.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> I mean what -- you didn't put it inside the plane, you had some kind of --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Well, these devices had, sort of, filters --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Uh-huh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> -- that you would stick up in the collector. And periodically you'd change them. yeah, you'd load the -- put the filters down in here.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> God. That sounds so dangerous.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> (Laughter) Well, maybe it does now, but in those days, okay, so there's a guy back there catching bugs. (Laughter)</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh, dear Lord. It's a miracle you're walking around.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And of course, a lot of times on those missions, we were sent out when our intelligence knew the Russians had just set off an atomic --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> I see.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> -- test.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> So you were definitely -- that was your purpose.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> That was what we were there for on that -- that mission, yeah. The other missions were in support -- direct support of the war. But that was a -- collecting -- well, we also collected weather data. You know, there's no -- there was no intelligence for weather in the Kuril Islands other than what we brought back. So we measured winds, we measured temperature, and all the other weather effects you can possibly measure.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Whoo.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> It was interesting.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> I bet. By 1952, it was -- <name type="thing" key="KWAR" reg="Korean War">the war</name> was kind of a stalemate, wasn't it?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> It was.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> There were --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> '52 and '53.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> -- little forays, and people would get killed --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Yeah. Remember, the Marines marched right up the -- to the _______.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p>  Yeah. _______.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And then the Chinese got involved and -- and got driven back, but it was in that time.  And --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> That was -- that was the winter of '51, wasn't it?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> '51.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Yeah.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And then they sat up there in the winter and --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Along the 38?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> You know, the negotiations got started. And, let's see when did <name type="person" key="DM" reg="MacArthur, Douglas">MacArthur</name> make his <name type="thing" key="II" reg="Inchon Invasion">Inchon landing</name>?</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> That was early on. That was before y'all --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Yeah. Yeah. We were flying -- I was flying --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Back and forth there?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Temporary Duty then, yeah.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Were you there in 1950 as well as in '52?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> 1950, '51, '52 --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> All those years.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I was flying Temporary Duty.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> What does that mean?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Well, my permanent station was <name type="place" key="WJARB" reg="Westover Joint Air Reserve Base">Westover</name>, but they -- they took --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> You just happened to be in <name type="place" key="JPN" reg="Japan">Japan</name>.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> They took a whole bunch of us in airplanes -- airplanes and all, and moved us out to <name type="place" key="HI" reg="Hawaii">Hawaii</name> because there weren't many around, you know, there really weren't -- we didn't have many transports. And we would pick up a load of Marines with their packs and everything, 75 of them, and take them into <name type="place" key="PSOK" reg="Pusan, South Korea">Pusan</name>.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> I see.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And then we'd bring them out on stretchers, the ones that were wounded. They just -- we'd just convert the inside of our airplane to be stretcher --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Right.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Stretcher bearing. Bring them back either to Hawaii or sometimes clear back to the west coast.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Did you also help in the landing at <name type="thing" key="II" reg="Inchon Invasion">Inchon</name>, or was that all --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> No.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> -- by sea?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> No, no.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> That was all water?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Yeah, that was not us. The flying duty really was for the most part carrying troops and supplies, some.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> So then when that were was --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> So, I finally convinced my commander that, "You got to let me go back to the States and get married".</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Uh-huh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I went back on Temporary Duty -- now that you know what that is -- told Marion I was coming, and she arranged that we would be married at -- her father's station then was <name type="place" key="FBNM" reg="Fort Bliss, New Mexico">Fort Bliss</name> in El Paso.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Uh-huh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And we were married in the base chapel in 1953 on an engine change.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> (Laughter)</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I had brought an airplane back that needed to have an engine changed, and they changed it at -- in Oklahoma, and so that gave me time, while they changed that, tested it out, flight tested, and --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Did that give you a week or 12 hours?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> More -- more than a week. We went down to <name type="place" key="ACMX" reg="Acapulco, Mexico">Acapulco</name>, had a nice honeymoon, and went up to <name type="place" key="SFCA" reg="San Francisco, California">San Francisco</name>, where I met my crew again. And I thought it was going to be simple, that Marion would just -- to put on a troop transport or a military vehicle of some kind, maybe fly, and join me in --  in <name type="place" key="JPN" reg="Japan">Japan</name>. Turns out the rules weren't that straightforward, that -- it said, I found out later, that it was your responsibility to deliver your new wife to your duty station. From there on, they would ship her with you.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> And that was <name type="place" key="WJARB" reg="Westover Joint Air Reserve Base">Westover</name>.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> No, my duty station then was <name type="place" key="JPN" reg="Japan">Japan</name>.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p>  Oh, I see.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I'm now permanently in <name type="place" key="JPN" reg="Japan">Japan</name> until next set of orders.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> So that was your nickel.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> So I -- I bought her a Pan Am ticket, and -- took her 24 hours of flying to get from <name type="place" key="SFCA" reg="San Francisco, California">San Francisco</name> to <name type="place" key="JPN" reg="Japan">Japan</name> -- and she joined me. So we were there until 1955, and in '55, we both flew back together to my -- back to my next duty station, which was down in Mississippi.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> And one of your children was born there.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> No, she was 7 months pregnant when we left Japan with our first child, with Cliff. So Cliff was born in Mississippi.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Mississippi?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Our next one was born in Massachusetts. Our next one was born in Mississippi. And our next one back in Massachusetts. (Laughter).</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Back and forth.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Well, in between, I did duty in Europe and I -- our electronics training center was at <name type="place" key="KAFB" reg="Keesler Air Force Base">Keesler Air Force Base</name> in <name type="place" key="BMIS" reg="Biloxi, Mississippi">Biloxi, Mississippi</name>. So being in electronics, which I took up shortly after War II, I was regularly trained or advanced in training at Biloxi. So then the Korean War ended. I came home shortly after the Korean War -- after the truce was signed.  And in fact, the truce with Japan was finally signed in -- in '53, I think it was, while I was there. We were Army of Occupation, originally, while I was there, and then the truce signed, we became a slightly different, hard-to-tell-the-difference troop, status.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> What was it like living in <name type="place" key="JPN" reg="Japan">Japan</name> during those years, eight or ten years, after the war?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Good point. Because I was a -- newly married in 1953, the Air Force did not provide base quarters for us, either.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> So I had a Japanese contractor build me a Japanese-style house out in the rice paddies, and Marion and I --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> With sliding doors?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Yeah, with sliding doors.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh, that's wonderful.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And tatami on the floor and the whole works. And we lived a year out in the rice paddies before base housing finally came to our lowly status.
+</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> How romantic, though.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> (Laughter). Well, the thing is, <name type="place" key="JPN" reg="Japan">Japan</name> was still very feudal in those days. If you went out in the countryside, which we did a lot of, we -- we did a lot of skiing up in the northern part of <name type="place" key="JPN" reg="Japan">Japan</name>, we did a lot of touring around, because we had no children, we had that freedom, and you didn't go very far from <name type="place" key="TJPN" reg="Tokyo, Japan">Tokyo</name>, and you were out into a feudal time. You saw no people in western dress. They were all wearing their traditional clothing, and they were all simple people, farming and...</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Could you speak any Japanese?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I did. I took two college semesters of Japanese while I was there in Japan at <name type="place" key="YJPN" reg="Yokota, Japan">Yokota</name>. And I learned to write, because I liked the calligraphy, being interested in art.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Yeah.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And I learned, well, 500 congis, very -- very fluently, which is the equivalent of about the third grade in school. (Laughter).</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> But you could cover your basic, where is the chicken or could you tell me --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Exactly. Well, I could carry on conversation without any trouble at all, yeah, yeah. I -- I would occasionally misuse the words. I wanted to buy --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> There are tenses, are there, present and past? Isn't --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> It's -- there is. And it's a very -- it's a very rigorous language. You can tell -- the subject is set aside by a special sound, the direct object is set aside by a special sound, the verb is always at the end. They have a special sound for question mark, so there's no doubt at all when someone asks you a question. Ee carda deska (ph), for example, ends in "ka," ka is the sound of the question mark. So I would ask you "How are you?" and you know that because the ka sound. If you were making an exclamation, you would end the sentence with "ga," which, again, says --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Great.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> -- I just went, "exclamation mark." But it's a lot of fun, it's a very -- it's a simple language in that it is 50 sounds, no unusual sounds at all. Very phonetic and easy.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Does it have the four tones that Chinese has?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> No. No. No tonal change at all. In fact, Japanese, if you listen to them, there's pretty much of a monotone, occasional inflection, but not much. But that -- that was a very fascinating thing. And by this time, I'm a regular officer and I'm a Captain, and things are shaping up.  Shortly afterwards, returning to the States, I became a Major and moved a couple of grades to field grade, which makes a big difference. I didn't realize what a difference it would make.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> What does that mean?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> It means that I could call the motor pool and be pretty sure I could get a staff car when I wanted one --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> That's nice.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> -- for example.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Uh-huh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I no longer had to pull officer of the duty [sic] kind of duty. I was freed of that. You -- well, there were a lot of -- there were many -- there were many perks of being a field grade officer.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Uh-huh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> The Air Force, you were asking -- or going to ask the question, "How did it affect your life?" The Air Force did all it could to train its officers, and they sent me back to finish my college degree, which was great.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I went back got my double-A degree, got part of --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Was that at <name type="thing" key="PDU" reg="Purdue University">Purdue</name>, or was that --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> No, I ended up going to <name type="place" key="OKU" reg="University of Oklahoma">Oklahoma University</name>, and -- it was closer to where I was. So I benefited by that as well.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> ______ just as many other people got through college by GI Bill.  _____ staying in and _____</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Similar to that, and I could have done that. I could have done the GI Bill if I'd not stayed in.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Yeah. So you had what sounds like very serene years between '53 and when they were --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Yeah, except for flying, except for the combat duty, and up to '55, it was great. Then came back to <name type="place" key="WJARB" reg="Westover Joint Air Reserve Base">Westover</name> to be the electronics officer for a squadron in West -- at <name type="place" key="WJARB" reg="Westover Joint Air Reserve Base">Westover</name>. And a friend of mine and fellow officer that I had served with a couple of times called me one day from the Pentagon, where he was a personnel officer, and said, How would I like to have duty in <name type="place" key="GRM" reg="Germany">Germany</name>?</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And he said, family accompany and so on, and I said, "Sounds great". And he said, "Okay, well, you'll -- you'll get orders pretty soon and -- and you'll go. You'll find it a -- a very different assignment. We can't talk about it, but you'll find it a very different assignment." And with that, I did get orders to a special reconnaissance group in <name type="place" key="GRM" reg="Germany">Germany</name> that -- headquarters, Air Force, in <name type="place" key="WGRM" reg="Wiesbaden, Germany">Wiesbaden</name>. And this assignment, to show how different it was, I drove my station wagon with our two children and my wife to <name type="place" key="NYNY" reg="New York City, New York">New York</name>.</p></sp>
+				<p>END OF SIDE ONE, TAPE ONE; BEGIN SIDE TWO, TAPE ONE.</p>
+				<sp><speaker>Edgar Grabhorn</speaker><p> '57, we moved into a state room that had been occupied by <name type="person" key="CJEW" reg="Warren, Earl">Chief Justice Earl Warren</name> on the trip back from Europe, so you know it wasn't half bad. And we danced our way to <name type="place" key="GRM" reg="Germany">Germany</name>.  We had a wonderful time on that trip, it was a smooth ride, and at <name type="place" key="BGRM" reg="Bremerhaven, Germany">Bremershaven (sic.)</name>, they unloaded my car and we climbed in and drove to <name type="place" key="WGRM" reg="Wiesbaden, Germany">Wiesbaden</name>.  At <name type="place" key="WGRM" reg="Wiesbaden, Germany">Wiesbaden</name>, there were no quarters to -- for everyone in <name type="place" key="GRM" reg="Germany">Germany</name>, and so they had leased houses out in the community.  We were assigned to one of the townhouse of the Prince of Hesse.  I counted the rooms in that house one time, there are 50 rooms altogether.  On the top floor was the <foreign rend="italics">hausmeister</foreign> and his wife, next floor down was the finance minister for <name type="place" key="WGRM" reg="Wiesbaden, Germany">Wiesbaden</name> -- or land Hesse, actually. Then Marion and I occupied what would be the <foreign rend="italics">piano nobile</foreign> in Italy. The next floor and down on the bottom floor was a follow officer, a major and his wife, had no children.  But we had a wonderful time there, too.  And reconnaissance there was quite interesting as well.  Almost all of it electronic, some special missions, but for the most part electronic intelligence gathering.</p></sp>
+                <sp><speaker>Wynn Wilbur</speaker><p> Flying over <name type="place" key="EGRM" reg="East Germany">East Germany</name>, or flying --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> <name type="place" key="EGRM" reg="East Germany">East Germany</name> and other places, yeah. Just to mention a few --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p>  ________</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> -- we flew from <name type="place" key="WGRM" reg="Wiesbaden, Germany">Wiesbaden</name> to <name type="place" key="AG" reg="Athens, Greece">Athens</name>; <name type="place" key="CE" reg="Cairo, Egypt">Cairo</name>; <name type="place" key="TI" reg="Teheran, Iran">Teheran</name>; <name type="place" key="DS" reg="Damascus, Syria">Damascus</name>; <name type="place" key="KP" reg="Karachi, Pakistan">Karachi</name>; <name type="place" key="PP" reg="Peshawar, Pakistan">Pashala (ph)</name>, Pakistan; all over the surrounding countries around the <name type="place" key="RUS" reg="Russia">U.S.S.R.</name></p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> And in all those cases, were you -- was it acceptable for you to be flying there, or were you in danger of being shot down there?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> If we -- if we minded ourselves carefully, we got away with it.  We lost one airplane, got shot down near <name type="place" key="LVT" reg="Lake Van, Turkey">Lake Vann (sic.)</name> in eastern <name type="place" key="TK" reg="Turkey">Turkey</name>.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Got too close to --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> The Migs -- they got to close to the border and Migs came over and shot 'em down.  Fortunately, the whole crew survived.  Seven bailed out, five others crash landed with the airplane with it on fire and managed to survive the landing. And then the State Department eventually got them out, but...</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> These were the days --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> The only hazard was getting too close to the Russians, and you never knew when that was going to happen.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> They don't have those little dotted lines on the borders --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> No.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> -- do they?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> What they consider --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> The navigator is important.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> What they considered close was not necessarily what we considered close.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Well, this was the era of <name type="person" key="GP" reg="Powers, Gary">Winston Gary (sic.)</name> and the <name type="thing" key="U2" reg="U2 Spy Plane">U2</name> --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Exactly.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> -- also, wasn't it?  Were you in a <name type="thing" key="U2" reg="U2 Spy Plane">U2</name>?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Yeah, he went down while I was there.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Were you flying <name type="thing" key="U2" reg="U2 Spy Plane">U2s</name>, or is that --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> We weren't in <name type="thing" key="U2" reg="U2 Spy Plane">U2s</name>, but our squadron had <name type="thing" key="U2" reg="U2 Spy Plane">U2s</name>.  We -- those airplanes were often launched from <name type="place" key="PP" reg="Peshawar, Pakistan">Pashala (sic.)</name> and landed in <name type="place" key="NW" reg="Norway">Norway</name>.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> <name type="place" key="PP" reg="Peshawar, Pakistan">Pashala (sic.)</name> is a --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> <name type="place" key="PK" reg="Pakistan">Pakistan</name>.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> <name type="place" key="PK" reg="Pakistan">Pakistan</name>?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Up near the <name type="place" key="KHP" reg="Khyber Pass">Khyber Pass</name> into <name type="place" key="AFG" reg="Afghanistan">Afghanistan</name>. It's just at one end of the <name type="place" key="KHP" reg="Khyber Pass">Khyber Pass</name>.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Pretty close to the <name type="place" key="RUS" reg="Russia">U.S.S.R.</name></p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And there again, <name type="place" key="PK" reg="Pakistan">Pakistan</name> -- or perhaps even now, I haven't been there recently -- was still back in the dark ages. You know, you went into things that looked like it came right out of Kipling.
+</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> What were you looking for, troop movements, or --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Oh, no, no, no. This was strategic reconnaissance.  This is where you're really trying to target, you're trying to observe what they're doing, and missiles and...</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Those missile stations ______ satellite things.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Any facility they had that looked like it was related to military or strategic operation was of very big interest of us. In the electronic intelligence, we were generally trying to sense out where their order of battle was, where were their radars, where were their fighter direction control points, and that sort of thing. so you're --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> And you can do that from --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Oh, yeah.  You do enough of it, little pieces of intelligence from each one --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> It all fits together, huh?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> It all fits, yep. Fabulous things. We were confused at one point because we -- we kept sensing radar sites and we knew or we felt the Russians didn't have the production to have that many radar sites, they couldn't have built that many, we didn't think. Turned out what they did was they would put a radar on a site, they would calibrate the site so that they knew what it looked like when the radar was operating, they would take the radar down and move it to another site and do the same thing at another site. So they had calibrated many, many sites, but they didn't have radars on all those sites, they only had a few radars.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Interesting.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I came back, after the German assignment, we returned on the USS CONSTITUTION in 1960, '61, I guess it was, maybe. And again, I was assigned to electronic training, I went to Staff Electronic Officer School in <name type="place" key="BMIS" reg="Biloxi, Mississippi">Biloxi</name>. And what was the next assignment after that? <name type="place" key="SAL" reg="Selma, Alabama">Selma, Alabama</name>.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Okay.  ______</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I -- I was the wing communications officer for a pilot training base.  All single-engine jets on that base. And so I got my navigation time in a single-engine jet.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> (Laughter)</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> But by this time, we're beginning to think of the end of our careers and where would we like to live. And we pretty well decided New England was where we'd like to be, so I began making my request. I had plenty of background at that point to go to the Electronic Systems Division at Haskin, which was doing R and D work in electronics, and I got that.  So in 1964, we came to Haskin. And shortly after, bought our house in Concord. Then I made full Colonel, and General O'Neill, who was the commander at the time for my division, broke the news that I was going to be moved to the Pentagon, because I was a full colonel and I should do Pentagon duty with the prospect that I might pin on stars after that. So I went off to the Pentagon with great reluctance, because I'd enjoyed my time here and, needless to say, my family was reluctant as well. We rented our house in Concord to someone and went off to the Pentagon, renting a house down there.  Finally, by 1969, I decided that life was too short for the Pentagon and I was wasting a lot of time. So without any job prospect, I got out of the Air Force, retired, brought my family back to Concord, and we settled in and I began looking for a civilian job.
+</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> And what did you find?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Well, turned out that in 1969 and '70 wasn't a bad time to be shopping for a job.  I got five job offers within a few months' time. Fortunately, one of them was to Arthur D. Little, which was a really interesting looking assignment. I found out later on, one of my follow officers told me later on, that he said, "I remember when you talked about ADL would be a good place to work when you got out." I had forgotten I'd said that to him.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Do you -- the years from '65 to '69 are what I think of an active part of the Vietnam conflict.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Well --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> But your work was in the Pentagon during those years.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Well, it was; partly was Haskin and partly there. In the Pentagon, I was overall responsible for several electronic projects, three of them were in <name type="place" key="VN" reg="Vietnam">Vietnam</name>.
+</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And they were being implemented; that is, they were being put into the field and tested and eventually going to be something that was going to be used in the field in electronics. And so one of my obligations was to go down to <name type="place" key="VN" reg="Vietnam">Vietnam</name> and see how these tests were going, and see how that was progressing as a project. So I was in and out, flying from the Pentagon, out to <name type="place" key="SAVN" reg="Saigon, Vietnam">Saigon</name>, <name type="place" key="TSNVN" reg="Tan Son Nhut Air Base, Saigon, Vietnam">Tan Son Nhut</name>, and then going out into the field by helicopter or whatever they had for transportation and seeing these sites. So that was my taste of <name type="place" key="VN" reg="Vietnam">Vietnam</name>.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Uh-huh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I flew combat there in two ways.  I flew because I had to, to go out to the sites; which, again, was generally in a helicopter. But I also volunteered to fly with a forward air controller, it's a little single-engine airplane that goes out to sort of sniff out where the Viet Cong were, and then would call in fighters to --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh, yes --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p>  -- shoot them up.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> I heard about this.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Yeah.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p>  Fly low and --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Oh, yeah, and create trouble, just see what you can do to stir it up. And I flew with a cocky young Second Lieutenant that had a pistol strapped to his armpit.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Just in case.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> (Laughter) And it looked like the way I was in 1943, probably, but I only did that a couple times.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> What was your feeling about the <name type="thing" key="VWAR" reg="Vietnam War">Vietnam War</name> by the time you left the service?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I was pretty disappointed. If you got to <name type="place" key="SAVN" reg="Saigon, Vietnam">Saigon</name>, you found that the Bachelor Officer's Quarters and -- were owned by officers from the <name type="thing" key="ARVN" reg="Army of the Republic of Vietnam">Vietnam Army</name>; that is, the <name type="thing" key="ARVN" reg="Army of the Republic of Vietnam">South Vietnam Army</name>. And these officers didn't do anything but gather in money from their rental for these quarters. They were, well, just to say it bold, I -- I think they were cowardly. I think they were cowardly, and I think they were crafty and not something to be admired. I was very disappointed. And I also felt that we had no chance at all of concluding that war. I was just as sure of that as anything.  There was no will in South Vietnam to -- to win.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Well, that seemed to be the feeling that most people who were out there had, too, I think --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And this was reinforced by the time I got to Washington, DC, in '68, '69, it was just clear as anything from the Pentagon, that was bad, bad effort.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Why did they stay in so long, to save face?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Well, you know, I -- it's hard to say from a -- from a bystander's viewpoint. I think there was some bad advice, I think that, both on the diplomatic and military side, the President didn't really know what was going on completely.  And I think if you're -- like General Westmoreland, if you're in a theater, you get really blinded by what's going on. You're so concentrating on the mission that was given to you to win this thing, that you forget that, hey, there's a point where maybe we can't win this thing.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> It's a terrible --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I don't think he --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p>  -- thing to admit that you're not going to win.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> But -- yeah, but I'm sure that's, you know, that was the situation he was in.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> What was your reaction to <name type="person" key="JK" reg="Kerry, John F.">John Kerry</name> starting the <name type="thing" key="VVAW" reg="Vietnam Veterans Against the War">Vietnam Veterans Against the War</name></p></sp>?
+				<sp><speaker>Edgar Grabhorn</speaker><p> Well, I don't think that was good.  I -- frankly, I would not have joined that or would not have participated. I think when you're in uniform, you have one loyalty, and -- and even ex-uniform, you're still, I think, there's still a certain loyalty to -- to commander.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> What's -- this is totally off the subject, but what's your feeling about some military -- some retired military men now saying that they support <name type="person" key="GWB" reg="Bush, George W.">Bush</name> or they support <name type="person" key="AG" reg="Gore, Albert">Gore</name> in this election?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> That's certainly their -- so long as there's no further attachment with them and the uniform or them in the military, then I think that's quite legitimate. But, you know, I grew up in the military, in the times when we didn't even vote. We felt like we don't vote for our Commander in Chief, you know. And so -- and my father-in-law was the same way. He was a career officer, he was commissioned in 1925 from West Point, and I don't think he ever voted.  I don't think in his entire life he ever voted in a presidential election.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Yeah.  Well, it certainly keeps it cleaner, I would think.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Yeah.  And --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Your job is to do what you're told.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And I think it makes logic, as well.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> How do you feel your years in the military influenced the things that you have done since?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Well, here's what --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p>  _____ electronics?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Here's where I get on my soap box. I think that, especially with the kind of career I had where I was managing projects and being very involved with lots of money, it gives you great confidence. As an example, here at Haskin, I had working for me a young Lieutenant, and his responsibility was the Haystack project, which is a very large antenna here in <name type="place" key="TMA" reg="Tyngsboro, Massachusetts">Tingsboro (sic.)</name>. It was a 15 million dollar project, and here's a young Second and later First Lieutenant running that project. That's the kind of responsibility. You would never get that in civilian life.  And I think -- I think it give me a lot of confidence and -- and capability, as well.  Well trained, I -- as said, I went to every electronics school the Air Force had, and -- I moved directly from satellite communications in the Air Force to telecommunications work at Arthur D. Little.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Let me ask you a question aside from your professional life. I know that since you've retired, you've been very interested in painting and hiking and many other things, but particularly in painting. Was that something you did while you were in the service, or was it something you picked up later?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> To preface it all, my grandfather was a professional painter in Indiana.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Painted murals in public buildings. I think some still exist in the Post Office in ______.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p>  __________?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And my mother taught painting until she was 86, or something like that.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I had -- I had messed around sketching and painting my whole life, just as something I enjoyed doing. And I get -- I became more and more involved in that in <name type="place" key="HI" reg="Hawaii">Hawaii</name>. I had time to spare, and I painted a lot in oil. My wife-to-be was a student at the <name type="thing" key="HAA" reg="Honolulu Academy of the Arts">Honolulu Academy of Art</name>, and I occasionally went down there and joined life classes, one, to be available, but two, to enjoy the life classes.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Yeah.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> And but painting in those days was a weekend and a 30-day leave during the year, and then put them away and wait until the next opportunity. But in 1990, when I left Arthur D., I really began painting seriously, and painted every day. I have been painting every day since then, practically, and developing the skill. And in painting, there really -- it isn't something that can be taught, you really have to do it. It's an experience kind of thing. So the more you do it, probably, the better you're going to get. And so that's it, and I love it. It's a wonderful avocation and a wonderful new occupation.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> I know you also teach water colors?</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> I teach, yes. And if you go down to the Concord Art Association, Association Thursday, I'll have, one of my pictures is going to be in a show down there.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Oh, great.  Are there any final points that you would like to make that we haven't covered here, or --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Well, sometimes --</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Some of your experiences ____</p></sp>
+				<sp>
+				<speaker>Edgar Grabhorn</speaker>
+				<p> -- sometimes people will sort of talk down about the military, I think especially in the United States, sometimes the military's not really given its best light. But I have never resisted telling young people, "If you really haven't made up your mind what you're going to do, military not a bad idea, if only for a few years." The combination of being given that extra confidence and getting a little bit of training, I -- I think that the military does a lot of good.  I would be one who would vote for a compulsory two years of duty of some kind for every citizen of the country.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Do you feel that it's useful for young people, if they're enlisted men, women, as well as going --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Definitely.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> -- in as an officer.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Oh, yeah. I had a lot of airmen that would have been at loose ends and probably in trouble if they hadn't had a military career, or had some time in the military. Most of them only came in for one tour. And that's one of the military's real problems, because they don't pay very well, retention is low.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> It certainly does seem to teach a disciplined way of living and --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Sure.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> -- understanding your obligations.</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Yeah, you learn to respond when people tell you to do something, which is not all bad.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> Thanks very much.  This has been a pleasure --</p></sp>
+				<sp><speaker>Edgar Grabhorn</speaker><p> Oh, you're welcome.</p></sp>
+				<sp><speaker>Wynn Wilbur</speaker><p> -- talking with you.</p></sp>
+				<trailer>END RECORDING</trailer>
+				</div2>
+				</div1>
+			</div0>
+		</body>
+	</text>
+</TEI.2>

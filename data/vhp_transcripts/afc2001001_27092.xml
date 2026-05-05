@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with Cathy Gates, 4/25/2004</title>
+            <author>Terry Shima and Janet Greenwald [transcriber]</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Matthew McCrady</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with Cathy Gates</title>
+               <author>Terry Shima and Janet Greenwald [transcriber]</author>
+               <date>4/25/2004</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with Cathy Gates was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with Cathy Gates [4/25/2004]</head>
+            <div2>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>This is the life history of Brigadier General Kendall Jordan Fielder. It is narrated by Cathy Gates, granddaughter of the general, and her husband, Dwight Gates, at their Overton, Maryland home on April 25, 2004. General Fielder served in the United States Army for 36 years starting in World War I when he served as a platoon leader in France. Among the military posts he served were the Philippines and Hawaii, which he came to love and where he passed away on April 13th, 1981. General Fielder, along with the FBI Regional Director, Robert Shivers, attested to the loyalty of ethnic Japanese in Hawaii, successfully convincing and getting the military governor to reverse its position on incarcerating all ethnic Japanese in internment camps like that done to ethnic Japanese on the West Coast of the United States. He played a key role in obtaining presidential approval for the formation of the 100th Infantry Battalion made up of ethnic Japanese soldiers of the 298th Hawaiian regiment that he trained. Also for the formation of an ethnic Japanese construction unit to support the military effort called the Varsity Victory Volunteers and also for the formation of the full 42nd regimental Combat Team that became the most highly decorated unit for its size and time of combat in the history of the United States Infantry. General Fielder was also the adviser to the Oscar-winning film From Here to Eternity. Well, let's hear it from Cathy and Dwight. Cathy, please state your name and your relationship to General Fielder, and Dwight, will you do likewise?</p>
+               </sp>
+               <sp>
+                  <speaker>Cathy Gates</speaker>
+                  <p>My full name is Catherine Crichton Haven Gates, and "Wooch", as we called him, was my grandfather. The whole time we were growing up I remember "Wooch" for the magic tricks that he did, for fun. He loved to laugh and party. He went to a lot of parties that I remembered. Of course, he was retired after I got to _______, but that was my grandfather.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>And my name is Dwight Harry Gates, and "Wooch", of course, was Cathy's grandfather and I guess you'd say my grandfather-in-law. He was a source of inspiration for me in my military career and on many occasions wrote me a letter, which was something he didn't do very often. He didn't like to type and left a lot of correspondence to his wife. But when he'd find out about some accomplishment that I'd done or my brother-in-law, who was also in the military, he would write us and, you know, give us a little kudo for doing well. And so I got to know him mostly through correspondence. I only met him once and that was at our wedding.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Please provide a brief background on the Fielder family. From whence did he come to America, where did they initially and finally settle, their profession, military duty and experience in living in America during the formative days of the United States?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>They came over in the 1700s, the family did, in a boat, and not too much is known about the first generation. But they settled in Virginia and gradually moved south through South Carolina and ultimately ended up in Georgia. And I think "Wooch's" great-great-great-grandfather was James Fielder. He was in the Civil -- in the Revolutionary War, and he was pretty well known as a woodsman and married a lady named Sally Benge. And she, in turn, got a little bit of fame for holding off Indians down in Georgia when their farmstead was attacked. But then we had a son of James Fielder was Obediah, who is "Wooch's" great-great-grandfather, and Obediah fought in the War of 1812, he was a lieutenant, fought with his brother. And then his great-grandfather -- or actually his grandfather was James Monroe Fielder, and James Monroe Fielder was a lieutenant colonel in the 14th Georgia Infantry in the Civil War and fought as part of Stonewall Jackson's Brigade, and he died at the Battle of Chancellorsville valiantly attacking General Sickles' defenses on May 3rd and _____ was mortally wounded and died a week later due to infection. And he was wounded in Delay and taken to Richmond where he died, and he was buried in Hollywood Cemetery in Richmond. And from that we get to his father. And his father -- well, actually his grandmother moved, I think, moved the family right after the Civil War from Acworth, Georgia where they lived to Cedartown, Georgia, and his father grew up in that town, as did "Wooch". His father was a lawyer, a solicitor general for the County of Tullahoma. And so he grew up there.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>So that was in which state?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>That's in Georgia.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>In Georgia?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Yeah. They didn't move out of the state.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>When and where did Kendall Fielder, when and where was Kendall Fielder born, and can you describe his attendance at Georgia Tech? Why did he major in textile engineering and maybe you can discuss his sports as well?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>He was born, I think it was, August 1st, 1893 in Cedartown, and he grew up there, went to the high school, I believe, and from there he moved to -- or he enrolled in Georgia Tech. And the first year they had a sub-class and basically that was to prepare yourself for the actual college work, and he was in that. He was captain of the class football team, and that was an area that he excelled in. His freshman year he was -- became the starter on the team right from the beginning. The team didn't have what normally would have been one of their major teams -- one of their better teams. His coach was John Heisman of Heisman Trophy fame. And it was kind of a down year that year, but he started at halfback and actually gained a lot of success. And then as a sophomore he went on a little bit further in his success, he was a halfback and an excellent defensive player and he was known for his running ability. He could stop on a dime and move in another direction and did real well in that. His junior year was probably his best year. He was captain of the football team that year, and Cathy has a picture of him as the captain of the team. The best part of the year was the fact that they beat their archrival, Georgia Tech. They hadn't beaten them in several years and "Wooch" scored the only touchdown and kicked the extra point. It was a game that was supposed to be in the Tech. route but it was raining and it kind of slowed down their offense. So they were able to eke out a win. And then his final year at Georgia Tech in football he again, he was voted the All-Southern -- to the All-Southern backfield and second team All-American on the Walter Camp All-American team.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Who would you say was the archrival of Georgia Tech?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Oh, it was definitely Georgia.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>University of Georgia?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>University of Georgia. They, they were always -- if they did nothing, they wanted to beat Georgia. But unfortunately, most of the year he was there I think they had two ties against Georgia and one win and one loss the period he was playing football there. So it was actually a fairly good period for him.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>You both referred to General Fielder as "Wooch". Why?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>That happened in his sophomore year. He was -- I think it was the Atlantic Constitution or Journal, there was a banner on the headline for the newspaper that said -- it was supposed to say Watch Fielder, and there was a mistyping of the word "watch" and it came out "Wooch" Fielder, and from that point on he was known as "Wooch" the rest of his life.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>That's an interesting story. When Kendall Fielder used up his football eligibility he spent his final year at Georgia Tech on other campus activities. You sort of touched on that but can you elaborate?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Sure. Probably, I guess, a little bit in his sophomore year but mostly in his junior and senior year he got very active in student government as well as all the various clubs they had on campus. For example, his junior year he was the junior class president. He was the vice-president, president of the student body in his junior and senior year. He was involved in all kinds of organizations. He was the head of the Textile Club and the Cotillion Club, and several others, Carnival Club. One of the things he started at the university was having a carnival instead of the junior prom, and that happened his junior year. So he was very active in all phases of club life, government life. And as a result he -- his school yearbook came out and said he was the most influential man on campus and also the man who had done the most for Georgia Tech, as well as some other honors. He had quite a distinguished career outside of football and baseball.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Was his magician skills developed at that time?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Yes. He was -- sometime I suspect around his junior or senior year he met Cathy's grandmother, May Crichton, and her uncle was a very well-known magician in the South and knew Houdini, and so "Wooch" liked to go over to her uncle -- uncle's house and work some magic tricks, and this was a hobby that kept with him all his life.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>For all of his athletic activities "Wooch" must have learned some lessons. Comment --</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>I think he learned an awful lot about leadership. I mean, being involved in all these different organizations gave him a tremendous background. Also his being a student of the game of football with John Heisman. John Heisman was very much involved not only in the athletic part of the game but making men strong, professional leaders. And so I'm sure John Heisman and I'm sure a lot of his professors and advisers taught him a lot about leadership.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>When Kendall Fielder graduated with a degree in textile engineering he did not pursue that profession for which he was trained.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>There must be a reason.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>It was his father's suggestion that he go into textiles because he saw a rise in the South in the textile industry, and so his father wanted him to be in textiles. But at the time World War I was going on, and I think another Fielder tradition took over, and that was to go serve his country in time of war. And he felt it was his obligation to join the Army, which he did right after graduation.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>So what was his father's reaction to Fielder going into the military?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>His family wasn't for his going into the military, and -- but he felt strongly about it. It was something he needed to do. So against his family's wishes he decided to go into the military.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>So he got his commission and platoon leader Fielder served in France in 1917, the First World War. Could you describe his experiences in combat?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>He was in the 7th Infantry Division. He was a machine gun platoon leader. (Cathy Gates showing photograph.) The machine gun that they had was actually a brand-new one. It was the 30-caliber Browning water-cooled machine gun. And so it was, I suppose, probably a privileged position to be a platoon leader with such a new weapon. And he fought in some of the campaigns towards the end of the war. He was wounded in ?Sand Hill?, and then following the war he stayed over with the occupational forces for about a year before he returned to the States.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Lieutenant Fielder's daughter was born at this time. When and under what circumstances did he get the great news? Certainly there was no e-mail.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>No. She was born, I think it was, August 1st, 1918, which would have been about the day that he arrived in France, and his wife sent a Western Union telegram. It apparently bounced all over Europe until it finally reached him, I think it was like November of 1918 about the time of the armistice. So it took a while to get there. Fortunately, I guess he had had a letter or something in between so he knew of the birth, but it took a long time for the telegram to get there.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Lieutenant Fielder had planned to resign his commission and return to civilian life. However, he decided against it. Why?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>He returned to the States and told his wife that he was thinking of getting out of the Army. And -- but she had become attached to the Army way of life and she cried, and I guess that kind of convinced him maybe he would stay in, which he went ahead and did.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>He subsequently served as adjutant in the military district of Washington, D.C. Please describe his functions, including serving court-martial papers on Colonel Billy Mitchell, and who is Billy Mitchell?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Yeah. His unit was actually disbanded at Fort Meade. And so he got the job of being in the military district of Washington under General Rockenbach, I think his name was, and he was involved in a lot of ceremonies, a lot of presidential ceremonies. One occasion the Queen of Romania visited and he got the job of escorting the Princess of Romania around. He was involved with the Army band, supervisor or oversaw the Army band at one point. One of the things is the acting adjutant. He was given the job of serving the court-martial papers for Colonel Billy Mitchell. Billy Mitchell was the advocate for air power at the time, and I guess he didn't feel things were going as quickly in building up the air power of the United States. So he made some remarks that weren't taken well, and consequently he was court-martialed. "Wooch" was given the job of serving the court-martial papers, which was mentioned in the New York World as kind of a cordial thing. He came in. The colonel offered him, um, cigarettes, a cup of coffee, breakfast. They sat down and chatted a little while. As he was getting ready to leave he said, "Colonel, I have these court-martial papers for you." And he said, "Oh, well, just go put them on the table." That was about it. It was a very cordial thing, but nevertheless he had that reputation of having served the papers.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>In addition to being a military man, he was a diplomat as well?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Right. He definitely was very diplomatic.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>In 1927 Captain Fielder was assigned to the Philippines. What were his functions?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>He was the company commander the whole time with, I think it was, the 57th Infantry, and he basically for three years was the company commander in the Philippines. And then following his service as a company commander, the family took an around-the-world trip on the way home to the United States, saw a whole slew of states and countries and had a grand time doing that.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Cathy's grandmother probably had seen ahead what all these amenities that would be included, so she decided to force Colonel Fielder to remain in the Army?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>They certainly had a lot of lifetime types of experiences, things that we'll remember forever, and we still have, like, for example, journals that Cathy's mother wrote during that time frame of the around-the-world trip.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>That would be a gold mine for a researcher one day. Maybe you, Dwight. Following his subsequent stateside duty Lieutenant Colonel Fielder was assigned to Hawaii in 1938. What was significant about his training of the 298th regiment of the Hawaii National Guard?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>He -- I think it was in 1938 he was assigned to Hawaii, and he was part of the 22nd Brigade. He was either battalion commander or at one point he was the executive officer of the brigade. He -- one of his duties in those capacities was training in the National Guard, the 298th, and he got to know the Japanese-Americans that served in those units and formed a very favorable opinion of the men. And that, in turn, held him in good stead for some of the more critical decisions he had to make later on.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>And when Lieutenant General Walter Short was assigned to the Hawaiian Department as commanding general he selected Lieutenant Colonel Fielder to be his assistant chief of staff for intelligence, G-2. Fielder did not have an intelligence background but why was he selected for this position?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>I don't know for sure but I think it was largely because of his staff background. He held several positions as adjutant. He knew the ropes as a battalion and company commander and executive officer. So he knew a lot about staff work, and I think that was something that was in his favor. There was another man, a George Bicknell who was also being considered for the G-2. That was the recommendation of the previous commander actually, and he had an intelligence background as an Army reservist. But "Wooch", I think, had a little bit more staff experience and that's why he was chosen. And as it turned out, George Bicknell was his deputy; and the two, I think, really complemented each other over the course of World War II.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Prior to the Japanese attack of Pearl Harbor, which was on December 7, 1941, was Colonel Fielder satisfied with the intelligence and other warnings that he had received from Washington?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>No, I don't believe so. He -- I guess you don't know what you don't know. And in hindsight there's a lot of information that he perhaps could have had that he didn't have. Hoehling in his book -- Voice: Sorry. Take a break -- Voice: No. Go ahead.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Yeah. Hoehling in his book, December 7th, 1941, The Day the Admirals Slept, "Wooch" is quoted as saying: I've never known for sure what information Washington had, if any. It was not transmitted to Hawaii. But I'm sure no one there considered an attack on Pearl Harbor as probable. Therefore, I can only conclude that even if all the information available had been sent to the commanders here, it would have had little effect on the outcome of the attack. We no doubt would have shot down a few more enemy planes and saved a few of ours bunched together on the ground to minimize sabotage danger, but in the absence of knowledge that a carrier-borne attack was a definite threat, a surprise strike was bound to succeed. As for the battleships, the destruction of which was the real object of the attack, they were vulnerable as long as bottled up in the harbor; and had they not been in the harbor, the attack would have been delayed until they were. For there was no way during peace time to prevent the Japanese agents from observing the coming and going of the fleet and knowing when the battleships were moored in Ford Island.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Was Colonel Fielder satisfied with the information that he received from the U.S. Navy?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>One of the things that he wished he had known was, as G-2, was the fact that the Navy knew that they had lost the Japanese fleet. And had he known that the Japanese fleet was missing, that the Navy didn't know it was there, there were perhaps some other things that they could have done, you know, that they weren't able to do from the standpoint of an attack. But it's hard to say in hindsight, you know, how much that information would have been of assistance.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>In that connection the Honolulu FBI provided, on December 6th, one day before the Pearl Harbor attack, a message, a very mysterious telephone intercept message. And as a result of that General Short called a meeting of himself, Colonel Fielder, and his deputy, Lieutenant Colonel Bicknell. Can you discuss that at all?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>The -- there was an intercept of this telephone call and it was placed between a Japanese newspaper or magazine and Dr. Mori -- Dr. Mori's wife, and the discussion was a little suspect. Some of the references sound like it could have been an espionage type of a discussion but it was very difficult to make any heads or tails out of it. And so they decided that since the hibiscus and poinsettias were referenced as being in bloom were in bloom, that perhaps this wasn't necessarily an espionage phone call but a legitimate phone call. Just couldn't make a determination even though it's suspicious. (Break taken.)</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>So while the three men were busy trying to find a meaning to this mysterious message from Tokyo, the wives were cooling their heels in the car. What do you think were their reactions?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>I'm sure they were very upset because I think, if I remember right, they were late for an Army relief dinner.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>At Colonel Schofield Barracks?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Right. And it was -- to be quite -- one of the big social events of the year actually, and so they were pretty well fuming in the car as the men talked. Actually General Short, when he first had gotten word about Bicknell having some information, said: Yeah, 10 minutes to give it to them, and 45 minutes after they were still talking. So I'm sure they were pretty upset about being late.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Well, Dwight, you're probably very familiar with that sort of a situation.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>So it's not unusual in the military or it's matter of fact in any executive position --</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>What was Colonel Fielder doing on the morning of December 7, 1941, and that's, of course, the big morning when Japan attacked Pearl Harbor? What did he do when he knew it was the real thing?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>He was getting dressed. They were going to go out to Bellows Field for a picnic, and he looked at his -- I think his backyard overlooked Pearl Harbor -- and he looked out the window and saw black smoke and he knew that that wasn't an exercise. Usually in exercises they use white smoke for things, but he saw all this black smoke and realized that something very serious was going on. And so he quickly dressed into his uniform and went to the headquarters, which is just a few doors down from his quarters. And at that point, from what I understand, he made one of the first phone calls to the United States saying that the Japanese were attacking Pearl Harbor.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>The military dependents were sheltered in the cave on the side of the hill at Fort Shafter. Please describe what they had to do in order to prepare the place?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Yeah. I guess it was about ten in the morning. Most of the dependent wives and children were taken out to this cold storage shelter at Fort Shafter. And Cathy's grandmother, mother, and General Short's wife pretty well organized, you know, their area. They built latrines. Cathy's mother took care of the children, and so they got things pretty well organized along with the chaplain. One kind of interesting story was when Cathy's mother came out to the car to be taken to the cold storage shelter she was wearing a blue jumpsuit, and it just so happens that the Japanese paratroopers wore blue jumpsuits. So they made her go back in and change her outfit so that she wouldn't be mistaken as a Japanese paratrooper.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>That would have been catastrophic.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Cathy Gates</speaker>
+                  <p>With her bright red hair that might have been rather difficult.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>In addition to his G-2 duties Colonel Fielder was appointed as morale officer responsible to calm especially the public. What sort of issues was Colonel Fielder confronted with and how did he deal with them?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>As you might imagine, the situation there was a lot of racial tension on the islands, particularly with the Japanese attacking. There was a lot of tension between the Japanese, the Filipinos, and the Caucasians and other ethnic groups. So his -- one of his biggest concerns was internal unrest throughout the islands. And so he was involved with a Morale Division that was formed by the territorial government. There was -- martial law was declared and so prior to that things dealing with unrest came under groups such as the FBI. Now it came under the military government. And so he was again responsible for the internal security. So there was a Morale Section that was formed that included Charles Loomis, there was a Shigeo Yoshida, and Hung Wai Ching. And they were kind of, I guess, in a sense almost co-chairmen. And each one had a different strength to bring to the group, not to mention that all three of them were of different ethnic groups. And they would kind of survey the communities and see what was going on and try and find solutions to some of the tension. And they performed an extremely valuable service during the war. And then when they would come up with ideas, they would bring those to Colonel Fielder, who in turn would try and usher them through the various command elements. And so this was quite a successful working group, you might say.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Colonel Fielder's sensitivity to the different ethnic groups is very well taken. I do know, being from Hawaii myself, that these various ethnic groups, that is Filipinos, Japanese, Koreans, Chinese, each was very, very sensitive and jealous about their culture and how they were perceived. And any slight action on somebody's part, however unintentional, could cause very serious racial discord. And so I think the fact that Colonel Fielder could grab this one, because he understood the culture of the islands very well, I think, was -- is a very important factor in his success.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>There's no doubt that it was a serious situation and it was something that really needed to be dealt with, and the people who were involved in that group deserve a lot of credit for keeping the tensions down.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Colonel Fielder and the FBI Honolulu Agent Robert Shivers and General Short were convinced of the loyalty of most of the ethnic Japanese residents in Hawaii. Did the Navy share the same view?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>No. I know Secretary of the Navy Knox was -- didn't share that view at all and Admiral Nimitz didn't either. So there was always kind of the Army, FBI side, and then you had the Navy side; and were it left up to the Navy elements, there might well have been the internment of Japanese-Americans in Hawaii. But fortunately it was more the domain of the Army and the FBI, and consequently, a lot of that didn't happen.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>When Lieutenant General Delos Emmons succeeded General Short as military governor, Emmons was bent on the internment of all Japanese population. What were Colonel Fielder's reaction and how did he and Shivers go about persuading Emmons not to incarcerate the ethnic Japanese?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>When Emmons came over, his marching orders from a lot of different people in Washington was to begin the incarceration of Japanese in Hawaii, and he came over with that mind-set. And so very quickly Shivers and Colonel Fielder got a hold of -- there was a tense month, I think, there where Shivers and Colonel Fielder and General Emmons were kind of going at it. I know Hung Wai Ching has made the statement that he doesn't know how Colonel Fielder kept his job during that time frame because they apparently had some very heated arguments over what should be done with the Japanese on the island. But fortunately Shivers and Fielder both had been studying this situation for several years now, and they both had a different mind-set and were able to convince Emmons that they couldn't do it, although from time to time Emmons would apparently say to Fielder, "Fielder, you need to intern 50 people today" and he would say, "Well, where am I going to put them? There's no place to put them. It would hurt the economy of Hawaii if we rounded up all these people." And over time Emmons came around and actually became a very well-respected advocate for it. In fact, he was one of the members for the _______ that were selected as 25, I think it was, about 25 people that were selected in 1985, I believe it was, somewhere in there, to the people who helped the Japanese community. So he came around and actually became an advocate over time.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Kansha, of course, is a Japanese word for thanks and well deserved, thanks from the Japanese community. The ethnic Japanese soldiers of 298th had their weapons taken away and were discharged with draft classification 4-F. 4-F meant aliens unfit for military duty. Colonel Fielder convinced General Emmons these boys should be reinstated, formed into All Nisei unit trained in the States and shipped to fight in the European Theater. Emmons concurred and sent Colonel Fielder to Washington to propose the idea. What was the result of Colonel Fielder's efforts?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Colonel Fielder met with General Marshall and explained what he and Emmons were proposing concerning the formation of a Japanese-American combat battalion. And when Marshall heard of the plan he supposedly told "Wooch", "Gee, that's a great idea! Why wasn't I ever told about this before?" And so with Marshall's blessing they were able to begin the formation of what later became the 100th Battalion and then later beyond that became part of the 442nd.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Can you describe the plan in a little greater detail?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Well, the plan was to take the element that was part of the National Guard that were let out, to take those soldiers and form into one cohesive battalion, and then the battalion was later taken to the United States and trained. And then about that time the 442nd was being formed and they became ultimately part of the 442nd.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>This was a very important facet in the lives of the 298th because my own brother was in that unit, and when he was classified 4-F, enemy alien unfit for military duty, that simply devastated that group. So the fact that Colonel Fielder succeeded in the formation of the 100th Infantry Battalion must have given those boys a tremendous boost?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Oh, it definitely did. I've read several stories that were just like your brother's. It was a very devastating thing. One thing about the Japanese in Hawaii was they were very loyal, and this is something that "Wooch" knew, and I think that's why he was such a big champion of it. I've heard that he even coached the Japanese football team when he was battalion commander. So he knew well the loyalties of the Japanese-Americans.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Well, he laid his military career on the line.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>That's true. He -- not too many people were for the formation of the 100th Battalion --</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>And he's mentioned that he was under a lot of criticism from a lot of different people for taking the stand to form the 100th, and he also mentioned he was very glad that they did very well in the war. He followed them all throughout the war, too, because they were, as he put it, those are my boys.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>It vindicated his judgment?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Yep.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>At the same time that the ethnic Japanese soldiers of the 298th were discharged and classified 4-F, the University of Hawaii ROTC cadets were similarly discharged and classified 4-F. 169 of these cadets protested this action and requested to serve in a non-combat labor unit to support the military effort. General Emmons approved and thus was formed the VVV, the Varsity Victory Volunteers. Please describe, Dwight, how the VVV was formed and what was its significance?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Well, after the ROTC members were let go from the Hawaiian Territorial Guard, that was a decision that I know "Wooch" thought was made at the War Department level. But Emmons was the one that implemented it, and he -- what happened, he had some of these men at the University of Hawaii and they were kind of moping around, and Hung Wai Ching saw them and talked to them. Hung Wai Ching, of course, was in the Morale Section that "Wooch" oversaw. And so Hung Wai Ching suggested that they might form a petition and, you know, find another way of serving the country. And so they did. They got up a petition and presented it to Hung Wai Ching, who, in turn, gave it to "Wooch". And "Wooch" then began canvassing the military, he called General Lyman, I believe, and went through all the channels and was able to help with the formation of an engineering unit that served a very valuable service making emplacements and doing a lot of hard labor types of work around the islands beefing up the defenses and performed just a great service to the country that way.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Dwight, I'm amazed by your memory. You mentioned Lyman.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Brigadier General Lyman?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>And he's the first ethnic Hawaiian to become general and he's from Hilo.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Oh.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Where I'm from.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>In the spring of 1942 Colonel Moses Pettigrew, an intelligence officer, wrote a memorandum recommending the formation of an All Nisei regiment for combating Europe. Nisei, of course, is Japanese for second generation. Colonel Fielder and General Emmons approved the idea, and the general sent Colonel Fielder to Washington to sell the idea. Presidential approval was obtained one year later and the regimental Combat Team consisting of ethnic Japanese volunteers from Hawaii and the internment camps in the mainland was formed. Please discuss Colonel Fielder's role in obtaining this approval.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>I think his role -- there was -- as you mentioned Colonel Pettigrew, there was a group in Washington that was interested in forming this unit as well as in Hawaii there was interest in forming the 442nd. And so "Wooch" was -- and General Emmons lent their support to the formation of this unit. So he was busy politicking, I guess, both in Hawaii itself but also in Washington. Fortunately, all the hard work paid off with the formation of the unit.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Who was -- was Assistant Secretary McCloy involved in this process?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Absolutely. In fact, that was one of the things that "Wooch" wanted to sell. Both -- McCloy made a trip to Hawaii, kind of an inspection trip, to see how things were going in Hawaii in defenses and whatnot. And "Wooch", as part of the Morale Section, made it a point to take McCloy out to the Kolekole Pass where the VVV workers were working on the pass. They were, as I recall, breaking rocks and doing a lot of very hard labor. So part of the inspection trip "Wooch" arranged to have McCloy, I think, Hung Wai Ching, I don't know if "Wooch" actually went out himself, but I know Hung Wai Ching and the Morale Section went out and showed the -- showed the Secretary what was going on and also, I'm sure, was commenting on the success of the 100th Battalion, all this trying to beef up the support for the 442nd. And so seeing the VVV members and hearing the other reports hopefully would sell McCloy on the idea.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Well, that must have been -- must have been one of the things that persuaded McCloy to push this idea to get Washington approval and also in that connection the -- I was just going to say that the VVV, for the role that it played in the background as a catalyst for the formation of the 442nd, has been rather underplayed.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Oh, I think there's a lot of things that are underplayed as far as that whole history. Fortunately, Franklin Odo has written a very good book, "No Sword to Bury," and it's an excellent book on the VVV. And that's probably the best thing that's come about that I've read anyway. And I think certainly there's a lot more to be said as far as what was happening in Hawaii, especially as a counter to what was happening on the West Coast in California. I think the West Coast was the wrong way about -- going about doing things, and Hawaii and all the efforts that were taking place there I think were the absolutely right way to go.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>By giving his full support to ethnic Japanese, Colonel Fielder rests his military career and put his reputation and integrity on the line. Did he feel vindicated?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>I don't know if you'd say vindicated. "Wooch" I don't think was the type, you know, to gloat in anything he did, but I think he was certainly happy that things came out the way they did. And I think it was through his perseverance and perseverance of a lot of people who were -- I think there are heroes, the Morale Section, all the members of the Morale Section, some of the businessmen. Charles Hemingway, who was one of the trustees, I believe, at the University of Hawaii. There's a lot of people that were in play. I know one thing that "Wooch" would always do, you know, when someone would say that he did something, he would always say, "Well, it wasn't my doing. It was the doing of these people and these people. There's a lot of other people involved." So I don't think he would have taken the credit or anything like that. He would have but certainly he was very happy at the outcome.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Well, he's a very modest man. History knows the role that he played. In November, 1944 Colonel Fielder was promoted to brigadier general and in October, 1945 he was awarded the distinguished service medal. (Cathy Gates showing medal.) What was the medal for?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>I have the citation. It's kind of short, and it talks about his exceptional meritorious service as chief of staff, G-2, for the U.S. Army Forces, Pacific Ocean Areas from 1944 to '45, and it says: In addition to successfully averting the potential menace of subversion and sabotage by intelligent treatment of more than one hundred sixty thousand aliens -- and I emphasize the word aliens and I'll talk about that in a minute -- living in the Territory of Hawaii, he maintained an efficient and current record of enemy capabilities in the combat areas. By use of the information compiled by his section, units of this command engaging the Japanese during important operations of Anguar, Iwo Jima, and Okinawa knew in advance the enemy potentialities of probable tactics. Through skillful analysis of problems involved and by coordination of all intelligence units General Fielder established a completely unified estimate of the enemy's actions which was of material support to the successful prosecution of the war in the Pacific. And I mentioned the aliens. I think it kind of typifies the type of person that "Wooch" was. This is his official citation, and he scratched out the word "aliens" and down at the bottom he's written "persons of Japanese Ancestry". And so I think his continuing to fight for what was right and even in terminology he's continued to carry on.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>He didn't like his own citation?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>No. Certainly not the wording.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>When the war ended General Fielder reverted to his rank of colonel and served in the Pentagon. In 1948 he returned to Hawaii and was made honorary member of the 442nd Club and the 100 Club. What was his reaction to being invited to join these organizations and how did he respond?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>He was very honored to be part of both clubs. I mean, he was with them at the beginning and I knew up until just a couple years before his death when due to health problems he couldn't attend he attended all the major functions of the 100th Battalion and the 442nd and, in fact, he spoke at several of them. So he was very honored, I know, and felt very gracious about the honors that were bestowed on him by the units, and being an honorary member I think he cherished until his death.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>I must mention to you and -- Cathy and Dwight that I felt that I knew Colonel Fielder very well, and when I returned with the 442nd regiment as handling the public relations, at that time I met Colonel Fielder. And we, my wife and I, after my discharge visited him in the Pentagon, and he was very nice to both of us. And when I attended the Georgetown University I asked him if he would be -- if I could put his name down as a reference, and he said, "By all means." And coming from a very small school, high school in Hawaii, I was told that my credentials were -- did not meet the college requirements. But I was accepted on probation, and I am convinced that the reason I was accepted on probation was Colonel Fielder's endorsement, his reference, and I'm very pleased that I completed my education at Georgetown School of Foreign Service and that I am here where I am today. After the war Colonel Fielder was honored by the 442nd, as you said, and also the 100 Clubs and other grateful ethnic Japanese civic organizations for his wartime support. A Ted Tsukiyama, your good friend, a 442nd and military intelligence service veteran, a Honolulu attorney, and an authority on ethnic Japanese veterans matters, made the following remark and I'd like to quote: "Colonel Fielder had a good pulse on the local Japanese community because he was constantly in touch with and advised by Hung Wai Ching and Shigeo Yoshida, both the individuals you named, of the military governor's Morale Section and with the Emergency Service Committee comprising of leading Japanese-Americans in Hawaii. Fielder and FBI regional director Robert Shivers seem to have the greatest weight and influence on the views and actions of the Military Governor Lieutenant General Emmons returning his original negative views of the local Japanese -- of the local Japanese. Fielder and Shivers must share a large share of the credit in persuading Emmons not to make the same mistake as General DeWitt did in the Western Defense Command. All ethnic Japanese are grateful for the Colonel's support and admired his courage and integrity. The Japanese-American Veterans Association also join these groups in expressing our appreciation."</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>We just had a change of tape. At the end of the previous tape I quoted Ted Tsukiyama's comment on General Fielder, and Dwight and Cathy, do you have any comments to add?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Yes. Ted Tsukiyama is a very good friend of ours, and actually it was through Ted that we joined the Japanese-American Veterans Association. I was searching the Internet and read some articles that Ted had written, and one in particular on the JAVA website talks about Hung Wai Ching that we mentioned, and I discovered that he was coming to Washington to speak to JAVA. And so we came to listen to him speak, and since then we've exchanged a lot of information. He's a wealth of knowledge about a lot of different areas but he's given us and pointed us the way to a lot of the information that we've learned about General Fielder through things that he sent us or sources he's pointed us to. And so I'd like to thank Ted as part of this effort, too.</p>
+               </sp>
+               <sp>
+                  <speaker>Cathy Gates</speaker>
+                  <p>I know from my standpoint having the opportunity to meet people that knew my grandfather in his other capacity -- for me he was my grandfather, and when we'd get together he would do his magic tricks, we'd laugh. If I was visiting him in Honolulu, we partied. But to hear the other side of him that I never knew because he didn't talk about it and to understand the integrity that he had is just remarkable. And being able to meet individuals that knew him, worked with him, dealt with him, as you did, just has given me a whole different side to my grandfather that I didn't know as I was growing up.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>And, of course, you mentioned meeting Ted Tsukiyama here, and it was at that lunch that JAVA had for Ted that you both attended, and I was there, thank goodness, and that I got to meet the relative of Colonel Fielder, and I must say that sort of made my day.</p>
+               </sp>
+               <sp>
+                  <speaker>Cathy Gates</speaker>
+                  <p>Thank you.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Thank you.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Technical Advisor to the Oscar-winning film From Here to Eternity, how did he land this job and what were his contributions? (Cathy Gates showing photograph.)</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>It was kind of funny. There was -- the head of public information in Washington was a General Floyd Parks, and General Parks had been the Chief of Staff in Hawaii for the U.S. Army in Hawaii. And consequently, he was trying to grease the skids about a project that the Army was going to be involved with, which was the filming of the movie From Here to Eternity. And so he sent a letter to "Wooch" saying that I'm going to be sending a letter to General O'Daniel, who is known as "Iron Mike", you know, saying that we needed to provide some support for the movie From Here to Eternity. And so he talked about the fact that "Wooch" would be the ideal candidate for being the technical advisor on there, but he knew that "Wooch" had a prominent position at that point; I think he was like the number three in command. But he was going to write this letter. Well, he wrote the letter to "Iron Mike", who wrote at the bottom of the letter, "Who do we have that was here during Pearl Harbor that could be a technical advisor for the movie?" And it turns out it was "Wooch" and one other person. And "Wooch", as it turned out, was the ideal candidate to be the technical advisor for the film. So one of his last duties in the Army was just exactly that. It was a movie that had a lot of controversy in it because it didn't portray the Army in a very nice light. So there was a lot of negotiations that had to take place between the movie side and the military side. And, fortunately, it turned out that the producer of the movie, Buddy Adler, was an ex- -- or actually he was a reservist. He was an Army lieutenant colonel. So it turned out they became the best of friends and were able to iron out some of the rough spots in the movie. And the movie, as a result, won eight Oscars and had a lot of acclaim. And consequently, I guess, "Wooch" received a small special presentation Oscar, and the two men became good friends.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>And -- I'm sorry. Cathy?</p>
+               </sp>
+               <sp>
+                  <speaker>Cathy Gates</speaker>
+                  <p>Oh, I was just going to say, we have many other pictures. The picture that we just showed you was of my grandfather, and they actually were going to have a scene with him in it. It's a scene where there's a fight going on down in the quadrangle, I think that's what it was called, but "Wooch" and this other gentleman were supposed to be up, you know, observing this and have dialogue, and the two of them were so terrible that they were replaced. And so his movie debut did not take place but his technical advisor did, and my grandmother got to meet a lot of the actors and actresses.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>The other Army officer in the picture is actually Buddy Adler, the producer, so the two of them --</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>They both bombed out.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>They both bombed out. In fact, I think it was Mr. Cohn, I believe it was, of Columbia Pictures said it was a good thing they had a day job because as actors they failed.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Told them to stick to their technical job.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Well, of course, and we know that From Here to Eternity plays regularly on TV. Was Colonel Fielder involved in any other films?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>He was involved in two other films. One was a movie on the 442nd; it was Go For Broke. He was asked to read the script and offer any suggestions, which he did. I think it was a member of the 442nd, one of the executive officers of the 442nd, asked him to make any suggestions as to the history of the 442nd, which he did, and, in fact, he got somebody who was knowledgeable of the movies to take a look at it as well and offer any comments. He was also directed by the Army to provide some things for the movie such as the unit flag so he was involved with the movie that way. Later on he was involved in another movie. This was after he retired in 1953, and that was The Revolt of Mamie Stover, which is also about the World War II period and also was produced by Buddy Adler, the man we were just talking about as being a friend of his.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>So in addition to being a military man, Colonel Fielder was a diplomat as well as a film producer?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Ha-ha.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>On July 31st, 1953 Colonel Fielder was honored by a military parade at Fort Shafter, Hawaii. He was promoted to his retirement rank of brigadier general. Thus ended 36 years of military service. (Cathy Gates showing photograph.) Has he provided his thoughts about his military career, his attachment to Hawaii, and his accomplishments?</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>He hasn't talked too much about his accomplishments or anything. He -- at his retirement I know he was given a plaque that is above our bookcase here, and that listed a lot of his accomplishments throughout his career.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>What civic activities did General Fielder get involved in since his retirement and how did he spend his time? Did he continue his amateur magician skills that he started in college? (Cathy Gates showing photograph.)</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>He, following his retirement, he got involved in several different activities. He was involved with the Red Cross, the International Rotary Club. He was involved in several boards on different companies, Crown Corporation. He was involved in the formation of the Japan-American Society. (Cathy showing photograph.) And one of the things that he was particularly involved in was golf. He was a very accomplished golfer and was president of the Waialae Golf Course, and, in fact, he bought a house right on the 18th hole of the Waialae Golf Course so he could play. And as he came up to the final 18th green his wife May could look out and see him coming up and --</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Put on dinner.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>-- put on dinner. So he was involved in a lot of activities, a lot of social activities. Cathy can talk about the social.</p>
+               </sp>
+               <sp>
+                  <speaker>Cathy Gates</speaker>
+                  <p>The picture we just showed you was actually from the Honolulu Star-Bulletin and one that they took showing his magic and the fact that he continued to do that at mainly parties, I think, that they went to, that sort of thing. But he did love to party. When I went over and visited in 8th grade I had never had a real party dress before. And one of the first things I had to do, being over there, was "Tutu" took me out and we had to get a party dress so I could be appropriately attired. And I think I was there for two weeks, if I remember right, and we must have gone to at least three or four parties in that two-week time and those were the ones that they couldn't cancel because I was visiting. So we -- they did enjoy their social life and had a very active social life. For his integrity, his sense of honor, um, the legacy that he has left that I'm now aware of and part of just makes me hope that I can continue if ever put in a situation similar to those that he's been in, that I'll be able to continue the family tradition of doing what's right regardless of the consequences. I mean, he put, as you've said, he put his career on the line. I don't think he thought twice about it, from everything I've heard, and I just hope that I can do the same thing, have the same integrity, the same sense of honor, and teach my children and grandchildren to do the same.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>Here's a couple of the obituaries that were in the Honolulu papers, the Honolulu Star-Bulletin and the Advertiser, and there's several others I can show you. When he passed away there was a lot of written obituaries, editorials, those kinds of things just, you know, saying what he had done in his career, particularly during the Pearl Harbor period in Hawaii. And I'd just like to quote from the Honolulu Star-Bulletin on Thursday, April 16th, 1981, this would be three days after he passed away. I think this quote is kind of interesting and kind of says a little bit about the type of person he was and what he was thought of in Hawaii. It says: "Omar Bradley, who died last week, was called the 'GI general' of World War II. 'Wooch' Fielder might equally be called 'Hawaii's colonel.'" So I think it says a lot that, you know, the people in Hawaii had that high a regard for him and what he did. He certainly had a tremendously interesting career and a meaningful one, I think.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Hawaii adopted him as one of its own.</p>
+               </sp>
+               <sp>
+                  <speaker>Cathy Gates</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>Before we conclude, are there any remarks that you care to make or to reiterate on the life of General Fielder that we have not already covered? (Cathy Gates showing photograph.)</p>
+               </sp>
+               <sp>
+                  <speaker>Cathy Gates</speaker>
+                  <p>One thing that might be fun is for those who view this to see some of the ancesters of Colonel Fielder or "Wooch", as he's more appropriately known. This is our oldest daughter Lynette, and this is our other daughter Shannon. This is Will's husband -- or Lynette's husband Will and their two children, Logan and Katelyn. So these would be "Wooch's" great-great-grandchildren. Yeah, I got that right. And this is Shannon's fiance Tim and their daughters Skyler and Dakota, who was all of one week old when this picture was taken.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>In December?</p>
+               </sp>
+               <sp>
+                  <speaker>Cathy Gates</speaker>
+                  <p>In December, right.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>December 7, 2003.</p>
+               </sp>
+               <sp>
+                  <speaker>Cathy Gates</speaker>
+                  <p>Yes. That's when -- she was born December 1st, 2003. So these are some of the descendants of "Wooch". I have other nieces and nephews but this is the side that I'm continuing for him and hope that I can teach them, like I said, not only the same honor and integrity but humility that "Wooch" was an example of.</p>
+               </sp>
+               <sp>
+                  <speaker>Terry Shima</speaker>
+                  <p>It's a remarkable family. This concludes the life history of Brigadier General Kendall Fielder, a military man, statesman, film producer, amateur magician, a football star, and a golf "pro", a very honorable man. Dwight and Cathy, thank you very much for narrating this very interesting and important life history that will be available at the Library of Congress for historians, researchers, filmmakers, and other concerned inquirers. The Japanese-American Veterans Association, along with the Library of Congress, thank you very much.</p>
+               </sp>
+               <sp>
+                  <speaker>Dwight Gates</speaker>
+                  <p>You're welcome.</p>
+               </sp>
+               <sp>
+                  <speaker>Cathy Gates</speaker>
+                  <p>Thank you for the opportunity.</p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

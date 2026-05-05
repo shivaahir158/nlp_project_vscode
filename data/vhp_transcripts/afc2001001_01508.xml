@@ -1,0 +1,1054 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd" >
+<!--
+<!DOCTYPE TEI.2 SYSTEM "../teixlite.dtd" >
+-->
+<TEI.2>
+	<teiHeader type="vets_interview">
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of interview with Robert C. Lawrence on April 26, 2002</title>
+				<author>Tom Swope</author>
+				<respStmt>
+					<resp>Encoded by</resp>
+					<name>Matthew McCrady</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Transcript of interview with Robert C. Lawrence on April 26, 2002</title>
+					<author>Sherry R. Moody (transcriptionist)</author>
+					<date>April 26, 2002</date>
+				</bibl>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>The entire interview with Robert C. Lawrence was digitized.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+			</editorialDecl>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div0 type="title" id="Lawrence1" n="1">
+			<!-- begins encoded document -->
+			<p>INTERVIEW WITH ROBERT C. LAWRENCE</p>
+			<p>APRIL 6, 2002</p>
+			<div1 type="preface_text" id="Lawrence2" n="1">
+				<p>Preface</p>
+				<p>The following oral history testimony is the result of a
+
+                audiotaped interview with <name type="person" key="RCL" reg="Lawrence, Robert C.">Robert C. Lawrence</name> conducted by
+
+                <rs type="person" key="TS" reg="Swope, Tom">Tom Swope</rs> on April 26, 2002, on behalf of the Veterans' Oral
+
+                History Project. The interview took place in Richmond
+
+                Heights, Ohio and is part of the Library of Congress
+
+                collection of oral testimonies.</p>
+				<p>The interview was transcribed and processed by
+
+                <rs type="person" key="SRM" reg="Moody, Sherry R.">Sherry R. Moody</rs>.</p>
+				<p>The reader should bear in mind that she or he is
+
+                reading a verbatim transcript of spoken rather than written
+
+                prose.  Insofar as possible, this transcript tries to
+
+                represent the spoken word.  Thus, it should be read as a
+
+                personal memoir and not as either a researched monograph or
+
+                edited account.</p>
+				<p>To the extent possible, the spelling of place, names,
+
+                foreign words, and personal names have been verified either
+
+                by reference resources or directly by the interviewee.  Some
+
+                uncertainties will inevitable remain regarding some words
+
+                and their spellings.  In these scenarios, a (ph) follows a
+
+                word or name that is spelled phonetically.</p>
+		   <div2 type="body_text" id="Lawrence3" n="1">
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+				<p>BY MR. SWOPE:
+
+                     This is the oral history of World War II veteran,
+
+                <name type="person" key="RCL" reg="Lawrence, Robert C.">Robert C. Lawrence</name>.   <name type="person" key="RCL" reg="Lawrence, Robert C.">Bob</name> served in the U.S. Army,
+
+                84th Infantry Division, 333rd Regiment, Company B.  He
+
+                served in the European Theater, and his highest rank was
+
+                sergeant.  I'm <rs type="person" key="TS" reg="Swope, Tom">Tom Swope</rs>, and this recording was made at
+
+                <name type="person" key="RCL" reg="Lawrence, Robert C.">Mr. Lawrence's</name> home in Richmond Heights, Ohio, on
+
+                April 26th, 2002.  <name type="person" key="RCL" reg="Lawrence, Robert C.">Bob</name> was 76 at the time of this recording.</p>
+		   </sp>
+		   <sp><speaker>Tom Swope</speaker>
+						<p>Q. Where were you living when the war started?</p>
+					</sp>
+		   <sp>
+		   <speaker>Robert C. Lawrence</speaker>
+				<p>A. I was living in Traverse City, Michigan and Pearl Harbor
+
+                   occurred, yeah.</p>
+		   </sp>
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+				<p>Q. Do you have specific memories of the attack on <name type="thing" key="PH" reg="Pearl Harbor Attack">Pearl Harbor</name>?</p>
+				</sp>
+				<sp>
+				<speaker>Robert C. Lawrence</speaker>
+				<p>A. Yeah.  I remember that we were flopped on the floor
+
+                   reading the Sunday comics and I guess had the radio on
+
+                   and that's when it came over on Sunday afternoon.</p>
+		   </sp>
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+				<p>Q. How old were you then?</p>
+				</sp>
+				<sp>
+				<speaker>Robert C. Lawrence</speaker>
+				<p>A. I was born in 1926 so 14.  Uh-huh.
+</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. What did you think when you heard that news?</p>
+				</sp>
+				<sp>
+				<speaker>Robert C. Lawrence</speaker>
+				<p>A. Well, I remember going to school the next day, and all
+
+                   the kids were all excited and gung ho, and, of course, we
+
+                   were too young to do anything about it as far as joining
+
+                   the service or anything, but we were just excited about
+
+                   it and interested to find out what was really going on.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. So when did you go into the service?</p>
+				</sp>
+				<sp>
+				<speaker>Robert C. Lawrence</speaker>
+				<p>A. Well, I was 18 on March 17th, 1944, and so I immediately
+
+                   got my draft notice in Traverse City.  I was inducted at
+
+                   Fort Sheridan, Illinois on June 7th, 1944, one day after
+
+                   D-Day.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. What was it like going in after -- the day after D-Day
+
+                   and knowing what was going on over there?</p>
+				</sp>
+				<sp>
+				<speaker>Robert C. Lawrence</speaker>
+				<p>A. Well, actually I don't remember a heck of a lot about it
+
+                   right at the moment, what really happened, because we
+
+                   were so busy traveling down from Traverse City to Fort
+
+                   Sheridan and getting inducted and then immediately
+
+                   getting on a troop train and heading off for Camp Blammy
+
+                   (ph), Florida so it was -- there was just so much going
+
+                   on that it's not vivid in my memory of D-Day.</p>
+		   </sp>
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+				<p>Q. What do you remember about your training?</p>
+		   </sp>
+		   <sp>
+		   <speaker>Robert C. Lawrence</speaker>
+				<p>A. Oh, I remember that -- this is the summer of '44, and
+
+                   we're off to Camp Blammy, Florida near Gainesville right
+
+                   in the center of Florida in the summertime, and we do
+
+                   infantry basic training.  It's like the desert out there
+
+                   and digging the fox holes and the marches and the
+ training with the rifle on the range and the 25-mile
+
+                   march at the end and bivouac and so on and just that it
+
+                   was so hot and humid down there, and, of course, it was
+
+                   before air conditioner or anything like that, and so we
+
+                   all lost a considerable amount of weight in doing this
+
+                   basic training in Florida.  So after all this, then
+
+                   eventually in -- after we got a leave to go home, why,
+
+                   here we go off to Europe which is where they had the
+
+                   coldest winter in 20 years so we were all set for the hot
+
+                   weather.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. What was your unit?</p>
+				</sp>
+				<sp>
+				<speaker>Robert C. Lawrence</speaker>
+				<p>A. I ended up with Company B of the 333rd Regiment of the
+
+                   84th Infantry Division.  I joined up with them the end of
+
+                   December 1944.  We crossed the Atlantic to South Hampton,
+
+                   immediately got on a smaller ship and went across the
+
+                   channel to Le Havre and got on the 40 and 8 boxcars to go
+
+                   through France and heading down towards Belgium where by
+
+                   this time the <name type="thing" key="BB" reg="The Battle of the Bulge">Battle of the Bulge</name> had started while we
+
+                   were on the ship.  So we went in as replacements around
+
+                   Liege in Belgium where the company had been wiped out on
+
+                   Christmas Day night, December 25th.  They made a marching
+
+                   attack in some woods down there, and they were actually,
+
+                   I believe, in Germany then, maybe Belgium.  But in any
+
+                   event they were -- they were massacred.  I mean, they
+
+                   were attacking at night and firing their weapons as they went.  Then they were told there were a few German
+
+                   infantry down there, and when they got there, they ran
+
+                   into tanks and infantry, and, of course, a lot of them by
+
+                   then were lost and out of ammunition and so on.  So they
+
+                   lost -- out of their 140 guys in the company, they --
+
+                   they were down to maybe 40 or something like that.  The
+
+                   rest were wounded and -- wounded and killed.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Q. What was your job?</p>
+				</sp>
+				<sp>
+				<speaker>Robert C. Lawrence</speaker>
+				<p>A. I was the first platoon of the first squad and just a
+
+                   rifleman.  Uh-huh.</p>
+		   </sp>
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+				<p>Q. So what other memories can you tell me of <name type="thing" key="BB" reg="The Battle of the Bulge">The Bulge</name>?</p>
+		   </sp>
+		   <sp>
+		   <speaker>Robert C. Lawrence</speaker>
+				<p>A. Well, I remember then on -- we were over there the end of
+
+                   December and sent to the company, and then on New Year's
+
+                   Eve we were on the front lines down there at midnight,
+
+                   and at midnight they had the biggest barrage ever, and,
+
+                   of course, we didn't know if that was coming or going.
+
+                   So we -- kind of terrifying, but it was a memorable New
+
+                   Year coming in there, and then January 1st we're -- we're
+
+                   in the forest in the fox holes, and there was not a lot
+
+                   of action right then so I have letters still that I wrote
+
+                   home from when I was sitting in the fox hole writing
+
+                   letters and send them back up to Michigan, and we were in
+
+                   the middle of all these tall pine trees so every once in
+
+                   a while the German 88 artillery would come in in the tree
+
+                   tops and -- and get -- the shell bursts when it hits the tree tops, and then the shrapnel comes spraying down, and
+
+                   so several of the fellows were hit by the shrapnel as
+
+                   they try to get -- get in cover, but it was all coming
+
+                   right direct from the top so it was hard to avoid a lot
+
+                   of times, and so we were always digging fox holes and
+
+                   digging in and moving, and so we just -- just kept going,
+
+                   and the Battle of the Bulge -- well, I just remember it
+
+                   was so cold and snowy.  As we said, it was the coldest
+
+                   winter they'd had there in 20 years or something like
+
+                   that, and we were living outside, and we had these
+
+                   leather GI shoes, sort of boots but not waterproof by any
+
+                   means, so most of the guys or a lot of the guys were
+
+                   getting frozen feet.  We had more casualties from that I
+
+                   think than we did from the enemy action for -- for a
+
+                   while there.  Then eventually they brought us in these
+
+                   shoe packs which were rubber bottom, leather tops and
+
+                   felt linings and these were pretty weather proof, but
+
+                   they came too late for a lot of the guys.  But I just
+
+                   remember we're going through the -- going through the --
+
+                   the woods and the sergeant saying, "Fix bayonets."  That
+
+                   was one of our first trips through there, and that was
+
+                   kind of frightening, you know, to figure this is too
+
+                   close for comfort and -- but nothing materialized from
+
+                   that.  In fact, my bayonet of this M-1 I had picked up
+
+                   had a defect of a clasp or something, and the bayonet wouldn't even stay on the rifle.  So the sergeant was
+
+                   just saying, "Well, just put it back in the scabbard and
+
+                   just have it handy in case you need it."  Then nothing
+
+                   much materialized on that one.  Then a little later they
+
+                   said -- of course, there was all kinds of commotion all
+
+                   over, and they were saying, "You guys got to be ready for
+
+                   hand-to-hand combat within 24 hours," and we thought we
+
+                   don't -- we don't particularly care for that idea either.
+
+                   So in any event within 24 hours we were in the middle of
+
+                   a small town up there in the midst of the battle, but by
+
+                   then luckily the Germans were surrendering and coming
+
+                   down the street with their hands up and -- but it was so
+
+                   cold and the dead bodies all over the place especially
+
+                   the German bodies stacked up, you know, just like
+
+                   cordwood, and we had to ride in two-and-a-half-ton trucks
+
+                   from place to place, and it was so slippery they were
+
+                   sliding off the road, and then we rode on -- some on top
+
+                   of the tanks also, and they were having a hard time, too,
+
+                   going through the -- through the wintery stuff in the
+
+                   forest.</p>
+		   </sp>
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+				<p>Q. When you got to <name type="thing" key="BB" reg="The Battle of the Bulge">The Bulge</name>, did it -- did it still seem
+
+                   pretty bleak as far as what the Germans were doing?  Did
+
+                   it look like the Germans might succeed?</p>
+				</sp>
+				<sp>
+				<speaker>Robert C. Lawrence</speaker>
+				<p>A. Yeah, it was pretty scary because they were still going
+
+                   pretty good at the end of December, and they were -- we -- of course, we had to get a new password every night
+
+                   to stand guard duty and remember the password or the --
+
+                   they would start shooting, our sentries and so on.  They
+
+                   were telling us about the Germans disguised as Americans,
+
+                   soldiers, you know, and had to keep an eye out for them.
+
+                   So it was -- it was pretty scary.  It was still going on
+
+                   pretty strong.</p>
+		   </sp>
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+		   <p>Q. Did you encounter any of those infiltrators firsthand,
+
+                   your unit?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. I don't -- no, I don't think we did.  Huh-uh.  No.  We
+
+                   were mainly just -- we went up to Belgium and the
+
+                   crossroads -- the main crossroads and had to defend those
+
+                   and -- to keep them opened, main highways, through the
+
+                   forest there so -- so we could get our counterattacks
+
+                   going, and then they -- Patton's tanks were part of
+
+                   our -- we were attached to him for a while and he was
+
+                   taking off on a rampage, and we were assigned to ride on
+
+                   a weasel, which is a small-track vehicle, open vehicle,
+
+                   and they would pile those full of five-gallon Jerry cans
+
+                   of gasoline, and then they put a couple of us guys with
+
+                   our M-1s propped up on top of these things as -- as their
+
+                   armament, you know.  So how they -- but he would go till
+
+                   they ran out of gas and then we would come up with these
+
+                   weasels with gasoline so he could keep going.  But I
+
+                   remember the -- every once in a while you would have mortars coming in on you, and we'd bail off the top of
+
+                   those things and head for cover, but -- one of my buddies
+
+                   was hit by some shrapnel.  He was sitting right next to
+
+                   me, and -- but I was -- luckily nothing -- nothing
+
+                   happened to me.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Do you have any other memories, specific memories, of
+
+                   buddies?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. Well, we had some fox holes buddies that we were with all
+
+                   the time, and we have since had reunions, and we have a
+
+                   national reunion every year in different parts of the
+
+                   country, and then we have a Company B 333rd reunion every
+
+                   year and more local people -- well, they come from all
+
+                   over Louisiana, Indiana, and Pennsylvania and so on,
+
+                   but -- then we move that around too.  So I would -- after
+
+                   I got out, I would search for these buddies and found one
+
+                   three or four years ago that I hadn't seen in over 50
+
+                   years so I -- it's always interesting to find them again,
+
+                   you know, get them active in our reunions.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Before I forget, did you have any close encounters with
+
+                   Patton?  Did you get close to him at all?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. We just -- of course, we never saw him, but we were right
+
+                   there with his tanks, and we'd just gassed them up and
+
+                   they would take off, but I remember after we broke
+
+                   through and even got to the Autobahn, why, what's when we
+
+                   rode on top of the tanks and went barrelling down the Autobahn heading for -- well, Berlin or bust a little
+
+                   later on, yeah.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. So what happened then after The Bulge for you?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. Then we were -- of course, we were in Belgium and then we
+
+                   went into Holland, and we were chasing the Germans out of
+
+                   the -- around the dikes there, and then we went to the
+
+                   Rohr (sp) River, and they had -- the Germans had flooded
+
+                   that area to delay our crossing so we sat around there
+
+                   for a while and finally were able to cross, and we were
+
+                   training to go across in the -- in the boats, small
+
+                   boats, with the guys paddling, but we went through the
+
+                   next morning when they had foot bridges across there so
+
+                   we were able to cross pretty easily although there were
+
+                   still bodies around and so on and -- but then we
+
+                   proceeded to head for the Rhine River, and we got
+
+                   pretty -- a pretty -- a pretty fast trip across there
+
+                   from the Rohr (ph) to the Rhine, and then by then they
+
+                   had some bridges across the Rhine, and we got across
+
+                   there okay, and then we had -- we were in the
+
+                   two-and-a-half-ton trucks with signs on them that said
+
+                   "Berlin or Bust," and so we proceeded across there and --
+
+                   pretty fast trip.  After we crossed the Rhine, we came to
+
+                   some small rivers, and they dropped our squad off, our
+
+                   platoon, to guard these small bridges because the Germans
+
+                   were still all around, and so they dropped us and they took off and they forgot about us, and so we were there
+
+                   just guarding those bridges and living off the land and
+
+                   getting the eggs and the chickens off the local farmer
+
+                   and so on.  Our platoon sergeant was a Sergeant Schume
+
+                   (ph) who had cousins fighting on the German side over
+
+                   there at the same time, but he could speak to the farmer
+
+                   and get us some food, and the farmer was very happy to
+
+                   give us the food because they had been told we were going
+
+                   to kill them all.  That was pretty good if all we wanted
+
+                   was a few eggs, you know, or a chicken or something.  But
+
+                   then they reported us as missing in action because we had
+
+                   been away from the outfit for several days, and
+
+                   apparently they just forgot where they left us or nobody
+
+                   kept track of us.  So they sent telegrams home "missing
+
+                   in action" for our platoon.  We were scattered around
+
+                   covering several bridges, and there was a little action
+
+                   at night.  The Germans would try to get across those
+
+                   bridges.  We -- they didn't direct come across ours, but
+
+                   the other fellows ran into some opposition or did a lot
+
+                   of shooting at night to keep -- keep them moving, and --
+
+                   anyway a few days after they sent the telegrams home,
+
+                   which excited -- got our friends and relatives all
+
+                   upset -- it was in the local papers and all that -- why,
+
+                   a couple days later the telegrams came that we were back
+
+                   with our outfits so -- I still have those telegrams, too, in the stuff that my parents saved, and I have my
+
+                   scrapbooks.  So then we proceeded.  We went through a lot
+
+                   of these German towns and all kinds of commotion there
+
+                   with the artillery and the tanks and the infantry and the
+
+                   Creefeld (ph) was one town we went through on the -- in
+
+                   the late afternoon or night.  Everything was a blasting,
+
+                   and -- and a German infantry soldier came around one of
+
+                   the buildings and looking right at me, and he wasn't --
+
+                   he was as surprised to see me as I was to see him so I
+
+                   just raised my rifle and hollered "Halt" and he turned
+
+                   around and took off the corner of the building, and
+
+                   that's the last I saw of him, but -- but then we
+
+                   proceeded to the Elbe River 50 miles from Berlin
+
+                   approximately, but we had the agreement to not take
+
+                   Berlin which was -- made us happy.  We didn't care
+
+                   particularly about going any further.  So we just sat on
+
+                   the Elbe and kept guard at night because the Germans were
+
+                   coming across in droves trying to escape from the
+
+                   Russians, you know, and they were crossing the Elbe and
+
+                   coming to our side.  So we took them prisoners and sent
+
+                   them back to the rear and took their weapons and so we
+
+                   all got a lot of souvenirs of rifles and pistols and
+
+                   binoculars and all that stuff off the -- off the Germans
+
+                   as they were surrendering, and then we -- before long the
+
+                   Russians appeared on the other side, and our commanding officers, the captains and so on, they would go across in
+
+                   the boats and greet the Russians, and our platoon
+
+                   sergeant went across, and they would celebrate and take
+
+                   pictures and drink a little schnapps and exchange head
+
+                   wear, their helmets and fur hats and all that, and a lot
+
+                   of pictures and so on.  So we just sat on the Elbe for a
+
+                   while, and that's where we were when the war ended in
+
+                   Europe.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. So how much longer did you have to stay over there?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. Well, then -- see, this was, what, May when the war
+
+                   ended, and then they took us down to a little town of
+
+                   Germany called Luchsosachsen (ph) near Heidelberg and --
+
+                   as Army of occupation and -- well mainly is retraining
+
+                   for Japanese tactics.  We were doing mostly bayonet
+
+                   training and stuff like that.  And we figured, well, some
+
+                   of the fellows with a lot of points would go home first
+
+                   and then come back and go to Japan, but we had so few
+
+                   points that we just stayed there, and so then the war
+
+                   ended in, what -- in May I guess, and one of the -- while
+
+                   there -- yeah, and then it still went on until August, of
+
+                   course, in Europe.  So we were still there training to go
+
+                   to Japan when the atom bomb is dropped, and then that was
+
+                   the end of it.  Then -- then I stayed the -- another year
+
+                   in Germany just as Army of occupation which was pretty
+
+                   good duty because I got to go on leave to the Riviera and Switzerland and the Bavarian Alps and so on so it was
+
+                   pretty good duty.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. What were the people like to you when you were in the
+
+                   Army of occupational Germany?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. They were very friendly because we were taking over their
+
+                   houses, and this -- they had pretty nice houses, all the
+
+                   modern facilities, but we moved them out in back in the
+
+                   barns and garages or whatever with the animals, you know,
+
+                   so they were right by their house, and they had living
+
+                   facilities back there, but we were right there in their
+
+                   house, but -- of course, we had orders not to do any
+
+                   looting or destruction or what have you even if we wanted
+
+                   to which we didn't so we had no problem with the
+
+                   Germans -- populace, and especially since our sergeant
+
+                   spoke German, he became acquainted with a lot of them on
+
+                   friendly terms, and after the war he made several trips
+
+                   back there and vice versa.  A lot of them came over to
+
+                   visit him in Van Wert, Ohio.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. We talked earlier about writing letters.  What kind of
+
+                   things would you write back home?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. We couldn't -- see, well, of course, they told us that it
+
+                   was censored and to be careful not to give away locations
+
+                   and things like that, but we could write pretty much "I'm
+
+                   set on" -- you know, "I'm sitting here in this fox hole
+
+                   and the snow all around, and -- but we haven't seen the Jerries," and, et cetera, you know.  So it seemed like we
+
+                   could write pretty much -- of course, you don't tell them
+
+                   the bad stuff and tell them that things are pretty calm
+
+                   and we're okay.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Remember anything about getting mail from home or
+
+                   packages or anything?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. Oh, yeah.  I had a lot of correspondence from my parents
+
+                   and my brothers and sisters and other relatives and
+
+                   friends so I did pretty good on mail call which was
+
+                   always a big event, you know when the mail would catch up
+
+                   to us, which a lot of times was delayed, but, yeah, I did
+
+                   good on letters and packages and cookies and this and
+
+                   that.  That was always a highlight, you know.  They got
+
+                   through pretty well.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. What did you think of the Army food when you were out
+
+                   there in the field?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. Well, we were mostly on K-rations because we could pack
+
+                   those away.  They were just a little bit bigger than a
+
+                   box of Cracker Jack, you know.  It wasn't very good.  It
+
+                   was like cheese and -- cold cheese and what have you, but
+
+                   whenever possible they would get the kitchens up there
+
+                   and get us back for some hot food.  It wasn't the
+
+                   greatest, but it was hot so -- and they would get some
+
+                   better rations as things calmed down a little.  So we
+
+                   always had enough, but it wasn't the greatest.  That's for sure.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Do you remember hearing the news that <name type="person" key="FDR" reg="Roosevelt, Franklin, Delano">FDR</name> had died?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. Yeah, and that would have been about the time that we
+
+                   were guarding those bridges in Germany there between the
+
+                   Rhine and the Elbe.  So that was -- yeah, that was kind
+
+                   of a sad experience because most everybody liked <name type="person" key="FDR" reg="Roosevelt, Franklin, Delano">FDR</name>.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Was there a lot of sadness in the outfit though?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. Oh, I don't know.  I don't think that you notice it
+
+                   particularly, but ...</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. You seen so much of that anyways?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. Oh, yeah.  Yeah.  It was just another event.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. You obviously were in Germany then when they dropped the
+
+                   bombs.  Do you remember hearing the news about that and
+
+                   trying to figure that out?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. Well, yeah.  I just -- just remember hearing the news
+
+                   and, of course, we were just elated that it was all over,
+
+                   and that we would -- you know, a lot of the guys would be
+
+                   going home then to stay, and we just had nothing to worry
+
+                   about as far as getting sent over to Japan which would --
+
+                   we figured would be sort of a death knell for a lot of
+
+                   the guys that had managed to get through the war over
+
+                   there in Europe.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Do you remember doing anything to celebrate when the war
+
+                   finally ended?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. No, because we was -- well, we -- well, we probably had some beer and wine and things like that but nothing big.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. VJ day came and it was just another day, right?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. Well, it was just -- well, it was a great day for the
+
+                   fact that it was over.
+</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Yeah.</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. But we didn't have the facilities or the situation
+
+                   probably to really celebrate like they did in a lot of --
+
+                   Times Square or what have you.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. When you finally got home, do you have memories of your
+
+                   homecoming?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. Yeah.  There was -- it wasn't until June of '46, first of
+
+                   June, and I left from Bemmerhaben (ph) in Germany and had
+
+                   a slow ride on a victory ship again in a rough -- rough
+
+                   seas, which -- you know.  Then we arrived in New York.
+
+                   There was a smattering of people on the dock, the Red
+
+                   Cross maybe and a few people to greet us, you know,
+
+                   but -- maybe a dozen people or so and -- that wasn't a
+
+                   big concern anyhow.  The main thing was to see the Statue
+
+                   of Liberty again for -- after a year and a half, and
+
+                   then -- well, see, then we had a break and went back to
+
+                   New York City and took a little tour there and then got
+
+                   on the troop trains and went back up to Michigan.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. What was it like to see your family again finally?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. Oh, it was wonderful, you know, because I hadn't seen
+
+                   them, you know, in a year and a half so that was a long time away so it was terrific to see them all again.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p> Q. Did they have a nice party for you?</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. Well, if they did, I don't recall it.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Well, it must have been a great party then.</p></sp>
+				<sp><speaker>Robert C. Lawrence</speaker><p>A. Yeah, right.  I fell asleep.  I don't recall.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Q. Back to the other side of the ocean again, what -- did
+
+                   you and your buddies do anything for entertainment,
+
+                   anything to relieve the tension over there?</p></sp>
+                   <sp><speaker>Robert C. Lawrence</speaker>
+					<p>A. We had -- whenever there was a chance the USO was there
+
+                   and the Red Cross was there with their doughnut wagons,
+
+                   you know, and the gals.  I remember a lot of the
+
+                   dignitaries Bobby Bareen (ph) which he's an old timer, a
+
+                   singer, and Mickey Rooney was there, and I'm not sure if
+
+                   we saw Bob Hope or not.  Probably did, but they would
+
+                   come right up near the front and put on a show in the
+
+                   barn and so that was always impressive when you get
+
+                   something like that in the middle of everything, you
+
+                   know.</p>
+					</sp>
+					<sp><speaker>Tom Swope</speaker>
+						<p> Q. And that was when the war was still going on?</p>
+					</sp>
+					<sp><speaker>Robert C. Lawrence</speaker>
+					<p>A. Uh-huh.  Uh-huh.  And then more so after the war.  Yeah,
+
+                   those guys were over there right -- right when it was
+
+                   happening.  Uh-huh.</p>
+					</sp>
+					<sp><speaker>Tom Swope</speaker>
+						<p>Q. When you think about that experience overseas, does any
+
+                   particularly vivid memory come to mind?</p>
+					</sp>
+					<sp><speaker>Robert C. Lawrence</speaker>
+					<p>A. Not any one thing particularly.  I would say that -- just the fact that we were put into -- thrust into it so fast,
+
+                   you know, and so it was scary.  Plus we were petrified
+
+                   all the time, but -- when the war was going on.  We just
+
+                   sort of learned to live with it and keep going.</p>
+					</sp>
+					<sp><speaker>Tom Swope</speaker>
+						<p>Q. Did you get along okay with your officers?</p>
+					</sp>
+					<sp><speaker>Robert C. Lawrence</speaker>
+					<p>A. Yeah.  Yeah, the officers and their sergeants and
+
+                   commission and so on.  Yeah, I didn't have a lot of
+
+                   contact with them but -- except the platoon sergeant and
+
+                   so on, but -- one of the second lieutenants gave me a
+
+                   hard time because he told me I was going to have to take
+
+                   a .45 and go out on a night patrol just -- just kind of
+
+                   kidding around and scared me half to death, but that
+
+                   didn't materialize.</p>
+					</sp>
+					<sp><speaker>Tom Swope</speaker>
+						<p>Q. Okay.  A .45 on night patrol?</p>
+					</sp>
+					<sp><speaker>Robert C. Lawrence</speaker>
+					<p>A. Yeah, right there in the middle of everything, and we
+
+                   were well schooled in the M-1 and we had fired the .45,
+
+                   you know, in our training but wasn't particularly anxious
+
+                   to do anything like that because a lot of those patrols
+
+                   were really problems and suffered a lot of casualties.</p>
+					</sp>
+					<sp><speaker>Tom Swope</speaker>
+						<p>Q. Anything else come to mind?</p>
+					</sp>
+					<sp><speaker>Robert C. Lawrence</speaker>
+					<p>A. I guess -- I guess that's -- basically covers it.
+
+                   Uh-huh.</p>
+					</sp>
+					<sp><speaker>Tom Swope</speaker>
+						<p>Q. All right.  You'll think of something a few days later so
+
+                   give me a call.</p>
+					</sp>
+					<sp><speaker>Robert C. Lawrence</speaker>
+					<p>A. Oh, yeah.  It's just -- all and all it was a -- it was an  interesting experience, you know, to live through all
+
+                   that and not even get scathed, you know, in all the death
+
+                   and destruction going on around, and so you feel
+
+                   fortunate to have gone through it.  You know, even though
+
+                   it's only two years out of your life and it happens 60
+
+                   years ago or whatever, it's still vivid in your memory as
+
+                   you probably know from your father.</p>
+					</sp>
+					<sp><speaker>Tom Swope</speaker>
+						<p>Q. Sure.</p>
+					</sp>
+					<sp><speaker>Robert C. Lawrence</speaker>
+					<p>A. One thing that comes back, too, was over there in Belgium
+
+                   we went by <name type="place" key="MALM" reg="Malmedy, Belgium">Malmadee (sic)</name>, and this was just a few days
+
+                   after the <name type="place" key="MALM" reg="Malmedy, Belgium">Malmadee</name> massacre.  So that was a pretty
+
+                   astounding story, and that's when the guys decided that
+
+                   we aren't -- we aren't taking any prisoners anymore
+
+                   because they were massacring our prisoners so that one --
+
+                   that one stands out too, going right down that road
+
+                   probably where those guys were.</p>
+					</sp>
+					<sp><speaker>Tom Swope</speaker>
+						<p>Q. Did you come across any Germans after that where you
+
+                   didn't take prisoners?</p>
+					</sp>
+					<sp><speaker>Robert C. Lawrence</speaker>
+					<p>A. Well, I didn't.  I never got in a situation where I did,
+
+                   but I -- you know, I was aware of it, and I saw our guys,
+
+                   you know, do that to some of the prisoners but not
+
+                   myself.</p>
+					</sp>
+					<sp><speaker>Tom Swope</speaker>
+						<p>Q. Yeah, I talked to one guy locally and he said that they
+
+                   do that.  They took 50 or 60 German prisoners shortly
+
+                   after that and paid them back.</p>
+					</sp>
+					<sp><speaker>Robert C. Lawrence</speaker>
+					<p>A. These -- yeah, these guys -- some of these guys had been
+
+                   in the war way back in North Africa and Europe, and
+
+                   they'd been there for years, you know, and we had been
+
+                   there for months.</p>
+					</sp>
+					<sp><speaker>Tom Swope</speaker>
+						<p>Q. Yeah.</p>
+					</sp>
+					<sp><speaker>Robert C. Lawrence</speaker>
+					<p>A. So they were really bitter and -- different story with
+
+                   them, yeah.</p>
+					</sp>
+					<sp><speaker>Tom Swope</speaker>
+						<p>Q. Yeah.  Okay.</p>
+					</sp>
+					<sp><speaker>Robert C. Lawrence</speaker>
+					<p>A. Okay.</p>
+					</sp>
+					<sp><speaker>Tom Swope</speaker>
+						<p>Q. Do you think that's got it?</p>
+					</sp>
+					<sp><speaker>Robert C. Lawrence</speaker>
+					<p>A. All right.  Yeah, I think so.</p>
+					</sp>
+					<sp><speaker>Tom Swope</speaker>
+						<p>Q. All right.</p></sp>
+						<note>End of Tape 1</note>
+				<trailer>Conclusion of interview.</trailer>
+				</div2>
+				</div1>
+			</div0>
+		</body>
+	</text>
+</TEI.2>

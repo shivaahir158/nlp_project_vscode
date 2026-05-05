@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with Leon Kent, 7/20/2003</title>
+            <author>Tom Swope</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Matthew McCrady</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with Leon Kent</title>
+               <author>Tom Swope</author>
+               <date>7/20/2003</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with Leon Kent was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with Leon Kent [7/20/2003]</head>
+            <div2>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>This is the oral history of World War II veteran Leon E. Kent. Mr. Kent served in the U.S. Army with the 143rd AAA Gun Battalion. He served in the European theater and his highest rank was captain. I'm Tom Swope, and this recording was made at the annual reunion of the 143rd Battalion in Columbus, Ohio, on July 20th, 2003. Lee was 85 at the time of this recording. Where were you living in 1941?</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>I was living in Los Angeles, California, and I was drafted after applying for the Air Force and the Coast Guard both and failing because I'm color-blind, and then I was drafted into the Army at the end of January, 1942.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>'42.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Went in at Fort McArthur at San Pedro.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Do you have specific memories of December 7th, 1941?</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Oh, yes. I had been playing tennis that morning, and my partner and I got in the car, turned on the radio, and we couldn't believe that that was Pearl Harbor over the radio. I've got a very specific memory of that.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Now, do you remember the scares in California?</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Very much. They thought submarines were going to bomb places. You could buy gorgeous houses in Beverly Hills very cheap, and I know a couple of people who did. People were very much afraid. Yes. They were leaving the city, actually.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>They were leaving the city --</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>-- and selling their places dirt cheap.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>I mean it.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Wow.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Well, actually, a cousin, very distant cousin of mine just died, she was 101; they came over here from France, and bought a house for 12,000 dollars. A beautiful, beautifully architectured house like a French house, on Alpine Drive. At that time -- I think the land now alone would sell for over two million. Bought the whole house, really wood, beautiful wood and everything, for 12,000. That's --</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>In that situation they bought it from somebody who wanted to get out?</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Well, whoever they bought it to must have been, probably -- well, at least if somebody had vacated it they didn't want to, they couldn't get buyers.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Because nobody would want to move into that area at the time --</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Yeah. It was a scare.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>-- thinking that California would be invaded.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>So you went in in January, '42?</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>End of January.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>End of January. Okay, what can you tell me about your training?</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Well, we were at Fort McArthur for a few days. They asked us, they were very nice to us. They gave us a sheet to fill out our preferences in the service. Now, I had been a lawyer for some years before I went in service and I had gone also to business school, so naturally I put judge advocate one, and finance two, and a couple of other things; and of course, everybody that came in at the same time was sent out to the same place, which happened to be an antiaircraft place, Camp Wallace, Texas. And we went into basic training there. And there some very unusual situations happened.</p>
+                  <p>They, at that time was the very beginning of the war and they were dying for officers. I had been determined to become an officer, because I figured if I became a lieutenant, at least somebody gave me an idiotic command it wouldn't be some other idiotic lieutenant, it would be an idiotic captain who might send me -- so I said if I'm going to get it I should get it from at least a captain, so I want to be an officer. And the group that came in from California was one of the best groups that had come in in rates of intelligence.</p>
+                  <p>They all were very high on the intelligence test, and most of them were educated, and out of about a hundred some odd men, 140 men that came in, at least 45 were slated for Officer Candidate School. And they were pushing people to go, people who didn't even want to go. I knew people who were sergeants, they didn't want to become an officer, they pushed them. And anyway, applications went in, and they'd go to Battalion. Something goes wrong, they come back. The most idiotic things were going wrong. A comma was misplaced, they changed the form, they did this, they did that. And this kept on going. The rule then was eight weeks of camp and you were shipped out. A guy in the next bed was shipped out, I got a letter from him from the Pacific. The other guy on the other side had gone to Panama, and we're trying to find out what's going on.</p>
+                  <p>But the Battalion always had some excuse. And we couldn't do anything about it. We went, there's a group of us were active in this, I know the fellow who had lied about his age, he was much too old to go in, I think he was, must have been a good 40, and myself and somebody else, we went to Battalion Headquarters, we went to Regional, it was a very big camp, Regional Headquarters. We went to the Battalion Chaplain, the Regional Chaplain, the Camp Chaplain, nobody could do anything. I went down, at that time when they shipped out men, they would ship out what they called supernumeraries. They need 50 men, they'd send out 56 in case guys got sick or something so they could always have 50.</p>
+                  <p>Three times I went down to the train, packed up my stuff, gave away my shoe polish and ink, so forth, and fortunately they had enough men and I came back. Finally the three of us decided to see if we just by chance couldn't do something down at camp headquarters, which was a good four or five miles down. And these are the laws of chance that determine the way your lives go: We come into camp headquarters, and there's the Adjutant to the General, the Camp General, was a Captain. This Captain was a Sergeant under the older guy who was with me who had been a Reserve Officer back in 1923. He had been an officer, and this guy was a Sergeant under him, and with that coincidence we quickly told him our story. Before we could get back -- it was a long march back -- there had been a directive: The following men's names have not been submitted for final applications to go to Officers Candidate School. Detailed explanation will be in the Camp General's office by 3:00 this afternoon. And that was the end of it, and that's how I got to Officer Candidate School.</p>
+                  <p>But other than that, we would have been shipped out through some stupid, really clerical errors of some sort or another. I got to Officer Candidate School in Camp Davis, North Carolina. I did pretty well, I think I came out second academically out of 504th. Militarily they had two ratings. So I was kept on as an instructor, and I instructed in what was called the directors -- department, which was the director was like a computer, which first we were working with mechanical and then eventually became electrical, early computer, to figure out firing data for our guns. And we stayed on there for somewhat over a year, as I believe, and then having been instructors, we were given our choices of outfits to go to, and having come from California, I picked an outfit that was stationed near Riverside, California, March Field, which was the 143rd AAA.</p>
+                  <p>I joined them in December, 1943. They had been organized in August, July and August, 1943, and they were out in the desert when I was, when I came in, it was almost Christmastime and I had to join them in the desert. And I had to get a sleeping bag. And all the good sleeping bags were gone, I had to get one with just buttons. And boy, I'm telling you it was cold out there at night out in the desert. That place is now camp -- Fort Erwin, I believe, near Barstow, California. And we had our desert training.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Anything unusual happen during your training time there?</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>You mean personally?</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Well, personally, yes. You see, there was a Captain, I was a First Lieutenant then. When I came in there was another First Lieutenant, and two Second Lieutenants. The table of organization called for four officers: Captain, First Lieutenant, and two Second Lieutenants. And the second Second Lieutenant was a real politician, he had the Captain's ear. Within a week or two, the First Lieutenant ahead of me was transferred out. I was going on good, but as soon as he was transferred out I could do nothing right. Everything I did turned out to be wrong. I was chewed out and everything.</p>
+                  <p>And as a matter of fact, I was, among other things, a motor pool officer, and a Motor Pool Sergeant became a good friend of mine. He told me one night, he came back and he said, you know, we were at this club last night and this Lieutenant K, I'll just say, was there, and he told me, he said, "See that eight ball? That's where your buddy Lieutenant Kent is going to be, right behind there, and I'm going to put him there." That's exactly what he told me, my Sergeant related to me.</p>
+                  <p>Anyway, I was about to ask for a transfer. I mean, I didn't need any more of this, and then I knew this is what this guy wanted, because he wanted to be Executive Officer. But he -- so I just burdened my way through the thing and let it slide, and then finally it stopped and he -- it started on the next officer in line, who didn't give a damn. So -- he was a great guy, Lieutenant McGuire. He just, it was like water off a duck's back.</p>
+                  <p>And let's see: We got through training camp fine. And then we were shipped overseas, I'm not sure whether it was July or August. We spent, well, I guess it was three, I'm not sure whether it was three or four weeks in England, doing more training. The English were giving us a lot of hints on how their antiaircraft was handled, motor pools, and everything else. And, oh, incidentally, what I did, when we shipped out I had owned the phonograph with records, so I put them in a big box marked "Information and Education Equipment" and smuggled it over.</p>
+                  <p>Because we were on 24 electricity hours, you had to have electricity 24 hours a day for the radar and everything else, and we have two power plants, and so once we'd get in firing position, we'd make sure everything was in order, and then we'd try to make ourselves comfortable. That's the rule of the day. We had obviously an amplifying system, loud speakers and so on, so we were able to hook the phonograph up, and so on. Which incidentally is very important, because it leads to something later on.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Any particular tunes you remember from that collection?</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>We had the good old tunes from the big bands --</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Glen Miller, etcetera?</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Yeah. And anyway, we get over, we get to England, and we were shipped over, I think we landed on Utah Beach August 27th, was my recollection of the date. The reason I say I don't remember when we were shipped out, I think it was July, because it took us about 17 days to get across, and then we were three weeks in England.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>So you must have landed in England sometime after D-Day, right?</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Oh, yes, it was after D-Day. We shipped out after D-Day from the States. And then we came down from Utah to Rouen, and then down to Paris. We were to be set up, I didn't know it then, but in the northwestern section of Paris. There were quite a few AAA outfits ringing around Paris, which was a big territory, defending. And I was leading the convoy, the Captain had gone ahead to stake our position, I was leading with the big guns and everything, and I didn't know it then but I was following the map, and what they had done to us, we came from due north. They detoured us completely around Paris. This was one week after Paris was taken, and I came in from a southern entrance, I don't know whether it was Port du Orlean, one of those, but due south, and we were to go due north from where we, because our position was in St. Denis. I don't know if you know anything about Paris, it's exactly due north of Paris.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>It's where they held the World Soccer Tournament in '98. And we paraded through the streets, and God, there was cheering and everything because these were big guns, and dammit, they wanted to show the people that we were really defending them, and people were throwing flowers and fruit and stuff, and I remember catching a big peach, the biggest one I'd ever seen. It was so big I was going to save it for later, I put it on the seat, and actually sat on it later. And got to St. Denis where we were in the, like a victory garden, where people had, individuals had plots, and we had planted the guns, and very well camouflaged. And we didn't have too much of an incident there, but then, let's see. Oh. This will be good, I guess you want some personal stuff, too.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Sure. Yes, yes, definitely.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Well, we had four officers in the battery, and once we're set up, after we see that we're set up and the guns are oriented on the North Star and dug in and properly defended, as long as we can do our job, the rest is up to us. So you don't need four officers there all the time. We're on 24-hour duty anyway, and at that time troops were not allowed in Paris unless they were actually on duty there. But anyway, rules are rules, and then eyes are eyes, they don't see you, and one of us would get into Paris, one of the four officers, every fourth day. We just took off. And there was, the first time I went in I found there was a hotel for officers, the Hotel Victoria Regina. </p>
+                  <p>I don't know if you know anything about Paris, but it's on the Rue Rivoli and it's on the street that leads to the Place Vendome. And it was, it had been occupied, these are all places that had been occupied by the Germans, the Americans took them over, and they were still run by French personnel. So I get in there, I'm thrilled, because I'd studied French in high school, and even college. And my room's on the fifth floor. My God, I could look out and see all the way down the Champs-Elysees, the Arc de Triomphe.</p>
+                  <p>And I come down and I'm ready for the evening. And there's a big banner across the lobby. A big, huge banner, "No Women Allowed Above the Lobby Floor." Well, I'm in Paris. It's for -- and I'm wondering, so I go and the clerk behind the counter there has got a window, he seems pretty busy, and I ask in my fractured French, because I'd taken -- the last French I'd taken would have been eight years before. I said, "Does that sign mean what it says?"</p>
+                  <p>And then I got the most typically French thing in response that I've ever heard in my life, the most typical French for anybody. The guy got so annoyed. American, dumb American, asking a Frenchman about a love thing. He says, "Monsieur," he answers me in his fractured English, "you know we have the blackout outside. You see the dark blackout curtains, you see how dim we have the lights, you see what I have here, you see my pile of work here. I am so very busy. One cannot see everything." That's the French, very annoyed. But a typical Frenchman, a dumb American, asking a Frenchman if he's going to take a girl upstairs he's going to report him? Anyway. So we went on. If you want to go on, I have other things --</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Another time I came in, I managed to get a girl and I said well, I don't know, maybe they'll change clerks, maybe they'll do something, I went to a different hotel. And I'm looking in through the glass door, and there's the concierge, the guardian, just blasting hell at a couple of girls. And I said, oh my God, here we are. We're in for it. I said what the hell. So I take the girl I'm with and we walk right past him, and the guy bows and waves me on, and we get to the first floor.</p>
+                  <p>Anyway, so we get on, we walk up the steps, first landing, the girl with me looks over at them and says, "Huh, professionals." Anyway, so that was that. We had a few incidents like that. And then we got orders, March order to move up into Belgium. And we got everything lined up, we lined up on the streets, the government pulled everything, ready to move, and the orders were cancelled.</p>
+                  <p>What happened, we found out later, was we didn't have the proper equipment. They had been in the process of changing these directors, the computers, from mechanical to electrical, and only, we had some mechanical and some electrical; they wanted all electrical. So it was called off. And we returned, our Colonel, the head of the Battalion, got very disgusted. He was a gung-ho man, he had been an engineer, and he left the outfit and went up ahead. And so things changed. The Executive Officer, that's Major Fleming, (ph) became head of the Battalion. My Captain was the Senior Captain. He was moved to Headquarters, because they were moving up. And I was the Senior Officer, I became the Battery Commander. And there were only three officers. We should have four. And we stayed that way.</p>
+                  <p>And while we were there we got word that an outfit on the east of Paris had left and they left behind a whole bunch of building materials that had been captured from the Germans. Well, the Germans built very good building materials. We, we borrowed the longest flatbed truck I'd ever seen from the engineers. We went and we decided we could recoup these things, and we did. We loaded up I don't know how many loads it took, but one of our cooks had driven a fire truck in Ohio, a guy name Salen, (ph) and he drove the truck, and I'm telling you, we had to go through these small villages and hills around Paris.</p>
+                  <p>And he was, you know, scraping the side of the wall here, in the back there, and squeezing around these little roads you can imagine from medieval times, with a huge flatbed truck. Anyway, we got all the stuff over, and there were these huge modular panels. They were about four inches thick with insulation in between, about four feet wide by, I don't know, six or eight feet tall. And he was also in charge of building the building. We built the building out there and we built, by the time we were finished we had a kitchen, we had an adequate mess hall for the guys to eat, and we had a nice room for a dance. It was a hell of a building.</p>
+                  <p>And we did have a dance there after it was completed, and of course very shortly after that we get March order, as soon as we had the dance. But we're moving to Versailles. So we moved to Versailles, and I had, I decided, oh, what the hell, I don't know how long we're here. We're going to leave the building. I said well, we'll take it. We took about two-thirds of it, and put up a building, I drove, we get it done by Thanksgiving, and sure enough we finished by Thanksgiving in Versailles. And incidentally, going back to the records, while we were at St. Denis the Battalion decided to have a dance. And they invited girls from the girls' school, and I'm not going to go to that dance, I'm every fourth day in Paris, you know, and being able to speak some French, I'm having a really pretty good time. And my future wife wasn't going to go to the dance, because she wasn't too crazy about the Americans. And anyway, some of her friends had been in school and they convinced her to go, said, you know, they have food there. And these people --</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>-- were not having much food during that time. They save you food. Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>I don't know if you want this detail or not.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Yeah, yeah, the details, yes, as much as you can give me.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Are you on?</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>We're on again.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Anyway, so, they convinced her to go, and she went. In the middle of the dance they call me up and they say, you know, we don't have many records, we're very short on records, we know you have a bunch of records, could you send them over. So I decide what the hell, I'll take them over myself with my Jeep driver. And I brought over the records, I had on a pair of Germans boots that we had captured from some depot, and I had a helmet and a two-day beard, and I handed over the records.</p>
+                  <p>On the way out I saw this girl dancing with my Sergeant, one of my Sergeants, Sergeant Balato (ph). I cut in, and from there, I tried to make a date with her. No way. I even tried to get her telephone number; no way. And finally, she gave it, but she said you're going to have to come to my, meet my family at tea. She figures that's the end of me because no Frenchman would do that, but she didn't figure right.</p>
+                  <p>So I got the number and I made arrangements to come to tea. I had obtained, we got into a German depot, you know, right after it was taken. I had the frame of a bicycle, I managed to get ration tickets, got tires and brakes, and I had to put the bicycle together. I bicycled over, and met her family at tea. Now, do you want the details of that?</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>That is really something. It's one of the most interesting things. So I come, so that's how, you know, I first met her at the dance. I come to the family tea at 4:00 in the afternoon. And you've got to picture this scene, this round table. There's she, there's her mother, there's her grandmother. And you've seen Whistler's mother's picture? That's her. The white lace collar, black dress. Her grandmother, there's herself, her brother, myself. And she had a friend of theirs who was an English professor, he was a Frenchman but he taught, a professor of English, for help.</p>
+                  <p>Anyway, I'm trying to be a debonair, gay American. In those years we had, you know, in the style of Franchot Tone, and Gary Cooper, before the war, gay, nobody works and everybody's having a good time. And I'm trying to put on a little bit of an act, and we're talking about, oh, well, if you're going to see her, you'll have to see her from 2:00 to 4:00 in the afternoon. </p>
+                  <p>She did come from a very fine family. Okay, and they start talking about what you do from 2:00 to 4:00, and so we talk, there's Napoleon's tomb, museums, there's the park. And I start talking about what do you do in the park? And I tried to be clever and gay, and a little daring, I couldn't think of the words. You know, you flirt a little, even maybe neck a little or something. So I couldn't think of the words, so it had something to do with amour. I said, so l'affaire l'amour, make love. Well, make love in those days didn't have the significance that it does today, as you know, but in France it's the equivalent of a four-letter word. I mean, the equivalent. I got a kick from her brother, who was sitting next to me.</p>
+                  <p>And anyway, that's a great way to impress a family. Anyway, I managed to get out of there in one piece, and the coup de grace is afterwards her grandmother very calmly, she says, "They haven't changed since the last war." That's a great way to get started.</p>
+                  <p>Anyway, we incidentally got married a year later. And we'll have our 58th anniversary in September. She didn't speak any English when I met her. And anyway, I was getting up to Thanksgiving. I was going with her by that time, and the Battalion had Thanksgiving dinner at Baron Rothschild's house, which had been occupied when the Germans had taken over, but, and our Battalion was headquartered there. They always had a very tough life.</p>
+                  <p>They had Thanksgiving there, so Major Fleming let me take her, and she got Thanksgiving dinner there. And of course we're at Thanksgiving dinner there, we get March order for the next morning. And that's when we proceed to Belgium. And on the way we passed, we talked to Colonel Honeycut, (ph) who had left us to get ahead, and he was staying there in a small town in Belgium beside a hospital, and we were way past him. We were on to Liege. When we got to the spot that had been picked out for us for, I think maybe reconnaissance had staked it out, and we were just east of Liege, and what we found out was there was a regular, a regular continuum tour of buzz bombs going right over us on three tracks: One directly overhead, one to the right, one to the left.</p>
+                  <p>They were going towards Liege and Antwerp. And we, we weren't allowed to shoot at them, because we would hit a wing and just knock them into Liege. And as a matter of fact, I had one, my Mess Sergeant really didn't sleep for three weeks, he just ____, he couldn't sleep because the buzz bombs, you can hear them. As long as you heard them it was fine, you know how they operated? When the motor stopped, phttt, they go. And, well, we were there, and then, in December they were going to try to have us shoot down the buzz bombs where they originated. Now that's very difficult, because radar is very inaccurate below about five degrees, there's interference from the earth. So what we decided to do was we'd go in, there was, the Germans were located on a hill like this, the Americans on a hill right opposite like that, and we'd go in, we had to go in at night because they could see you, and if they saw you during the day, phttt, you'd get an 88 right at you. We went in at night. We took just a radar, a motor plant, and about eight guys.</p>
+                  <p>Had nothing but rifles. And we tested out in our area the exact spot where the radar would function the best. Usually I could do everything by eye. I'd say the radar goes there, the four guns go there in the corner, stake it out, it's good enough. But there we would test our radar in this spot, test it in that spot, test it, until we finally had the right spot. And we left, I had staked it out, we left, oh, just before morning, by morning get out of there. And we convoyed back to Liege and we had a Battery Commanders' meeting that night, we were going to move the next morning, and everything was called off, we didn't know why. It was the beginning of the Battle of the Bulge, and it started right at that spot. Monschau. You've heard of Monschau? The northern --</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>That was the northern wing of the Battle of the Bulge. And as a matter of fact, there we were, we were right next door, maybe not 20 yards, 20 yards past there was an automatic weapons outfit. They were stationed there, and we found out later they were 90 percent wiped out by the Bulge. Ninety percent. We were right next to them and we had nothing to defend, you know, we were just there for radar. And we got out one day early. And those are the fortunes of war. So we knew something was up, but we didn't know what. And we were getting ready, and then I knew something was going to be big, it was probably going to be a big battle.</p>
+                  <p>We had left our previous spot where we had been pretty well off there, we had a room in a chateau and there was a bath available. I said, geez, this thing probably won't happen for a few hours. I'm going to run back, it's going to be my last chance maybe in a month to get a, I took a bath. I took the Jeep, took it, you know, it was only ten, 15 minutes away. I'll be back in a half hour, 40 minutes. By the time I got back they'd had orders to immediately get out. So when I should have been reconnaissance, being the Battery Commander, my next in order, Lieutenant McGuire made, he was already out on reconnaissance.</p>
+                  <p>You know, everything broke like that. And he went out on reconnaissance position, and very shortly after that we got orders to follow with the guns. So I led the convoy of the guns, we left our radar behind, just took guns, and we had orders to be at certain intersections at certain times because everything had to be coordinated. And we finally got to this place, and now we're stuck behind this convoy of trucks and guns, it was an automatic weapons outfit, and we waited and we waited, nothing happened. I finally walked up to the head of the column, and there was, just before a bridge, it was the Colonel, Lieutenant Colonel in charge, with two of his Lieutenants, discussing. I said, I said, "What's going on? We're stuck, we've got orders to go ahead." He says, do you know, these are his words, "Do you know where the Germans are? We don't. They could be anywhere. They could be across that bridge, they could be anywhere." I said, "Look, we haven't seen any signs of them.</p>
+                  <p>I sent reconnaissance out which has not -- there's been no indication of any loss or anything happening, and I've got orders to go ahead, and I'm going to carry out my orders. We find Germans, too bad." And I told the Colonel, I says, "Now look, either you go forward or you turn around or you get off to the side of the road and get out of the way because my, we've got a right to go through." And incidentally, I reported that guy to the Infantry Colonel when we reported in. And we went ahead and reported in to the 119th Infantry Regiment, the 30th Division. We were attached to them for that action. And the Colonel told me he wanted two guns up at Stoumont, and I sent Lieutenant McGuire up there with two guns, and two other guns at two crossroads. And I placed the other guns there, one of them with Lieutenant Kay, (ph) same Lieutenant Kay.</p>
+                  <p>And the colonel asked me to stay as liaison, stay with him. Well, early the next morning, I got word that one of my guns with McGuire had been lost. I didn't find out later, but what had happened was they were moving into position, we had what are called prime movers on tracks to pull the big guns. The gun got stuck in the mud. They put the mover ahead, put a winch on it, pulled the gun out of the mud, which is the standard procedure. Everything went fine. They pulled it out, reattached, and everything.</p>
+                  <p>When they started up again they had forgotten, they were all so damn excited they forgot to disengage the winch. The winch was still running when they started the motor, the prime mover. Bam, the gun went up, jammed into the thing so hard, no way they could do anything with it. So that gun was lost. That was the one that was lost. And then they had the other gun which was lost later. I think Al Derago (ph) told you about that one. He was with that, them there. Well, anyway, time is going by. There's a certain amount of time it takes, our guns were not the most efficient, the German 88s were much, much more efficient. They could put their guns on wheels in no time, ours took a lot of time. But too much time was going by. I went out to where Lieutenant Kay was with the gun, find Lieutenant Kay with a little buddy of his sitting off on a log joking.</p>
+                  <p>And most everybody seemed to have a good time, and the Sergeant in charge of the gun, he's the guy who's working like hell. He shouldn't be because he's in charge, he's not supposed to be the worker. Trying to do the thing, and nobody else seemed to be working. I blew my top. I busted the Sergeant, you know, I couldn't do anything with the Lieutenant. And we got the thing up. And I took it up myself, I was in a Jeep. We went ahead, and anyway, we got to Stoumont. I knew where the position was where I was to meet Lieutenant McGuire, but the road was jammed with American troops coming down. We couldn't get up there.</p>
+                  <p>So I parked the gun right there and went up on foot. It was up the hill, a slope, I remember crawling across the field. That's where I was the most scared during the war. I didn't know whether the field was mined or anything, and I was going ahead, my Jeep driver was a lot more scared than I was. But he, with me he would go, he wouldn't go by himself. I borrowed his bayonet, as a matter of fact, to go ahead and check. And I finally met up with McGuire and he told me what happened. In the meantime they'd lost the second gun, I think Derago told you with --</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Tell me that again. I'm not sure if you told me that.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Well, what happened was they were, they had, by this time, knocked out a German tank and they wounded another one. They didn't kill it, they wounded another tank, and they were there waiting, and everything was jumbled up with the infantry and everything. And the infantry had left a halftrack filled with ammunition, and it was not too far from our gun. And a German mortar dropped in there, and the thing, everything started to explode, and everything, and they had to abandon the gun, and so they lost the second gun. By the time I got to them, met them, both guns were gone and I told them, "Well, you've got one prime mover left. Put everybody in the prime mover, come on down, join me, and we'll go on through." So we started to go back, and my objective was to find the -- since I was supposed to be up there, to find the first flat spot that I could put my gun down.</p>
+                  <p>And we went on and on, down for four kilometers, about two and a half miles, nothing, and I finally spotted this station that had a flat spot. You saw the pictures of it. And there was, the whole, we were in the middle of a retreating column, that I never figured the Americans would retreat all that way. Americans don't do that. And so I pulled the gun around, and turned it, pulled the gun across the road, turned it around. We couldn't dig in, obviously, we were on cobblestones, and we didn't have time to fortify, which we usually do with sandbags.</p>
+                  <p>So we were sitting up high, but I had it against the building sort of to camouflage and I had spotted that there was a curve up ahead where I might be able to get a tank sidewards if he came across. Anyway, the Americans kept streaming back and streaming back, quite a few of them, I don't know how many minutes it was, and finally some guy, a Captain in the back of a Jeep yells across at us, he says, "That's the last of us. The next guys you see are German tanks." He says, "We threw a daisy chain across the road, may or may not hold them." A daisy chain is mines stuck together, but they just lay on the surface. And he says, "You hold them, we'll be back with reinforcements." Well, I had no ground reinforcements at all. I was supposed to have been furnished with some of them, we didn't get any. And believe me, it was not the most brilliant thing to do.</p>
+                  <p>Anyway, so we waited a little bit and it wasn't long before we saw a tank, but instead of presenting the side of the tank, he had presented his front. You see, the Germans were supposed to be law-abiding. Instead of coming around like this around the curve, to where I could spot them here riding on the right side of the road where the law requires you to ride, you know, he's smart enough, he knew his tank, had decided just before the curve, he's on the right side and he turns his tank like that to the left side and then comes around the turn with his front towards you already. He comes across the road. He didn't get a ticket for it, but over there -- anyway, so we started shooting at it first. And I was always surprised that I never heard or felt any shells -- I remember thinking, if you get one shell do you feel it at all? We'd go through it, we were just sitting ducks. I was standing on the platform right next to the gun, with the gunners on each side of me. And the, and a gunner in back. The gunners are on scopes, or they can sight down the barrel.</p>
+                  <p>And I was trying to spot with binoculars, and I was absolutely useless. The gun would fire, and nothing but smoke and fire, and I'm bounced on my fanny each time. And after about, I guess after we got the first one stopped I just decided there's no purpose. And we did knock out the first one we saw. And I got off and started passing ammunition. There was only one ammunition passer, there was supposed to be two. And the second tank tried to come around the first one, but at that time he exposed his side, and we got him from the side. There was no action for a while, a few minutes. And somebody came from the, you saw where the railroad tracks were, on the other side, tanks couldn't go down there because that was a steep slope down to the tanks. Tanks had to stay on the road. Slope up, slope down.</p>
+                  <p>And he said they're coming -- they're coming along with halftracks and with machine guns and leapfrogging. They're planting a machine gun, and the next one shoots, and the next one goes over that. And we had nothing to defend against that, so we had to blow up the gun, and take off. I said everybody take off into the prime movers, and I was in the Jeep, and led us out. Now, we led out on the road. If we hadn't blocked both tanks, they had, according to this book I was told about, there were seven tanks. Thank goodness they were blocked by the first two, or else they'd had a straight shot at us coming down there, trying to escape down that road. But anyway, I went back and reported it. In the meantime, since -- they had been on the tail of the Americans, but I don't know what happened after that.</p>
+                  <p>But reading from the book, they apparently were able to push one of the tanks out. Well, the tank, the first tank we hit was still there, and go around this first tank, but that took them a few hours to get it out of the way. And they tried to attack with five tanks that were left. They had started with seven. And by this time the Americans had been able to get up a strongpoint about five hundred yards back of where we were, it's called Zavromp ferme, f-e-r-m-e, Z-a-v-r-o-m-p, I think it was. And it was flat land, and it was about five hundred yards back of us. They had set up all kinds of anti-tank guns and so forth. And were able to stop them, it's not sure whether they stopped them there or artillery got them, but anyway, three of the five tanks were destroyed and the other two turned tail and went back up. And that was the end of the German thrust entirely. If we hadn't delayed them or stopped them where we did, they would have been right through, on top of the Americans.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>You told me you went and checked the damage of that first tank?</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Well, I went up the next day, we didn't, we only had one gun left at a crossroad now, I'd lost three guns already, out of four. And the Colonel put us up with infantry, we marched up past there, past the station. There was this one tank left. And I looked on top of it and there were dents about that deep on the surface, you know, it goes down in a V like that, you've seen these pictures of these tanks. There were dents all along, we must have hit it with almost every shot, and there was one hole right just below where it comes to a V like that, the hole was right there.</p>
+                  <p>And that must have been unintended, a lucky shot where the guy was shooting too low, skipped on the road, and came into the, because that's softer than the top metal. And the gun was straight up in the air, vertical, completely vertical, with the flash hider Knocked off, and a chip off, a chip about this big off the end of it. And then my guess is that one of our first shots, can you imagine a shell hitting the end of a gun? It had to be, because I never saw, because if he had taken one shot at us we were dead ducks. And that must have stopped him. And anyway, it had frozen the gun.</p>
+                  <p>And with the shell going through, that killed them all. We never saw anybody come out. And then with the second tank you can get them from the side, they're softer there. And the 90 millimeter, you know, we'd normally have -- what you see in the flack, the burst, we had -- the 90 millimeter gun is a very powerful gun. I think it's a 2700 muzzle, 27000 muzzle velocity. Because you have to, we shoot, ten, 12 miles in the air. And when we're bouncing off a tank, that tank is armored. I put my hand in the hole, I've got a big hand, as you can see, and that's how thick the armor was, from here to there. A good six inches, I would say.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>This is a Tiger tank, I assume, right?</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>It's Tiger, Panther, I can't swear, they look the same except one's bigger. I didn't know the difference at the time, but it was in the shape of a Tiger, same shape, and the Panther had pretty much the same shape. But it had a big long gun, it looked like an 88, it might not have been. And so we next went up as infantry and then we were called back that night, had a Battery Commanders' meeting, and were ordered to go to another position, which was, turned out to be near Stavelot. You've heard of that, Stavelot, they had a little massacre there, a civilian massacre.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Oh, yeah. I think I have heard of that, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>There was the Malmedy massacre with soldiers.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>And then Stavelot right in the center of town they had a civilian, they massacred a bunch of civilians. Anyway, we're sent to this position on the map, and since again we didn't know where the Germans were, there was very bad intelligence during that time, nobody knew where anybody was, things were in such a state of flux back and forth. We said we'll have to go in as far as we can go, in other words, we'd go leapfrogging again. Last, first one in gets the last position in back and no opposition. Next one leapfrogs, and so forth, up to the front. And so I told my guys, I says I think we've had enough action for today, let's get there first, which we did. And we had the rear position, plus another crossroad.</p>
+                  <p>And which was at a crossroads, and we were right in the vee of the crossroads. There we had time, so we had sandbags around the gun, we had good fortification. The gun was there covering both crossroads. And actually, the next day they reorganized, and A Battery, which was at the front, now going to go somewhere back to set up antiaircraft, and we replaced them. So we went from the rear position to the front position, which were actually the front lines. We could hear shells going over, and so on. And that next day after we left, we simply left the fortifications the way they were, we pulled the gun back. One of our own P-47s put a bomb right in there, thinking it was a German gun.</p>
+                  <p>And the MP on the corner at the crossroad was killed. Some of our Battalion officers were in a house across the road from where the gun was. And they got sadly Little splinters or something, and they got the Purple Heart. I think that's a disgusting thing to do. Compared to some guy who is badly wounded, he gets the same Purple Heart. You get a splinter, scratch or something, you don't take a Purple Heart. But anyway, that's -- from there on, we had various positions back and forth. We went to the Remagen Bridge, I guess it was March.</p>
+                  <p>Or April, I'm not sure. And we were setting up with a lot of other antiaircraft outfits on the ends of the Remagen Bridge. Let's see. After the war was over, we didn't do anything there except one day they had all the heavy artillery in the entire area concentrate on an area in Germany. They wanted, and that thing must have been obliterated for I don't know how many miles around. Because they had an awful lot of big guns all around, all the AAA outfits, all the field artillery and everything, they gave us the coordinates, we set them, and then they gave us the order to fire.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>This was after the war? After the --</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>No, this was during the war. Apparently they wanted to eliminate something, and I mean, I've never seen anything like it. There must have been hundreds or maybe thousands of guns concentrating on an area in Germany there. Because, I mean, our battalion was only one and we had 16 guns, and I don't know, there were quite a few AAs and all the field artillery, could be hundreds of guns. I know that because we heard it and they just, we were all given the same coordinates to shoot at, and we shot at it.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Was Hitler there? What was --</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>I don't know what it was, but it was a strange thing. But anyway, then the war ended, and we went, we were first sent to a place in the Black Forest called Schwenningen. It's at the southern end of the Black Forest, and we were in occupation there. Nobody knew at that time how the territories were going to be divided between the English, French, Americans, Russians, and the people in town thought I was going to be, I was the senior officer, and the Americans, it was going to be American territory, I was going to be like mayor of the town or something. We didn't have that, we had a regular military government group. But anyway, I got all the swords they had, you know, they had all these engraved swords for ceremonial purposes. I had a whole box of swords, and I told the guys, take them. And then very few guys took them. I'm so sorry I didn't take a couple myself. And then we had a few incidents there. And then we moved to Heidenheim, which was about 80 miles from Stuttgart. Stuttgart was where Battalion Headquarters was. We were in Heidenheim in a schoolhouse, the officers had a room in a little house across from the schoolhouse. And we had a pretty nice setup there. Guys would come to me and say can we do this and do that? You know, to me the war's over, why not. And they, I came with, I think I showed you pictures of a bowling alley. There was a bowling alley.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>A bowling alley.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Oh, yeah. Did you see the picture I had? It was a one-lane bowling alley, and it was filled with furniture. I told the guy, "Look, take the furniture out, I'll rent it from you." Only thing was they had to set the thing by hand, the pins, and not too many guys used it, but we had a bowling alley. Another guy comes to me, "There's an outfit leaving and they have a stable. Can we get it?" I said, "Listen, do you want to run it?" "Yeah." We had a stable. We had a pretty nice setup there. And in the meantime, the war being over, each outfit had rest and recreation areas. They'd send out, well, you have so many this week for the rest and recreation area, and the guys, everybody was just anxious to go home. Our rest and recreation was in Chamonix, it's a very beautiful place in the French Alps. A ski resort, a beautiful place in the summer, and nobody was taking them. Well, I was getting married. My application went through, it took almost a year, incidentally. Had to be approved all the way through channels. And in the meantime, when I got engaged, my future mother-in-law wrote to the mayor of New York, to the mayor of Los Angeles -- I had been born in New York, and lived there the first 24 years. The mayor of Los Angeles, to the president of Dartmouth College where I had gone to college, to the president of Yale University where I had gone to law school, and to my first employer as a lawyer. And she got responses from everybody. She was inquiring about me.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>She was trying to get references about you?</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Yeah. Yeah. Listen, you're a soldier there, what do you know about a soldier. And I told you, I came from a very fine family. And well brought up and so on. So anyway, she got answers from everybody. It's amazing. Basically all I can tell you is he's not a criminal, what do you want to know? So anyway, so these things came through. None of the guys were taking them. So I decided I was going to take one of them for our honeymoon for this week at Chamonix, and I talked two of my men into coming with me, they would take two of them. And we started out on a Saturday, I think we were getting married on Monday or Tuesday, I think Monday. What had happened was we had, every outfit had a captured, a civilian car.</p>
+                  <p>We had a huge touring car like Goering used to drive. That wouldn't be good. And incidentally, those cars were not supposed, were illegal west of the Rhine. So I traded with Battery D, they had a small either ____ or Mercedes, a real small sedan, said you take this one, I'll take that one, and I talked these two guys into coming along. They can go to the enlisted men's hotel, I'll go to the officers' hotel. We'll have a fine time there at Chamonix. They came along to act as driver. My wife boasts, I had three men on my honeymoon. So we go, and on top of the seven days, I said what the hell, seven days is not enough, so I wrote three-day passes for everybody, including myself. A little bit illegally. And we get in the car, we get just over the river into France, we get a blowout. So the two guys start to change the tire. We worked from 2:00 in the morning until 8:00 in the morning. They couldn't do it, the bolts had rusted so bad. You know, these were all sort of abandoned cars. And boy, finally, at almost 9:00 they got to some plumber's thing and with a plumber's tool they were able to do it, get the spare on there. Now we have no spare and the roads are not good. We finally come to a tire depot in Nancy, France. We walk in, there's nobody in charge of this thing, it's a cavernous huge thing. We were able to pick out a couple of tires that might work, and we took them, and went on.</p>
+                  <p>And my wife had been expecting me, we were a day late. She thought I had changed my mind. But anyway, we got there, we got married. We stayed in the hotel that night, and then we drove to Chamonix, which took two days. And we get to -- the men, they go over to the officers' hotel -- to the men's hotel, I go to the officers' hotel, I present my orders. And they say, look at me and say, "Didn't you get the cancellation?" By issuing that three-day pass, I extended it three days, and during those three days they had cancelled everything. He said, "These orders are no good anymore." Wow, I said, any buildings around here you can rent? Some place you can -- they didn't know of any.</p>
+                  <p>I spotted a Major in the lobby who I had known in the States, and I went up to him and I told him what happened. He said, "Oh, the thing was closed down because we're closing the place. This is the week of closing. We've got six officers here, we have seven Red Cross nurses, that's the whole hotel." He says, "You've got the bridal suite." And so we stayed there that day. And I figured, what the hell, we're in Heidenheim, Stuttgart is 80 miles away. I'm the Captain, I'm -- there's nobody around from the Battalion who the -- so we go, I'm going to smuggle my wife to Heidenheim. And I mean we had to smuggle, because we come to the Rhine River, and there were French guards on the Rhine River. And she wouldn't be allowed. So we put her in the back of the car on the floor, covered with a blanket. And we went across.</p>
+                  <p>As a matter of fact, one of the French guards tried to hitch a ride with us, one of the guys just shoved him, basically shoved him away, and she came to Heidenheim with us. We came to the room where we'd been staying, the other two officers moved to the schoolhouse, and the room had been filled by my men with flowers for us. It was very nice. And she was there a week. And all the men are dying to go home, and I was in a little longer than most men. Sure enough, my orders come through on a Saturday, about noon. You're detached, you will report Sunday morning to this outfit over there for transportation home. So we pack all her stuff up, I get in a Jeep, get to -- she had a relative, she had an uncle in Strasbourg who was a doctor. Finally get there at 3:00 in the morning, knock on the door, and I present her, say you'll have to take care of her for a while. He was shocked, he hadn't talked to her during the war.</p>
+                  <p>And then I turn around, drive back. This is the Sunday morning by this time. Pack my stuff, sign off on all the equipment and everything. Tried to collect a few of the men we could find, to say, I said goodbye to a few of the men, and I was off to this new outfit which was sitting in the mud, in tents, outside an airport, and they're sitting. And they're sitting and they're sitting. And they've turned in all their equipment, they're ready to go, and nothing happens. After three weeks I got real disgusted. I went to the airport and called up our 9th Air Defense Commander, and I said, "You've had all these French schools you know that had been offered to all the troops who want to stay on for schooling."</p>
+                  <p>I says, "Have you got anything at all open?" He says, "You're in luck, there's two sergeants failed the course -- to come in for this course." This was Saturday. "Do you want to come in? Can you make it by Monday?" I said, "I'll be there." I went to the Colonel, said, "I'd like to transfer out and be sent to this school." He said okay. And I pack my stuff, went and bummed a ride, and turned up at my wife's door. She thought I was in America already. And I went to school in Paris at the Sorbonne and so forth for two months, and then I came home. And then I, we got her on the first war bride boat. She came in March of '46.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>I want, I want you to get that story on tape about the redistribution of souvenirs.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Oh. Well, as I say, the Battalion always had it easy. I was protesting on a number of things all along, and this is after the war was over, when we were in Heidenheim, I believe. The Colonel calls a Battery Commanders' meeting and he says, "Now, you batteries out in the field have much more opportunity than Headquarters." He says, "The things aren't fair. You have the opportunity to pick up some of these souvenirs, and since they're basically staying where they are they don't have the same opportunity. Now this whole collection of souvenirs is illegal, but we can overlook that. What I'm going to order is that all the souvenirs be turned in and we'll redistribute them on a fair basis." And I mean, I was going to start in, well, you, you guys have had all the years before, of being in a little unfair situation also, but on the other side I didn't say it. All I said was, "Sir, you make that a written order and I'll consider obeying it." And that was the end of that. Because he couldn't make it an order. And that was the end of that.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>That was a trip.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>But, I mean, it was a terrible thing for him to say. You know what souvenirs mean to these guys.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>And they're out in the fields and they're fighting and we're facing the enemy, and he's sitting back and getting the credit as being the head of this brilliant Battalion, and they don't have souvenirs and we do. So anyway, that was that. And then one other thing where I got the bad -- it was at the very end, and the men were all waiting for points to go home. And points were awarded for different things. And when we were at the Remagen Bridge we were at the west end, the other, two batteries on the east end, two on the west end, and they were giving five points for being on the east side of the Rhine and none for being on the west side. So I talked to them at the Battery Commanders' meeting, I said can we fudge that a little? He says, yeah, but keep it within reason, otherwise they'll challenge everything. And so I kept it within reason. Me, I put half of my guys over there. I didn't, I gladly would have put them all, but he told me, you know, we don't want it challenged. And then later I found out that he had put all of Headquarters as being east of the Rhine. And so they had more points. And we had to write a morale report every week. I had to write. And I wrote, "This week morale is very low." I said, "Only a portion of my men got credit, points for being east of the Rhine, whereas the rear echelon headquarters battery got 100 percent of their men points for being across the Rhine." Well, he sent that back to me with a very vicious note, "You rewrite this." Because I called it the rear echelon headquarters battery. So that was it.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>And we'll have it on the paperwork, but this was the 143rd AAA Gun Battalion, Battery C. Right?</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Right. And incidentally, on the awards, we had, in our battery, we had six Silver Stars awarded, two Distinguished Service Crosses. Three of the people up in Stoumont got Silver Stars, and two Distinguished Service Crosses to Seaman (ph) and Derago. The three men on the gun with me where I was on the gun got Silver Stars. I didn't get one. I never could figure it out. I don't know whether he had something in for me long before, but, of course this was long before I had those fusses with him. But when I was at the, went to my first Battalion reunion in '95 we were back at Harry Lane's house, and the men were around, we were talking, they said, "Captain, why didn't you get the Silver Star? You were sitting on the gun, you didn't even have to be there, you were not supposed to be there, but the men got -- " So I was like, I said, "You know something? I had been annoyed at the beginning, but I had forgotten about it. But I think I'll find out why." So I wrote to him. And he wrote back. A nice letter, but he gave me just gobbledygook. You'd almost think it was somebody doodling or something. Well, we were attached to this outfit, attached to that, things were, we were out of the loop. And there was a quota on there, and so all the officers, same thing. A, Lieutenant McGuire got one of the Silver Stars, so he's one of the officers. So right there was untrue. And I wrote to the Army. And I found that there was no such quota. It was bunch of baloney. And I wrote him back again and everything. And then while I was writing to the Army somebody from the Army wrote back, it just so happens this year, this was in '96, they have opened up the window. If you didn't get an award within, I think it was either two or three years after the event it was a dead issue, but this year they opened it up for a period of a couple of years, where you can get a delayed award. And they sent me the application forms and everything. I filled out the application, and sent it to the Colonel, and explained that he had been mistaken, I found out from the Army, and naturally I understood he could be mistaken. But anyway, he sent me back with a nasty letter, he said, I'm not going back through my records for 50 years, and all the officers were properly treated. They all acted well. Very nasty letter. So I dropped it again. And then some guy from, a friend of mine who had been in the Army, he said, "Why don't you have somebody else sign the application?" I figured only the commanding officer could do it. But there's nothing, no restriction on it. Well, I asked Al, and he said, "By God, I'll be proud to." Al Derago signed the application for me, he also signed the witness, he was there. He signed the witness statement. I got another witness statement, they investigated, and I got the Silver Star in '98.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>So you got your Silver Star.</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>Yeah. And then, but it had its compensation, too. I was able to have my family there, my grandchildren, something, and as a matter of fact, even that was funny, because Congressman Waxman was supposed to present it, he had the medal and the citation, and it was supposed to be presented on Wednesday, my daughter was leaving for somewhere Thursday, and Tuesday I get word that he can't make it, he's got to go to some funeral or something. My daughter was very upset. So I called, I looked up in the phone book the nearest military office. I said, "Do you have some officer that can make the presentation?" I faxed them all the citations, commendations we had received, and material. "Well, there's nobody around. I don't know if we can have anybody. If you don't hear by four o'clock, I doubt it." Anyway, then I called a friend of mine who was on the Beverly Hills City Council. And I said, "Mark, I'm getting this citation and the Congressman can't make it. Can you get the Mayor to present it?" "Oh, sure." And we had it Wednesday at two o'clock in the Mayor's office. And at 8:00 that morning on Wednesday I get a call, the General is going to be there. And so both the Mayor and the two-star General, General Crowe, presented it and we had a ceremony there. So it turned out all right. Those are the things that happened. So, we had now seven stars with Battery C. And I don't, and, 58 years has been going by since I married, and we're still together. We're different nationalities, naturally different religions, even different sexes, and we're still there.</p>
+               </sp>
+               <sp>
+                  <speaker>Tom Swope</speaker>
+                  <p>Very good. Did your wife have it rough in France during the war?</p>
+               </sp>
+               <sp>
+                  <speaker>Leon Kent</speaker>
+                  <p>They didn't have too much to eat. As a matter of fact, one of the funny things, an incident I forgot to mention. I didn't want to bring her anything, I thought it would be wrong to bring her any food or anything, from, you know, from the government stores, all the men, because all the men should have the same opportunity. But the Mess Sergeant, when he knew I was going to visit her, insisted on putting a gallon can of peanut butter in my Jeep. Yeah, we're going, I'm finishing. Because he said they're forcing them to take the peanut butter and it doesn't get eaten. You know, the quartermaster, some Congressman probably owned a peanut farm, and he said they're forcing us, it's just sitting here. So he put it, and they ate, to them it was an absolute wondrous delight, they ate it with a big spoon and so forth. I would bring peanut butter in a gallon can. Yeah, they didn't have much to eat. She'd come from a fairly wealthy family, and they lost most of it. Their home had been bombed out by the Germans. </p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

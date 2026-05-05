@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd" >
+
+<!--
+<!DOCTYPE TEI.2 SYSTEM "c:/standards/teilite/teixlite.dtd" >
+-->
+
+
+<TEI.2>
+  <teiHeader type="personal_narrative">
+    <fileDesc>
+      <titleStmt>
+	<title>Veterans Share Their Memories: William H. Bucklew, May 27, 2004</title>
+	<author></author>
+	<respStmt>
+	  <resp>Encoded by</resp>
+	  <name>Matthew McCrady</name>
+	</respStmt>
+      </titleStmt>
+      <publicationStmt>
+	<idno>025014.pn0001</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<bibl>
+	  <title>Veterans Share Their Memories: William H. Bucklew, May 27, 2004</title>
+	  <author></author>
+	  <date>May 27, 2004</date>
+	</bibl>
+	<p/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+	<p>Encoded for the "World War II Reunion 2004" web site for the Veterans History Project.</p>
+      </projectDesc>
+      <samplingDecl>
+	<p>All items in the William H. Bucklew collection were digitized.</p>
+      </samplingDecl>
+      <editorialDecl>
+	<p>A VHP staff member or volunteer transcribed this narrative from the dictation of the veteran.  The transcription is meant to reflect minimal changes to the spoken account in an effort to communicate the veteran's experiences more accurately and clearly.</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+	<p>Initiation as we crossed the International Date Line: October 16, 1944 (which didn't exist, since we went to sleep Sunday night the 15th and arose on Tuesday morning the 17th).  We crossed the equator at almost the same time.  Everybody on board (approximately 2000) was initiated.  The initiating crew was armed with scissors, buckets of yellow paint and a brush, wet towels.  They had flooded the decks with water, approximately three inches deep.  As you made your way around the ship, you would get hit with wet towels, painted, hunks of your hair cut out, and you had to pass King Neptunus Rex, who had an electric fork.  It took so long, that we had to break for lunch.  We were supposed to re-start where we left off.  After you finished, you were on the top deck near the fantail.  Two or three guys grabbed you, pushed you into a chair, banged you on the shoulder, hassled you; the chair broke away and dumped you down three decks into a tank of water.  The tank was only about four feet deep, but when you got out, you fought your way out through more guys with wet towels.  After you got passed them, you were finished.  Then the P.A. system sent out the announcement that if there were any holdouts, they should be turned in  (approximately 60 guys).  They should have gone through the first time.  They got the works.  About nine to ten of our guys were in the initiating crew, and they knew whom to nail!  Each given a card to prove they'd been through.  If they didn't have it on the next crossing, they'd have to go through it all again. Coming back, we were so happy that we didn't care. (We all had the card in any case.)  Coming back, there was such a jam up of ships that people couldn't be landed.  Six hundred miles out, some got messages that they'd have to come back via the Panama Canal.  Came back to New York.  (The Panamanians wanted to throw a party.  Tentatively 10 men assigned per officer, but everyone grumbled at the thought.  Ultimately they decided not to stop, so put up the quarantine flag and went on through.)</p>
+	<p>I was yellow under the fingernails from the quinine (or other malaria treatments) for about 10 years!</p>
+	<p>Veteran on Omaha Beach.  Veteran of invasion of Luzon, Philippines (first wave - amphibious unit).  Part of occupation force in Kyoto.</p>
+	<note>End of Transcript</note>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

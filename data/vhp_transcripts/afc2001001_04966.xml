@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with George Hanna, March 25, 2003</title>
+            <author>Thomas Swope</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Celeste Mitchell</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with George Hanna</title>
+               <author>Thomas Swope</author>
+               <date>March 25, 2003</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with George Hanna was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with George Hanna [March 25, 2003]</head>
+            <div2>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>This is the oral history of World War II veteran George A. Hanna. Mr. Hanna served in the U.S. Army Signal Corps. George's highest rank was T-3 and he served in the Mideast at India. I'm Tom Swope and this recording was made at Mr. Hanna's home in Mentor, Ohio on March 25, 2003. George was 86 at the time of this recording. Where were you living in 1941? George Hanna:: In '41 I was living in South Euclid with my parents at that time and I had just gotten married two weeks before I was pulled into the service. And --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you go into the service before December 7th?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Oh, yes, I was in June 1941.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Drafted?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Pardon?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Were you drafted or did you --</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Oh, yeah, I was drafted. Yeah, my number came up and I was in in June 1941. I was shipped down to Columbus, Ohio, of course, to get the -- your uniforms and so forth, and then I was shipped out to Camp Walters, Texas where I took my basic training for 13 weeks out there. And during the course of the training they discovered in my records that I had been affiliated with music so they put me into radio because they felt that people with a musical background took up the code faster. So they -- I got into radio in the infantry at that time and so I would train there -- (coughs) excuse me. And then I was shipped from there to Fort Leonardwood in Missouri and joined the Seventh -- Sixth Division there, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did they give you any kind of a reason why they thought a musical background would help you pick up the code easier?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Supposedly that your mental processes are such, when you are musically inclined, that you can pick up the code and memorize it. And it's -- it isn't easy to do. But surprisingly, once you learn it, you never forget it. And a matter of fact, after I got out of the service, for a couple years afterwards I'd pick up a newspaper and I -- the code would be sounding in my head. And --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So you could almost transpose what you're reading into code?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Yes. Yes. Yes. So anyway, when I went to Fort Leonardwood, Missouri, why, I joined the First Infantry Regimen of the Sixth Division and we trained there and I was doing field network as they call it where they had a portable radio and then you strung a antenna to a tree. It was pretty crude in those days. And then I was sending on a hand key and -- to various divisions. Then I volunteered for detached service and this Lieutenant Rickerson asked me would I become his communications man, and I said, "Well, sure." So we took off, all, every bit of equipment we had on a train, headed west. Had no idea where we were going. Finally one day we stopped. We were in the middle of the Mohave Desert, India. So we went up there and what we did, we established desert training camp for Patton's second armored. And so I was operating radio then in what they call a command car and it just wasn't practical because it couldn't work over the sand dunes so we transferred into a half track. So then I operated a radio in a half track with Patton and we trained with him for about four months out there in the desert. And I saw him and, in fact, it was close to you -- as you are to me now and --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you have any chance to have any conversations at all --</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>No, never.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>-- was there a word?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>No, other than the fact that he would break in in our transmissions. At that time we went from code to clear text or voice because we were moving so fast and he -- he kept breaking in on the transmissions. So all of a sudden there was this voice saying, "Blow it out your barracks bag" and then complete silence. So Patton says, "What was that last transmission? What was that last transmission?" And he went through the entire outfit trying to find who made that statement. He never found out. But the guy was fair. Patton was fair. We -- he had a soft spot in his heart for the infantry, and he hired a -- two cars of a train and took us into Los Angeles, Hollywood, for a weekend and he picked up the tab for the whole thing. So he was -- he was a {ravin} follower of this {Perdine} McFadden who was a health nut and he gave us a talk one day and he had -- he had a platform built out in the desert, and he was telling us what he was going to do to the Nazis and the Japs. And I can't use the language that he used, but there was a woman on the platform, we don't know who she was, but we all wanted to crawl under the sand because we were that embarrassed. But the man was like that. He had his pearl heart handles on his sides and his polished helmet and his riding boots and so forth. It was really -- really something. But anyway, I was pulled out of there. I appeared before his board and they decided that they -- I should be -- have advanced training in radio. So I was shipped from the west coast all the way to the east coast to Fort Monmouth in Jersey and I took advanced training in high speed radio operation. So after I got through with that, then this major said to me, "You know, I'd like to have you stay and teach." So I did. I taught for 18 months at Fort Monmouth. I taught radio and radio transmission. Well, when I left, I was unassigned. I got to this camp in Pennsylvania and I was supposed to be a hot shipment, going oversees right now, and the major said, "Look, I need you here because we're having fellows going over the hill. I want you to establish a school." So I did. I established a school. So then when I finally shipped out, went down to Newport News, Virginia, got on the ship with 5,000 other guys and we took off. I had no idea where we were going.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>When was that crossing?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>When?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>That was 194 -- latter part of '4 -- early part of '44, just before the invasion, and we -- I thought we were going over on that deal. But we went down the east coast, down through the Panama Canal, down through the South Pacific, Ladderdown, New Zealand, took up some oil there, and then Australia, Melbourne, got more oil there. And I asked this captain, I said, "Where in the devil are we going?" He said, "George," he said, "I have no idea. It's sealed orders." So the ship stopped one morning, and I said, "Where in the devil are we?" He said, "Bombay, India." So we were on that ship for 47 days. And so when we got off the -- off the ship, we went into the interior in the Indian in this camp and I thought we were going to go to Burma. Well, there was 150 of us pulled out of that shipment, shipped back to Bombay, got on another ship, up through the Indian Ocean, and we stopped at Khorramshahr, Iran, and I thought what are we doing here. This is not a noncombatant deal, you know. So here we find out that they had truck and plane assembly plants there. They were shipping and they had shipped totally by the end of the war over four-and-a-half-million tons worth of supplies to Russia during the Stalingrad deal. If it hadn't been for us, I'm not kidding you, they would have lost their fanny. We had P-39's and P-40's that were shipped over. We had professional guys that were in the service but they assembled the aircraft. The Russian pilots would come down, pick up the aircraft and fly them up to Stalingrad. Same thing -- same with the trucks. The trucks were assembled and they were -- some of them were picky, picky, picky about things, you know, finally they took them, but they all raved about how the equipment performed after the service was over with. And the funny part of it was, the 50th anniversary of the crossing of the River Elb we went to Arlington Cemetery and we met the 69th Rainbow Division there, and these fellows were telling me, he said, "We couldn't figure out why all this American equipment was coming from -- through Russia and it was from us." So -- but anyway, they -- I was in -- stationed at the northern part of Iran and I was working what they call a fixed station radio. I had worked five stations. I worked WS in Washington direct; Moscow, JMRR in Moscow; Karachi, India; Cairo; and {Caria}, Turkey and all CW. I had a bank of {hammel} and super pros in front of me and another bank behind me. And depending --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>CW?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Yes, all CW, code.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What's that, CW?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>That means code.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Just code, okay.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>All right.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>And I had two typewriters. These typewriters were called mills because the upper and lower case letters are both capitalized. So when I would -- it had three classifications of messages. They had routine, operational priority and urgent. And as I was sending a routine message and one of the other stations broke in and said, "I have an urgent message," I would give this man a stand-by and then tell him to go ahead and send his message. And sometimes I'd have to turn around and throw another message blank in the other typewriter and type him then a receipt for that and I just swing it back and talk to the other one. So I did this, I wasn't the only one doing it, of course, but I mean it was about maybe six, seven hours a day. And during this time the Germans were jamming the frequencies. They were sending an automatic key head which was trying to screw up the transmissions. So you'd have to detune the receiver, what we call the zero beat. We'd either go to the high side or the low side of zero beat so we could pick up the transmission. So it was nerve racking, I mean you were -- you were all tense at the end of the day, you know. But then I was over there -- (coughs) excuse me -- for about two years. Then what they did, they shipped me from Camp {Amerivad} which is outside of Tehran down to Abadan and put me in charge of a signal installation down there, and I was a buck sergeant at that time and I replaced two first lieutenants. So I asked this major, I said, "How about some rank?" He said, "George," he said, "I know you deserve it but," he said, "we just don't have any." So I was in charge of 2 -- 22 men down there as a buck sergeant. But anyway, the temperatures down there in the summer got to be horrendous. In August, we had some temperatures as high as 171 degrees. And I mean it's hard to conceive, but I can remember riding in a vehicle and the hair on my arms were actually standing up because of the rapid evaporation of the moisture in your system so you became dehydrated. And that's when I was given a rest leave. And I went to Basra, caught the train in Basra and we call it the Baghdad bullet, and we went up to Baghdad, stayed there about three days or so, and then we went through the Transjordan by truck convoy into Palestine. And I spent what, three weeks in the Holy Land, in Bethlehem, Jerusalem and so forth and so on and we were able to eat oranges to replenish our supplies. But, yeah, I came back then, of course, and then I stayed there supervising this operation until the war was over with. So then I came from there, I left Abadan Air Base, flew to Cairo, Cairo to Tripoli, Tripoli over the Sahara Desert to Casablanca and then Casablanca right back to Newport News, so I went right around the world. So -- but that was the -- it was an interesting experience, there's no question about it. I met some very interesting people. And the -- the Indians, the Hindus, were very, very nice. The ones in the Middle East, you couldn't trust them. And that's why I'm -- when I'm listening to the news here where they put their hands up to surrender and then they do something, I wouldn't give them any quarter at all. We had them -- they stole -- we had copper wire on our land teletype and they would tie hacksaw blades on the end of poles and saw the copper wire. Then they would take the wire back to their villages and beat it into gifts and then sell it back to the post exchange. So we went out and tried to get them, couple of times we did, but the same thing occurred with our trucking setup. They would wait 'til the last truck in the convoy would go up, and I'll show you pictures of the road so you can appreciate what we had to do here, they had to rebuild this road, they had to rebuild 133 railroad tunnels to allow our stock to go through, and they would wait 'til the last truck in the convoy would go through and then they'd try to shoot the driver and the assistant driver, take all the stuff off the truck and push the truck off a precipice. You'd never find the damn thing. Never find the thing. So we tried to get these jokers. We went out looking for them to shoot them and we could never find them. They'd hide in the rocks. So the government, the American government, sent out a call to the chieftains of these tribes and we paid them off to allow our freight to go through unopposed. It was cheaper to do it that way. So as I say, you know, things that are done during war are something else. It's surprising what has to be done sometimes. As a matter of fact, I remember we -- the American solider has always been good to the kids, and when we were up in Camp Amerivad in Iran in the northern part, one of the fellows was trying to establish a boy scout troop. Well, it was pretty difficult to do that, but he did take these kids with him out on a camping out overnight. Well, when they got to this one station that was run by the British, they said, "Be careful of bandits in the road." So when they drove down the road, sure enough all of a sudden this one guy comes out and he's waving his arms to flag the truck down and the assistant driver said, "Don't stop. Keep going." So he just floored it, kept going. This guy didn't jump quite fast enough and they -- he hit him. That no longer -- I mean it no sooner happened, then there was umpteen hundred of these characters come out from the ditches shooting. It was like a wild west movie deal and we were out the back end of the -- of the vehicle shooting back -- back at them. This is what it was. It was -- that was the kind of people they were. They hated our guts because we were the unbelievers. We were the infidels. And we tried to be friendly to them, a lot of them, you know. I remember one young boy that was -- cleaned our barracks for us, Hamid, nice kid, and one day I was looking through a Good Housekeeping magazine. So he sat on the bunk with me, and he said, "May I see this magazine, Sergeant?" I said, "Yes, you can." So we sat down there and we leafed through it, and he said, "Is it really that clean in America?" He said, "All the houses, the streets are so clean." And I said, "Yes, because we make a fetish of being clean." He says, "I would love to go to America some day." And I often wondered whether he ever made it, you know. He was a nice kid. But for everyone like that there was always a bunch that were nutheads, you know, so -- but that was it. I got back to the states and I was discharged in December of 1945. As a matter of fact, I was in Palestine when Roosevelt died and Truman took over as president. And --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What was the reaction of the people there in Palestine when they heard the news about it?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>They were -- they were broken up about it because this guy, Roosevelt, had really done a job. They really thought he was really something special. And the GI's did, too, I mean, you know, so -- but Stalin, of course, they had that Tehran conference and they -- they -- Stalin was -- he did a number on our -- our people, you know. This guy was a devious so-and-so and they -- they knew he was no good. As a matter of fact, when we were in Tehran, we tried to be friendly to the Russians. They wanted no part of us because they were told that we were no good and so forth and so on. And, of course, you know, what the heck, we tried to be friendly and they just -- they didn't want any part of us. But that -- towards the end of the war, then they began to realize that we weren't the two-headed monsters that they were told we were. And I remember getting a ride into Tehran one afternoon with a Russian truck driver and in talking to him, I said, "I suppose you want to get back to Moscow after the war is over." He says, "Nope. Me want to go to America." So they weren't that stupid either. But all in all it was a very interesting -- interesting experience. I -- I wouldn't have traded it for anything in the world. There were some parts of it that I could have done without. There were some funny parts.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Let's hear some of the funny parts.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Well, some -- (coughs) -- one of the things that happened, the latrines were what they call quartermaster boxes, and because of the large collection of flies over there they had to keep the quartermaster boxes sprayed with oil and you were forbidden to smoke inside the quartermaster boxes. Well, this one day this one fellow went in and he lit up a cigarette. He forgot completely and he threw the match down there and it exploded. The whole thing collapsed into the -- into the pit and here he's down there in the pit covered with sweet violets and screaming at the top of his lungs, you know, "Get me out of here. Get me out of here." And, you know, we were laughing ourselves sick but we did get a rope and pull him up. Well, he was taking a shower about every five seconds after that for I don't know how long. Then there was another case where every company had a dog and we always kept the dogs under lock and key when there was any parade. In the service, if you have a square foot of clear soil, they put on a parade. So anyway, we had this parade all this day and the first sergeant was standing alongside of me and we were talking under -- under quiet -- quiet breath, but all of a sudden we see our dog from our barracks come down the line, and Joe said to me, he said, "Holy smokes, who let the dog out?" And I said, "I don't know. I thought he was under lock and key." So he came all the way down to our company and one of the fellows is standing there with a guide on, a flag at parade rest, and Joe said to me, "Gosh, I hope he doesn't do what I think he's going to do." And I said, "Oh, I don't think he will." Sure enough, the dog goes up, smells the guide on and relieves himself on the guide on, gets it all over the guy's pants. Well, that broke up the entire parade because that went right up and to the colonel and everybody was breaking up because of this stupid dog. So there was some amusing things, too, you know. We had a -- in Tehran we had a big camp for Polish refugee women who had escaped from Siberia, and these women had some stories that would curl your hair. And we hired them to do different jobs and so forth. They were working in some of the clubs, cafes in Tehran. And I'll never forget this one night, and I wasn't there this night, but this one woman, and she was a nice person, but this Russian officer wanted to -- her to go to bed with him and she didn't want any part of it, so he started to get abusive. And there was an American sergeant there. He went up and he pushed this Russian officer away. She was sitting down, deputy was pushed, he pulls out his service pistol to this American sergeant. And this guy had guts. He walked up there. He grabbed this man's gun out of his hand and then he really worked him over. Well, then they had an international incident about it because it -- an enlisted man hitting an officer, but all of these witnesses came before the court, told their story, and this guy was shipped out and never heard of him again. He was -- he disappeared. But this is what we put up with sometimes. It was a -- the sanitation over there was horrendous. We don't know what filth is in this country. I saw kids going through garbage dumps with nails at the ends of sticks looking for food. And this -- the water was as black as the inside of your hat. And they ran water twice a day in Tehran through ditches and everybody did everything there, I mean washed their clothes, did everything. It was -- it was pretty hard for us to handle because we're so used to hygiene, you know, and they didn't know what the devil it was all about. They just ... So -- but we had -- of course, at that time the Shaw was in power and he was very much pro-western and the result being was that we -- we had no problems really. It's -- his wife, her name was {Foosia}, and she -- she was a Farouk of Egypt and a beautiful, beautiful woman, and we had -- we had -- they had a couple of guys that went skiing up on Mt. Demavan outside of Tehran and she went skiing with 'em. I wanted to show you some of the temperature factors that I was telling you about. So it -- it wasn't exactly a bed of roses, you know, what the heck.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>I'm going to say this out loud for the purpose of the tape, in August you got highlighted 160 degrees, 168, 163, 166.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>171, 167.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>And I've made a first here of 44, 120 degrees.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Oh, man. And that appears to be the -- well, okay, there was a 90-degree day here.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Yeah. Yeah, right.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>That was nice.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Yeah, we put -- we put on sweaters that day. But --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So you were actually in Tehran when the conference was held with --</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>No. No.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>You were not in the --</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>-- city at that time?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>No. I -- I -- it was -- it happened before we got over there. And as I say, you know, when you're in the service, you went where they shipped you. You had no control of where you were going to go. And I had no idea where I was going to be shipped, none, because I'd had combat training and I was ready for combat, but it never happened.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What was your outfit?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>The 833rd Signal Service Company. And then we became a part of a 33 42nd Signal Service Company, and we supplied all of the communications for the entire command, and they -- some of the guys were putting -- stringing wire through railroad tunnels when trains were going through and, oh, you know, some of the conditions were really something. It was. It was something.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>When you talked about some of the sabotage against railroad tunnels, that was the Iranian tribes or whatever were --</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Oh, yeah, nomadic -- nomadic tribes.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>-- trying to steal --</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Oh, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>-- what was on the train?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Oh, sure. Sure. There's the queen.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Oh, my. Can't see this on the tape but she's lovely.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Yeah. Yeah, she was. She was a Farouk of Egypt. And he -- he divorced her because she couldn't bear him a son, and he married another one and she couldn't bear him a son either so he got rid of her, and he had a third one and she finally gave him an heir. And he had three wives, but she was a very nice person, well-educated.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you get close to talk to her or anything like that?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>No. I saw her relatively close but I never -- never had a chance to talk to her. But a couple of the guys went skiing with her. Now --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Most of these incidents that you're talking about where the nomadic tribes were attacking, were those in Iran or Iraq or both?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>No, this was -- this was in Iran.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Iran.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Oh, yeah. Yeah. No, we had no -- no problems with the Iraqis at that time. As a matter of fact, we had dinner at a beautiful hotel in Baghdad called the {Summerhomes} and it was right on the banks of the Tigris River, and they had an illuminated dance floor and the sheiks would come in there for dinner and they would come in with their bodyguards with their bandoliers of ammunition and their {cemitars} and their sashes and -- to guard, to guard the sheiks. And the sheiks were nice guys. We had dinners with them, you know, on the table, different tables, and very nice. They were well-educated and -- But no, we had -- as a matter of fact, I had lunch one day at the YMCA that they had run by the Salvation Army in Baghdad. And they were great, the Salvation Army, I give them credit for a lot of things. I still contribute to the Salvation Army because they're a great outfit. And, yeah, we -- we had a lot of -- lot of fun. I remember while we were traveling over to Palestine, a friend of mine was running this weigh station, Dwight Peterson, and he was from New York, so he said, "There's a family I want you to meet, George." And I said, "Fine." So we went down this adobe hacienda and the family came out and they all looked like they were well-dressed and we went inside the home and the furniture looked not like that era should be at all, you know. So Dwight introduced me to this fellow, he said, "This is Mr. O'Dea," and I said, "You're an Irishman over here in the middle of the desert?" Then he laughed, he says, "No," he says, "It's O-d-e-h, Odeh." And he said, "What did you say your name was?" And I said, "Hanna." And he said, "Are you Arabic?" And I said, "No." I said, "I happen to be Scottish and Irish." And he said, "Well," he said, "in the translation from Arabic into English comes out Hanna and they spell it H-a-n-n-a." So it was quite a revelation for me. But I know here in this -- in the states there are Hannas who are Lebanese Arabic. And matter of fact, there's a Dr. Michael Hanna at Hillcrest Hospital and he and I have talked to each other several times, you know, and he's Lebanese but same spelling, exactly the same spelling so ...</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you get much entertainment over there in Iran?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Well, we had some come over. We had Nelson that he came over once. We had the Air Force Band come over. And then what we did ourselves, we formed a -- a group and put on a show and we called it the Abadandees because it was down in the -- in the southern part of Iran. And we -- it was quite a good show. It was well put together and we had -- at that time there was some Angelo -- the Angelo Iranian Oil Company that was down there had civilian people. So we got some of the gals and we taught them to dance and they became a line of dancing, this group that we called ourselves the Abadandees, and there's a -- (coughs) -- it was -- it was something that was different.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What were some of the songs you sang?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>What?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What were some of the songs you sang?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Well, some of them were -- at that time were the regular war song. I can't remember the darn ole individuals.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Don't remember any titles.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>But we had one -- one fellow that -- his name was Bob Lawrence, in fact, he had a booking agency here in Cleveland, and he was in the Air Force there, and Bob and I, when he found out I was from Cleveland, he came over and we became acquainted. And he played the accordion. And then he -- he used to play around town here, he has a band, so he's living out in -- in Walden right now, and he's the only one that I know in this area. But there was a picture of our group called the Abadandees, and we had -- there were several of us there, and you can see us with wigs on, we had wigs and we had -- wore tutus and GI shoes, and every time we'd get -- do this number, I would crack up. I could not stop from laughing because these burly characters dancing like a Waltz bluet. So we -- it was just -- we had -- we had sold out audiences every time we put that thing on. Then we traveled from there to Habania Air Base in Turkey and Bahrain Island and -- but it was fun. We had a lot of fun. But it was a relief, you know, it was just -- it was one fellow there by the name of Burt Conway, he was from Alabama, and Burt did a female impersonating deal and did a strip act.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>It says here Burt Conway stopped the show with his burlesque strip tease.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Right, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Well, that must have been interesting. I hope he didn't finish the act.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>No, no. No, let it all hang out. But no, that was -- but that was, you know -- it was an interesting sojourn on my part. I met a lot of interesting people. And when I was stationed in Monmouth, New Jersey, I used to get into New York every weekend and I met a lot of top musicians, Buddy Hackett who played the trumpet for Gleason, Jackie Gleason's records. And a fellow by the name of Joe Sullivan was playing piano at the -- oh, what the heck -- the Onyx Club, and I had became acquainted with Joe. And, of course, because I had been in the singing bit and so forth, why, I used to sing with him every -- every Saturday afternoon at the Onyx Club in New York in a uniform, so that was fun. And they -- the thing about the American GI, he always found something that was amusing to take away the horror of certain areas. That's one thing that the other countries just don't do. They don't know how to do it. Because we think individually and we're not controlled, our thinking, so we can think as we want to think. So -- but it's -- it makes you wonder about this present situation over there. I hope that they don't allow them to give us snow jobs because these people are devious. Well, case in point was this one that they were going to surrender and then they captured them, and they can't allow that to happen. We're -- because we're benevolent, we trust people, and we can't trust them. You just can't trust them.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>And that was certainly obvious even back then?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>That's right.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So it was the leadership that was pro west but the people in the country --</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>-- did not care for Americans at all?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Well, I think a lot of it was because of lack of education. They had not been associated or affiliated with the -- with the west at all. You know, the thing that amazes me is that the tenants of Muslimism are not militant at all. As a matter of fact, Mohammed was a believer in Jesus Christ, and he -- they started from Abraham, that's where it started. And it doesn't make sense, you know, the -- and the true Muslim knows that, but -- this militant bunch, they -- they've bastardized a belief and it's a damn shame, so I don't know.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>And that's interesting because we've been given the impression that the reason they hate Americans is because of propaganda. Back then they probably weren't necessarily hearing anti-American propaganda.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>They made up their mind out of jealousy or whatever.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Yeah. Well, we -- you know, the odd part of it was, too, they had no -- no sanitation. We left water filtration plants over there. Now, I don't know whether they ever used them or not, but we did leave them there. And they normally -- as a matter of fact, they had wells that they dug as deep as 300 feet so they could get the water 'cause the water was a big problem over there, no question about it, it was so dry and arid. And in the spring of the year after they did have some precipitation, the hills and the mountains were just covered with opium poppies and, of course, that was a big business over there. And the vodka, the Persian vodka that they had, there's seeds in the bottom of the vodka, so I asked this one fellow this one day, I said, "What are those seeds in the bottom of the vodka?" He said, "Those are opium poppy seeds." Oh, gosh. Yeah, it's -- it's a strange area and yet it was a cradle of civilization. The City of Ray, they had things back there, filigree, silver filigree work, beautiful. Some of the greatest philosophers were Persians for Pete's sake, you know, and they've done 180 degrees unfortunately. But the -- they had what was Queen Ester's Palace and Daniel's Tomb, and then we had a city called {Disvil} that it's mentioned in the Bible as the city of the blind, and because it's so darn hot, they lived in subterranean caverns below the surface and result being was their eyes were affected and so they weren't as able to see as well as others. And as I say, it was a quite interesting area because of the history. But, yeah, it's -- it was a command that, of course, very few people knew about. And a matter of fact, there was an article, we had a reunion in Buffalo and a fellow by the name of Bob {Currin} wrote an article about that, about the Persian Gulf, and he thought -- he said that he thought the Persian Gulf War, that they had a reunion already. And, of course, this dates back. The first part of this operation started in 1941 by the British and then we got involved more and more and more and the result being was that we finally took over. But --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>And then one of the responsibilities that you had there is that you were assembling equipment and convoying it to Russia?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>The planes -- the planes, the Russian pilots came down and pick up the planes and then they flew them up to Stalingrad. The trucks, we would go so far and then the Russians wouldn't allow us to go into Russia. They would --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>-- take the trucks from there.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>The border.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Yeah, yeah. And the other supplies, of course, they would take for them. But, no, as a matter of fact, towards the end of the war with Japan we were going to move up through to Siberia to formulate a leaping-off point to go to Japan, and we cut out the tops of the four-by-fours, bought 'em machine guns, took skiing lessons and we were ready to take off for Siberia and the Russians would not allow us to go up there, so we had to cancel that whole procedure. So, otherwise, we would have had a jumping-off place from there to Japan. So, yeah, it's -- they were not very trust -- trusting, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you have any close buddies over there?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Yes. I -- I had one -- one fellow that he's a young -- young man, too, he was a Greek kid, name was George Carlos, and he was what, he was 19 at that time, I wasn't a kid when I got into the service, and George and I have kept in touch. And the last organization that I was affiliated with, Sherwin Williams Company and I was in the chemical coatings division, I handled all the major manufacturing plants in this part of the country, and George went with Sherwin Williams. So we, my son and I, went down to Cambridge and he was managing a store down there, and we walked in the store and I told my son to keep his back to him. And he had paint brushes on display. So George was waiting on a customer and I had reached up and grabbed a paint brush and put it under my jacket, and I could see him straining to see what was going on. And then when he would turn his head again, I would grab another brush and so forth. So finally he couldn't stand it any longer, he comes rushing over, he says, "What are you" -- and then he saw who I was and we had great -- a terrific reunion. (END OF SIDE ONE, TAKE ONE; BEGIN SIDE TWO, TAPE ONE) And then he went over to Athens and he saw relatives over there. But then there was another young fellow by the name of Dick Piazza and Dick's family had a produce business in Minneapolis, and I was up there on business and looked him up and we got together again, you know. And then, of course, as I say, this one fellow, Bob Lawrence, here in this town and living in Walden so see him occasionally. But, no, it's surprising the -- you know, the -- when the war was over, why, everybody scattered to the four winds. Although we -- we do have a Persian Gulf reunion every year. Matter of fact, this year we're meeting at Abalon in Warren, and we still have quite a few left. All of us are getting up there now. And there's one who was a nurse, Ruth Connolly Wilson, she lives out here in Madison, she just moved out there from Parma, and Ruth was a nurse over there, and they -- some of the conditions they had to work under were something else because we had no -- no air conditioning. And they -- all they had was aspirin and I forget what else, they didn't have enough blankets or anything else when we first got over there, so it was pretty -- pretty primitive, believe me and -- but these gals did a great job. Great job. And then Ann became head of the Persian Gulf organization and great gal. Great gal. And then there's Rita {Coggle} who was in that article there, she was -- she was head of the organization one year and that's the year we went up to -- to Buffalo and had our reunion up there. But we try to get one every year, those who are able to go, and so it's -- it's -- we keep in touch, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you lose anybody close to you over there?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>You're lucky there.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>No. There were -- there were people who died of heat frustration, because of the extreme heat. And we did have some guys that were shot, not people that I knew but, you know, it was -- it was a noncombatant zone, yet you were subject to, you know -- and we had no -- no arms. We didn't carry no arms at all. So we -- we did go up one time I remember and we had -- they gave us carbines to fire on a firing range and, of course, I had done all this, but we had no side arms at all. I mean when I stop to think about it, I mean, you know, we were leaving ourselves wide open, no question about it, but because it was noncombatant, why, you know, so ...</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Do you remember mail call? Did you get much mail from home from your wife?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Oh, yes. Yes, we got -- that was welcome. And we wanted to find out what was going -- going on at home, of course, and both my mother and father were alive then, too, and it was always good to hear from them. And so -- and my wife, of course, like to hear what's going on. My wife happened to -- she was in the entertainment business and she was with three other girls, they had themselves an act, and they worked all over the Midwest. They were a very, very professional group. And so she worked in a lot of the clubs around the -- around the country, worked Chicago, Detroit and so forth, you know, but, yeah, she was a dancer. She was excellent.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Was she doing that during the war then?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Yeah. So yeah, it was -- it was interesting 'cause I never knew where she was half the time.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did she know where you were?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Generally.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you tell her that you were in Iran?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Oh, yeah. Yeah. After we got established there, then we could communicate. When I was in India, I couldn't state -- in fact, I had had a -- just ran across a V-mail that I had sent to my mother and dad and I said to them: I can't tell you where I am. I'm somewhere in India. But, yeah, it -- that was a -- that was a big deal when the mail came 'cause everybody was very much wanting to get home and especially in that area. It was not the greatest in the world. Of course, we had no fresh fruit -- food at all. Everything had to be canned or packaged. We could not eat the native produce because they used human excretion to fertilize the soil and they were rife with disease. It would go back into the soil and then they'd plant -- pick it up again. So it was just an endless process and the result being was that we could not eat anything. The only thing that we ever got fresh, we did get some fish from the Caspian Sea one time. But eggs were powdered, and when we did get fresh eggs, holy smokes, they would -- we'd turn out in droves to get fresh eggs in the morning, you know. But we had no fresh fruit. Everything was canned or so forth, you know. I remember one Christmas we were supposed to have turkey and the ship that was carrying the turkey and all the trimmings and so forth was sunk, so what we had for Christmas that day was a slab of Spam, some cold tomatoes and a slab of cheese, the most unappetizing thing you could ever eat. But that's the way it was. That's the way it was. I had cattle steak in Tehran one time at a restaurant and it wasn't bad because they eat the same as cattle do, you know, and -- but that was the only -- the other -- the only other time I had fresh meat was in India and that was water buffalo. And I took this little piece of water buffalo and put it in my mouth and I chewed and I chewed and I chewed, and the longer I chewed, the bigger this thing got until it was almost like a diluted golf ball, and then you couldn't swallow it so you took it out and put it on the plate. So I called the waiter over, and I said, "How are you supposed to eat this?" He said, "That's the way you eat it. You eat all the juice out and then take it out and throw it away." So, oh, gosh, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>When you think about that experience oversees, does one particularly vivid memory come to mind?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Well, I think perhaps the -- the chance that I had to travel in the Holy Land was something. That's something that we've all been affiliated with all our lives, and to have the opportunity to be there where all this happened, I was in the Garden of Gethsemane and was in Christ's tomb and all through Jerusalem and Bethlehem and so forth, so it was an experience. Your mental processes were such that you -- you didn't have the same reaction that you would have as a -- as a civilian because you're under a different routine and so forth, you know. But that was under British jurisdiction at that time. But they -- I remember one day we were having lunch, five or six of us in the YMCA in Jerusalem, and all of a sudden we hear this boom. And we went outside and right across the street from the Y was the King David Hotel and someone had thrown a satchel bomb into the lobby of the King David Hotel. Now, at that time they -- two Jewish factions were fighting each other, the Judists and the Zionists, and this is what was happening between the two of them. So, you know, it's even in those days they were having problems and -- But the old section of Jerusalem was just exactly the way it was when Christ was alive. They had the narrow streets, the cobbledone -- cobblestone streets and it was -- if you could close your eyes and you could imagine, you know, and it was quite an experience and I am very happy that I had that opportunity to do it, and so I'll probably never -- never see it again, but at least I saw it once, so ...</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What was your reunion with your family like, your wife, when you finally got back to the states?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Well, chaotic probably I'd say. I was very happy to get back. And, of course, I -- see my mother and dad was something, too. I just -- I had no brothers, I mean alive. I had two brothers that were passed away before I was born, and so I had -- I was the only -- only child and so, of course, it was traumatic for both my mother and father. My mother and father were both born in Scotland and my dad belonged to the -- the HLI which was the Highland Light Infantry and he served in that for a couple of years, I guess, but when he -- he was a tool and die maker, and in World War I they wouldn't call him because he was needed here so he didn't go. So -- but, yeah, it was -- it was -- it was -- it was dramatic to come back. And I guess you became almost overwhelmed because of the -- the cleanliness is something that you -- you had forgotten how every -- how clean everything was because this -- this filth was indescribable. It really is. It's just -- I don't know. I -- it's something that we just don't know what filth is here until you get over there. And that's why they -- their death rate is very high, the kids, although I'm sure it's improved somewhat. But they still don't do things the way we do things. And you got a guy like Sadam, he subjects these people, pushes them down while he's living high on the hog and the people are living like animals, it's -- no, I -- you can't trust this guy. I have no qualms about getting rid of him, none, none, because sooner or later this sucker would drop a bomb on us if he gets the opportunity, no question about it, and you can't allow this to happen. You can't -- I know it's the inherent American is trusting, but you learn that you can't trust everybody. And I still feel, you know, trusting to a lot of people, but by the same token, I -- I just -- I just can't handle that. I -- personally I -- I am very active in the Shrine and I'm helping raise money for the children's hospitals and that, of course, is something that they don't even know what that is all about. And we -- we do that with a -- with a lot of fervour and things that we look at is completely different. You just ...</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Before the war you were a singer. Would you like to sing a song?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Not really. I've had a few surgeries since --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>-- the last few years. The result being is my vocal cords, speaking -- as a matter of fact, I was coughing here --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>-- and after a period of time I get this tickle down here. But, yeah, I used to do quite a bit of it in the same era as Sinatra. And I think the one big band that I sang with, and I was in the service, was out at the Riviera Country Club in California, and we went to this dance out there and we were -- about seven of us went out then. So I asked this gal to dance and I'm dancing with her. Well, I knew this -- I can't remember what the number was, but I knew the number so I was singing while I was dancing with her. So the first thing I know this hand reaches out and grabs me and said, "Come on, get up here and finish that number." So it was Ted Fiorito. So I did. I went up and I finished that number, and he said, "Do you know anything else?" I said, "Well, so-and-so and so-and-so." So I sang about three or four numbers with him. So after I got through, he said, "You know, I'd like to keep in touch with you." He said, "I think we could get together." He said, "When are you going to get out of the service?" This is 1942. Wishful thinking. So -- but that was fun. That was fun. It's -- yeah, it's been a big part of my life. And my son is also a musician, he has a band, and it's -- he does it as an avocation, he doesn't do it as a full-time deal, but he's picking up the -- up the crosses that were or whatever. And so ...</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Were you able to make much of a living as a singer before the war?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>No. No, they didn't pay anything in those days, what the heck. I had a lot of fun, met a lot of nice people and -- but no, uh-uh. But it was -- it was good training because it -- it gave you the ability to speak to people, and the result being was that I wound up in sales. And I -- even though I say so myself, I was successful. I was one of the top salesmen that Sherwin Williams ever had. So matter of fact, I had a territory that they handed to me and it was bringing in $75,000 a year, and when I left, it was around a million. So I didn't sit on my fanny. I was out there hustling. But it's one of these things that you -- the dealing with people and so forth, I had no qualms about talking to people. And, of course, I was a drill sergeant, too, in the service, and that was funny because when I was stationed at Monmouth, there were very few people who knew how to form a company for a parade. So this major asked me, he said, "George," he said, "I know you're a sergeant," but he said, "Nobody else knows how to form this company for the parade." He said, "Can you form it?" And I said, "Yes, I can form it." So here are all these colonels and majors and so forth and so on and I'm giving them orders to line up and do so forth and we had the parade, you know. But that was the funny part of it. I mean if you didn't have the training, you had absolutely no idea what to do. And -- but it was -- it was one of those darn things that happened. So, yes, I -- I look back and I think of the years that have gone by, it just doesn't seem possible it's been that many years I swear to God. I -- well, the heck of a thing, I just had a birthday here on the 16th of February and I was 86.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Happy birthday, belated.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>Thank you. And I don't feel it and physically I don't feel it either, you know. I -- and I don't think I look it either.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>You don't.</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>But numbers are numbers, you know. But, well, what the heck, my son is 51. So as a matter of fact, I have a granddaughter, Olivia, who was married to a marine who is a captain and he's in the Intelligence Division and he's here back in the states now. They're -- they moved to Okinawa and he'll be there for about three years and he's back in the states now on a -- on a deal and I'll probably see him for lunch here this Thursday, I believe, yeah, but Scott's a nice, young man. And Olivia is a very outgoing kid and she'll do very well over there in Okinawa. She's friends with everybody, you know, she's that type of gal. And she -- there were three Marines that used to come up to visit her from Carolina and she got to working out with them. She could bench press 200 pounds, so a weaking she isn't and -- but she's a nice kid. She's about five-eight and very nice looking gal.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>You think that covers it?</p>
+               </sp>
+               <sp>
+                  <speaker>George Hanna</speaker>
+                  <p>I think so.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Very good.</p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

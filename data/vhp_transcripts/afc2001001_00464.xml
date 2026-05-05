@@ -1,0 +1,2328 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd" >
+<!--
+<!DOCTYPE TEI.2 SYSTEM "../teixlite.dtd" >
+-->
+<TEI.2>
+	<teiHeader type="vets_interview">
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of interview with Lionel N. Heath on June 21, 2001</title>
+				<author>Tom Swope</author>
+				<respStmt>
+					<resp>Encoded by</resp>
+					<name>Matthew McCrady</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Transcript of interview with Lionel N. Heath on June 21, 2001</title>
+					<author>Elizabeth A. Young (transcriptionist)</author>
+					<date>June 21, 2001</date>
+				</bibl>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Encoded for the Experiencing War web site for the Veterans History Project, September 2004.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>The entire interview with Lionel N. Heath was digitized.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+			</editorialDecl>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 type="title" id="Heath1" n="1">
+			<!-- begins encoded document -->
+			<head>Interview With Lionel N. Heath on June 21, 2001</head>
+			<div2 type="preface" id="Heath2" n="2">
+				<p>Preface</p>
+				<p>The following oral history testimony is the result
+
+              of a videotaped interview with <name type="person" key="LNH" reg="Heath, Lionel N.">Lionel N. Heath</name>,
+
+              conducted by <rs type="person" key="TS" reg="Swope, Tom">Tom Swope</rs> on June 21, 2001, on behalf of the
+
+              Veterans' Oral History Project.  The interview took place
+
+              in Medrol, Ohio, and is part of the Library of Congress
+
+              collection of oral testimonies.</p>
+				<p>The interview was transcribed and processed by
+
+              <rs type="person" key="EAY" reg="Young, Elizabeth A.">Elizabeth A. Young</rs>.</p>
+				<p>The reader should bear in mind that she or he is
+
+              reading a verbatim transcript of spoken, rather than
+
+              written prose.  Insofar as possible, this transcript
+
+              tries to represent the spoken word.  Thus, it should be
+
+              read as a personal memoir and not as either a researched
+
+              monograph or edited account.</p>
+				<p>To the extent possible, the spelling of place,
+
+              names, foreign words, and personal names have been
+
+              verified, either by reference resources or directly by
+
+              the interviewee.  Some uncertainties will inevitably
+
+              remain regarding some words and their spellings.  In
+
+              these scenarios, a (ph) follows a word or name that is
+
+              spelled phonetically.</p>
+		   <div3 type="body" id="Heath3" n="3">
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+				<p>This is the oral history of World War II veteran <name type="person" key="LNH" reg="Heath, Lionel N.">Lionel N. Heath</name>.  <name type="person" key="LNH" reg="Heath, Lionel N.">Mr. Heath</name> served with <name type="thing" key="5AD" reg="5th Armored Division, United States Army">the U. S. Army's 5th Armored Division</name>.  His highest rank was staff sergeant.
+
+              <name type="person" key="LNH" reg="Heath, Lionel N.">Mr. Heath</name> served in the European theater.  He was wounded
+
+              in France and received a Purple Heart for his wounds.</p></sp>
+              <sp>
+              <speaker>Tom Swope</speaker>
+				<p>I'm Tom Swope and we recorded this at his home
+
+              in Medrol, Ohio with his wife present on June 21st, 2001.
+
+              <name type="person" key="LNH" reg="Heath, Lionel N.">Lionel's</name> age at the time of this recording was 82.  He has since passed away.</p>
+														</sp>
+		   <sp>
+		   <speaker>Lionel N. Heath</speaker>
+				<p>Each morning they would list names on the
+
+              bulletin board blah, blah, blah, blah, blah <name type="place" key="FBG" reg="Fort Benning, Georgia">Fort Benning, Georgia</name>, blah, blah, blah infantry, <name type="place" key="FBG" reg="Fort Benning, Georgia">Fort Benning, Georgia</name>.  So you get up in the morning and you run down
+
+              to see if your name is on the list.  If it is, you packed
+
+              your stuff and if you got anything, which we didn't get.
+
+              And you go.  So make it short, one day my name is up
+
+              there, <name type="place" key="FNKY" reg="Fort Knox, Kentucky">Fort Knox, Kentucky</name>.  Well, this was something
+
+              different.  I had pretty much of a mechanical background
+
+              is probably why they picked a tank outfit.  So this guy
+
+              calls me back to his office.  He says "Now, I had one
+
+              call for one man to go to <name type="place" key="FNKY" reg="Fort Knox, Kentucky">Fort Knox</name>" and he says, "Out of
+
+              all of you, you're wanted."  I says, "Hey, you're the
+
+              doctor.  I'm just a G I being kicked around.  Didn't know from nothing."  Yeah.  I says, "What's the armed force?"
+
+              You know, well, he says, "It's part of the Army.  It's
+
+              all Army."  Let's go.  So I went to <name type="place" key="FNKY" reg="Fort Knox, Kentucky">Fort Knox</name>.  And I
+
+              ended up a motorcycle instructor.  I didn't get any of my
+
+              basic training like manual arms and how to, how to load a
+
+              M-1 and all that.  I didn't get any of that.  I got up in
+
+              the morning after breakfast, went to the motor pool,
+
+              grabbed a motorcycle, we were not back at the post where
+
+              we had a couple of miles of dirt road with dust in it
+
+              about that deep, and this was just the beginning of the
+
+              jeep.  It was all motorcycles then.  Or putting all
+
+              motorcycle then.  So I was a motorcycle instructor.  They
+
+              were training these guys and they're gone.  We get
+
+              another bunch of them.  We train them.  So our group
+
+              decided there was something else besides doing this, you
+
+              know, getting dust in your lungs all day, so we said we
+
+              got -- something's wrong here.  We're training all these
+
+              guys and they're going off to war as soldiers and we're
+
+              sitting here at <name type="place" key="FNKY" reg="Fort Knox, Kentucky">Fort Knox</name> eating dust every day.  What's
+
+              going on?  Don't worry about it.  You're, you're spoken
+
+              for.  So we find out that they're going to activate a new
+
+              tank division and the guys that they were holding back
+
+              like myself, they were given any kind of a job just to
+
+              keep us together.  We were to be the cadre for the new
+
+              division that was to be activated.
+</p>
+		   </sp>
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+				<p>What division was that?</p>
+				</sp>
+				<sp>
+				<speaker>Lionel N. Heath</speaker>
+					<p><name type="thing" key="5AD" reg="5th Armored Division, United States Army">5th Armored</name>.  I think the date's right up on top
+
+              there.  So after we found out what was going on, we
+
+              decided the Army wasn't just playing with us, they had a
+
+              job for us already but the job wasn't ready yet.  So
+
+              they, they activated <name type="thing" key="5AD" reg="5th Armored Division, United States Army">the 5th Armored</name> and we were the
+
+              cadre.  And here I am, I'm a good motorcycle instructor
+
+              but I didn't know the first thing about the Army.  Then
+
+              they come out one day and they say you guys are all
+
+              moving up to the main post.  So we're out of the mud and
+
+              motorcycle riding and stuff, and but I don't know from
+
+              nothing.  We get up there, okay, here it is da, da, da,
+
+              this is your row of tents.  Just tents.  And there was
+
+              about 12, 15 of us, I guess.  We are a company in a newly
+
+              activated division, battalion division.  So right away we
+
+              start pulling guard, Gold Vault Guard, Fort Knox.  Fire
+
+              guard all tents and winter is coming.  And your regular
+
+              Army guards.  So I went in and I told them and I says,
+
+              "Hey, I don't know which end of a gun the bullets come
+
+              out of.  How the hell am I going to pull a guard?"  He
+
+              says, "We'll put you over in the new school area.
+
+              They're all new buildings, G I barracks."  He says, "If
+
+              anybody comes close to you, hide in a clothes bin or
+
+              something," you know, and this is what I did.  I walked
+
+              around all night listening for somebody.  A couple of guys walking in my area, I crawl in the clothes bin on
+
+              the new buildings and hid until they got by because I
+
+              didn't know what to do.  So we -- then we learned some
+
+              basics.  They finally issued us a half track.  And an old
+
+              Army man was to be our instructor, instruct us in the
+
+              operation of this half track which was a big joke.  He
+
+              drove it all day.  We just sit there and rode.  And
+
+              eventually grew into a company.  We had one kid on guard
+
+              at the back gate at Fort Knox, a little town back there,
+
+              can't tell you the name of it now.  I was just going to
+
+              say this kid's name.  He's on guard and our main weapon
+
+              then as tankers was the Tommy gun like the gangsters with
+
+              the big drum on them, you know, and prior to that people
+
+              just come and went on to post, you know.  There was
+
+              nothing military about it.  You went right past the guard
+
+              gates and nobody stopped, nobody challenged you.  Well,
+
+              this night the Japs bombed <name type="thing" key="PH" reg="Pearl Harbor Attack">Pearl Harbor</name> and we were in
+
+              one of the tents.  We'd build a big fire in one tent,
+
+              most of us stayed in there and oh, big deal, who the hell
+
+              knows where Pearl Harbor is, you know, or anything about
+
+              the Japs.  So they put this, this guy, I can picture him
+
+              but I can't tell you his name, on guard at the back gate
+
+              at Fort Knox.  Cab driver from Louisville comes sailing
+
+              down the road, through the back gate as he always had
+
+              done, right past the guard, going into the post, Peter, Peter was his name, he ups with the Tommy gun and blasts
+
+              a few rounds and he hit the cab driver right at the back
+
+              of -- top of his spine, right in the back of his head.
+
+              Killed him naturally.  That was the first time from then
+
+              on you didn't have to holler halt.  Everybody stopped.
+
+              This guy didn't know it.  He was told what to do, you
+
+              know.  You holler halt and if they don't stop, shoot them
+
+              and that's what he did.  So they had a trial for him that
+
+              night.  They fined him I think it was a dollar and a
+
+              half.  It was a dollar and that bought a pack of
+
+              cigarettes and I think it was three cents for the round
+
+              that hit the guy, not all the other rounds that were
+
+              expended but just the one that killed the driver.  And
+
+              then he was transferred to another outfit which was right
+
+              across the street from his old tent.  And that was --
+
+              that was our first experience at shooting somebody.  Then
+
+              pretty quick the word gets around we're going to move and
+
+              we went to California which was Will Rogers ranch
+
+              originally.  The government bought it and made a military
+
+              installation out of it which is <name type="place" key="CCCA" reg="Camp Cook, California">Camp Cook</name>.  This camp was
+
+              the home base of our newly activated tank division which
+
+              is what we ended up being.  We get out of that half track
+
+              and they give us a couple of light tanks which were
+
+              jokes.  Then we got a medium tank.  That was a little
+
+              better.  And so <name type="place" key="CCCA" reg="Camp Cook, California">Camp Cook</name> was a new post for a new division and we were West Coast Defense.  We spent most
+
+              of our time out there instructing new draftees.  We'd get
+
+              a bunch in, we go over to division headquarter, they
+
+              assign so much to each battalion, blah, blah, blah, down
+
+              the line.  We'd end up with a bunch and we'd bring them
+
+              back home, cut their hair and give them some clothes and
+
+              start trying to make soldiers out of them.  And that
+
+              began to be a drag.  You know, every day, it's, you train
+
+              them, you get them, you get them about where you want
+
+              them and then they ship them off somewhere and tomorrow
+
+              morning we go down and get another bunch.  Take them out
+
+              tank railing and shooting and all kinds of stuff.  And I
+
+              was lucky, I got a -- well, they sent me to, I think it
+
+              was a GE school to learn about the gyro stabilizer.  The
+
+              guys weren't using it were hitting with a 75 in the
+
+              medium tank wasn't hitting a darn thing and this gyro
+
+              stabilizer is supposed to hold the gun as steady as a man
+
+              can hold a pistol doing 30 miles an hour cross country.
+
+              That's what it's supposed to do.  It didn't do it.  So we
+
+              finally found out that it wasn't the mechanics of the
+
+              thing.  The thing was perfect.  Everything was fine.  We
+
+              were afraid of it.  It was like a Norton bomb site.  They
+
+              told us, boy, if you ever get in one of these tanks and
+
+              you get in a war, and you lose the tank, make sure you
+
+              put a hand grenade on the gyro stabilizer.  We don't want the enemy to get a hold of this.  So we learned all about
+
+              the gyro stabilizer and from then on I went back to our
+
+              outfit, took a guy from each company in the battalion and
+
+              taught them what I had learned about the gyro stabilizer
+
+              which was nothing.  I mean, the damn thing is so simple
+
+              that it was pathetic.  And so there again, I missed some
+
+              phase of soldiering to get into something else.  They had
+
+              a scare.  Some new officer, ordnance officer decided that
+
+              all the vehicles had better have the oil changed before,
+
+              before this big invasion comes about.  So they issued
+
+              orders and they drained all the lubricants out of our
+
+              tank, each medium tank with its final drive unit and the
+
+              engine oil and all the other crap, coolers and they hold
+
+              about 55 gallons of oil.  So they'd drain the oil, they
+
+              go down to ordnance and they ain't got no oil.  We have a
+
+              whole division of equipment there with no oil in it and
+
+              didn't have any oil.  I don't know where they got it but
+
+              they got some oil in and we got oil back in our vehicle.
+
+              And we went to L A and we were the only company in the
+
+              battalion that got all the vehicles that started, all
+
+              that, we bivouacked it to Hollywood Turf Club, in the
+
+              parking lot.  We were the -- we were the number one
+
+              company because we got everything down there that we
+
+              started with and, and that was what road we wanted.  You
+
+              know, he'd have put one of them tanks in his pocket if he had to.  So they told us what to do.  They took us out
+
+              and showed us roll it a second.  My section goes here and
+
+              another section goes there and we're sitting there with
+
+              this beat up old junk tank three rounds of ammunition
+
+              that probably wouldn't shoot from here to 615 but we were
+
+              there doing our jobs.  And of course everybody in L A had
+
+              moved in.  The orders come down as soon we pulled into
+
+              the Hollywood Turf Club parking lot all cement and
+
+              blacktop, you know, fix your pup tent.  We all laughed.
+
+              So we went to the old man, now, what do you mean pitch
+
+              your pup tent.  You know, maybe in black top but not in
+
+              that cement.  So they changed those orders.  And we
+
+              stayed there a couple of days.  And all the hucksters and
+
+              the pizza guys and ice cream men were all around the
+
+              perimeter of the Hollywood Turf Club and we're -- and we
+
+              had gas masks and everything, boy, we were -- and finally
+
+              the guys begin to slip out, most of them with permission.
+
+              Can I jump the fence and the guys going to bring over a
+
+              pizza or something, you know.  So I guess we scared the
+
+              Japs away.  We went back to Camp Cook and we lost a tank
+
+              up there at Camp Cook.  We tried to ram us a railroad
+
+              train and the train won.  Pushed the tank off the track
+
+              and smashed it up.  We had one case, I happened to be
+
+              division sergeant of the guard.  I had never done this
+
+              before.  And like I said, my early military training where I should have learned a lot of this stuff, I'd
+
+              never had.  So I get down to the main post, you know, the
+
+              prison and they introduced me and I'm a big shot.  Gee,
+
+              I'm running around here bossing the whole bunch, all the
+
+              prisoners, everything.  You had to count all the
+
+              silverware and all this stuff.  And we got an emergency
+
+              call and I had a couple of half tracks at my disposal
+
+              there with a crew to run up wherever they were needed and
+
+              there was a bunch of noise and activity down the river
+
+              that runs right alongside the post and empties into the
+
+              ocean, Lampoc (ph) River.  And there was a bunch of
+
+              activity around there and we just contemplating this Jap
+
+              invasion and everything in them, so I send my half tracks
+
+              down there and I was the NCO of the guard.  There was an
+
+              officer above me.  He goes down with one of the half
+
+              tracks and the other half track followed them.  And
+
+              they're running through all this bull, bull rushes and
+
+              crap, you know and pretty quick they lost -- make a long
+
+              story short.  They lost the half track.  Run into quick
+
+              sand and sunk.  It was a couple of cows down there
+
+              rattling along the bull rushes that was making all this
+
+              noise.  But come to find out that's why we found out how
+
+              the Army worked.  Right away this guy was a second
+
+              lieutenant, they made him a captain and then a major and
+
+              then a colonel.  He gotta buy that half track, you know, by arm or crook.  The only way you can do it is to get me
+
+              enough rank.  So then all the officers wanted to take a
+
+              half track down and bury it in the quick sand.  But then
+
+              we started moving.  Got everybody trained.  We went to
+
+              Tennessee maneuvers.  I guess we went on three or four
+
+              different maneuvers, Tennessee maneuvers.  And we had an
+
+              area in Tennessee, civilian just like here.  You get all
+
+              these people moving in, taking over and do whatever you
+
+              have to do and the government will reimburse these people
+
+              for any damage that the Army and they'll do it right now.
+
+              Ain't no messing around.  I remember we was going down a
+
+              dirt road.  We got a left flank order.  The enemy was on
+
+              the next road to our left.  We had two armies.  I think
+
+              it was a red and a blue or something.  You wore a band
+
+              and a flag on your tank.  So we go left flank off the
+
+              road and through this field and I turn around and here's
+
+              an old farmer chasing me with a pitch fork.  I couldn't
+
+              help but laugh but I felt so sorry for the guy.  We was
+
+              going right through his new water melon patch or
+
+              something, and he's chasing us 30 something tank with a
+
+              pitch fork.  So that was -- and then we, we had a bridge
+
+              crossing and it was a high bridge.  I mean and it leaned
+
+              over like this for a long ways and then it got back up on
+
+              solid ground.  I came that close to disobeying my first
+
+              military order when I saw that damn bridge and I got this 
+              tank and how many behind me and how many have already
+
+              gone across, kept going because you had to.  You was in
+
+              the Army and we made it.  The bridge didn't fall.  I
+
+              don't know how long it lasted.  But it came just like
+
+              this way lean -- way over and come back up.  All wood,
+
+              made out of engineering I guess.  And we ended up in
+
+              desert maneuvers where we found out you don't go over a
+
+              sand dune sideways with a tank.  You know, you got a sand
+
+              dune like this, you go straight.  You don't go at an
+
+              angle because you run off the track.  Well, the sand
+
+              piles up and run off the track.  We found that out.  I
+
+              was sent down advanced cadre to tell you we went to the
+
+              desert first because I was on advanced cadre from Camp
+
+              Cook and I went down to the desert to draw equipment,
+
+              bedding and stuff, you know.  And we're out in the middle
+
+              of damn desert, Parker near -- near Parker, Arizona and
+
+              the train stops and it was so hot and the guys were
+
+              passing out, you know, we had nothing.  And the train
+
+              stops and there's nothing and we give orders to get off
+
+              the train and about a quarter of us the minute you hit
+
+              the sand after you're jumping off the train, pass out
+
+              from the heat so didn't take the Red Cross long to set up
+
+              tents and give them a little shade and a drink of water
+
+              and pat you on the butt and send you on your way.
+
+              Finally we set up -- and then I was told, Heath, this is your area between here and here, so many feet back.  You
+
+              go draw so many beds, so many blankets, all this
+
+              equipment that you need.  And I was there three or four
+
+              days.  While we were there, there was a mountain range,
+
+              big a long ways away from where we were and we had
+
+              nothing.  It just come in dribbles, you know.  So we were
+
+              given orders that there would be nothing coming in today.
+
+              You can look around the area a little bit.  So we had a
+
+              half track and guys in our battalion, it was maybe half a
+
+              dozen of us or whatever.  We could see a little hole or
+
+              mine in the side of this mountain that was, you know, so
+
+              we guessed how far it was and decided we'd go down there
+
+              and investigate which we did and we get down there and
+
+              decided this mountain and we could drive the half track
+
+              up to this opening which happened to be an old abandoned
+
+              mine shaft, quartz mine, narrow gauge railroad in a
+
+              little bitty hole in the mountain and right at the
+
+              opening was a pile of rocks, so we dig in there and we
+
+              find an old Prince Albert can with some papers in it, you
+
+              know, G I stuff, Rattlesnake Mine Company, so on, so
+
+              forth.  Well, no.  Double Rattlesnake Mine.  So we had
+
+              this guy with us.  He takes the headlight of the half
+
+              track and some wire and one of the batteries and they
+
+              were those big 12 volt batteries then, you know, and we
+
+              started in this mine shaft with this one headlight and a couple of guys and a couple of guards with Tommy gun and
+
+              we look ahead, all of a sudden we see two eyes and
+
+              they're big and they're quite wide apart and we're
+
+              thinking of the name Double Rattlesnake Mine and I told
+
+              the guys, I says, If that's a rattlesnake, it's the
+
+              biggest goddamn rattlesnake we ever see.  About then
+
+              these two guys with the Tommy guns cut loose which is
+
+              something we shouldn't of done.  You know, and this stuff
+
+              started falling from the ceiling.  But they stopped and
+
+              the two lights went out.  Pretty quick the damndest
+
+              stink.  They had killed a big skunk that was back in
+
+              there so we go back out and we take the can and mark it
+
+              single rattlesnake mine instead of double rattlesnake.
+
+              So we got our name on a, on a mine claim down there
+
+              somewhere.  Pretty quick the division comes down, we get
+
+              our equipment and then our first maneuver, tanks are
+
+              there, we got fuel and we got everything we need.  So we
+
+              take off.  We go a few miles.  Pretty quick we had to
+
+              stop for something, a pig haul or something.  And the
+
+              tanks wouldn't stop.  One of the radios started humming
+
+              something's wrong.  We can't stop these things.  Make a
+
+              long story short, the sand, the fan on these radial
+
+              engines sucked air through the back scope of the tank, of
+
+              course it's sucking in sand by the bushel.  And it
+
+              blocked up the clutch system on the engine and clutch was no good.  It was engaged and you couldn't do nothing.  So
+
+              we sit there and run around circles until we run out of
+
+              fuel.  Then we get out and clean all our clutches and
+
+              everything and found out we had filtered that air before
+
+              it got into or stay out of the sand from the guy in front
+
+              of you, you know.  Part of experience.  Then we went to
+
+              -- then we went to Tennessee maneuvers.  Then we went to
+
+              -- not Pine Camp.  Yeah.  Pine Camp, upper New York which
+
+              was entirely different.  We been on desert maneuvers.
+
+              Learned a lot about them and we've been in Tennessee
+
+              maneuvers, learned a lot about them and now we're going
+
+              up in the _____ and we found out that the tank wasn't
+
+              worth a darn in ice or snow.  It went where it wanted to
+
+              go, not where you wanted it to go.  And I picked up -- in
+
+              that time that we were up there, I picked up a couple of
+
+              passengers.  One was my wife and one was her brother and
+
+              they both drove tanks.  So that wasn't bad.  We wrecked
+
+              -- this guy, we were out on the range with a 75's firing
+
+              a, supposedly our big guns and one of the projectiles
+
+              come loose from the shell in the gun, a breach, and we
+
+              had projectile removers.  It's just like a cone that fit
+
+              over the nose of the thing and you didn't hit this
+
+              because these are high explosive shell but they split.
+
+              They were made out of brass and you hit the long end out
+
+              here like a big flag pole, you know, with a sledge hammer and split.  We figured we hit one that was stuck one more
+
+              time we'd have blowed us all to hell.  So this guy and a
+
+              couple of others of us, he had his jeep.  He had made a
+
+              jeep and it was as fast as you could make a jeep go then
+
+              with the equipment you had.  So we take off for the main
+
+              post to get some different equipment.  And we run into a
+
+              slick trench and the front axle as you fell in the hole
+
+              and the rest of us slid right across it and so we trying
+
+              to screwed up a jeep.  But we got the shell out of it
+
+              finally and _____.  By then we had Ford builts, V8's.
+
+              Somebody had designed an engine 12 cylinder to compete
+
+              with Allison engines which was the only thing the
+
+              aircraft -- the air corps had for like a P51, a liquid
+
+              cooled engine.  Well, this guy designed this one and
+
+              submitted it to the military which turned it down.  Well,
+
+              Ford bought the patent, he cut four cylinders off of it
+
+              and made one hell of a good tank engine for then at that
+
+              time.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>What was your specific job on the tank?</p>
+		   </sp>
+		   <sp>
+		   <speaker>Lionel N. Heath</speaker>
+				<p>Platoon leader.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>So on the tank what did you do actually on the tank?</p>
+				</sp>
+				<sp>
+				<speaker>Lionel N. Heath</speaker>
+				<p>We was five tanks to a platoon.  The -- each platoon
+
+              has an officer, second louie.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Okay.  So you were in charge of that platoon?</p>
+				</sp>
+				<sp>
+				<speaker>Lionel N. Heath</speaker>
+				<p>No.  He's --</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Oh.</p>
+				</sp>
+				<sp>
+				<speaker>Lionel N. Heath</speaker>
+				<p>The lieutenant has got one, two and three tanks.  If
+
+              we have to split for any reason, then I'm number four.
+
+              And five is my support tank.  So we got one, two, three,
+
+              goes this way, four and five goes this way, and you know.
+
+              And that was my job.  I was second in command of, of
+
+              tank, a medium tank company.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Five men to a tank line?  Five men to a tank?</p>
+		   </sp>
+		   <sp>
+		   <speaker>Lionel N. Heath</speaker>
+				<p>Five men to a tank.  Yes.  24 men, 24 enlisted men and
+
+              an officer per platoon.  Four platoons, you had one, two
+
+              and three platoons and a headquarters platoon.  The
+
+              headquarters platoon was commanded by at least a captain
+
+              and he had a tank and a jeep at his disposal.  He had a
+
+              couple of extra radios which early in the war were found
+
+              out to be not such a good idea because the Germans would
+
+              shoot the first tank they saw with two big _____, ______.
+
+              All the rest of us had one.  They didn't -- they sound
+
+              not in a hurry that he was the leader so they knock him
+
+              out first.  So ordnance come by and stuck what fake
+
+              antennas on all the tanks so they didn't --</p>
+		   </sp>
+		   <sp>
+		   <speaker>Tom Swope</speaker>
+				<p>When did you go overseas then?</p>
+				</sp>
+				<sp>
+				<speaker>Unidentified</speaker>
+					<p>VOICE: And he went overseas about the 4th of February.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>So what year would that be?</p>
+				</sp>
+				<sp>
+				<speaker>Unidentified</speaker>
+					<p>VOICE:  1940, '44.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+					<p>February of '44?</p>
+				</sp>
+				<sp>			<speaker>Unidentified</speaker>
+					<p>VOICE: Yes.</p>
+				</sp>
+				<sp><speaker>Lionel N. Heath</speaker>
+				<p>Now we went to England.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>Okay.</p>
+				</sp>
+				<sp>
+				<speaker>Lionel N. Heath</speaker>
+				<p>And Schwinden, town of Schwinden, and we finally got
+
+              our tanks come in.  First thing we had to do was get them
+
+              battery ready, and this thing never does right.  So we
+
+              work on the tanks.  Then we got orders we're going to --
+
+              I was just going to say.  I can show you on the map.  Big
+
+              gun range, all ivy equipment on Quonset Hudson and we had
+
+              two camps right across the road from one another.  And so
+
+              the old man tells me, it's my platoon's turn, take them
+
+              out there, and the range officer then he takes what you
+
+              do as far as firing is concerned.  So we get up there
+
+              five tanks and of course when the lieutenant don't go, I
+
+              mean this is not necessary for him to.  He rides in
+
+              something else.  So we line up at the motor pool at this
+
+              post and we get out of the gate and we turn left headed
+
+              for Salisbury Plains.  And pretty quick here comes a damn
+
+              little car headed right for me.  And this guy ain't
+
+              moving.  He's right on my side of the road but I forgot I
+
+              was in England.  And of course just before we hit I get
+
+              the order to get over on the other side of the road.
+
+              Scared the hell out of me because I thought this guy, you
+
+              know, stubborn Englishman, he ain't going to move but I was on the wrong side of the road and never realized it
+
+              until I damn near run over a car.  And we went out and
+
+              fired a few rounds.</p>
+				</sp>
+				<sp>
+				<speaker>Unidentified</speaker>
+					<p>VOICE: <name type="thing" key="DDAY" reg="D-Day Invasion">D-Day</name> was not until June, wasn't it?</p>
+				</sp>
+				<sp>
+				<speaker>Lionel N. Heath</speaker>
+					<p><name type="thing" key="DDAY" reg="D-Day Invasion">D-Day</name>, right, exactly.</p>
+				</sp>
+				<sp>
+				<speaker>Unidentified</speaker>
+					<p>VOICE: Okay.  So his outfit was not in actual <name type="thing" key="DDAY" reg="D-Day Invasion">D-Day</name>.
+
+              They went in two days later.</p>
+				</sp>
+				<sp>
+				<speaker>Lionel N. Heath</speaker>
+					<p>Yeah, we went in.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p></p>
+		   </sp>
+		   <sp>
+		   <speaker>Unidentified</speaker>
+						<p>VOICE:  <name type="place" key="NORM" reg="Normandy Province, France">Normandy</name>.</p>
+					</sp>
+		   <sp>
+		   <speaker>Lionel N. Heath</speaker>
+				<p>Yeah, well, we were near Scherber whichever beach that
+
+              was.  Because we helped close the Scherber Peninsula was
+
+              our first.</p>
+		   </sp>
+		   <sp>
+		   <speaker>Unidentified</speaker>
+						<p>VOICE: You went through _______</p>
+					</sp>
+		   <sp>
+		   <speaker>Lionel N. Heath</speaker>
+		   <p>You know, there was three or four places they landed
+
+              along the coast.  And I can't tell you the name of the
+
+              beach we were in.</p>
+		   </sp>
+		   <sp>
+		   <speaker>Unidentified</speaker>
+						<p>VOICE: <name type="person" key="OMB" reg="Bradley, Omar">Omar Bradley</name> was then the general at the time?</p>
+					</sp>
+					<sp>
+					<speaker>Lionel N. Heath</speaker>
+						<p>Yeah.  But that started -- that's where I wish I had
+
+              these damn maps would show where this tells you where
+
+              each out -- where each outfit goes, but you would
+
+              understand probably more than I do.  Combat command A and
+
+              combat command B and tomorrow you're something else.  You
+
+              know, you got to keep the enemy confused, but by the same
+
+              token we didn't know who the hell we were.</p>
+					</sp>
+					<sp>
+					<speaker>Unidentified</speaker>
+						<p>VOICE: So any way he -- ____ about ______, you --</p>
+					</sp>
+					<sp>
+					<speaker>Lionel N. Heath</speaker>
+						<p>Well, we went through the hedge rows and we wondered
+
+              how we were going to go through those dragon teeth,
+
+              anti-tank things.  They just put bulldozers on the front
+
+              of the tanks and we piled dirt over these dragon teeth
+
+              and drove right over them.  No problem.  And the same
+
+              with the hedge rows.  Southern part of France was all
+
+              hedge rows, little fields with big high hedge rows and
+
+              wide at the bottom as this room, you know, or wider and
+
+              eight, ten foot high.  Well, that's where they put the
+
+              bulldozers and push that stuff away and we drove right
+
+              through them into the next field.  But we learned that if
+
+              we put our belly exposed whoever real vulnerable to the
+
+              bottom of the tank, you know, didn't take much to go
+
+              through that.  But then we got out of the hedge rows
+
+              fighting.  Had one experience and I can't tell you where
+
+              exactly.  We were hurting for eggs and we ten and one
+
+              rations, you know, and all this kind of stuff.  And so we
+
+              stopped in this little town and this Frenchman come
+
+              running up his driveway on a slant and coming, running to
+
+              the tank and I asked him if he's got any eggs?  And I
+
+              make like a chicken and everything.  I didn't know any
+
+              French.  Nobody in my tank did.  Oh, oui, monsieur, oui,
+
+              monsieur and he takes off down the driveway and the guy
+
+              comes back, he's wringing the neck of chickens.  He's got
+
+              a chicken in each hand pulling his arm around it, that's how they used to kill them, you know, and hands me the
+
+              chicken.  I didn't want the damn chickens.  All I wanted
+
+              was some eggs.  But I felt so sorry for the guy and you
+
+              know, that was probably all he had to eat but he ate
+
+              chickens for a couple of days.  A lot of fighting.  We
+
+              hunted deer one day.  We traveled along the road and
+
+              alongside the road is a damn deer going the same way
+
+              we're going.  The deer over there are very small.
+
+              They're like police dog, you know.  And you'd have
+
+              thought Adolf was going through that field there.  Now we
+
+              were -- by then we were married to an infantry outfit.
+
+              An infantry company and a tank company joined forces.
+
+              And we go a tank and a half track, tank and a half track,
+
+              tank and a half track.  So whatever the situation calls
+
+              for, you got up there.  You got both of them.  And these
+
+              guys start shooting at this deer, about two ton of steel
+
+              probably went through them, finally got him.  And then
+
+              the guys in the half track ran over which was a bad thing
+
+              to do, got the carcass and brought it back.  They had
+
+              deer that night for supper.  We found -- we stopped one
+
+              evening for the engineers to build a bridge in front of
+
+              us.  There was a farmhouse right there and so we go in
+
+              and find out what's going on.  When we found out that we
+
+              weren't going to be moving within the next ten minutes
+
+              and this was an old German farm and then they had -- we, we were short of meat.  We couldn't find any meat.  So in
+
+              this house they had these big fireplaces, great big open
+
+              and they have iron bars that swing out and you put a big
+
+              pot on it and you roll it back over the fire, that's
+
+              where the meat is, up there in the chimney, smoking them.
+
+              So when we found that we had -- we ate meat for a couple
+
+              of days and we got some eggs there.  They have -- they'd
+
+              put their eggs in a, in a crock, big crock and they'd
+
+              keep them in there for a long time.  So we found out how
+
+              to find their eggs then and lived a little better.  Of
+
+              course fighting all the way, you know, losing a couple,
+
+              gaining a couple.  We went -- to any of their where we
+
+              went, I can't tell you.  We were busy fighting a war.  I
+
+              didn't know where we were.  We weren't -- we shouldn't
+
+              have been there but we were there.</p>
+					</sp>
+		   <sp><speaker>Tom Swope</speaker>
+				<p>Where did you get your Purple Heart?</p>
+		   </sp>
+		   <sp>
+		   <speaker>Lionel N. Heath</speaker>
+				<p>I got hit outside of <name type="place" key="PFR" reg="Paris, France">Paris</name>.  I can't give you the
+
+              exact locations but we were, we were -- well, in here it
+
+              tells about the French Second Army, French Second Armor
+
+              Division who were all Frenchmen trained in the states on
+
+              state's equipment, on our tanks and stuff.  And then
+
+              shipped back over there with our equipment.  Just manned
+
+              by these French soldiers.  Well, they made an agreement
+
+              that they were going to take Paris.  We were the lead
+
+              tanks going ahead of everybody, you know.  And then the infantry and artillery and everything follows back.  But
+
+              the tanks if you wanted to send somebody to Contiac (ph),
+
+              it would be a tank company, you know.  And they -- we
+
+              were outside of Paris and I can't tell you the name of
+
+              the town.  If I had a sand table here I could lay out the
+
+              area that I got hit in.  And we were having a heck of a
+
+              battle.  Our head column which would be our first platoon
+
+              was having a war right in front of us and we got orders
+
+              to move in there in a hurry and help them out.  Well, we
+
+              were in the process of moving over into this little woods
+
+              and little town and it was loaded with anti-tank guns and
+
+              these Mark 5 tanks, German Mark 5 tanks.  So I pull out
+
+              in the field and we're headed where we're supposed to be
+
+              headed and all of a sudden my tank don't go.  We were
+
+              buttoned up of course because we're fighting.  I mean
+
+              everybody is inside the tank.  Nobody outside.  And I
+
+              looked behind me and our tractors -- they busted my
+
+              track.  I still don't know whether it was an anti-tank
+
+              mine or what.  I'm guessing it was a shell blew the track
+
+              apart and on a hard surface I can run on one tank but
+
+              this is out in the field, you know, at the edge of the
+
+              woods and I couldn't -- we couldn't move.  So I gave
+
+              abandoned tank, nothing else we could do.  We shot a few
+
+              rounds but we couldn't see anything except solid woods
+
+              along here, about a mile right here.  And the Germans had muzzle velocities and everything on their guns.  We shoot
+
+              one of our rounds and a big puff of black smoke and fire
+
+              flying out of the damn thing.  The Hineys couldn't shoot
+
+              and you couldn't see where they were.  Germans.  So we
+
+              had nothing to do but to get rid of the tank.  I mean,
+
+              there's always a possibility of the next shell
+
+              penetrating the hull and getting us so -- in getting out,
+
+              my driver instead of going out the escape hatch in the
+
+              bottom of the tank, he got a driver and then an assistant
+
+              driver, below the assistant driver's seat is a cubby hole
+
+              about like this with a big lever on it and you drop that,
+
+              you can escape by crawling through from the turret down
+
+              through into the driving compartment and out this hole
+
+              and crawl along the ground.  Well, my driver and I don't
+
+              know why, I've never seen him since, didn't want to wait
+
+              that long.  He went out over the turret, over the hatch
+
+              of the driver's side and got a machine gun slug in his
+
+              knee and that's all I -- and that was the only casualty
+
+              that we had.  But I told the guy this is,</p>
+				</sp>
+				<note>END OF SIDE ONE, TAPE ONE</note>
+				<sp>
+				<speaker>Lionel N. Heath</speaker>
+					<p>I says crawl back to the big woods that we come out of
+
+              and -- but crawl and crawl in the tank track which I
+
+              guess everybody did.  Well, my tank is here and here's my
+
+tank and back at the edge of the woods.  I'm over here to
+
+              his tank and I'm trying to tell him just to spray this
+
+              whole woods down through here, throw everything you got
+
+              at them, you know, you can hit something.  But we didn't
+
+              have telephones like they have now on the back of a tank.
+
+              So we had no way of communicating to the guys inside from
+
+              outside.  So I ran alongside the tank and I'm looking up
+
+              like this waving my hand in front of the periscope on the
+
+              assistant driver's periscope trying to get him to let him
+
+              know that I'm out there and what I wanted him to do and
+
+              as I did this, I saw a big puff of black smoke and a
+
+              whole bunch of black dots and I woke up and I'm about 12
+
+              feet from the tank.  But I didn't feel anything.  I
+
+              didn't -- I surmised that that thing that I saw was a
+
+              direct hit of a high explosive shell on the front of the
+
+              tank that I was trying to direct.  If he'd had a
+
+              telephone on the back I could have just called the crew
+
+              and told them what, which they have now, but they didn't
+
+              then.  And so when I came to, and I don't know, it
+
+              couldn't have been very long, because I was not with it.
+
+              I crawled back into this main big woods back here and I
+
+              was pooped.  And I laid up against a tree with my back
+
+              toward all the war that's going on over in the next field
+
+              and pretty quick one of our cooks who was drunk came over
+
+              behind this big tree that I was leaning up against, number four tank was sitting over here.  Well, he stopped
+
+              but I didn't know that why he had stopped.  I'm out of my "What's the matter, Sarge?"  I says, "Oh, nothing," I
+
+              said.  Well, just losing our tanks and our guys I guess.
+
+              He says, "Are you hit?"  I said, "No, I don't think so."
+
+              I didn't feel anything.  He says, "Lean forward."  And I
+
+              did.  He says, "Yeah, you're hit."  That's all there was
+
+              to it and I had just said the same thing to our platoon
+
+              leader, our second lieutenant.  He had his whole shoulder
+
+              blown off.  Oh, you'll be all right, you know.  You don't
+
+              feel anything because the heat burns instantly.  And I'd
+
+              told the officer, I gave him the same answers that this,
+
+              this -- and I'm thinking every time he answered something
+
+              that the officer had answered, I'm thinking that hole in
+
+              my back gets bigger, you know.  Pretty quick my head is
+
+              going to fall.  Well, he finally got some aid men, took
+
+              me down the road.  Everybody that was back there, the
+
+              back end of our column which hadn't got up to the
+
+              fighting that we were going up in the front yet, What's
+
+              going on, Sarge?  I said, "I guess I got to go get a hole
+
+              patched up or something" and I'm laying on the jeep, you
+
+              know, and they haul me back to another tent, and just a
+
+              field, a tent in a field, you know, a field unit, and if
+
+              we would move five miles, the whole hospital would move,
+
+              you know.  And there was also French casualties there,
+
+              German casualties and American casualties there.  So that
+
+              evening this Frenchman who spoke pretty good English, he had worked in a, in an officer's club for -- as a waiter
+
+              or something and he learned, you know, some English.  He
+
+              says, "Let's go over to the next tent.  They're all --
+
+              they're all German."  He says, "and raid them and see."
+
+              I said, "Get out of here.  I'm in enough damn trouble
+
+              now."  And he took off.  And he came back and he had
+
+              wrist watch on both arms.  He had been over there and
+
+              these guys that were wounded, he just cleaned them all
+
+              up.  He come back, he must have had 20 watches stuck on
+
+              his arm.  And then the engineers were laying one of these
+
+              steel runways for the aircraft to land in and we laid
+
+              there a couple of days I guess, just laying on the
+
+              ground, and that kind of ticked us off because the German
+
+              soldiers got cots, the wounded that come in.  We laid
+
+              down on the damn ground on a blanket, on our G I blanket
+
+              and that didn't go so good with us.  And they told us
+
+              what was going on that they were, you know, running this
+
+              runway.  As soon as they got it long enough so the
+
+              airplanes could land we'd be gone which happened.  Put us
+
+              on an airplane and flew us back to England.  Flew us in
+
+              and put me in a hospital.  Got me well.  There's nothing
+
+              you can do with your shoulder and I had -- I remember
+
+              laying on the table with my -- like this and the blood is
+
+              pouring out of this hole and into my nose and I'm
+
+              fighting these guys in, you know, Christ, they're drowning me in my own blood and I didn't want to stop
+
+              anything.  I wanted to get my head and they're pushing,
+
+              you know, and begin to hurt my damn neck and this blood
+
+              was running in my nose and finally got them to understand
+
+              what the heck was going on.  And this officer comes in,
+
+              he said, "Boy, am I glad to see you."  I said, "What do
+
+              you mean?"  Now, I was ambulatory which made me like a
+
+              lot of other guys but I was able to move around.  And I
+
+              said, "Well, what makes you so glad to see me?"  I'm
+
+              wondering, you know.  Well, he says, "We got some new
+
+              medicine we're going to try."  You ain't trying nothing
+
+              new on me.  You know, ready to fight.  And he says, "No.
+
+              It's not that new."  But he says, "It's pretty new."
+
+              It's when penicillin first came out.  And he says, "We'll
+
+              give you a shot of this and you'll get a shot every
+
+              couple of hours from now on until hell lets up, you
+
+              know.  And so pretty quick he starts digging in my back
+
+              and he's gotta, looked to me like an extra long ice pick
+
+              but thinner, more like a piece of stiff wire or a handle.
+
+              And he's ting, ting, ting.  He says, "There's the metal.
+
+              There's the shell fragment."  And then measured it and
+
+              everything, and he says, "Well, what do we do, Sarge?"  I
+
+              said, "You're the doctor.  I can't see what's going on
+
+              back there."  By then of course my head is out from under
+
+              my arm and they've got me pretty well cleaned up _____,______, or well to begin with, I'm laying.  I got
+
+              hit, I'm laying in the hospital unit for I don't know how
+
+              long until they put me on the airplane, flew me over
+
+              there, then we got penicillin shots regularly every
+
+              couple of hours, but no dressing, no bath, no, no
+
+              bandages or nothing else.  No -- and I begin to stink,
+
+              gees, you wouldn't believe the smell.  But they assured
+
+              me that was good.  That was the thing that should -- so I
+
+              said well -- he said, "Well, what do you want me to do?"
+
+              I says, "You're the doctor.  I don't know what the hell
+
+              to tell you to do."  I says, "If it was in your back what
+
+              would you do?"  He says, "There ain't no question I'd
+
+              leave it there."  He says, "If they take it out, I'm
+
+              liable to -- it's in the root of your muscle of your
+
+              shoulder blade."  And he says, "If we damage that muscle,
+
+              you would have no movement at all in your shoulder."
+
+              And he says, "It's too big to go between your ribs so
+
+              that they can't work in toward your heart or your lungs."
+
+              Like this, you know.  It won't go through there.  Let's
+
+              just do your thing.  So they wrapped me up and clean me
+
+              up finally.  When they took that bandage off you would
+
+              have thought I was a dead elephant or something.  Oh,
+
+              God, what a smell.  Got me all cleaned up and bandaged up
+
+              and sent me to the hospital.  Then it's nothing you can
+
+              do with this kind of a wound.  I walk around with my arm in a sling.  It ain't like a broken leg or something
+
+              where you can put a cast on it.  So I get healed up
+
+              pretty good.  And there was another hospital unit across
+
+              the street from us.  And this stage of the game they're
+
+              getting guys sorted out, are you fit to go back into
+
+              battle, are you going home, you know, or what, of course
+
+              we're all hoping that we're alive now, we hope we got the
+
+              big one, you know.  That's the one that goes back home.
+
+              But they come over one day.  They said, "We're going to
+
+              have a ball game with the guys across the street.  We
+
+              need you."  I says, "You don't need me."  I said, "I'm
+
+              not a ball player."  I says, "I played a little ball" but
+
+              I said, "I'm not a neighborhood ball player."  Well,
+
+              you'll do.  So we walk across the street and over to this
+
+              other hospital unit and I hit one, a pop fly and I
+
+              eventually slid into home which made me feel good because
+
+              I wasn't a ball player.  So we get out.  I played short
+
+              stop.  The first one that the enemy hit was right to me.
+
+              And I dropped it.  And I picked it up and just tossed it
+
+              over to the pitcher.  Next, same thing.  Pop fly.  Right
+
+              to me.  And I dropped it.  A couple of officers come
+
+              around, Well, what's wrong, Sarge?  I says, "I told you
+
+              guys that I wasn't a ball player when we started this
+
+              thing" but I says, "I'll agree with you I should have
+
+              caught both of those.  I shoulda, you know," I says, "I'm not that bad."  And he says, "Swing your arm this way."
+
+              I did.  No problem.  He says, "Raise it this way" and it
+
+              wouldn't work.  He says, he says, "You've broken your
+
+              shoulder blade, your collar bone."  Back -- I'm just
+
+              about ready to leave the hospital but I didn't know it
+
+              but I'm right back in the hospital again with broken --
+
+              and when I slid into home, I had broke this collar bone.
+
+              So, I don't know, a couple of more weeks, I guess, for
+
+              that to get healed up and eventually took off for the war
+
+              again.</p>
+				</sp>
+				<sp>
+				<speaker>Unidentified</speaker>
+					<p>VOICE: Back there in time for <name type="thing" key="BB" reg="The Battle of the Bulge">the Battle of the Bulge</name>.  Do you remember?  That was early in December, wasn't it?</p>
+				</sp>
+				<sp>
+				<speaker>Lionel N. Heath</speaker>
+					<p> Q. Right, exactly.  Early to mid December.</p>
+				</sp>
+				<sp>
+				<speaker>Unidentified</speaker>
+					<p>VOICE: He got back in time for that.</p>
+				</sp>
+				<sp>
+				<speaker>Lionel N. Heath</speaker>
+					<p>A. And you wouldn't believe the mess that that goes on,
+
+              you know.  Everything is organized, you know.  Well, to
+
+              begin with they put me on a tugboat, a little dinky ass
+
+              boat to cross the channel.  And I laid in a coil of rope
+
+              on this deck and it's getting chilly.  No, no paperwork.
+
+              Nobody.  Just they put me on it and away I went.  I
+
+              didn't know.  I didn't have no clothes.  I didn't have no
+
+              gun, no nothing.  So they get me across the channel,
+
+              unload you and nobody there.  What the hell do we do now?
+
+              So we take off and make a long story short.  We started
+
+              raiding trains, these little French 40 and 8s and heading for the front lines.  And there's a slew of us.  We
+
+              didn't know one another.  You know, we're all doing the
+
+              same thing.  About half of them went AWOL.  Well, nothing
+
+              there.  We're just, you know, just a bunch of sheep but I
+
+              was gung ho.  I had to get back to doing our thing and
+
+              getting home.  We stopped one, one rail yard.  There was
+
+              a bunch of cars in there, these little foreign 8's and we
+
+              busted them open and full of cartons of candy bars.  Oh,
+
+              Christ.  Everybody there grabbed a carton of Baby Ruth or
+
+              something, run like hell back to your -- the car you had
+
+              been riding in, you know, because you'd been riding with
+
+              these guys for three or four days.  Then we stopped at a
+
+              little railroad station and there's a -- my daughter --
+
+              were going in this little shanty and there's a little pot
+
+              belly stove in there.  We take the stove, bring it in our
+
+              rail car and build a fire.  Well, we had the long G I
+
+              little coats on that these guys, you know, you couldn't
+
+              destroy them with a German eight.  They -- of course we
+
+              didn't have -- we didn't have enough smoke stack to get
+
+              the smoke out the door, you know.  So we got everybody
+
+              laying on the floor and the top of the car is full of
+
+              smoke and pretty quick there's no fire.  Burned a hole in
+
+              the floor of the damn car and the stove fell off.  So we
+
+              lost our fire and we gained a bunch more of cold air.
+
+              But you go here, you go there, you talk to somebody.  Where's <name type="thing" key="5AD" reg="5th Armored Division, United States Army">the 5th Armored</name>?  Oh, they're over here.  You're
+
+              over here, where's the <name type="thing" key="5AD" reg="5th Armored Division, United States Army">the 5th Armored</name>?  Oh, they're over
+
+              here.  You go by the numbers and eventually I walk in to
+
+              the old man, half froze, dirty, miserable, what the hell
+
+              you doing?  I says, long time broken you guys up.  To
+
+              begin with in the hospital I got a letter that was
+
+              returned to me and it just said a unit annihilated and it
+
+              scared the hell out of me.  So I asked the postman there,
+
+              he says, well, apparently everybody is dead.  I didn't
+
+              know.  So I go down to the admissions desk at this
+
+              hospital unit and I look at all the names of the new guys
+
+              coming in looking for somebody from my outfit to find out
+
+              what this annihilated bit is, you know.  Well, I see this
+
+              dis_____ him and I says, well, could be.  I'll go look
+
+              him up.  So I got the tent number and the nine yards that
+
+              I needed and I go over and way back in the corner of this
+
+              tent here's a guy with his arm up like this in a cast,
+
+              you know, way up like this.  So I walk back, he says,
+
+              "Heath, what the hell are you doing here?"  I says, "I'm
+
+              doing better than you are by the looks of things."  I
+
+              dropped something.
+</p>
+				</sp>
+				<sp>
+				<speaker>Unidentified</speaker>
+					<p>VOICE:  _____, _____, it just fell off your -- just throw
+
+              it on the table.</p>
+				</sp>
+				<sp>
+				<speaker>Lionel N. Heath</speaker>
+					<p>Well, he was a pilot.  I didn't know this.  He was
+
+              going across the channel, a German plane got following
+him and they were carrying then auxiliary fuel tanks,
+
+              looked like a bomber underneath.  Well, this ME109, this
+
+              German plane fired at him and jammed the mechanism that
+
+              held his spare gas tank.  One end of that tank dropped
+
+              down and caught fire and the other end was jammed,
+
+              couldn't release it.  So his plane caught fire and he
+
+              crashed up and never got to fire a round.  That's what
+
+              put him in the hospital, burned his arm and shoulder and
+
+              elbow.</p>
+				</sp>
+				<sp>
+				<speaker>Tom Swope</speaker>
+				<p>No, I don't think you dropped anything.  I think it
+
+              just fell right on the table.  It's okay.</p>
+		   </sp>
+		   <sp>
+		   <speaker>Lionel N. Heath</speaker>
+		   <p>Anyhow, a lot of experience.  JC was with me 99
+
+              percent of the time.  I should have at least, I should
+
+              have been killed at least three times.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Yeah.  Tell me about that.</p></sp>
+				<sp><speaker>Lionel N. Heath</speaker><p>We were near a canal.  This was toward the end of the
+
+              war.  I was guarding an intersection in this little town.
+
+              My tank and my four buddies and myself.  So on the radio
+
+              I get a message to go take that road to my right and go
+
+              down there two or three miles there's a German column
+
+              reported by the air force, by the field artillery.  They
+
+              call -- we call them P45's.  They were a pilot and a 45
+
+              automatic.  They're a little like Taylor club observation
+
+              _____, artillery.  He says they reported an enemy column
+
+              down there but I don't see what's going on.  I was in the habit of getting these details.  Every time a good rock
+
+              one come along it was second platoon, my job.  So my
+
+              platoon leader sends me down.  He says, "Let us know
+
+              what's going on."  Okay.  So we pull out of our position
+
+              and they pulled in another tank to take my position and
+
+              we went down this road and this is by the Battle of the
+
+              Bulge, around in there and we're going up a hill and
+
+              there's a big highway across here and we saw some
+
+              infantry and white stuff, Germans up here, so we come up
+
+              alongside the road like in the ditch, get in a turret
+
+              _____, position.  All you do is keep your gun above the
+
+              ground enough to shoot it but protecting your hull by
+
+              driving it in a little ditch.  Well, this -- it was a
+
+              German column of old war mock German equipment, beat up
+
+              old, you know, horses and guys that were pathetic but a
+
+              mess of them and they're coming out of this woods down
+
+              along there and I'm sitting down here and here come the
+
+              biggest damn semi you ever saw in your life, a tanker.
+
+              Had to be a fuel tank.  Huge, antique, old big damn thing
+
+              looked like a -- the tank on it was easy as big as a rail
+
+              fuel tank, you know.  Well, I told my gunner, I says,
+
+              "Pick out something.  We'll throw a few rounds and get
+
+              the hell out of here."  You know, numbers wise we were,
+
+              we were five guys and here is a hundred, you know, but we
+
+              hadn't seen any tanks or any heavy equipment that would damage us but you don't know this the height of the
+
+              battle, you know.  Well, my gunner pops one out of the
+
+              75, he hits this, this big tank thing with a semi, and
+
+              right behind the cab and the cab and the front axle went
+
+              scooting down the road like it was, had a rocket in it.
+
+              And the trailer and the tank are going backwards this way
+
+              because it blew the -- it must have hit the frame, busted
+
+              the frame and blew the, blew the cab this way and the
+
+              tank this way.  And we sprayed the hell out of it for a
+
+              couple of minutes.  And says, "Let's get out of here
+
+              before they move something in, you know."  So we backed
+
+              down this road and I get down there and the old man says,
+
+              "Take your old position."  So I get her out of this
+
+              little todd, just a little wide spot in the road and this
+
+              guy they had put in my place was just another tank
+
+              commander.  What happened to Y Gudowski?  Well, they blew
+
+              him and his tank all to hell.  Had I not been on this
+
+              mission, I'd have been gone there.  They got him with a
+
+              Panzerfaust bazooka they call it.  All the towns, these
+
+              little towns mostly are all connected.  The basements are
+
+              all connected together from, you know, hundred years ago.
+
+              Well, he's parked along the road, alongside the building
+
+              guarding this road and this road, and they come up here
+
+              through the basements and, you know, they're three or
+
+              four feet from the side of our tank and hit him with a Panzerfaust Bazooka and the war head on them, that was
+
+              one of Hitler's secret weapons.  He made millions of them
+
+              things and everybody had Panzerfaust.  Civilians, you
+
+              know, everybody had them.  If they had been used properly
+
+              they probably could have won the war with them, but
+
+              they're only about that long and look like a piece of
+
+              stove pipe on the back, a little rocket on the back, you
+
+              know, but they had a war head on them about that big
+
+              around.  But had I not gone on this mission that would
+
+              have been me.  So there are -- there's good times and bad
+
+              times and we, we liberated a whole bunch of prisoners of
+
+              war P W, French and you know, all the enemy and they
+
+              marched them up like a subway entrance.  At the edge
+
+              again of this little town.  And this one guy, they
+
+              marched up here and I'm standing there, I carried a 45
+
+              automatic under my arm with my wife's picture.  I took
+
+              the regular side plates off of the 45 and I made new ones
+
+              out of, I don't know, a piece of plastic from an old
+
+              German glider and I put her picture and I put the plastic
+
+              thing behind it and I carried that under my arm all the
+
+              time.  And this one guy come up and he was a S S trooper
+
+              and they're bad.  We're mocked as regular army just like
+
+              he's S S.  He comes up to the top of this ramp, like a
+
+              ramp going down, probably used for an escape, you know,
+
+              everybody could go from one basement to the other one and this thing would just on a field outside of town, and
+
+              these guys are coming up out of there.  And this guy
+
+              looks at me.  I'm standing right there with my gun in my
+
+              hand, you know, getting these guys the hell, getting them
+
+              out of there.  There was an infantry outfit right behind
+
+              us and they're taking over these prisoners and this guy
+
+              spits at me, this S S trooper and that didn't go so good.
+
+              So I come down like this with the gun and wa_____ his ear
+
+              off, should have shot him.  That's what I should have
+
+              done but I didn't.  So I wheeled him over beside a little
+
+              store they had there and they were -- all thought they
+
+              were going to get shot until they got, you know, 50 or
+
+              100 of them or whatever and they put a few guards on them
+
+              and then marched them back to the rear.  But I could have
+
+              got it there.  We're in a town.  We're coming into the
+
+              town in the evening.  We hear that the town is full of
+
+              German anti-tank equipment and we're supposed to go in
+
+              and take this town.  And there's a canal and a road right
+
+              beside the canal and a bank like this, and we're on this
+
+              road alongside this canal.  I call it a canal, it could
+
+              have been a river but it looked like a canal, looked like
+
+              a hand-made, man made, you know, strait, and you would be
+
+              surprised at the shells and ammunition and bombing.
+
+              We're shelling and with everything we got to shell it
+
+              with, the air force is up there bombing the living daylights out of this town, and we think the Germans are
+
+              there.  The Germans had moved through the town and
+
+              they're shelling because they figure we followed them in
+
+              there.  So we're both shooting at this damn little town,
+
+              you know, and I happen to look around like that.  I'm up
+
+              in the turret of the tank, scared the hell out of me,
+
+              because of the crap that was, you know, it was a miracle
+
+              that you didn't get hit.  And a bomb or had to be a bomb
+
+              because it was too big, exploded in the canal and I could
+
+              see the bottom of that mud and stuff in the bottom of
+
+              that canal.  You know, didn't damage anything.  It's just
+
+              the force of that had to be a big bomb from -- because it
+
+              opened up just and I could see the bottom of that thing,
+
+              tin cans and crap in the bottom of this, of this canal
+
+              they call it.  And we come to find out in the morning
+
+              that we're both shelling.  There's nobody in town.  We
+
+              were, we were wasting all our time and money.  Germans
+
+              going this way and we're going this way and then nobody
+
+              there to shoot.  I was glad.  That was a night if I could
+
+              of, if I thought and this thought went through my mind.
+
+              If I could run far enough and fast enough and on top of
+
+              the water I'd be gone.  I'd be going home.  That's just
+
+              how I felt.  I was that scared.  You sit there all night
+
+              under that damn, you know, all them shells and stuff and
+
+              we had this bank and then just, you know, maybe ten foot of road and this big canal right here and that's what
+
+              protected us, I guess was that bank, you know.  But that
+
+              one that hit the canal if it had been over another few
+
+              feet it would have been right in my turret.  That was,
+
+              that was a bad night because there was crap flying all
+
+              night from artillery, from the air force, from there,
+
+              there, from theirs and from ours.  And we're sitting
+
+              right underneath all of it, you know.  But there again, I
+
+              lived through that one.  Nothing happened.  Well, I had a
+
+              couple of chances to become an officer because our
+
+              company commander believed in making his own men officers
+
+              rather than get the what we call 90 day wonders, you
+
+              know, from the pools.  But about this time -- how come
+
+              she didn't offer me any?  She's like my first sergeant.
+
+              The point system came out and I was offered a battle
+
+              field commission three times and this was about the end
+
+              of the war.  And I went over to headquarters one time in
+
+              this town.  I found out that as an officer I would have
+
+              been about -- we're talking the point system now that
+
+              they brought out for discharge system.  As an officer,
+
+              I'd have been about 24th in line which meant that 23 guys
+
+              had to be sent home before they got to me but I was like
+
+              number one enlisted man.  I had more seniority.  Thank
+
+              you, Lo.  I had more seniority and longer than anybody
+
+              else.  So then the old man says, hey, we got a deal for you, sir.  He says, could be a week passing, go down to
+
+              the French Rivera.  We heard a lot about that, that was
+
+              -- you could do anything you wanted to do down there, so
+
+              they tell me.  Women, booze, gamble, whatever and that's
+
+              where you went.  So the old man, after I had turned down
+
+              or asked him not to submit my name, you know, for battle
+
+              field commission, I says, you get my ass out of here,
+
+              send me home.  And then a couple of days word comes down
+
+              have Sergeant Heath pack his A bag and B bag which was a
+
+              joke.  Of course your stuff is spread all over Europe.
+
+              He's on his way home.  And you talk about happy, and I
+
+              was one of the first ones in our battalion that headed
+
+              for state side.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>And when would that be?  Do you remember roughly the
+
+              date?</p></sp>
+				<sp><speaker>Lionel N. Heath</speaker><p>No.  She could tell you.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Sometime in '45 I assume, right?  1945?</p></sp>
+				<sp><speaker>Lionel N. Heath</speaker><p>Yeah.  And while I'm there I had two guns and I had a
+
+              German map case, real fine piece of canvas, like an --
+
+              and I had that full of German 9mm ammunition.  I hand
+
+              packed them and stacked them in there.  I don't know how
+
+              many rounds I had in that and I had a P38 and a German
+
+              Luger and I was taking them home.  So the next morning
+
+              comes and they evacuate our tents.  They come and check,
+
+              make sure everything is out of the tent, run us out of this great big like an airplane hanger.  The guy gets up
+
+              there, now we know you men have got a bunch of souvenirs
+
+              and we don't want you to, to take them home.  Now we're
+
+              going to have a final inspection and anything we find in
+
+              the way of antiques, guns or ammo or anything, we'll
+
+              detain you for a couple of months.  It won't stop you
+
+              from getting out of the Army, but we may take a couple of
+
+              months to get you.  The hell with this.  So I get up
+
+              there and they got a damn second lieutenant, big long
+
+              table, real wide, that wide and I got these two guns
+
+              taped to the bottom of my bag so I could lift them up and
+
+              the guns don't fall out.  But I had this case with all
+
+              this ammo in it.  He says dump them out here, Sarge.
+
+              Okay.  So I dump the B bags down.  I left the map case
+
+              down there, he says that goes, too.  So I dumped that
+
+              down, I got a pile of 9mm ammo like this, you know, and
+
+              he looks at me, he says, "Jesus Christ, Sarge, are you
+
+              from Chicago?"  I says, "No, I'm not from Chicago.  Let's
+
+              make a deal with you."  I said, "We'll split the ammo."
+
+              I says, "You take half, I take half."  He looks at me and
+
+              grins.  He says, "I don't have to take half.  I got it
+
+              all."  And he kept every damn round except six or eight
+
+              rounds I had stuck in my watch pocket.  He didn't get
+
+              them.  Then I was on my way home, but that dirty dog.  He
+
+              looked at me and he -- you know, he was a younger guy, I don't have to split them with you.  He says, I got them
+
+              all.  And I -- God only knows how much these guys picked
+
+              up that way, you know.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>What army was the <name type="thing" key="5AD" reg="5th Armored Division, United States Army">5th Armored</name> with?  Is that with
+
+              <name type="person" key="GSP" reg="Patton, George S.">Patton's</name>?</p></sp>
+				<sp><speaker>Lionel N. Heath</speaker><p>I knew you was going to ask some of that kind of stuff.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Was it <name type="person" key="GSP" reg="Patton, George S.">Patton's</name> army?</p></sp>
+				<sp><speaker>Lionel N. Heath</speaker><p>We were attached part of the time with <name type="person" key="GSP" reg="Patton, George S.">Patton</name>, part of
+
+              the time with somebody else.  The government would move
+
+              us from one position.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>From one --</p></sp>
+				<sp><speaker>Lionel N. Heath</speaker><p>To another one.  We spent a lot of time right next to
+
+              the French whichever they are.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Right.</p></sp>
+				<sp><speaker>Lionel N. Heath</speaker><p>up on the north further from the battle front but to
+
+              confuse the enemy.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Kept moving you around.</p></sp>
+				<sp><speaker>Lionel N. Heath</speaker><p>And the tank, you know, you can move 300 miles at
+
+              night if you're lucky.  Well, that's part of the reason
+
+              why we beat Hitler was we were all over the place and
+
+              they didn't know who the hell we were.  We'd pull into a
+
+              place in the snow.  I remember they had a Y in the road,
+
+              a big farm here.  It was at Christmas time, must have
+
+              been what '44 or something.  And these ME109 airplanes would come up the valley straight for us and down and
+
+              over the valley and they kept doing the same route.
+
+              Well, we're holed up in this barn, the old man says, the
+
+              hell with this, we're getting tired of this crap, so we
+
+              went out, got in our tanks, got our 50 calibers, the next
+
+              airplane comes over, he run into a hornet's nest up over
+
+              the hill, down the valley, ground is frozen.  He sights
+
+              from here to halfway to Willoughby up against the
+
+              foundation of a house that was built like on the side of
+
+              a -- the back of the basement would be to the outside,
+
+              you know.  So I run like hell over there.  The company
+
+              jeep.  I grab the jeep and take off.  I had been trying
+
+              to get one of these little German Walther 45 automatics,
+
+              little bitty things that the pilots all had and they were
+
+              just like a little 22 automatic.  So I get over there to
+
+              the front of the house and I didn't realize it was
+
+              battalion headquarters and one of our jeep drivers was on
+
+              guard there.  He says, "What the hell are you doing here,
+
+              Sarge?"  I says, "I want that --"  We saw something --
+
+              that the plane disintegrated and we saw two big things
+
+              slide out of the way from the rest of the airplane.  I
+
+              says, "I want to get that guy" and he had a grin on his
+
+              face and he was guarding the front door.  So he stayed
+
+              there.  I run around the back of the house and here's the
+
+              engine that I got the serial number off of and the pilot.  He didn't have any 25 automatic on him.  Later that night
+
+              when, when Peterson got off guard, he had the 45.  He
+
+              left the guard post, run around tricked the gunny, I
+
+              never did get one.  I come home without a 25 automatic.
+
+              But that was, that was quite an experience.  It shows you
+
+              the stupid things that you do.  These airplanes kept
+
+              coming the same, you know, and a couple of minutes
+
+              another one come, the same route just like they're
+
+              playing tag until the old man shoots the hell and we're
+
+              parked like in a little orchard next to this barn at the
+
+              Y like this, you know, orchard is over here.  And to
+
+              leave there when it come time for us to move, they had us
+
+              back out and the engineers come over with rubber tanks,
+
+              put them at the end of our tracks and blow them up.  Look
+
+              like we're still there.  We're 300 miles down the road
+
+              but these are the things that that helped us win, you
+
+              know.  We had I D panels that you put up on the top of
+
+              your tank, plastic, different color.  Every morning they
+
+              tell us what color to put up.  So you better put the
+
+              right panel up there so the airplanes know who you were.
+
+              Well, I was in the shadow of a little tree out in the
+
+              bare field and this is all woods behind me, and this
+
+              little tree here and I'm sitting out here alone, this is
+
+              a tree here and a tree there and a tree there and a tree
+
+              there.  The big battle is where I got hit but I wasn't up there yet.  Here comes -- I'm looking up this way.  This
+
+              is where, here comes this P51 and he's right on the
+
+              ground, I mean, he was flying low and he's heading right
+
+              over my tank and I thought Jesus Christ, I hope that guy
+
+              sees the right panel or I hope I got the right panel out.
+
+              And if I -- if I'd had a ball bat and could have stood on
+
+              top of that tank, I could have hit the bottom of that
+
+              airplane.  He's that low.  The P51 and as he flew over
+
+              me, his 50 caliber wing gun shells landed in my tank.
+
+              You know, they're spent.  They're nothing, but I mean,
+
+              and he's over here and right at the edge of the woods he
+
+              drops a couple of bombs.  After it's all quieted down a
+
+              German Tiger Royal, the best they had had come from the
+
+              battle up here circled around, way around through the
+
+              woods, come up to the edge of the woods behind me and
+
+              this guy nailed him.  If he hadn't nailed him, that 88
+
+              that the Germans used on those guns would have gone
+
+              through me and a half a dozen other tanks.  So somebody
+
+              in the war that flew a P51 is a hell of a friend of mine.</p></sp>
+				<sp><speaker>Tom Swope</speaker><p>Just --</p></sp>
+				<sp><speaker>Lionel N. Heath</speaker><p>Just scared, oh, I tell you, could drive a spike in my
+
+              own hand.  It wouldn't.  Anybody that said they wasn't
+
+              scared was either damned liar or they wasn't there.  They
+
+              just no way you could go through that much and not be
+
+              afraid.  I'm not proud of it but just like that night in that canal blew up, if that thought went through my mind,
+
+              god, if I could walk on water, I'd run from right here
+
+              all the way to the ocean.  I'd run all the way from, you
+
+              know, you get funny thoughts like that.</p></sp>
+				<trailer>Conclusion of interview.</trailer>
+				</div3>
+				</div2>
+				</div1>
+		</body>
+	</text>
+</TEI.2>

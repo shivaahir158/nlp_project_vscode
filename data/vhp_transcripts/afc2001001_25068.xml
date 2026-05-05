@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd" >
+
+<!--
+<!DOCTYPE TEI.2 SYSTEM "c:/standards/teilite/teixlite.dtd" >
+-->
+
+
+<TEI.2>
+  <teiHeader type="personal_narrative">
+    <fileDesc>
+      <titleStmt>
+	<title>Veterans Share Their Memories: Clarence W. Dotson, May 27, 2004</title>
+	<author></author>
+	<respStmt>
+	  <resp>Encoded by</resp>
+	  <name>Matthew McCrady</name>
+	</respStmt>
+      </titleStmt>
+      <publicationStmt>
+	<idno>025068.pn0001</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<bibl>
+	  <title>Veterans Share Their Memories: Clarence W. Dotson, May 27, 2004</title>
+	  <author></author>
+	  <date>May 27, 2004</date>
+	</bibl>
+	<p/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+	<p>Encoded for the "World War II Reunion 2004" web site for the Veterans History Project.</p>
+      </projectDesc>
+      <samplingDecl>
+	<p>All items in the Clarence W. Dotson collection were digitized.</p>
+      </samplingDecl>
+      <editorialDecl>
+	<p>A VHP staff member or volunteer transcribed this narrative from the dictation of the veteran.  The transcription is meant to reflect minimal changes to the spoken account in an effort to communicate the veteran's experiences more accurately and clearly.</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+	<p>The most horrible experience was the D-Day invasion. My beachhead was called Utah Beach. I went ashore with 357 infantry replacements. Then I went for my outfit with 343 Field Artillery at Ste. Mere Eglise, France. This was June 11, 1944. I remained with that outfit for the duration.</p><p>The most horrible was when we landed at the beachhead that so many dead were still floating in the water. They had already turned black, and decay had set in. The stench was awful.</p><p>The next real experience that I remember mostly was Christmas Day 1944. We were stationed at Hammersdorf, Germany. We had just had a wonderful Christmas dinner of turkey, mashed potatoes, green peas, gravy, cranberry sauce, and all the trimmings. After dinner, I was standing at the back door of the Rock House [?], watching some guys out back who were pitching horseshoes.</p><p> We believed the war was nearly over. We were not yet aware of the Battle of the Bulge, although it had started on the 16th of December. While I was standing in the door-I can't explain it-but something just said, "You need to move." It was not audible; I was just impressed that I needed to move. I moved back inside the building; I just got inside the building when an ME-109 (German fighter plane) came across the hill and strafed the building where we were.</p><p>I went back to the door where I was standing, and where I'd been standing, bullets had riddled the door frame. Some of the men in my outfit shot the plane down. We shot the plane down, and he crashed just a short distance from where we were standing. We went to see, and all that was left of him [the pilot] was the center section. All the rest was burned up.</p><p>Then, being in the motor section of our battery, I was interested in the mechanical part of the airplane. I was fascinated with the motor especially, because it was fuel-injected Mercedes Benz 24-cylinder engine. Little did I realize that in the years to come, I would be affiliated and working that type of engine. I worked for them for 35 years. I still love that type of engine, and I still drive that type of Mercedes car. I've been back to Germany in 1969; I was treated royally by the Mercedes Benz Company.</p>
+	<note>End of Transcript</note>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

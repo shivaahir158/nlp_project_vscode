@@ -1,0 +1,643 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd" >
+<!--
+<!DOCTYPE TEI.2 SYSTEM "../teixlite.dtd" >
+-->
+<TEI.2>
+	<teiHeader type="vets_interview">
+		<fileDesc>
+			<titleStmt>
+				<title>Transcript of interview with Prudence Burrell on March 19, 2002</title>
+				<author>Katie Cavanaugh</author>
+				<respStmt>
+					<resp>Encoded by</resp>
+					<name>Matthew McCrady</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Transcript of interview with Prudence Burrell on March 19, 2002</title>
+					<author>Katie Cavanaugh</author>
+					<date>March 19, 2002</date>
+				</bibl>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Encoded for the Experiencing War web site.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>The entire interview with Prudence Burrell was digitized.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+			</editorialDecl>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div0 type="title" id="Burrell1" n="1">
+			<!-- begins encoded document -->
+			<p>INTERVIEW WITH <name type="person" key="PBB" reg="Prudence Burrell">PRUDENCE BURRELL</name> MICHIGAN WOMEN'S HISTORICAL CENTER</p>
+			<p>Katie Cavanaugh interviewing <name type="person" key="PBB" reg="Burrell, Prudence Burns">Prudence Burns Burrell</name>.</p>
+			<div1 type="preface_text" id="Burrell2" n="1">
+				<!-- No Preface -->
+		   <div2 type="body_text" id="Burrell3" n="1">
+		   <sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>...Tuesday, March 19,2002, we're here with <name type="person" key="PBB" reg="Prudence Burrell">Prudence Burrell</name>.  So, you joined, you went to Nursing School in Missouri, St. Louis. </p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> In Kansas City, Missouri.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p> In Kansas City, OK</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> Yes, and I graduated in 1939 and I was a Public Health Nurse there and I 
+had gone up to the University of Minnesota to begin working toward a Bachelor of Science degree with a certificate in Public Health and when I came back to Kansas City, they said, "They are beginning to prepare for <name type="thing" key="WWII" reg="World War II">World War II</name>, and they have already recruited and had taken in only 48 Negro nurses," and I said, "Well," so they said "well, we want you to recruit," and I said, "OK," so I recruited myself and went in the United States Army Nurse Corps and went to <name type="place" key="FHUA" reg="Fort Huachuca, Arizona">Fort Huachuca, Arizona</name>. </p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p> What year was that?</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> 1942</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p> 1942 wow.</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> And they had already taken in 48 of the Negroes because Ms. Roosevelt, 
+and Miss Stauffers and Miss Bethune McCloud had practically made them take in those 48 because they weren't going to take any Negro nurses in.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p> Yea, I know that there was a quota system where they were only going to take in so many black women, nurses.</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> Yes.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>Did you have trouble recruiting?</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> No, I didn't recruit, I recruited myself and then I was in.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p> Recruited yourself and you were done? Did you have, were they having 
+trouble filling those positions that were available?</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> No, no, no. When they bombed <name type="thing" key="PH" reg="Pearl Harbor Attack">Pearl Harbor</name>, then, they wanted every nurse they could get, white or black, therefore they began recruiting and took in all those who were interested.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p> Did you have to do any training, army training?</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> No, no, no. You work in a hospital, you've already been trained. You're an RN. This is just moving into an Army hospital taking care of the soldiers, therefore, you didn't have any problem.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p> You didn't need to worry about boot carnp then, that sort of thing.</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> No, no, they didn't have all that then. <name type="thing" key="WWII" reg="World War II">World War II</name>, those people didn't know all that they have going now. This is all something different. We didn't have this entire bit going. However, I was called for Vietnam to come and teach the Germans how to set up a dispensary, but my husband retired from the Service and I was with the Mental Health Department here and later I retired therefore I was not going -- </p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p> So, you were not going to do it?</p>
+				</sp>
+<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> No, no. When I went into the service, I went to <name type="place" key="FHUA" reg="Fort Huachuca, Arizona">Fort Huachuca</name>. They began to send the hospital units out, one group went to China, Burrna, India, another one went to Warrington, England, and our hospital, 268 station hospital, went to the South Pacific, we staged in Australia, into New Guinea, Milinea Bay, New Guinea, and that's where we worked for fourteen months. While we were there we could nurse only black soldiers. Just down from us, which I think you've heard before, one white soldier was severely hemorrhaging and they brought him up to our hospital. We said, "We're sorry, but the blood is labeled'A'." (And you know we knew blood difference in people) yet they had labeled it "A" for African, their stupid selves. We told him the blood was labeled "A" so we can't give it, and he said "I don't give a damn, don't let me die." So, that's why I've said if he's still living, he's walking around with this "A" blood. We gave it to him and then they transferred him to his, the regular white hospital which was down near the ocean from us. That's where we were and we did whatever was needed. My commanding officer assigned me with the Australian pilot to fly patients up to Finch Haven. They were going to be sent back to the States. We would have to take them to Finch Haven, which was up in thejungle area. I had never flown before in my life, and that's when I told them I should have had on Pampers because I had never flown before in my life. This Australian pilot and I flew back and forth and he was teaching me how to turn different buttons on the plane. Therefore I said "Oh, oh, now I know how to fly a plane." He wanted to know if I wanted to go to another island where Aborigines lived and were headhunters. They had shot down one of the planes from New York, with the entertainers, and all are in the bottom of that ground now. I told him "No I wasn't interested. Let's keep going" and we did.</p>
+				<p> My commanding officer sent me to teach the Thirteen Eleven Engineer group how to do first aid and set up a dispensary. When they met me, that was just "out of sight." Every day they sent me 50 lbs of ice and fish. One guy received whiskey from his mother in loaves of bread, and he would bring whiskey to me, and I wasn't even drinking whiskey. The soldier who was our medical administrator and I were dating. I would issue my whiskey to him three times a night. The glass I used is in the cabinet now. He died in '93. But, I was filling it three times and that was where was a crazy thing because he was the medical administrator and in charge of all the supplies, and the whiskey and everything. And he would laugh - "this woman's crazy."</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    When you were in New Guinea, how close up to the front were you? You weren't in the front --</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> No, no, no, we were in the background. We were in the background of the really fighting to take care of the troops.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    When they were stable? When they came to you?</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> Yes, they needed to be hospitalized, and all, so that's what we were doing.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    What kind of patients did you see?</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> We saw only the black soldiers who had been shot up or were just having problems. Most of them were having problems. Just regular illness that one would have.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    Did you see malaria a lot?</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> Yea, but we had to take atabrane to protect us against malaria and they didn't know I had malaria when I was a youngster, down in Southern Illinois. Therefore I wouldn't take it because it made us black ones look gray. I'm not gonna take it since I've had malaria.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    So, you're immune to it?</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> The anopheles mosquito would come up at 6:00 in the evening and at 6:00 we'd have to close up all, around your neck and your ankjes, and you had to really be protected and that's why we have so many of us, you saw the pictures that I had, with the stacks and all, they had all those soft kind, by my being fat in my rear, I said - I'm not going to wear that junk - so I had mine special made - mv khaki outfit. Yes.</p>
+				</sp>
+<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    Was it pretty miserable to be dressed so, so many clothing?</p>
+				</sp>
+<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> No, no, you didn't have nothing, just the slacks like you have on now.</p>
+				</sp>
+<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    It wasn't too hot?</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> It was hot, that was in the jungle, hot? Talk about hot? You are in the jungle. Have you ever visited any of these countries?</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    No, not out in the Pacific.</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> You haven't?</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    No.</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> Have you been down in Africa?</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    I haven't. I've been in Central America, but that's all, and in Europe.</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> Yea, when you were in Central America.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    That's hot.</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> Uh, huh. Yes, yes, how long were you there?</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    Three weeks. Just visiting.</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> Oh, just visiting? Good.</p>
+				</sp>
+				<p><note>(SOME VISITING WITH OTHER INTERVIEWERS IN THE BACKGROUND)</note></p>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p> Do you speak any languages?</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> Oh, <foreign>Buenos dias! Como esta usted?</foreign></p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    Yea, that was when you were in the Philippines, right, that you had to 
+
+learn?</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> Yes, Yes, when we got down there they were speaking Tagalog. That's the native, you know, and then their little bit, and all, you've heard about it. They weren't speaking any Spanish, they were speaking Tagalog. And, of course, a lot of them knew English which had been a requirement for them. having been in school. It didn't really make much difference because you can always communicate with people like, in Australia, and the guys (imitation of Australians). So, they understand, you </p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    Right, right.</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> So, when we got in, and we went in order to join <name type="person" key="DM" reg="MacArthur, Douglas">MacArthur</name> to make an invasion into Japan. <name type="person" key="HT" reg="Truman, Harry S.">Truman</name>, said - No - (<name type="person" key="HT" reg="Truman, Harry S.">Truman</name> was the President. <name type="person" key="HT" reg="Truman, Harry S.">Truman</name> had an old haberdashery down in the red light district in Kansas City where I took nurses training. I'm telling you that, and here he was now President and he was saying "drop the bomb") Therefore we didn't have to go in with <name type="person" key="DM" reg="MacArthur, Douglas">MacArthur</name> and the troops making the invasion. They dropped the bomb, then they said - well, ok, they had sent in orders for us to be promoted to captain, several of us, and do you know, <name type="person" key="HT" reg="Truman, Harry S.">Truman</name> rescinded it and that's why we're still only First Lieutenants. Rescinded the order.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    And why was that, do you think?</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> He just rescinded it. He wasn't going to spend any money after they had shot them down and ended the war. That shows you just how they treated us.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p> Right, right.</p>
+				</sp>
+<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> And, so we were getting ready to come back to the states. We had been wearing high top shoes, and our hair, we had rolled it, because it was hot, and it would get messed up and this guy I was going with, and my guy that I'd been engaged to, had asked him to look after me. So, after about a year and a half, this medical administrator began kind of dating me and he said, "Well, will you marry me?" And I had said "Yes" and so he said, "OK, when we get to the States." I said, "Oh, no, like hell, you'll get to the States where they've been dressing fine and all that and we've been dressing like vagabonds, no way, we're getting married here." So, therefore, that's why I had my wedding in the Philippines and my dress was made from a parachute. My wedding ring cost $.50.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p> And what year was that? 1945?</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> 1945. October 1945.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>        October, so? So after V-J Day? So, the war was over</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> Oh, yes, the war was over and they were getting ready to send us back 
+home. And that's why I said, I didn't want him coming back here where all of the girls had been real sharp and we had been just like vagabonds in all these boots and khaki clothes, perspiring and falling in the mud, and that mud had a suction to it, and you'd fall down, and here I am ironing my khakis so I could look sharp and ironing his and he would fall down in the mud and get up and just keep on walking and I'd get so mad. Because I'd have to wash all that, and he was just my boyfriend. So, when I wrote and told this little guy there that I was going to marry Lieutenant Burrell, he'd been shot down in Italy and the Red Cross contacted me and they said - we tore up the letter - and you can write to him later because he has been shrapnel sprayed and very sick.  And, you know the "Love Chronicle" people were in here from Santa Monica, CA, and they photographed all that, young lady. You know, about him, and showed him being shot down in Italy, and everything. That's been on the television.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>  I remember you telling us that.</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> Yes, I have the tape right here. I have the tape there. So that's how we got married there and then, see, while we were in the jungles of New Guinea and we'd talked about marriage, we talked about going to our own house. And that's when I sent money. We wanted, dollar for dollar, we matched, and we sent it to his mother, and had her to buy a house here in Detroit since he's from Detroit. I'm from southern Illinois. You've heard of Cairo, where the Ohio and Mississippi Rivers meet, but they don't mix and it's a complete clear line. People from all over the world come down to see it.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    Huh - I didn't know that.</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> See, the Ohio's clear, the Mississippi's muddy there. And the Mississippi starts up in the Upper Peninsula of Minnesota. I've walked across it. That's where I finished University of Minnesota and that's where it all starts and trickles on down. So, therefore, I began to make preparations and all. One of the girls with us, the one who was not a nurse, a Red Cross girl, who was with us, designed the wedding dress and that's how the Filipino made it, from the parachute, as she had designed it. And my ring cost 50 cents, it's pure gold.. I'll show all this to you. And, so.</p>
+				</sp>
+				<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    When did you get to the Philippines? When were you transferred over there</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> Oh, we transferred to the Philippines in 1945. To meet up with <name type="person" key="DM" reg="MacArthur, Douglas">MacArthur</name> to make the invasion.</p>
+				</sp>
+<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>    Was it before all the POW camps were liberated?</p>
+				</sp>
+<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> Yes, we met there in order to make the invasion into Japan.</p>
+				</sp>
+<sp>
+		   <speaker>Katie Cavanaugh</speaker>
+				<p>  But, weren't the POW camps...</p>
+				</sp>
+				<sp>
+		   <speaker>Prudence Burrell</speaker>
+				<p> Oh, those POW people, girl, were all over the United States long before then, during the war, yes, they were all before then. You see, the Japanese, they're the ones who had made the Americans in Santa Tomas (you've heard of Santa Tomas, the University?) Well, they had made them stay there and that's why they were walking stooped when we went in to join McArthur for the invasion of Japan.</p></sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p>   So they were just freed?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Freed, yes. Several of the girls, one of them is still living here and with me we are members in the Women Overseas League. I go to a meeting each month.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> Oh, really?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Uh, huh. Yes, she's here, Overseas was all segregated, white girls and all. And now she lives out in the suburbs.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p>    Oh, OK, I'll have to get her name from you.</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Yea, OK, and if you'd like to go and talk to her, because she's not feeling too well right now, and you can go out and talk to her, because she's been here, that's why I put those pillows in there for her to sit on when they come in here. Because the Women's Overseas League, we always meet, it's not just segregated with the Army nurses, it's also with the women with the Army service, the Army Nurse Corps, the women who were teachers and what have you. We just met Friday up at the Ren Cen Club, big dinner. There was only six of us, because all of them are just dying, just leaving us. That's why when we got into the Philippines, you see, all this was just being cleared, and it was rebels all over, everything, girl.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p>    Did you feel in danger ever?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Yes, you could not go anyplace and if you did, you better be with the guys with guns in the trucks. The thing that was so sad, some of the white girls and guys didn't pay any attention to it and they were moving around and hugging and carrying on and a lot of them were killed by the snipers...</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p>    Right.</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Yea.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p>  When was that, what month?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> I don't know the exact month, honey, that was during 1945 and we went in to make the invasions. See, we were in there, we went in there in June, July, August and September.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p>    June, OK, all right. So, was that when you were in New Guinea, did you have to be guarded, I mean, I read that women were, that they were very worried that women would be attacked by, you know, by the enemy, so that they were guarded all the time.</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Read what, read what??</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> Oh, in different...</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p>PRUDENCE-. Well, they were just lying, because they don't know nothing about it, they don't know anything about it, because we had...</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p>    Maybe they're not speaking of New Guinea, maybe it's other islands.</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Yes, because you see, no it wasn't on other islands. This was all <name type="thing" key="WWII" reg="World War II">World War II</name>, when you had troopers all over, you had your infantries, and all the 92nd and the whites and all throughout the whole section of the South Pacific that were supposed to have been the infantries, and all.  Where we were, we were in the background taking care of the soldiers, the white hospital and our hospital, 268, but further up in the defense section was where all of your troops were.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p>  Right.</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Yea, the 92nd, the 93rd, because the 92nd went to China, I mean went to Italy, but the 93rd was sent over to the South Pacific, infantry, of all the black soldiers.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p>          OK. So, were the white hospitals and black hospitals in the same area, or...</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Yes, we were the black hospital up here on the higher part of the hill and down at the river was the white hospital. And that's when we took care of that soldier that was injured. He was injured right by us. They were working there and he began hemorrhaging. Now, we couldn't let him hemorrhage himself to death, so that's why we took care of him, and then he was sent down to the river to the white hospital.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> Did the two hospitals work together much?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p>PRUDENCE -No, never, it was all segregated and the whites did not like the blacks and some of the officers told them that we had tails. When we went to one of the Australian ladies house to eat she had little pillows in all of the seats but hers and I sat in hers and she "sighed."  I said, "Look, if I had a tail I have enough tissue to cover a tail," and I said "And since you're not intelligent enough to know the developmental stages of mankind, then you have nothing to talk to me about." And I had two other girls with me that you saw in the book, and I said, "Come on, let's get the hell out of here. I don't want her food because she might have cooked some food for people in the jungle." Yes.</p>
+				</sp>
+<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> Was it like that in Australia a lot for you? Were people pretty prejudiced?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> No, no, now you'll always meet a few crazy people, but by the same token, that's why I'm still in contact with Australian people, because they knew the difference. Sister Kenny, they had written up that I had gone to the University of Minnesota, where Sister Kenny had the wet-pack treatment, I don't know whether you know about it or not. The wet-pack treatment for polio was developed, she was teaching at University of Minnesota, I went in and observed her class. I wasn't assigned to her class but I went in and observed. When I got to Australia, they wrote that I had gone to the University of Minnesota, and her relatives knew that if I had gone there, I knew her, and they drove out in their big limos and came out to visit me. And it made a lot of the whites so mad, because they were driving out here to see this black woman, and it even made some of the black ones with me angry. The chief nurse of our unit, and our commanding officer, put her out and put another one in charge and made me the assistant. So, you see, you have problems with black and white. And this is why I treat all people different, that nice to them, and the ones who are really ornery I am really profane and nasty to them. I don't care what color they are.</p>
+				</sp>
+<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> Right.</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> And that's my attitude.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> I read that in your book. It's great.</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> That's right. Because my great-grandmother was white and she could not stand these black imps that came in. So that's why I'm like I am.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> Yea, oh sure.</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> So, you see, God takes care of me. Did you see where, the magazine, that you saw, where God takes care of&#151;</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> Yea, it's not that one. Yes, I remember you showed me. It's so funny. That's great.</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Look up here, dear. Just lift those things, you'll see some magazines. Yea, just lift up those different things, I think you'll see some magazines. There, no, well, you know what, they're out in my thing where I go to speak, you know, in my zipper bag, I'm going to show you the pictures</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> So, why did you decide to join the Army anyway in the very beginning?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Because they asked me to recruit and I said I'll recruit myself.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> Did it seem like it would be, you know, an adventure or patriotic, or??</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Yea, yea, it would be an adventure, see I had been nursing, as a visiting nurse, a public health nurse, going into the homes and what have you, so to go into the Army and go and see the world.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p>And you did?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Yes, we went all over.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> Did you get to choose to go or did you just happen to be sent overseas?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> No, no, no. They sent you wherever they wanted you. You see, I was 
+lucky, because when I went in and was really moving around. You heard of the Nickles brothers? They danced and all that, you ever heard of the Nickles brothers? See you youngsters don't know anything. The Nickles brothers used to be great dancers. One of them just died. Fayette Nickles was stationed out there with us and when they came up to the officers club they were entertaining and I danced with them, and fell, and bounced back up and kept dancing. So, anyway, at our particular hospital, the commanding officer from Chicago (see, it was all black) wanted us to get dressed and come up to the officers club because a new contingent of officers had come in and this little guy Lt. Tibordour was there visiting with me, and I told him, "Hell, I didn't come in the Army to service any of them, I came in to nurse them." Two days later heading the list to go to the South Pacific, Lieutenant Prudence Bums. You see, so, the commanding officer said, "we'll get rid of this old woman, her crazy self." So...</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p>  Get rid of her! So that was good for you.</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Yes, you see, God takes care of you, that article, God takes care of Prudence Bums. Honey, I see, because otherwise, I guess I would never have gotten out like some of them didn't get out at all, to any other countries, except just moving around. And then when they became, once they had shut down a lot of these places and had taken over, then they had them as prisons of war so a lot of our girls had to nurse these prisons of war soldiers in the different sections of the United States. They didn't get overseas, and I was overseas, and the girls who were in China, Burma, India were overseas and the ones who went to Warrington, England. And in the very beginning a group of them had been sent to Africa and then came back, so that was the contingent of the sending around.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p>How often did your hospitals move, were you pretty permanent or semi- permanent and then you'd move?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Yes, you were permanent, no, no, you didn't move anyplace. This was stationery, and Millnea Bay, New Guinea, because see the places were all built, and no nails, they interlocked, ever heard of that? Well, that's the way the hospitals were built and the Aborigines helped to build it, and have you seen the pictures of the Aborigines with the g-string and the women with the grass skirts and she couldn't bathe or nothing and all that - ugh.</p>
+					<p>And you weren't supposed to have any contact with them whatsoever, but we sneaked in and visited in order to see what was going on with them. And made a tour and they had chickens and we got one of the chickens and we cooked it for a week and you still couldn't eat it. So, we had a chance, but you guys are a little bit too young, but at one time, in Florida, the white families used to bring in different rugs that was made from straw like, for the summer. I don't know whether you know about that history or not. Well, they didn't have all this that they have now. And they would have these beautiful straw rugs that they would put down for summer. They were made up in that jungle where we were. Those people made them, They did beautiful work and we got some of 'em, smaller ones, and we put them in the autoclave to try, because you couldn't bring them back. And we put them in the autoclave in order to try to get them clean, you know, so that we could bring them home with us, and we couldn't do it.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> Never made it, huh?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> We couldn't make it. Yes, girl, because, if you'd ever been down in Florida, during that time, of course, you would see those beautiful straw rugs that they put down in the summer, they were made up in that jungle area</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p>Did you get letters from home often?  Were you still in touch with what was going on at home?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> I would hear from my mother and, you know, my mentor, Gwendolyn Chandler family, that you read in the book, their name was really Chanbliss, her sister is still living, so you couldn't really put that.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> You had to change it a little bit?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> And, I just have a book now to mail to one of the guys who grew up over there, is an attorney and he has heard about me, wants me to send him a book and I have it already wrapped.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> Your book's doing well?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Are you still recording?</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> Yep, we're still going. So, what was it like just on a daily basis while you were in New Guinea? What was your routine?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Daily basis, you were nursing those patients and serving them and seeing that they were taken care of, passing medications, and doing everything for them.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> Did you have like a twelve-hour shift, or what were your shifts like?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Yes, it depended on whatever. You either came home sometimes or sometimes if the patients needed more care, no. No, dear. You worked your ward to the knees and you had to be there early in the morning and I did not allow them to do a lot of smoking and carrying on and messing up. They had to keep things nice. Of course, you've seen all that. I don't know, see that's my unit and the commanding officer and the guy married to his medical administrator, one of the white inspectors came, and they brought him to my unit and he said, "Oh, it's just so nice, and so clean, you just cleaned for us." I said, "Hell, no, I didn't clean for you, I keep it clean for myself. I do not allow the soldiers to smoke and throw cigarette ashes all on the floor and around." And they would have a lot of money, and I went in and tore up all their cards, and some of them had like a thousand dollars and all that they were going to win, and I just tore the cards up. I said, "If you can't use the little cans and keep these cigarette butts and things off my floor, and keep it neat, then you are not going to play cards or anything."</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> What did they say to that?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> You know, there wasn't nothing for them to say, because I would knock them over. And when they would get ready to eat, they had a special dining room that you would go to, and they had to put on their pajamas, and their shoes, and have them closed, and none of this flying open, and walking and all, my unit.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> How were the soldiers, how did they treat you? Were they excited to see women from home?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> Yes, when we arrived, the black soldiers that were stationed up there, infantries, you know, and what have you. See we were in the background of the firing lines and all of that, and they had a big dinner and they were dancing and they put on a wig and draped around and wooed the females in this dancing and oh, they were so thrilled to see us, because they had only seen just the whites, and they didn't know that they had some of the black girls in the service. And they had this big dinner party and this old assistant commanding officer, black, he stated "Come on, get out of here." You know, and put his hand on his gun and all. And I was standing there talking to him. I think I had that in the book, didn't I?</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> I don't know. </p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> In the book, I'm standing there talking to one of the soldiers and he wanted to know where was I from like you would ask, you know. And I was talking to him, and the assistant commander had he had his hand on his gun and stated, "COME ON, GET IN THAT BUS, AND GET BACK HERE. YOU MOVE." I said, "Who the hell do you think you're talking to? I'm talking to this soldier to ask him where's he from and what have you." And I said, "So now, if you want to," I said, "Go ahead and shoot me, because I'm standing here because I'm not leaving until I finish talking to him." So, he turned around and I put in an order to court martial him.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p>  Wow!</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> And, yea, with his gun, pulling out his gun. To court martial him and the white officers that do all the court martialing came, and they said, "Would you accept reprimand to him and all?" I said, "Well, if he acts OK, because if he doesn't, I'll court martial him." And, you see, he outranked me, but it didn't make any difference, I was just a Lieutenant, and he was a Captain, I didn't care, I didn't care what he was, he could have been a Major, or he could have been a Lieutenant Colonel or what have you. And, so they said, "Well, will you accept us giving him a reprimand?" And, it ended up with them, not from this particular incident, but from him being so, he was probably mentally in the beginning, because they ended up strapping him down and bringing him back to the states, not from that ...</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> Yea, but later on!</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> But later on, yes, and he was in Philadelphia.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> Did you see a lot of problems like that? Psychological problems?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> No, no, this was with us. This was with us.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p>         You didn't see a lot of trauma just, you know, from the front lines, soldiers coming back?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> No, we had soldiers that had been shot up and all, if they, we'd get them on, like I told you, we'd take them by a plane to Finch Haven, and they would fly them back to the USA. Because we didn't have a lot of them from battle. We had a lot of them with just normal illness, because we were in the backlines.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p> Did you have a good, there weren't many mortalities, I would assume? Did you have a good percent?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> No, see, since we were in the background. They had a lot of mortalities, was up in the firing area.</p>
+				</sp>
+				<sp>
+				<speaker>Katie Cavanaugh</speaker>
+					<p>         And there were other hospitals further up where they went first?</p>
+				</sp>
+				<sp>
+				<speaker>Prudence Burrell</speaker>
+					<p> No, when I took them to Finch Haven, there was a hospital unit there, for the action lines, for a lot of the firing, where the 93rd and all infantry that was all black and all of the white troops and all, see, that was up from the line. OK?"</p>
+				</sp>
+				<note>End of Tape</note>
+				<trailer>Conclusion of interview.</trailer>
+				</div2>
+				</div1>
+			</div0>
+		</body>
+	</text>
+</TEI.2>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd" >
+
+<!--
+<!DOCTYPE TEI.2 SYSTEM "c:/standards/teilite/teixlite.dtd" >
+-->
+
+
+<TEI.2>
+  <teiHeader type="personal_narrative">
+    <fileDesc>
+      <titleStmt>
+	<title>Veterans Share Their Memories: Jesse Oxendine, May 27, 2004</title>
+	<author></author>
+	<respStmt>
+	  <resp>Encoded by</resp>
+	  <name>Matthew McCrady</name>
+	</respStmt>
+      </titleStmt>
+      <publicationStmt>
+	<idno>027321.pn0001</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<bibl>
+	  <title>Veterans Share Their Memories: Jesse Oxendine, May 27, 2004</title>
+	  <author></author>
+	  <date>May 27, 2004</date>
+	</bibl>
+	<p/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+	<p>Encoded for the "Man on the Mall" web site for the Veterans History Project.</p>
+      </projectDesc>
+      <samplingDecl>
+	<p>All items in the Jesse Oxendine collection were digitized.</p>
+      </samplingDecl>
+      <editorialDecl>
+	<p>A VHP staff member or volunteer transcribed this narrative from the dictation of the veteran.  The transcription is meant to reflect minimal changes to the spoken account in an effort to communicate the veteran's experiences more accurately and clearly.</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+	<p>The most thrilling thing about the war was the concentration camp, which I had never heard of. I didn't realize what part of history I was seeing at that time. The average GI wasn't aware of these camps. Wobbelin was the name of the camp. This camp was across the Elba River, when we met up with the Russians. I was literally shocked when I saw this, because I had no idea what it was. I knew it was some kind of camp because of the barbed wire. I couldn't figure out who these people were, because they had lost so much weight, their heads were shaven, they had on these funny-looking pajama-type clothes, which were filthy. But for some reason I did not think they were prisoners of war. There was a few women in this camp, but they look like they had been fed-then hadn't lost the weight that the men had. They looked more normal. I was just an ordinary infantryman. We were just trying to figure out what was going on there. One of the boys said they thought they were Jews. My first question was, "Why the Jews?" I wasn't aware of the fact of the feelings people had towards the Jewish people. After the shock of what I had seen, I began to look around the camp. I walked into one of the buildings-I noticed there was no floor. I noticed straw and dead bodies lying throughout the buildings. I noticed some of the people had blankets-that seemed to be a prize possession in this camp. In the back of the building next to the door there was a stack of bodies. I went outside and came to this door. I noticed there were three furnaces there. My first thought was, "Why were they heating so much water?" I thought the furnaces were to heat water, but I didn't see any tanks. When I was in grammar school, we had a boiler room, and I had a flashback-I assumed the furnaces were heating water. Later I realized these bodies were ready to be burned in this furnace. There were bodies lying all over the courtyard. I noticed one pump. I was told that was the total source of the water supply. I did notice the Germans had dumped a truckload of potatoes, and that was the only food I saw. After the war, I took note of the Nuremberg trials, and that 's when I realized what I had seen. But I thought that was the only camp they had in Germany. I found it was one camp of many throughout their occupied territory.</p>
+	<p>I would like to mention my brothers, now that I'm of age and realize what my family took part in World War II, because there were four brothers who served in World War II, and I am now the lone survivor. They also served in the Army and the Air Force. One brother, Simeon, was with the 8th Air Force and flew 25 missions over Germany and France; he finished his 25th mission in March 1944, and was home before the invasion. My older brother, Howard, landed in Normandy two weeks after the invasion and was with the 630th Tank Destroyer Battalion, which was attached to the 28th Division and was surrounded in Bastogne during the Battle of the Bulge. My brother Earl was a gunner with the 10th Air Force and flew on a B-24 bomber. We all returned home safely, and I attribute a lot of that to the prayers my mother made daily. I took part in the Victory Parade in New York, on January 12, 1946. I came back on the Queen Mary; we sailed from Southampton on the 29th  of December, 1945, and landed in New York on January 3, 1946. I was discharged from the service in June of 1946. I am now a retired pharmacist living in Charlotte, North Carolina.</p>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

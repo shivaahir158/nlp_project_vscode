@@ -1,0 +1,363 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd" >
+<!--
+<!DOCTYPE TEI.2 SYSTEM "../teixlite.dtd" >
+-->
+<TEI.2>
+<teiHeader type="vets_interview">
+<fileDesc>
+<titleStmt>
+<title>Interview with Tom Gardiner Perkins</title>
+<author>Guy Newcomer</author>
+<respStmt>
+<resp>Encoded by</resp>
+<name>Tanya Brown Branch</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<p/>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title>Interview with Tom Gardiner Perkins</title>
+<author>Guy Newcomer</author>
+<date>December 5, 2003</date>
+</bibl>
+<p/>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+</projectDesc>
+<samplingDecl><p>The entire interview with Tom Gardiner Perkins was digitized.</p></samplingDecl>
+<editorialDecl>
+<p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+</editorialDecl>
+</encodingDesc>
+</teiHeader>
+<text>
+<body>
+<div1 type="title" id="Perkins1" n="1">
+<!--begins encoded document-->
+<head>Interview with Tom Gardiner Perkins</head>
+<div2 type="preface" id="Perkins2" n="2">
+<p>Veteran's History Project: Interview Transcript Interview with: <name type="person" key="TGP" reg="Perkins, Tom Gardiner">Tom Gardiner Perkins</name> , Manufacturing Engineer at the William Miller Corporation, Pasadena, Ca. 1939-1951 Interview conducted by: <rs type="person" key="GN" reg="Newcomer, Guy">Guy Newcomer</rs>, 2003.</p>
+<p>Note to the reader: Mrs. <rs type="person" key="JDP" reg="Perkins, Jean Devereaux">Jean Devereaux Perkins</rs>insisted that she be present at this interview, and occasionally interjected comments. These were often helpful in jogging <name type="person" key="TGP" reg="Perkins, Tom Gardiner">Tom's</name> memory. Her comments are in italics. For more on <rs type="person" key="JDP" reg="Perkins, Jean Devereaux">Mrs. Perkins</rs>, see her separate interview.</p>
+<div3 type="body_text" id="Perkins3" n="3">
+<p>Today is Friday, December 5, 2003, and this is the beginning of an interview with <name type="person" key="TGP" reg="Perkins, Tom Gardiner">Tom Perkins</name> at the Huntington Museum in San Marino, Ca. <name type="person" key="TGP" reg="Perkins, Tom Gardiner">Tom Perkins</name> in 91 years old, having been born on March 15, 1913. My name is <rs type="person" key="GN" reg="Newcomer, Guy">Guy Newcomer</rs>, and I will be the interviewer. <name type="person" key="TGP" reg="Perkins, Tom Gardiner">Tom Perkins</name> is a friend who I met while searching for individuals with wartime experiences to interview. </p>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p><name type="person" key="TGP" reg="Perkins, Tom Gardiner">Mr. Perkins</name>, what type of work did you during the war, and which war?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>During W.W.II, basically I was in charge of the manufacturing department for this company, the William Miller Corporation of Pasadena. It was very interesting to me, as I always loved to make things, and this was making things right and left. I have brought with me some samples of the kind of thing that we were doing. They were advertising brochures for the equipment the company made. This will give you an idea of the kind of things that were made. I did not have any hand in the engineering or design of this equipment; that was done by William Miller himself. Then it was a design-draftsmen who transferred the basic ideas onto paper, and the paper came to me, and I converted it into hardware. I also was in charge of the final assembly.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Going back a little bit, where were you born and raised?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>In Salt Lake City. I was born there, stayed there until I was about three, and then went to N.Y. City, and was there for about, oh, most of the summer, and then went to idaho, and was there from about 1916 until 1923 when we came to Pasadena. That was in Haley Idaho. I started school there in Haley, Dad was a civil and mining engineer. He had a contract with some outfit in New York, I don't know which company, to investigate four or five mines that had been deserted. The question was whether there was any opportunity to redevelop them.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>And your education from there?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Pasadena city schools.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>And what's your current occupation?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Retired!</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>That's good!</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>A homeowner.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>A job all in itself.</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>It sure is.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Where did you live and work during war?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Eh, here in Pasadena.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>And what your was main activity in the company you were working for?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>I was the production engineer. I would design the manufacturing procedure, train new men that came in.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>And how did you get that job?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>An interview with William Miller.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Were you just looking around for work in Pasadena and happened upon William Miller, or did you know him?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Well, a friend and I visited a seismological laboratory at Cal Tech, adjacent to Pasadena. And it turns out the Long-Period Galvanometers they were using were made by Miller. So, the friend and I visited Miller's plant way in the south end of Pasadena, and I looked around and said "This looks like it'd be a nice place to work," So, a few days later I visited, and low and behold, he took me on.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>When did you start work there?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>That was January of 1939.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>What was your impression of the situation in Europe at that point?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Well, it was beginning to look like Hitler was going to cause a lot of trouble, and of course, subsequently, he did. I was not so much interested in the details of politics abroad, as I was in the politics at home... in common with many other people.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>What politics were those, and how did you feel about them?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Well, the politics revolved primarily around Roosevelt at the time, of course, and there were a lot of variations of opinion as to his performance. Personally I was favored what he was doing and how he did -for the most part. Of course, there were some things that I didn't agree with. This is always the case.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Such as?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>I don't remember the details now. That was quite a long time ago!</p></sp>
+<sp>
+<speaker>Jean Devereaux Perkins</speaker>
+<p>You benefited from one of his projects, the WPA, when you got some work, when everybody was unemployed in the depression.</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Yes, during the depression I had some work with the WPA, which was a godsend for a great number. There were all kinds of people in the bread lines. Engineers, and lawyers, even Physicians. The situation was pretty bad.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>So in 1939 you found work with William Miller. Was there a sense in that company, or in your own mind, or amongst your coworkers that it was a contribution to the war effort?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Oh, it definitely was.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>What sort of instruments were you manufacturing?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Well the manufacturing primarily revolved around multiple channel photo recorders that were small and light enough to fly in an airplane. Other companies had multiple channel recorders, but they were not practical to fly. So as soon as the war started, perhaps even before, I don't know just when the ruling was made, but the ruling was that aircraft that served in the United States Army or Navy had to be vibration tested with William Miller equipment or the equal. Since there was no equal, Miller's equipment was what they used. So that kept us pretty busy all during the war.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>What is a multiple channel photo recorder?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>They used light sensitive paper, and on that you had a spot of light reflected from the mirror on a galvanometer. In this case, there was a row of up to 12 or more galvanometer, each of which was independently circuited and had separate input from a plug on exterior of the case, and this lighting was effected by the current through the suspended coil in the galvanometer. And this was reflected onto the paper from the light source, so that when the galvanometer moved, the light spot move, so that you got a motion that was proportional to whatever the constant was that you were recording. So you ended up with multiple traces. The original camera that was made for this kind of use, was made for Hamilton Propeller. They wanted to put strain</p>
+
+<p>gauges on the propeller blades, and slip rings to transfer the generation from the strain gauges onto the circuitry that could be then recorded. Well, these were the recorders they used to record them. Hence why this model was known as model "H," for Hamilton Propeller. I have a picture of it here.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>I'd love to take a look at that. Now, a Galvanometer measures the vibration?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>It measures the current through a coil which is suspended in a magnetic field. The current through he coil will cause the coil to change relative to the magnetic field by an amount that is proportional to the current. The current through the coil in the galvanometer generates a magnetic field, and that interacts with the overall field from the field magnets in the galvanometer frame.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>And so they used these for testing the propellers on planes.</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Yes. That was the first one. It was subsequently used for testing all kinds of things. They got more and more complicated machines later near the end of the war, some of which were subsequently were used for the Manhattan Project.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Interesting. What did you like or dislike about your work?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Well, I enjoyed it thoroughly.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>That's lucky!</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Yes, I've always been fortunate to be doing things that I liked to do.</p></sp>
+<sp>
+<speaker>Jean Devereaux Perkins</speaker>
+<p>Both of us have!</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>That speaks probably not just to the occupation, but also to person doing the occupation. Some people aren't happy doing anything.</p></sp>
+<sp>
+<speaker>Jean Devereaux Perkins</speaker>
+<p>I've had five careers, and every one of 'em was fascinating.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Were there any special rules and conventions you had to follow, <name type="person" key="TGP" reg="Perkins, Tom Gardiner">Tom</name>?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Well, we of course were monitored by the FBI. I was the local FBI representative in the shop. There were rather stringent rules about paperwork and so on.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>As the local representative to the FBI, what did you do?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>I reported once a week whether or not there was anything to report.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>I imagine they were looking for leeks, or espionage?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Right.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Did you ever have to report anything?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>No, I never did.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>How did you feel about the war once it started?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>I thought it was something that was going to lead to rather broad disaster in Europe. It would be no good to anybody. The trouble with wars is that the best and brightest are the ones who get killed off. This has sort of an unfortunate effect on how the race is bred.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Before Pearl Harbor, how did you feel about what America should do in terms of involvement in the war?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>I don't remember that I particularly gave that much attention. This was quite a while ago, and I am at that stage of life when memory wasn't what it was fifty years ago. Neither is sight or sound or anything else.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>In what ways did the war change you activities?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Well, you did not much but work and eat and sleep.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>So there wasn't much in the way of social activities to be found?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>No, no.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Did that have to do with rationing, or people's mindset.</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Hmm. Well, on weekends, we usually did have Sunday off, not always, but usually, and I would visit and hobnob with a friend or two.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Do you remember any of the first changes in your life when the war began.</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Well, I had less time for any kind of, shall we say, extracurricular activities. Like I said, mostly what you did was work and eat and sleep.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Did you have friends and family in the service who you corresponded with?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Yeah, I had a cousin, he worked for various companies, he worked for the same company I did: Consolidated Electrodynamics. Miller sold to CEC, and CEC sold various pieces of the organization, various special divisions, to various people. The occilogrpah division, if I remember correctly, was sold to the Allison company. I left the company in 1960 and went out on my own. I did spend a year and a half at the Jet Propulsion Laboratory. I was the <note place="inline">(unintelligible)</note>engineer for the ultra-violet spectrometer on Mariner 9.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p> What about friends and family in the Military.</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>I don't remember that there was any of the family that I knew of that were in the Military.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Do you recall to what extent there was hoarding or black market activity in your area?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>I heard tell occasionally of some such cases. I didn't know directly of any. </p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>How did you feel about the war from the media? Newsreels, radio?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>I couldn't say, because I didn't see them. I didn't go to any of the shows. I didn't have time!</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Do you remember where you were on V.E. Day, or V.J. Day?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>As I recall I was in the plant. I think someone came in from the front office and told us.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>How did you feel?</p></sp>
+<sp>
+<speaker>Jean Devereaux Perkins</speaker>
+<p>Yipeeeeee!</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Yes, I thought it was very good news.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>How would you describe the war changed your life, and those of others?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Well, how it managed to change the lives of those in the Military is pretty apparent. For those of us otherwise, eh, well, the changes were primarily economic. Most of the work force were better off - not all, but most- particularly those in the industrial field.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>And then you stayed with the same plant until 1960... </p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>It changed hands two or three times..</p></sp>
+<sp>
+<speaker>Jean Devereaux Perkins</speaker>
+<p>It was sold, over and over. You know, that merger business.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>How did you meet your wife?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Well, that was 1933-34 over winter. There was a small group in Pasadena instigated by a group that would get together once a week or so and talk about political and economic affairs.</p></sp>
+<sp>
+<speaker>Jean Devereaux Perkins</speaker>
+<p>The idea was that they were afraid that young people would get radical. So they wanted to control us by guiding us, and they called it the, um, the something forum, the Young Peoples Forum, or something like that. And then they could guide us into more conservative ways.</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p><rs type="person" key="JDP" reg="Perkins, Jean Devereaux">Jean</rs> and I were both at the first meeting, the organizational meeting, and subsequent meetings. It turned out we had similar viewpoints and ideas. We would sit and talk. So she went on about her life, and I went on about mine.</p></sp>
+<sp>
+<speaker>Jean Devereaux Perkins</speaker>
+<p>I went back to New York.</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>She was in Europe for a while, and her interview will tell about that. So at any rate, we didn't finally get married until 52. We couldn't be accused of being overly hasty.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Did you keep in touch during that time?</p></sp>
+<sp>
+<speaker>Jean Devereaux Perkins</speaker>
+<p>Yeah, Birthday cards and Christmas cards.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Is there anything else I should ask you, or anything else you might like to add?</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>Well, I don't think of anything else that would be particularly pertinent to the line of questioning you've come forward with so far. There's after 1960. Ispecialized in finding a research man who wanted one of something. I knew enough of various technical languages that I could understand what he wanted, what he was trying to do, and how he was trying to do it. If we could get together, find each other, I could listen to his requirements, and design and build something for him. It was a one of a kind thing, in research, people who were working at the growing edge of whatever field they were in. You met lots of interesting people who had lots of interesting problems, but you didn't get rich at it.</p></sp>
+<sp>
+<speaker>Jean Devereaux Perkins</speaker>
+<p>He invented an arterial clamp, implantable arterial clamp, and all sorts of things. A calibrator for testing spyrometers. That was weird, because every manufacturer of that product, it came out differently, so the couldn 't really judge how it came out.</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>How much of postwar do you want to get in to? As I understood it, you were interested primarily in the wartime experience.</p></sp>
+<sp>
+<speaker>Jean Devereaux Perkins</speaker>
+<p>Well he also invented a brand new type of museum case, revolutionary. And so that was most important, because museums all over America then had an opportunity to wake up and think about how they were endangering the contents of their cases by allowing leakage of mold spores and bugs inside.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Well, <name type="person" key="TGP" reg="Perkins, Tom Gardiner">Tom</name>, I think that's about all I have to ask.</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>I made a lot of cases. It was kinda out of my primary line, but you get a nice fat contract, well you don't turn it down. So I made original cases for the J. Paul Getty Museum in Malabu. The original cases for the Page Museum La Brea Tar Pits in Hollywood. And I made a whole batch of cases for the Griffith Park Observatory in Los Angeles, and some here, some there, one here, two there, all over the place. There are even some here at the Huntington.</p></sp>
+<sp>
+<speaker>Guy Newcomer</speaker>
+<p>Well, thank you very much, <name type="person" key="TGP" reg="Perkins, Tom Gardiner">Tom</name>, for sharing you experiences. I appreciate your time!</p></sp>
+<sp>
+<speaker>Tom Gardiner Perkins</speaker>
+<p>You are very welcome </p></sp>
+</div3>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

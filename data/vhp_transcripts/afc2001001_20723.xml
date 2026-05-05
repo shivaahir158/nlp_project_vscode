@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with Andrew Michael Kolenic, 7/15/2004</title>
+            <author>Thomas Swope</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Matthew McCrady</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with Andrew Michael Kolenic</title>
+               <author>Thomas Swope</author>
+               <date>7/15/2004</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with Andrew Michael Kolenic was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with Andrew Michael Kolenic [7/15/2004]</head>
+            <div2>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>This is the oral history of World War II Veteran, Andrew Michael Kolenic. Mr. Kolenic served in the US Army Air Corps with the 464th Bomb Group, 779th Bomb Squadron. He served in Italy, and his highest rank was Tech Sergeant, and he was a Prisoner of War. I am Tom Swope, and this interview was recorded at Mr. Kolenic's home in Bedford, Ohio, on July 15th, 2004, and he was 83 at the time of this recording. Where were you living in 1941? I don't need the address, but if -- Were you living in this area in Cleveland?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>No -- I was in Cleveland, yes. Well, during the summer, I was playing ball.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Playing ball?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Professional baseball.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Really?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What team? Was it minor leagues?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Minor leagues, yes; Cardinals. St. Lewis Cardinals in -- '41 was in Johnson City, Tennessee, and then in '42 was in Springfield, Ohio.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Wow. What position did you play?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>I was a pitcher.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>You were a pitcher. So how long did you play?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Well, just two years, and then '43 come along, and went into service.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So --</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>And when I came back, I -- Well, three years was a lot of difference in -- We had a daughter -- because I got married before I went in the service -- and it kind of changed things around. So I didn't -- I didn't -- I played amateur baseball in Cleveland; sand lots, you know, that's it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Do you have specific memories of December 7th, 1941?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Oh, yeah. I was at a bowling alley when it happened. We were bowling on Shaker Square.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What was your reaction when you heard that news?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Well, you couldn't believe it, but everybody was talking, and, in fact, when the announcement came, everybody stopped bowling, just in amazed, you know, that what is happening. And it sure changed things around.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Now, obviously that first year of the war, at least half of your year was taken up playing baseball. Did you, in the off season, get involved in anything for the war efforts: Scrap drives or anything like that?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>No. I worked, and -- No, I didn't get involved in that. No.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Was rationing much of a problem in that first year?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>No, it wasn't. It was a problem after I came back from the -- the war. I was a prisoner. I came back, and I know my wife went over to the board to get some -- she told them that I was back from -- I was a prisoner of war, and that I -- under weight. I mean I was about 120 pounds, and I usually was 50, and hundred 60. So they kind of turned her down. So she went to the doctor. He says, "What is the biggest we can get?" And he fixed it up, and we got her, so -- because I was home -- Well, I was home for 30 days, and I was supposed to go to Florida for -- take my wife too with me, but before the 30 days were up, they got a telegram from Uncle Sam: Do not arrive. Do not leave. You got another 30 days, and that's it. So we never went to Florida.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So when did you get that first word from Uncle Sam? When did you get your draft notice?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Well, we were already married, like I say, and we were living -- renting a place on 116 near Shaker Square. And the wife wasn't working, I don't think at that -- Oh, yeah, she was working Ohio Bell at that time. And I guess she was -- got home ahead of me, and she got the letter and she kept it for awhile. She -- And then finally told me. It was, I guess, in November, December, because I went in January of the following year.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>How many days -- Did she hold on to it a day or two, or -- Did she hold onto that letter for a day or two?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>I think she hold onto it for about a week.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Oh, really?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah. Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>She was hoping there would be a change?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>I guess so. I guess. And then she finally, at night, she come along and she says, "I got something for you over here," and that was it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So you reported in sometime in early '43 then?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah. I left in '43, January.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>You remember your first day of training?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Oh, yeah. In Columbus, Ohio, Fort Hayes. We were in there in -- I don't know, first day there, come along and he says, "You people going out tonight," or something like that, and, "No, we are not." It was about, I don't know, three, four of us. "Okay, you, you, you. Come with me." We put on KP tonight. That -- that taught us a lesson about opening up our mouth, you know. But that was about -- I remember the first day, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>When you first went in there, when you first got into the Army, was it a tough adjustment to be there with guys from all over the country?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>You know, I don't think so. Being young, I mean, you kind of -- like I played ball, so I met a lot of people and stuff, and a lot of young other fellows, and it didn't -- it didn't bother me. You know, I mean, we also got together. We told about a home life, you know, where we came from and all, and that was it. I mean, didn't -- not that I remember anyhow.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So what else can you tell me about your training?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Well, let's see, we were there about seven -- I don't know how many -- it's hard to think -- almost seven days, and then we were sent to Miami Beach, was put into Air Force at that time, and we went to Miami Beach for our basic training, and we stayed there for, I guess, almost a couple months.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Was that your choice? Did you want to get into the Army Air Corps?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>You know, it's a funny thing: They had a questionnaire they wanted where you want to be, to what theatre, you know, Japan or the Europe, and I wrote Japan in. I am sorry they didn't listen to me. But, no, I didn't have -- I was glad it was Air Force. I don't know it's -- In fact, I tried to get into the pilot's training, but I had to go through an operation on my nose, and the fellow went on a furlough and he never processed my paper. So I guess when -- Which was turned out okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So what did you become then? What were you trained as?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Well, I was trained as a radio operator over in Scott Field, Illinois.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What kind of planes were you flying?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>B-24 Bomber.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So then was it Miami then to Scott Field? Just Scott Field?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>No. Let's see, Miami -- I guess it was Scott Field next, yes. Yeah, it was Scott Field, Illinois. Then we want to Tyndall Field, Florida, for gunnery school, and we were -- Oh, we went to Cuba for training for about a -- which was nice -- for about a week. And then we were in Lynchburg, Virginia, and then we got our papers and we out the ease coast and we flew our own plane over across.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>When did your -- When was your crew assignment? Was that at Scott or --</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>You know, I --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Somewhere along the line. If you want to go look, sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>I -- I -- I know I -- I don't know where -- where our -- We have a list of our names and the number of our crew, and I forget now.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you get along with these guys? With the crew?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Huh?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you get along with them?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Oh, yeah. We were a good group. I was the oldest guy. I was what 20 -- when we join I was, what, about 23, 24? I was oldest. Everybody -- In fact, our pilot, which he's in -- maybe you'd get a chance to see him. He's in -- He's from Akron.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>He's from where?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Akron.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Oh, sure. Yeah; that's not too far.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah. Lawrence Calgreen (ph). He's my pilot.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Yeah?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>I would love to talk to him.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah. I can give you the address and everything else.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Very good. Exactly. Do you talk to him much?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>We get together every -- There is a -- this fellow, Ray Sawyer (ph). He's in Parma. He's originally from Tennessee, and he came over here. So we get together. In fact, we got here about -- about a month ago. We were together. Just went out to eat and talked, you know, shot the bull.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Any other stories that you remember from your training before you went over seas?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>The only one I remember, when we were in (Westerward) Field, we were -- that was our -- I guess there, and then we went to Bangor, Maine, and from then, we -- Oh, there was another place. I forget what it was. And then we went to Azorez and -- Oh, we ended up in (Aticot).</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So when did you fly over?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>I think it was in July.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>July of --</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>'44.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>'44?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Uh-huh. Or June, July. One of those dates.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>And you flew to North Africa?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Were you based there for awhile?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Well, no. We actually were only almost every day where there was a -- we were moving. Finally we went to Italy, and that's where we based, in Italy.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What was your outfit?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>The -- it was 7 -- 7 -- 7 -- 779 Bomb Squadron, 464th Bomb Group, and then the 15th Air Force.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>15th Air Force?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So where were you based in Italy then?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>I should have had all that information.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>I'm just curious. It's just not that important. It would be some town that I would recognize. I mean I know a lot of them were Fouzia (ph), there was I think 15th Air Force --</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>This was -- We weren't near a town. We were just out in open.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Do you remember your first combat mission?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>I don't know if it was our first one or one of the first ones, we went out, and we had to come back. We had problems with the -- with the plane. So we came back, and coming back, oh, we got the heck bombed out of us. I mean they -- I don't know, they -- one of those -- they had the guns on the train, you know, going in, and they could travel and follow you up, and they got ahold of us. We found where we were, and we -- when we went all around, looked around all the places, there were shrapnel and everything. It was quite scary.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Wow.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>But that was about the -- the -- one of the first ones.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Do you remember what you were feeling when you went up on one of those early missions?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>I don't know. I -- Like I say, we were young and full of -- it -- I don't know if it bothered. I mean we talked about it. I know we didn't talk in a group. I mean, like we -- we met every morning -- we -- what your mission was. We had to get up at 3 o'clock in the morning, and by the time we ate, and then we had our talk what telling us what the target was and all, so -- but no, I didn't -- because I didn't know where we were going -- you know what I mean -- as far as the town or anything, and we were up in the air, and -- it -- I don't think it gave us much thought.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So you weren't the -- in your corps position, you weren't told what the target was; is that right? Was it just the pilot that was told?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>No. No. We were told. Yeah. We were in a conference. Everybody was in there.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>In a briefing on it?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Were there any targets that you really dreaded going after?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Well, everybody -- you know, when you got there, we were new, and we were talked to the old fellows, and they talked about Ploeski, and I guess that was about the one we dreaded, because it's talk, you know, about what happened and everything else, so... But I was on one to Ploeski, but we didn't get as far as the planes. At that time there didn't have no fuel, so -- I mean Germans, and they -- but they had a lot of flak.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What was that like? What are your memories of that; flying with flak?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Oh, well one -- on one mission, I was a nose gunner, and all I know is there was to the right of us was a little higher than we were, you know, there were different steps. And all of a sudden, we were getting flak, a lot of flak, and looked up, and I seen direct hit, and just everything just exploded. You know, I don't know if anybody got out, you know. Just one of those direct hit, and that kind of shook me up. I mean, you know, you start thinking especially while you are still in there, you know, but -- I guess we -- just one of those things that we got through.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Any other missions or incidents that --</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Well, I didn't have too many missions. I only had about six or seven. We had -- we gave -- they gave us two points for some of the missions like Ploeski and stuff, so I was credited with nine. I was on my ninth mission when I went down. But no, I don't -- the only thing I remember is there was -- we very seldom saw fighter planes, but we did a lot of flak though. You know, we got plenty of that.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>What did you do during your off time between missions?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Write letters home. No, we were in -- we were in tents, because it was out in the open. They only had, like, the -- where we ate and the quarters, I mean, there were -- they were building, but I don't know, just, you know, it -- it's rough to remember --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>-- all the things, you know. I mean I remember quite a few, but I remember the one -- the mission that I went down, but --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you get a lot of mail from home from your wife?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>She wrote every day. She wrote every day.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Packages or anything like that?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>I never got any -- received any packages. Because, like I say, I was only there for maybe -- I was in my second month. In fact, when I went down, I went down August 25th.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Of '44?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>'44. And we went down, you know. She didn't know. I think she didn't find out until September 9th or around there that I -- She didn't know whether I was alive or anything, because they -- the first time she heard was from a short wave radio in someplace out of the east coast that give that to a lot of the other people -- prisoner -- the Germans, after they had got the name and serial number and all that, they would give it out on short wave, and they picked it up, and she got a card from -- and that's how she knew from the government.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So was that somebody monitoring a short wave broadcast from Germany?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>No. No. In --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Yeah, locally, but were the Germans broadcasting these names?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>And so somebody picked it up?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>That's how they found out about my dad.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yes, uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So go ahead and tell me what you remember about that mission, about the seventh or ninth mission, the day you were captured.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Well, our crew wasn't together yet, because we were -- when we got in there, we were on a standby in as extras, and we went in with a crew that's been, you know, in there for awhile, and to get custom, you know what I mean, and get a little bit what's going on. So we weren't together. So the only one was the -- my pilot, Larry Calgreen (ph), and myself on this mission, we -- with another group all together different. I never -- the first time I met him, I think, was on our mission, because they were one of the new ones too, and it was supposed to bomb Checkoslovakia, which is my home country, and we were on there and going over. Everything was fine, and all of a sudden -- You know, on certain missions, long missions that we had -- had to refuel. They had tanks of gasoline, and we had to refuel. And so somewhere along the line in refueling it seemed that one side of the plane was getting all the gas and nothing on the other side we found out, and we -- we tried to hold on as long as we could. We threw all the stuff out, guns and everything, but then the pilot says that we had to bail out. So, and they, after then some of the letter I got from the -- the -- our group, the 464th, that some of the bombers saw us, ten chutes open up, so that's -- that's how my wife found out that -- Well, she didn't find out prisoner, but that I was -- that we were -- everybody bailed out. So...</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So basically you ran out of fuel then, or --</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah, that's what it was, because it was all going to one side, the -- and nothing on the other side, and that's it. Over. (Tape sounds like it possibly skips here.) Yeah, uh-huh, yeah. Well, it was in (Tape sounds like it possibly skips here.) gun, (?no dirt?), and when the pilot gave the orders, I guess I was the second one out. I guess the bombardier got the first one because he was closer to the exit, you know, and so I got out, and I remember when I went to gunnery school they told us about if you have to bail out, be sure and remember that not to put the parachute open until you -- you are turning around -- I mean, you -- you are out of the slip stream, you know what they call it. So all a sudden it just came to me, and I bailed out, and I'm out, and I waited until I start chumping (ph) on, and then I opened up, and while -- when it opened up, I was watching, you know, I seen some other crew members out. They were -- and I tried to -- tried to stay away in the open, or not in the wooded area, so I was trying to manipulate in my chute, and here, all of a sudden, like, it seems like it was given, I says, "Yeah, where I am going to be, that's it. I am not touching it." I got my hands -- I didn't have gloves and it was cold because it was over 20,000 feet, and put my -- where I went, that's it. Well, I did bail out. It was in the wooded area, and first thing I did was take my chute off and try to bury it under -- I did -- I did -- there was a fallen tree, and I buried it underneath, and then I start looking around and see where I was, and all of a sudden I seen there was a path like in the forest, in the outcome, but a fellow -- a civilian, not a soldier -- with a gun. So I hid behind this tree, waited until he -- he was gone, you know, and so then all I did, I get up, and watching him. I didn't watch where he came from, and I turn around and there is a guy -- there was another one, and I -- well that's it. So he -- he took -- he was a civilian. He took me into his house. I think he gave me something to drink, coffee or whatever, you know, and I even left a -- you know, we have I think 40 dollars or whatever, so I left 5 dollars over with him, and I left my heated suit. I left it out there, and I didn't have -- I had my -- there was August, so it was warm. So I had just my tan uniform on, but I -- it was a new shirt, and I didn't even have that 15th Air Force on there, on the patch or nothing. So after awhile I thought maybe I got in with the underground and all, but he says what -- So -- So, we started walking into the town. He was a farmer, and we passed, oh -- and he gave the neighbor his gun, and we just walking. And he -- I noticed there was a, like a hospital. Like it looks like a Veterans hospital, you know, and soldiers, and out there, but seeing that I didn't have anything on, I was just like -- they just -- He was talking to his neighbors and stuff, and he turned me in in town, and then I was taken over by the Germans.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Were you interrogated immediately or taken somewhere?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Well, yeah. It was -- I guess they waited until all were -- I guess it was within a day. They waited until all ten of us were together, you know, and then were interrogated one by one, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Do you happen to remember the town in Austria where this was?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>No, I don't.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Somewhere in Austria. But they did capture all ten of the crew members?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Oh, yeah. All of them. Within -- I guess within the next day everyone was caught.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So what happened next then?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Well, we -- we were going by rail to different -- I guess heading for Germany. And on the way, one night -- We were not by the Army, it was just the cadets. There was a cadet school around Air Force, and they, I don't know, there was about three or four took care of us. You know, make sure we got on the right plane -- light -- right train and stuff, and I know we had -- we were in the Capitol of Austria. We were there one night, stayed over. I don't know, it was way below underground. I mean the train depot was really one big, and so they took us down, and took us down there, and below, and I remember one of them spoke English, and they wanted to go out, but they didn't have no watch. So I had a government issue watch. So he asked if I could, you know, would lend it to him so they make sure they would be back in time. So I did, and he gave it back, you know. We, like I say, he talked good English. So -- and then from there by a train. We went out, and then we were sent into an air field, a small one, and we stayed there a few days. And then after -- after that I -- we went -- I remember going in a train, and we were -- seems all other prisoners were all together to go to the one of the camps that we were supposed to go. Like I went to Stalag Luft IV, and I remember they packed us in like, I'm telling you, you couldn't set down. I mean just about standing up; that's how much they put in a -- one car. And then we were -- they took us, like I say -- I am sorry. I should have had all that --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>That's all right.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>-- the towns. But they took us to Stalag Luft IV, and then we had to march a few miles to get there, and then that's it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So how long was it from the time you were captured until you finally got to Stalag Luft IV? A month or two or not even that long?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Oh, I'd say -- I'd say it was between one and two weeks.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>One and two weeks?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah. Yeah, it was.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Were you in that camp then the rest of the time?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yes. Until we were on a forced march.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Right. And which was what in early '45; right? All right, before you get to the forced march, what can you tell me about life in that camp?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Well, it wasn't -- it wasn't good. But we were treated okay. I mean we weren't harmed in any way. At least I wasn't, and I don't think anybody in the camp. I mean, we just -- we were in prison. You couldn't go out. I mean, you couldn't dig your cell, because they had us on cement blocks that the barracks sat on. There wasn't, you know, all dirt. So every night they could -- had a dog going through, make sure, and nobody was digging or anything. But we -- I was in Lager D, and that was the last one of the new ones. We were in with -- half -- what five and five on each side barracks. The English were on the other five, and we were in a room, I think there was -- let's see, one, two -- I think there was beds for about 18, and I think I was in the 19th, so I had to sleep by the table. But it wasn't -- like I say, the food was nothing to brag about. I mean we did get some Red Cross parcels which helped a lot. In fact, I had -- I didn't smoke. So there was always about three or four packs of cigarettes in there. So I bartered for food, because I will tell you, those guys, they would rather smoke than eat. I had my combine partner was -- because we had -- they put us together, that was on a march, but -- and he was in our room. But he always had a cigarette in his -- But, so I was fortunate, like I say, did not smoke, so I had something to, you know, as far as for food, if there was any, but which was rough. It had potato soup most of the time. Supposed to have been meat, but nobody could find and meat. And actually, while we were in camp during the summer, we even had -- they had athletic equipment like bats and balls, playing softball. They played football. And then, of course, we had the soccer against English, and we beat them in football, but they beat us in soccer. And, oh, it was rough. They -- they -- they didn't, like I say, hurt or anything, but they were made it rough by calling roll call in middle of the night. You know, they says, "Somebody is trying to get away," which was a lot of bull as far as I was concerned. I mean there was no way that anybody -- But we had chance to go to chapel. They had -- where we ate, and we had for Sundays, we went to church there, and -- but the worst part of it was that you couldn't do what you wanted to. You were told what to do, and when to do it, and just about -- and -- and that's -- when I got out, I mean when we were set free, that's -- it was like a relief, you know. At least you're -- you can do -- you can go here, you can go there. But over there it was -- but like I say, it wasn't -- Now, on the march, that was different. It was rough. But...</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>When you were in the camp, were you able to get much war news in any way about figure out what the progress of the war was?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Oh, yeah. We had a short wave radio. Yeah, we got our news.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Kept it hidden?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Oh, yeah. We had it there from one barracks, they didn't know what word was. I don't know how -- who made it or how we got it. They say that we got stuff from the guards, you know, it was just matter -- because the cigarettes and the candy, you know, he -- that we got, you know, in our parcels were -- they liked that too.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>You were able to trade a lit bit with the guards?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah. Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did you get an individual parcel or did you have to share with the guys?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>I think we got one individual, and they told us that due to the no gasoline, they weren't, you know, they were someplace in the warehouses.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>You know, every so often, we would get, and we would go half. But when you got a full one, you got -- you got an assortment. I mean it was very good.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So tell me then about the march; that was what, in early '45; is that right?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah; that was -- let's see. We left, I think, the 23rd of -- sometimes in January, and we didn't get -- January or February. I -- I know I have a list what I had the dates on there.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>But the --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>It was done because the Russians were approaching; is that right?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah -- Well, we were coming from the west, and they were coming from the east, and just -- and we're -- we -- I don't know, we were -- until the -- at the camp until one of the last ones. I guess we were the last Lager to go out. You know, every -- they didn't -- all -- because there was four Lagers in there, and they didn't let them out all, you know, at the same time, because they couldn't handle as far as food and everything, you know, to feed us. And so...So they had to break it down. But I know I remember when I prepared for myself with -- I had a heavy coat, and so -- and then I had a box for our Red Cross parcels were coming in, and I took -- I put as much as food we have and I don't know if there was any extra socks, but I don't think I ever changed my shoes during the -- while I was in there. And there was some days that were rough cold. Most -- most of the time -- Oh, I'd say half of the times we slept out in the field, and sometimes we -- they found us place in little town where they put us in a barn and stayed in there. But -- And then food is, if we are lucky, you know. But I was in, I guess, in pretty good shape, because I knew a lot of my friends, and that were had a -- they couldn't walk; just too much for them. They left them. I don't know what ever happened to them to -- I never heard anything what happened to them. They said that they were supposed to be picked up by the Army and then taken to a hospital or, but whether it was, we don't know. But -- and then we had, like -- no, we didn't have any food to barter with the civilians, you know, when we went through towns. And so the only thing, like I had a watch that I got from my combine partner, the one that was smoking. He -- I gave him half of my cigarettes until the war ended, you know, and well it came to this time we were on this march and he was -- the watch. You couldn't eat the watch, so I traded what I could from the civilians, and we got -- I got, I don't know, a couple loaves of bread and some bacon, and well that kept us going. And then there was a time at during the night we were close where they says we were close to the German lines, and they said there were supposed to go through at night, through the German lines and be freed and be in the allied hands. And so I'll remember that, because -- but if somebody would been trigger happy, you know, and with that, but everything went okay. We went through no problem. We went through, and then I don't know. I don't know how long this couple hours we were in allied hands, and the German there were guarding us, were prisoners of ours then. And I know I remember the American in our trucks, they were throwing candy bars and everything to us, you know. But they told us, be careful about eating, filling up, because it's not prepared for it. But someone anyhow they have to have it, but -- but that's -- that's -- then --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So they just basically turned you over to the allies?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Oh, yeah. Yeah. They went through, and yeah, they went through, and -- we had to go, oh, Wood River, Elbe River. I remember we had to cross that. We crossed that. We saw Germany on our ride.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>How long were you on that march?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Two months and one day.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So let's see, two-and-a-half here, probably sometime in April --</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>-- when you got to the allies?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Uh-huh. And then we -- they kind of took us -- not rushed us through, but there was a Camp Lucky Strike which was a -- from then you got a one -- on a boat. We went -- we came back on, I guess, was it the Liberty Ship, you know? And I remember there was three ships, you know. There was -- you -- you were allowed eight hours to bunk, you know, so -- but the guys -- two guys that not supposed to happen, they never showed up. I don't know, they were out -- out. I know there was a lot of gambling going on and stuff. So...But yeah, it -- you know, it -- some of the things that I know I should have wrote that down, you know, when I came over. I knew where I was and everything else; that's what -- I never did that. That's -- that was no good. In fact, the kids ask me how come I didn't tell them about this. Well, I says, "Your young." You -- I mean, "What would you have known about it?" I says -- I says, "And to be honest with you, I want to forget it." You know. And that's it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>On that trip back, was it mostly POWs on the ship -- on the Liberty Ship?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Oh, yeah. Yeah. Most of them, yeah. I remember I had my first good meal over there. I had a friend, and he had a friend that was on that ship, was working in the kitchen. And he says, "Andy," he says, "We are going to eat tonight." And I says, "Okay." So we went -- In fact, we were -- went by, and we ate at where the -- they ate, you know. And he says it was a steak. Oh, my God. Oh, man was that -- that was -- that I'll never forget. I mean that I'll never forget; that was the best food I had. And, oh, it was just -- and it didn't cost me anything. END OF TRACK ONE; BEGIN TRACK TWO.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>When you came back to the states, did you come in New York?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>No. I came in to Virginia.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Do you remember that arrival?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Was it camp -- what the heck was in the -- it was, I think Lynchburg, Virginia, and we stayed there for awhile. We were supposed to stay there, and -- Now, I don't know how it was as far as -- because we -- we were home. I got home from Lynchburg, Virginia, and that's where I was. And then I stayed home, and then -- Oh, they treated us good over there though as far as feeding. I mean they -- Oh, and we had problems too. They -- We were kept there for awhile, and we were fed good, but one day, at one meal, one of the prisoners, we were -- he wanted some more food, you know, and guess who was serving us? German prisoners. And, "Nine," you know, he says, "Nine," and I thought he was going to jump over to get him, and I thought we were going to have a free-for-all over there. The guys took him out and took the German PW away. But then we were all okay, everything, but he says, "Look." He says, "I can't have any."</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So what was your reunion with your family like when you finally got back home?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Well, my wife pulled a fast one. She didn't let my side of the family know when I was coming in. She says, "I wanted to see you. I want you all by myself." So I wrote. I sent her a telegram what time I was coming in, and she met me at the -- at that time it was rail at the Terminal Tour, you know, that's where they came in. So she was the only one. So we spent almost a day, went to eat and walked around, and then finally went home at night. I don't know how long. We spent most of the day out there. But she says, "No." She says...So she didn't even bring the little one. She just --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did she tell the baby-sitter where she was going?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Oh, yes; that was her mom. Oh, yeah. I think her mother agreed too. So she says, "I know I am selfish," but she says, "That's it." So... And we had our 30 days, and then the 30, like I says, they gave us another 30 days. But we missed Florida which would have been nice for her too, but it's -- that happens, you know, you --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So after that second 30 days, you got your discharge?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Well, after that, instead of going back to Florida, they send me to San Antoine, and I was there for about a week, and all they were getting the fellows maybe one or two a day out of there. So -- When the heck did they send us? I think they sent us back to Virginia, and to -- they had a one that they was grouping out so many a day. So over there, and then we brushed through, and I guess I was home within about a week. But it San Antoine was -- it was nice over there. I mean, but it was too far from home and everything else. I want to go home.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>When you think about the war years, do any other particularly vivid memories come to mind?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Not that really stands out. I guess the biggest is the August 25th, you know, when I bail out. You know, I just, I often wonder if I had to do it now, I don't think I would go through it. But at that time, that's it. Either you do it or that's it. You know, it's -- it's a -- But like I say, I got on a plane. I remember going on, and then tumbling, and then I pulled the rip cord, and I was out, and then -- then I got smart and started, "Do I want to go here?" And then I says, "No more."</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Is that the only parachute jump you ever made?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>That's it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Yeah, that's what I have heard.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>That's it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>A lot of the guys in the Air Corps say that was the one jump.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah, that's right. That's the one. I didn't even -- I don't think we even had a practice jump. You know, these -- now they have it where certain group, they put them up so high and then, you know, practice. But, no, I -- I didn't even hurt as far as when I bail out. Like I say, I was in a wooded area, and it was clear that I didn't get even tangled up with my chute. You know, there were trees all over, but it was just enough space for me to land, not to be hung by a tree or something, you know, because I know I heard a lot of time that they -- a lot of them were hung up in a tree. But it was just there.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Do you have any trouble adjusting to civilian life after you got back?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>No, not too much. I -- What I did is I should have gone to the VA and got a complete physical, but all I want -- I didn't care about. All I want to come home, you know. I didn't want to stay in there, but that would have been better. But, you know, it worked out for me.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>No problem with thoughts or dreams or anything like that?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>No -- Well, I had -- there was a few, but not -- not bad. You know, it was just like I say, I didn't -- it would be different if I was in an infantry, you know, but being out there, I was in a plane, and if I got out with a parachute, that's it. You know, it's -- I guess that's the only thing I can say, you know, as far as -- Oh, there was a -- I know the wife got me, because my hearing. In fact, I still got it. So she send me over. I had to go to the VA, and I started with the VA, and I got a ten percent disability at that time, and -- but it got me started, you know, and then -- but as far as -- Oh, I had -- when I -- sometimes you get into a -- one of those moods that you think about, and I thought about -- the thing I thought about was when we were on the march as far as the fellows that were left behind, what ever happened to them. And that was rough.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>You think that covers it?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>I guess that covers it. And well, I had kept to my family. We had a daughter. She was a year old already, and then we had two more, and that was it. Now -- Well, I lost my wife last year. She -- Well, we had 60 years of married life. She was great. She -- I don't know how she put up with me. But no, there is nothing. I guess, you know, I should have asked as far as some of the -- I know Ed Brantoner (ph) you talked to --</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah. -- what kind of questions. Maybe I should have been more prepared.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>No. No. You were prepared. Very few of the guys remembered the exact towns they were flying over and fighting in, and I am just curious if you remembered that. Some of the guys remember about where they were when they were shot down.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah. I have somewhere, down -- I have a book. In fact, I have a war -- where -- does -- from you -- from going over from United States over to -- we went all over. In fact, I got a dollar bill that's -- what is that over there, certain area in, they call it the (?short snorter?) is it?</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Oh, right. The short -- I have heard that story.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Well, I got one of those. Yeah, I had my crew sign it. I still have that, and then I know I tried to get money from each country we were in, and I still have that.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Oh, that's good.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>So, it was, but...</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>And the locations and the exact dates are not that important. I mean usually everybody remembers the day they were shot down.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Oh, yeah, but, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>So, and you got that, but that's not important. It's very easy to find out where Stalag IV is, so, you know, that's no -- no, that's --</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Well, I know when we were in the march, we -- I know we were north of Berlin, then headed east, then all of a sudden the allies were making their move, then -- I mean -- yeah, headed east, and then south, and then west. I mean we circled Berlin. The biggest town that I remember going through was Halle, Germany. We walked through there, and that was kind of rough because there was bombed areas, you know, and stuff. And going through it all, you kind of -- but we went through.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Did civilians come out and heckle --</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>-- or harass you in any way?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>No. Well, they tried to keep us away from groups. In fact they tried to keep us away, you know, just on the -- going, like, on the farm, you know, and stay there, and that's -- that's about it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>But otherwise, like, the only thing -- Well, like I say, they didn't do any trying -- do any harm as far as -- they were checking, but as far as the physical, they didn't.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Now, I don't know about some of the others. I mean, you know, but I mean in our camp I didn't think there was that much. I know there was talk about one guard that they were going to get even with, you know, on the march. I don't know what ever happened, but, so because there were some guards that -- But where I was, the guards were 60 years and above. There was no young, you know, like there were in the ser (ph). I guess they had to go to the front, and they, to me, the older, they cared less. They had the gun, and they walked around, and that's it. You know, they -- so -- I guess they knew that they were on a short end of the stick by then, you know. So...but -- Oh, another time after we were on the march we were put in together with other prisoners from other countries. That was rough. That was rough. I remember I had a -- we were in a tent area, and I had my food in a -- the Red Cross parcel that came in, but I had it tied up hanging over my -- where I slept. It wasn't there in the morning. Gone.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Was there any kind of punishment if a prisoner was caught stealing things like that?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>I don't remember. I guess that if he was caught, there was something to -- well there -- what they could do? I mean, I don't know. I mean they couldn't put him in a brig. He was already in it. But -- I -- I would think that somebody would try to get even. But as far as -- but I didn't. I didn't know anything about that. But I tried, but -- You know, I mean we were all mixed, all different. Like it was different in Stalag Luft IV. It was all airmen, you know, all Americans, but everything it was all from a different countries. So, but I guess still can't talk about it.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>You think that's it?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>I guess so. I can't remember.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>I'll keep it running for a couple of seconds here. Did you like the B-24, the plane?</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Oh, yeah. It flew. I mean, all right, it didn't look like a B-17, you know, hey, but it had just as much power. It had just as much speed, and as far as the capacity to carry so much bombs.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Carried more than --</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Yeah. Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>So, hey, it got me home.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>Exactly. One way or another.</p>
+               </sp>
+               <sp>
+                  <speaker>Andrew Michael Kolenic</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Thomas Swope</speaker>
+                  <p>It stayed up there long enough for you to get out of it.</p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

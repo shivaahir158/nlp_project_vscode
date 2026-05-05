@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with Carl Willard Larson, 10/19/2008</title>
+            <author>Jill Weberg</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Matthew McCrady</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with Carl Willard Larson</title>
+               <author>Jill Weberg</author>
+               <date>10/19/2008</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with Carl Willard Larson was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with Carl Willard Larson [10/19/2008]</head>
+            <div2>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Today is October 19th, 2008. We are interviewing Carl Willard Larson. He was born January 17th of 1920. In attendance is Jill Weberg, Carl's daughter, who will be interviewing, and Terrie Wasilewski will be recording the interview. She is a friend of Jill's. Willard served in World War II and the Korean War in the Navy. Willard, where were you born?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>I was born in Rockford, Illinois.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. At what hospital?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>The old Saint Anthony Hospital on East State Street.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. And your parents, what did your father do?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>When he came to this country?</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Well, he worked in a furniture factory where most all the Swedes worked, and then he got out of that and he was delivering milk by horse-and-wagon. And he also had a bakery route at one time, and then he -- then he went to work for a trucking company and spent most of his life working for them.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. And your mom, what did she do?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>She was just a housewife, kept her busy with four children.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. And four children. So how many brothers and sisters?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>I had one brother and two sisters. One sister was seven years older than me and one sister was seven years younger than me; and my brother, he was two years older than me.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Were any of your siblings in the military?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>My brother was in the Army.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Oh, okay. And that was in World War II, also?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>That was in World War II.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. What type of job did you do prior to going to the war?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>I was a machinist at Greenlee Brothers. That was making war material and machines to make different parts of airplanes and also for making ammunition.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. Now, did you enlist or were you drafted?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Well, I -- being working in a defense plant I had two deferments; and my second deferment was about running out, so I enlisted in the Navy.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. You expected to be drafted soon if you hadn't?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yes, I would have.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. And where or when did you enlist?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>I enlisted here in Rockford, Illinois, and then I was sent to Great Lakes for boot camp.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>That was in Chicago?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. And what was the -- was that in November of 1942?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah. I believe it was the latter part of October or first of November sometime.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Now, what happened when you got to Chicago?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Well, they put you up in barracks and the next day they start training you and giving you shots and giving you a haircut, which was a big change. Then -- then they give you basic training. We did plenty of marching and running and that. And then one week during the boot training we had a work week. And during my work week, I rode around with another fellow who was at boot camp; and then they had a truck driver and we went around to all the -- the mess halls and picked up old coffee grounds. We used to pick up two dump trucks a day and take them out and dump them.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Wow.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>That I did for one week.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>I see, I see. Now, you were there six weeks, you said?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah, six weeks at basic training.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>And then you were sent to a machinist mate school?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>After -- after my boot camp I was sent to machinist mate school in Great Lakes and I spent 16 weeks there learning Navy machinery, equipment and Navy personnel and different -- different machines I had to work on.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>I see, I see. So were the living conditions in the school okay?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>They were very good. In boot camp we had to sleep in hammocks. But when I went to school there, I had a bunk bed, which was much nicer.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>I see, I see. And did you come home during that 16 weeks?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yes. I could come home about every weekend when I was going to school. I just had to be there Monday through Friday for the school.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Now, the school, let's see, I think you got done about in April of 1943.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>And you were sent where then?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Then I was sent out to section base at Treasure Island, and there I worked in the machine shop at the section base.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>And that was in San Francisco, California, right?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>That was Treasure Island by San Francisco in California.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>I see. And you worked, I think you said, at night, huh?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah. They had civilians working at night and the sailors had to work at the night shift.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>So the civilians worked during the day and the sailors at night.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>That's right.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>I see. Okay. How did that go? What kind of --</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Oh, that was real good duty. I got -- when I wasn't on duty in the machine shop, I had liberty and I could go in into San Francisco and bowl and play golf and it was a real good duty.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Good, good. So, let's see, did you ever go home when you were in San Francisco?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah. I took one leave --</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>-- when I was in San Francisco at Treasure Island. I was gone for two weeks.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>And, let's see, didn't you -- I think you said something about meeting a sailor there before you came home that you --</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Oh, that was -- when I lived there he lived in San Francisco, and that's -- he was working at the section base there and he lived in town, so I got kind of chummy with him. And he played a lot of golf and he took me playing golf with him, which worked out real good.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Oh, yeah. But, also, there was a sailor that you met that came off of one of the ships doing laundry.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>That was my brother- -- well, he was my brother-in-law after I married his sister. But he sent me -- I was going back to Rockford on leave and I met him out in our laundry, where we do our laundry, and I just happened to run into him. I didn't know he was out there or anything and it was a big surprise. And I told him I was going home on leave and he sent me -- he told me to stop over at his mother's house and say hello to her, so I did that. And while I was there, he had two sisters and I went -- I dated the one a couple times during the time I was on leave and then we corresponded quite a bit while I went -- after I went back and went overseas, and I ended up marrying her.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay, okay. And I guess you had known this guy from Rockford.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Oh, yeah. This fellow that I met there and went home to see his mother, we worked together at Greenlee's before the war.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay, okay. Well, good. And then you traveled home by train?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah, I traveled home by train. And it's kind of a boring ride. The shore patrol come through and asked if anybody would like to work in the kitchen. And they told me that if I worked there that I could have anything and all I wanted to eat and I also would get my train fare back for the trip, --</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Oh.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>-- which worked out real good. And it gave me something to do while we were riding that train, which was very boring, and it also saved me a little money.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Uh-huh, uh-huh. Okay. So you were in San Francisco from April of '43 to October of '44. And then I think we mentioned in October of '44, where were you transferred to?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Well, then I was -- at that time I was at -- I was at the section base working. And at that time a ship came in; and people that had been overseas, if they could find another person with that same rank that they had, they could demand a swap and get some shore duty and the one that had been on shore duty had to go overseas. So that's -- I had one fellow come and he was a machinist mate but he wasn't -- he didn't have any shop experience, so he couldn't make the swap. But he was on a destroyer, and when I -- it was the USS Little, and I couldn't swap with him. But while I was overseas in Okinawa, that USS Little was brought in from the picket line and had a big hole in the side of the ship where I probably would have been if I had been on duty at the time that that destroyer took a bomb if that change had taken place. But that didn't take place, so I didn't get on that ship. But then this other ship came in -- that was the USS Vestel -- and I had to -- I had to swap with this one fellow because he had the shop experience that he needed to take my place and I had to take his place. He came off of a repair ship, and that swap worked out good.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. And this was at Mare Island Naval Yard?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>That's where the ship was brought in to, Mare Island Navy Yard, and I got on that ship there. And when they finished with their repairs, I went out to sea with it.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>And that was a repair ship and tender?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah, it was a repair ship and tender. This particular ship was an old -- was an old coal carrier that was converted in World War I to a repair ship. And it had been bombed at Pearl Harbor at the beginning of the war when Japan bombed Pearl Harbor. And it had been taken -- it had been beached and then they repaired it enough so they got it back to the States right after World War I. And they redid it and sent it back out to sea, and it had been out to sea ever since then until it came in at this particular time when I got on.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>I see. And now -- excuse me. How big was it?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Oh, it was probably around 400 feet long.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>And how many -- how many crew members?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Well, they had what they called the ship's crew. That was a crew that operated the ship. Then, of course, they had the repair crew. That's the different people that repaired ships when they went alongside. And there was probably about 2-, 250 people in the ships -- running the ship, and then there was probably 6-, 700 of us that worked on the repair department. And we had everything. We had everything you could think of. We had carpenters and sheet metal men and welders and machinists and just about everything that it takes to run a machine shop or a repair ship. Then we also had big refrigeration holes in the ship where we stored different foods. And ships would come out and they'd stock us up and fill our -- all our holes with vegetables and everything. And we supplied ships that came alongside, smaller ships that didn't have the facilities for this kind of stuff.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. So basically you would repair ships that got bombed and then also give ships supplies and clothing and food --</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>-- and water.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. Now, did you sleep in bunks or how did you sleep?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yes, we slept in bunks. We had -- we had -- each division had its own place to sleep. Like all the machinists would sleep in one place, all the welders had another place where they bunked. And we all ate in the same mess hall, and that was quite large.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Now, were you right on the Pacific right outside of San Francisco or were you heading further out to sea?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Oh, we -- when we left, we left -- we went to Pearl Harbor and we stayed there about a week. And I got to make two liberties there during the day, couldn't have the liberties because it was all blacked-out at night, and -- but we did a couple repair jobs on a couple ships that were there, and then we went on further to Ulithi.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. Now, was it -- what was the weather like?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Very warm, very hot. It was about 140 degrees in the fire room, and probably 100 to 120 in the engine room on our ship. And our quarters was right above the engine room; and being all metal, it was very hot, very hot, very hot.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>So your bunks were metal and real hot to touch?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah. Of course, we had a good ventilating system but no air conditioning, just the hot air that came in from the outside.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Wow. How was the food, though?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Our food was very good. I can't complain at all about the food we had on our ship.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. Well, good. And now I think you said you worked eight hours a day but were on -- you were on-call 24 hours a day?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>That's right, yeah. We usually had our eight hours that we worked in the shop; and then, of course, if there was any other work that had to be done, we had to stay and work on that.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Were there -- were there ever any enemy ships around you that you might have to be concerned about?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Just after we went to Okinawa -- we went into Okinawa before it had been taken over by United States and we -- we anchored in Buckner Bay. And what we did there, the Japanese were sending out kamikazes and they had a picket line out -- United States had a picket line out there that would intercept these kamikaze planes. And sometimes they'd get hit and bombed and then they'd bring them in, and we would have to either seal them up and they'd be towed back to Pearl Harbor or the United States or they would -- if we could get them to go under their own power, we'd get them to do that and they would go on their own power back. But we had these kamikazes come in a couple times to Buckner Bay while I was there, but two ships got hit the one time and -- but our ship never did get bombed.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. Now, like where were you when there were enemies around you? Did you leave your work station and have to go somewhere else to be on alert or how did that go?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Oh, yes. Yeah. When we had -- when enemy planes come in, we had to go to general quarters, which was -- we all had either gun stations or different stations for fire control or something like that. I was on a reserve gun crew, and I never did have to actually do any firing of any guns or anything.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Could you be at those quarters for several hours?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Oh, yes. We could be there practically 24 hours a day and we'd just have to sit there and wait, sit there and wait.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Oh, wow. Okay. Let's back up just a tad here, because we talked -- you talked about being in Hawaii on liberty, I remember, and after you left San Francisco. And then was in about April of '45, I think you said, you left Hawaii to go to Ulithi?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah, that's right. There we went in a convoy and there was about six, seven ships and then we had some war ships, destroyers and cruisers that took over the duties of protecting us; and we only could go about four knots. That's about maybe five or six miles an hour. That's because we had an oil tanker that United States had taken over from Italy and the top speed on that was four knots. So that's as fast as we could go when we went from Hawaii to Ulithi.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Wow. Okay. And then, let's see, at night I think you were saying how if you were on deck -- or at night lights had to be out. The ship could never have a light on it.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Oh, no, no. No lights at night over there.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>For protection?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>And no one could smoke on deck or anything like that?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>No. No lights at all.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. Now, what was the longest time you were ever on the ship without going to land --</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Oh . . .</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>-- or shore?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Oh, I was in Ulithi for six months where we never, never got off the ship; but then we went up to Saipan -- from Ulithi we went up to Saipan. And when we got up there, that had already been taken over by United States. And we got to go on recreation parties where they gave you six cans of beer and all you did was sit around and walk around on the land, but that was -- I was on the ship for six months without leaving it.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Wow, wow. So you got to get off the ship like just for a couple hours a week to do swimming and the beer and . . .</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>That was only probably once a week that we could do that.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Because we couldn't all go at the same time. We had to take different turns at it.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>And then I think you said you went from Saipan to Okinawa?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>And, let's see, I think that's when you talked about typhoons.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Oh, yeah. When we were at Okinawa, we had to ride out two typhoons. They were very, very bad. We had to leave the ships we were working on because we couldn't get under way and we had to go out, and we'd go out for maybe four, five days until the typhoon was blown over. And when we got back in, these ships that we had worked on were up on shore, about 100 yards up on the shore from the typhoon. And on the way in the one time, we picked up a raft and about eight, ten sailors were on it. And then I . . . (Interruption for telephone.)</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Go ahead. You picked up the sailors. So the sailors' ship had capsized?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah, the sailors' ship had capsized and they were on a raft. And they had a big, long plank tied to the raft and some of them were hanging on that, and they were all beaten-up from the salt water and everything. But we took them on-board and we had a -- we had a clinic on our ship where we could help them and they took care of them. And I don't know what happened to them after we got back in, but they were all okay when we left them.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Do you think they had been on that raft for more than a day or two?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Oh, could be. It could have been. They were on a smaller ship and the ship had capsized and they got on the raft and got that plank tied up to the raft and they just hung on for dear life.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Wow. Let's see. Now, I think you mentioned tug boats would bring the damaged ships to your ship?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah. If the destroyers on the picket line would get so they could not operate on their own, we had tugs that would go out and bring them back into our bay and then we would do what we could with them. And then they would -- the tugs, if they had to, they would tug them back into Pearl Harbor or wherever they could.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>I see. Okay. Now, this is I think where you had mentioned earlier where a ship got brought in which you could have been on but the switch didn't work out in San Francisco; right?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah, that's right. That swap that this fellow wanted to make with me didn't have the shop experience, so he could not make the swap. But when we were out there, this USS Little was the name of that destroyer, was brought in with a hole the size of -- you could drive a car through it. And it would have been possible that I would have been on duty -- if that swap had gone through, I would have been on duty on that ship in that particular spot.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Wow. Have we even mentioned, what was the name of the ship you were on?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>USS Vestel.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay, okay. Maybe we've mentioned that. I'm not sure. Now, you said that when you repaired ships, you tried to seal them up and you'd pump the water out. What about the crew on these injured -- or damaged ships? What were they like or what did you do with the crew?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Well, they stayed on their own ship; but, of course, those that were injured and those that were killed on the ship during that bombing, those we had to take aboard and we put them in a -- buried them at sea. But the ones that were injured, they would go to our clinic on-board our ship and we would fix them up as good as we could and they would have to survive until they could get brought back to the States or to Pearl Harbor.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. So did you have like a burial at sea then for the --</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yes. Yeah. We had a chaplain on-board our ship that would take care of burial at sea.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. Now, let's see, in November of '45, is that when you went to Hong Kong?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah. It was about November of '45 when the war was over that we left and we went to Hong Kong, China. And I was only there about a week, but I went ashore several times. Once I pulled down a shore duty or shore patrol twice during that week that I was there, and we had to go around and check all the different places where the sailors hung out and make sure they weren't in places where they weren't supposed to be.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. Now, that was in November of '45. And we thought the war ended in September of '45, so this was after the war ended.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah. Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>How long did it take you to get from Hong Kong to San Francisco?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Well, there was about five of us on our ship that was ready for discharge and there was an oil tanker there that was going back. So they put us on this tanker and it took us 30 days to go from Hong Kong to San Francisco.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>What did you do during those 30 days?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>All we did was eat and sleep and just -- I could say enjoy the trip, but it wasn't too enjoyable.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Wow. Did you -- were there many times, looking back here a little bit, that you were afraid or thought you might die? Were you ever in situations like that?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Well, the worst situation was the typhoons that we rode out. Being an old, old ship like it was, I didn't know how it would ride out the typhoons, but it did real well. There were times where we'd be on top of the waves which were probably 40 foot high and times where we'd be down in the bottom when we'd look up and there would be a ship up on top of the wave and just the opposite.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Wow. Were there many sailors that were seasick?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Oh, there was -- there was quite a few. But I was real fortunate, I was never seasick all the time that I was in the Navy.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Oh, that was, yeah, fortunate. So, let's see, when you came back to San Francisco, then where did you go?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Well, when we went under the San Francisco Bay Bridge, I prayed to the Lord for taking me through all that I had been at and protected me and bringing me back safe. And I did the same thing when I went out; I prayed to the Lord to ask him for protection and he took care of me. And when I got back, they took us off the tanker and they put us on a train and sent us back to Great Lakes where I was discharged in January.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. So you were officially discharged at Great Lakes Naval Base January 13th of 1946?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yup. I was discharged the same place I was brought in to the Navy.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Wow. Let's see. And then did you join the Reserves?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah. After I was out I joined the Reserves and I thought it was a good way to make a house payment. I just got married and bought a house, and I could make enough money by going to the Reserves one day -- one night a week. I'd make enough money at night to make my house payment, so I joined the Reserves. And then when the Korean War broke out, President Truman, he signed -- made all the Reserves -- he froze the Reserves for one year, and I had about a year and a month to go. So I got froze in and I was called back to active duty; but I was sent out to Norfolk, Virginia, on another repair ship, the USS Amphion. And I just -- it was docked in Norfolk, Virginia, and I never did leave the States. The ship went out for a two-week cruise where we cruised on the -- those two weeks I took off on leave and went home.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Oh, I see.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>So I never did go out to sea on that repair ship.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>I see. And how long were you in active duty then?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>I was on active duty a little over four years altogether. I was a little over three years in World War II and about one year in the Korean War.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. What was your last rank?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Chief machinist mate shop.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. So you were back home. How did it feel to be home?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Well, it was quite a change, quite a change. I enjoyed being home and I went back to see my girlfriend, which I hadn't seen much of but we had corresponded quite a bit. And I got out in January and we got married in June.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Oh, okay. Was it hard to find a job or . . .</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>No. I thought I'd go to work for the gas and electric company, so I went down there. And they said, yeah, we have a machine shop and we could use you. We could use another machinist. So I thought, well, this would be a good deal. So I went down there and they sent me about half- mile away at the end of a big hose that was pumping cinders away from their boiler rooms where they were generating electricity, and I was supposed to take and shovel the cinders away from this big hose that was pumping the cinders out. And I had one day of that and that was enough, so I quit. And then my uncle, who was a carpenter, said that the carpenters union is taking in apprentices if I'd like to do that. So I thought, well, I don't want to be cooped up inside a shop all the rest of my life, so I decided on giving it a try. So I got into the carpenters union and I was a carpenter ever since.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. Did you bring any souvenirs home with you?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Oh, just a few. I didn't have much room to bring anything back, but I brought a couple of ivory -- pieces of ivory that had been carved out by the Chinese that I bought in Hong Kong. And that was about all I could bring back. JILL WEBERG: This is the end of Tape One, Side One. END OF TAPE ONE, SIDE ONE. JILL WEBERG: This is Jill Weberg interviewing Willard Larson for the Veterans History Project. Tape One, Side Two. BEGIN TAPE ONE, SIDE TWO. JILL WEBERG: Well, I think we've covered most everything. Is there anything else you'd like to add? CARL WILLARD LARSON: Well, not really. I can't think of anything right now.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. You've done well. You've done very well. I just thought what really struck me was when you were on general quarters, you called it, where you were really right there, must have been on the deck of the ship ready to shoot the enemy if they were nearby, and you also said it had to be a blackout. So there was absolutely no light, correct?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>That's right.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>And you could have been there for hours or days even, huh?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah. Sometimes they lasted a couple days, but more than not they'd -- after a few hours sometimes they'd just be secured and everything would go back to normal.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>And you actually, I think you mentioned, passed ammunition to the gunners? Is that what you would do?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah, yeah. I had to work with the ammunition, getting it to the gunners.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. And were there about six of you at each station?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah, there was, on the three-inch guns.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>I see. And if it would go on for more than a day or two, you would just take turns sleeping right there?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Oh, yeah. You'd sleep right where you were.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>And then one of you would go get food for the group every once in a while?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Well, either that or the people in the mess hall would bring food around.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Okay. What about -- this might sound a little funny, but what about going to the bathroom? I guess we haven't asked. You said the --</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Well, if you had to go, you had to go.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>And where did you go?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>We went to the bathroom.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>What were the bathrooms on the ships?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Well, on our ship they had a long trough about two- foot wide and maybe 15 foot long and they had boards across them where you sat and did your business and it just washed it out to sea.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Oh, okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>And, of course, the urinals were just regular urinals where you'd just stand up and go.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>And it all went out to sea?</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Jill Weberg</speaker>
+                  <p>Well, this has been very interesting. And I guess if there's nothing else, we'll end it.</p>
+               </sp>
+               <sp>
+                  <speaker>Carl Willard Larson</speaker>
+                  <p>Yeah. It's been so many years ago and I'm getting so old that I don't remember so good, and I guess that's about the best I can do.</p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with Ann Caracristi, Undated</title>
+            <author>Leslie Sewell</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Matthew McCrady</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with Ann Caracristi</title>
+               <author>Leslie Sewell</author>
+               <date>Undated</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with Ann Caracristi was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with Ann Caracristi [Undated]</head>
+            <div2>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Alright, I'm talking to Anna Caracristi, and could you spell your last name for me, I want to make sure I have it right.</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Well first of all let's make sure you have my first name spelled correctly. It's A-N-N.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Oh, okay, Ann, not Anna. Okay, I'm sorry, okay. And your last name?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>C-A-R-A- C-R- I-S- T-I.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay, I see, okay, that's spelled wrong. I'm glad...</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>You had it with a 'k'.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>I always--no, I had it with a 'c', but I had an 'h' in it.</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>'H', right.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>I had an 'h' in it, yes. That's the first thing I always ask people because there's nothing worse than spelling somebody's name wrong on the super that you put under people's names. And, you know, you do this whole interview and then all they can say is, "You got my name wrong!" [laughter] So, I try to get it right. Tell--Let me go back to what--you were in college, you were at Russell Sage [women's college in Troy, New York], is that right?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>And how were you recruited? How did you get into this cryptological...?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Well it was mysteriously done, I think. I believe that the Signal Intelligence Service sent out an all points search of women's' colleges, saying that they were seeking people to work in cryptography, cryptology. And, I believe they asked for recommendations; at least the Dean of Russell Sage apparently nominated me and two other people, who were friends of mine, as possible people to come work in this exotic work. And there was much emphasis on the fact that it was very secret, and they really couldn't talk about it. But they would send a few courses, course material, that we were supposed to look at before we came down. All this happened, as I remember, in about January of the year I was to graduate, which was '42. And they did send some little booklets, and they were--what I later discovered--were the basic documents produced by William Friedman [head of the Signal Intelligence Service, groundbreaker in cryptology], the cryptography, cryptanalysis exercises. Being rather busy with trying to graduate, I'm not sure I paid too much attention to these, but at any rate we arrived down here the week after graduation, actually. And through a friend of friend we knew of a woman who had a little boarding house; it was wonderfully located on Wyoming Avenue, very close to where the split of Connecticut and Columbia takes place. And so we had a room in this funny boarding house for a couple of months. And that turned out to be a good idea, because the first few months we were here, we were assigned to a classroom in George Washington University, where they sat us down to go through these courses, the Friedman courses on cryptanalysis. Actually, it was very hot; this was June, and it was a very--one of the hotter Washington summers, and of course in those days nothing was air-conditioned except movie houses. And, as I learned later, places where they kept machinery. For instance, the tabulating machinery that we used instead of computers in those days because computers hadn't gotten around to being invented.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Can you tell me something about these exercises that you did? What were they like? Were they math? Were they...?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Well, they were just sort of like puzzles, if you will. But they were explaining the basics of the way you encrypt material and the way you go about attacking an unknown system. You make counts of letters or numbers and try and find patterns and things of this nature. And they were--started out being quite simple and progressed to being fairly tricky. And I'm sure we could even get you a sample of that, if you'd like to look at it. [laughs] We'll see how far you can go!</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>[laughs] Probably not very far.</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Fortunately I didn't have to go too far because, I think it was probably early August, they completed enough of the work of changing the Arlington Hall [which was a private girls' school that was taken over by the Army during the war] school building so that it would accommodate a sort of office environment, so that we were able to go out and start working at Arlington Hall. And in the beginning they were still building temporary buildings on the Arlington Hall campus, which would ultimately be the workplace. But in the beginning I worked on the attic of the old schoolhouse building, and again it was very, very hot up there. And these had been dormitory rooms. And there were bathrooms associated with every two or three rooms, and we used those as filing cabinet places. And it was all very mysterious. When I was assigned they said, "Well, you're going to work on the Japanese problem." And I said, "Oh, heavens, I don't know anything about Japanese!" "Don't worry," they said, "You'll learn." Well what I learned to do was sort endless amounts of paper that was indeed the messages that had been intercepted and forwarded back for analysis. And the first thing you had to do was sort them. Edit them. And editing meant that we were preparing them to be typed up and put into the databanks of the day, which were the IBM cards. And that's the way we all started. And the group had a few people who were experts, in the sense that they had worked in the old munitions building in Washington, in the small group that Mr. Friedman had pulled together prior to the war. And they knew what they were doing, presumably, but they hadn't worked on these particular types of systems; they had not yet gotten an understanding of the Japanese military systems. Now, if you remember, there was success in reading Japanese diplomatic traffic, but what we were doing was looking at material which was transmitted by the Japanese military forces, and later, material that was used by the merchant fleet. And the objective was to figure out how the encipherment works, if it's possible to exploit it, and then to exploit it; and it all worked out. We knew they were additive systems; we didn't know how carefully the additive was generated and used, so there wasn't any knowledge of how difficult it would be to recover the additive and the underlying codebooks and text. So all that had to be done.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Can you describe what an additive system is? Is there--Or is that too technical?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Well I don't know that it's too technical, but it is where you have a stream of numbers, which represent key, and you convert your message into numbers--</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Would you start again, 'cause you got up and then you moved in the middle of that. So you were saying, it's a...</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Well let's do it the other way around. Anyway, first you have a message that you want to transmit. You convert it from literal text into numerical code using a book, usually, or some other device. And then you want to encrypt it, because if you send it without encryption in due course, very quickly, someone else would be able to figure out what the text was. And you encrypt it by adding random numbers to that numerical text. And the numbers are produced and distributed, in this case by the Japanese, to their forces, and there are instructions about how to use these key books. In an ideal world you don't reuse the key very often, but, fortunately for us, they did indeed have to reuse the key quite a lot. And because they had a large amount of territory, they had problems distributing new key, so they had to figure out ways to make the existing key more difficult to exploit. And we dealt with those issues.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay. Now I always thought of people who did that sort of work as being mathematicians, you know, people who had a technical background. Tell me about your background and how--</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Well, my background will disillusion you [laughs] because I majored in History and English; I had very little math background. And as it turned out, the work was allocated in such a way that you--it was, in the first place, pretty clerical. Later, however, it was possible for me--I was lucky enough to be able to work on problems, and they were not--they did not require a great deal of math, really; they required a great deal of ingenuity, I suppose. Modern day cryptanalysis is quite different and requires, indeed, the very extensive math. And even in those days the leadership of the organization was very highly qualified. Our leader in the group I was in during the war was Dr. Kullback [Solomon Kullback] and he was a PhD in math. And the other leaders of the group were mathematicians. Mr. Friedman was not a PhD, but he was a very talented statistician in his young days, and he had a great deal of math talent without having the degrees in it. So they were very heavily--we were heavily backed by people who could guide what we did. And I must say my contributions during World War II were probably minimum in terms of breaking into new things.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>What about--but--Did you ever have sort of a eureka moment when you felt that you had, you know, solved something? Or did your group ever have that, the whole unit that you worked in...?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Well yes, we did. I was concentrating mostly on decrypting Japanese address systems. And the Japanese encrypted their addresses on messages with additives, in the same way as they encrypted the text, only with a different set of additives. And again they were forced at a fairly early time, I guess, in '43, '44, to improvise ways to disguise the fact that they were reusing key all the time, and so they introduced something known as enciphering squares, which meant that they were able to take an old book of key and sort of re-encipher the key if you will, that might be a way of describing it, so that it wouldn't be immediately apparent that you had re-use of the same old key. And I was--they first introduced this on the address side of the house, and I was around when we did that. I actually was, in theory, a research section within the section. And my subsection consisted of three people: myself, a fellow named Ben Hazard [unsure of exact spelling] who was unable to--he was 4F [not qualified for service in the armed forces]; he came from Narragansett [Rhode Island] and was a very educated man, a graduate of Harvard, but he was not able to serve in the service, and he wanted to sign up for some useful work. So Ben and I and one other person whom we call Section [unsure if this is what she is saying], the three of us were the research group. And when we actually were able to recover this first enciphering square, we thought that was a great accomplishment. I admit that the accomplishment was made possible because Dr. Kullback, who in fact had been converted to a colonel in the U.S. Army, Colonel Kullback leaned over my shoulder and gave me a big hint. [laughs]</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Did you feel, when you were doing this work, patriotic, like you were aiding the war effort? What was the sense, both for you and for your colleagues?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Yes, I felt it was very important and exciting thing to be doing. And I felt it was contributing to the war effort. And we were surrounded, of course, by military people as well as civilians; this was a very mixed environment. And the--we would have people who were--had been drafted, selected for the Signal Intelligence Service on the basis of their military IQ. They would come in as enlisted men, and then they would--many of them would apply for officer's training. So we would see them, they would send them off to New Jersey, where they would have their ninety-day wonder treatment, and come back as officers. And then they would be off, many of them, to England, India, to the Pacific. So there was a constant sense of the war within the Arlington Hall environment. The product we were putting out we knew was helping. It was allowing, as it turned out, not what I personally was working on, but the decryption of the merchant marine traffic, was indeed allowing the Navy to know the location of merchant marine ships and to send out submarines and aircraft to dispose of them. And it made a big difference in the winning of the war in the Pacific. And we were aware of that.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Can you talk to me a little bit about just the personal things...You said you lived in a boarding house when you first came here. What was it like being in Washington during that war period?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Well it was a great deal of fun, actually. Fortunately we didn't stay in the boarding house too long, we moved out to Arlington ultimately. But that was--we were able to, you know, ride the trolleys down to our office, our classroom in George Washington. There were very few good places to eat, but we managed to find all the nearby restaurants, and occasionally we'd go to the one or two that were acceptable, or good. There was a sense of excitement and movement. One of my friends had a car, and so we on occ--we could drive out to Arlington Hall, which we did for a brief period of time, and then we were able to find an apartment out in Arlington. The--I have to admit when I read about all the hardships, I really don't believe there were that many hardships; I don't recall suffering. Even when we had an apartment, you know, when we were buying groceries and so on, I don't recall that there was any big crisis about finding meat, or finding anything you might want. We rode trolleys, we rode buses, and we rode the train to New York. I would go back to New York periodically, and I think that, that was the worst. The trains to New York were simply dreadful because they were very crowded and frequently unheated in the middle of winter. They were pulling out all the railroad trains and passenger trains they could possibly find. And so you would very often have an uncomfortable trip in that way. But as I say, I don't recall it being a matter of hardship at all.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay. What about social life? What did you all do when you weren't working? What kinds of activities?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Well, we did lots of things. We played tennis. We went to the theater. The National Theatre was there, and I remember seeing Uncle Homer, when it came. I don't know whether it started in Washington, or it came to Washington...We--A group of us bought a sailboat, and we used to sail, if you will, down off Maine Avenue [laughs]. And, there isn't much wind, I can tell you, in that little channel. [laughter] But we didn't know much about sailing either, so we didn't really suffer too much I guess. We were once becalmed when the Washington-Norfolk night boat was trying to take off, and we were in their way, and that caused a certain amount of excitement at all ends. Cully--Colonel Kullback, was a great enthusiast about softball, and he used to sponsor softball tournaments. And Frank Lewis [unsure of exact spelling] was one of the people, he was one of our outstanding cryptanalysts, a musician, and he formed up a chorus, and there was a choral group. And there was a whole theater group if I remember, too. There was a lot of activity. And as I say, it was not a hardship problem.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay. Did you work weird shifts, or were you basically like regular office hours. I know some of the people worked around the clock...</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Yeah, the whole, the whole unit was around the clock. I used to sort of straddle shifts. I mean, I would sometimes come in about nine o'clock and stay 'til seven, and sometimes I would work--occasionally I worked a night shift. Mostly I worked basically a day shift. But we worked long hours, actually. Partly I suppose because we were inefficient [laughs], but partially--Actually because it was--you know, you would reach--you wanted to complete what you were doing.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Right. What about security and secrecy? I gather the work was very secret, you weren't supposed to talk about it...</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>That's right. You weren't supposed to talk about it, and, you know, not even to your family, not even to your husband, if you had a husband, not, not--nobody was to know. And people were very, very careful about this. Now in the wartime environment, you weren't pressured--nobody would ask--if you said, "Well I can't talk about it," that was the end of the conversation, because there were lots of people in that same situation.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay. So there was a sensitivity, at that time...?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Yep. And we had guards, and we had badges, and we had all the trimmings of security around Arlington Hall. But--And we, we took very seriously the need to maintain security and not talk about what we did. And that I think is probably why people socialized with each other within the workforce, because you--it was hard to meet other people or, you know, to...and you had a common bond of...</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Yeah, I mean, I understand that there was like sort of a great esprit de corps [group morale].</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>There was. Tremendous.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Can you talk to me a little bit about that?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Well, I think that it was because the work was interesting, and we were all interested by it. But it was a fascinating group of people. I mean, there were people who were linguists, of all varieties. There were mathematicians, ___?. There were people who were--who had been teachers. A lot of them from the South; there was a big recruitment in the South for clerical kinds of people and for young women who were teaching, either languages or teaching math. And there was a recruiting of people from--as I say, there were people from Smith and Bryn Mawr and other colleges. There were people like Callimahos [Lambros D. Callimahos] who was a world-class flutist who happened to--who was in the military. And the military of course added to this mix remarkably. There were people who were children of missionaries who'd lived in Japan or China. So as I say, it was a real cross-section of, I guess, for the most part, very bright people. And this was very stimulating if you were not quite that bright, you were in awe of the whole group. And they were also lots of fun. I mean, they enjoyed life.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay. Was there a sense that the war made that enjoying, you know, even sharper, that people felt that they--they wanted to--they were working hard, but they wanted to party, and the world was sort of falling apart, and so you had to have fun when you could. Was there any of that sort of...?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Yeah, I suppose there was some of that, but it wasn't the prevailing mood, I don't think. Partially because those of us who were civilians knew we weren't going anyplace, and we didn't feel in danger. We felt it on behalf of people who were being sent overseas, but even then most of the signal corps people weren't believed to be being put into harm's way, not nearly to the same extent that a PT boat operator or somebody who was gonna land at Normandy is. So there wasn't that sense of doom, I don't think.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Now after the war--um, let me just back up a little bit. Were there a lot of women working there? I've seen pictures and things that indicate that there were...</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Yes, there were a lot of women. There were--I don't know the numbers. And I--Maybe your--the book [nods off-screen in direction of the book] if you want to look it up...</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Yeah, no, that's okay, I'm just asking you your impressions.</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Yep. It was true. Particularly--there were large numbers of civilian women. There were some WAC [Women's Army Corps] enlisted women. But my impression is more a large number of civilian women, a large number of enlisted and officer men, males, and a much smaller number of women military.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay. When we spoke on the phone you said that you left the service after the war was over, and you said to me, "I thought it was my patriotic duty to leave." Can you talk to me about why you left and... [male voice, the cameraman, interrupts in background]...Oh okay, why don't we change tapes then. First tape ends Second tape begins</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>So, the war ended and the men came back, and what happened.</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Well the war ended, and shortly thereafter I did leave. And I thought it was my patriotic duty, and I was encouraged to think that by the direct--then director General Corderman [William Preston Corderman, commander of the Signal Security Agency and later Chief of the U.S. Army Security Agency] gave a speech which some of us referred to as, "Here's your hat, what's your hurry" speech. As a matter of fact it was a, you know, "You have all done a great, marvelous job and we've won the war," all this sort of stuff. But we all thought, and certainly precedent would suggest, that at the end of the war the intelligence business of the United States would diminish, if not disappear. At least we thought it would be a much smaller effort, that it would return to its pre-war dimensions, pretty much. And so it seemed like if you were able to depart, you ought to. And I really did think that that was my patriotic duty. Plus which I thought it was time to explore other--you know, real life...and so I went back to New York. But, as I think I might have told you, I found that working in a regular, even though perhaps I would have thought that it would be interesting, job was--paled by comparison with the excitement of working in the cryptologic business. And so when I got a letter that said that they were re-hiring and would I be interested in coming back, I took the bait.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay. And you came back and stayed...</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>And there I stayed.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>And so how many years altogether did you work at NSA and its predecessor?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>I don't know, about forty.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Yes, and to get to George's question: Security clearances...what kinds of clearances did you all need?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Oh, well that was sort of hilarious because they did--you know, you had to give references, and then they actually sent out investigators. And you would discover that all your parents' friends were being questioned about your reliability, etcetera, and this gave an aura of mystery to the whole endeavor. But they indeed did do on-site investigations, and we had to fill out a great deal of forms and things of that nature. And in fact, part of the reason I'm sure that we were held in our training school for the first several weeks that we were signed up was to be sure that that paperwork had been completed.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>If you had to say what the high point was of your work during the war, what would it be?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Well, I guess it would be VJ Day [Victory over Japan Day, August 14, 1945]. [I] Went in at about two o'clock in the afternoon. We knew that the messages had been read, that the war was going to be over. And this was--the Japanese linguists who were in a wing of this large building, way down there [gestures], couldn't contain themselves. And the word went--swept like a fire through there. And we were told that we were not to tell any of our friends and relatives until, you know, four o'clock or something [laughs]. And then at four o'clock we all just left the building and congregated in Washington to celebrate the great day.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>And, before VJ Day, were there other accomplishments of the--of where you were working that really grabbed you? Anything--you mentioned something about the finding out about the code for the merchant marine ships, but were there any other things like that that struck you as really important?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Well, you know, our efforts were divided, and there was a lot of "need to know" approach to the way we did business. And so those of us who were doing little portions of the effort were not usually aware of the full impact of the product that we were producing, at least in the part we were wor--I was working in. This was a big assembly line effort, truly. You know, several wings full of people, wings being large, long rooms, which you've seen pictures of, with tables. I mean, there were very little desks, there were very little front office, private offices. There were a few, but most of the work was being done in an almost assembly line sort of way. And the feedback was minimal in terms of specific accomplishments. Now there were times, you know, when something was--when a totally new system was broken into the--that information would be shared and there'd be great pleasure...</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Anything that I haven't asked you that you'd like to talk about?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>That you should've? [laughs]</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>That's right, that I should've or that I didn't or that, you know, you think is important...</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>No, I think the important thing was that the women who gathered together in our world worked very hard. And all of them had--none of us had an attitude of having to succeed or outdo one another, except in trivial ways; I mean, you wanted to be the first to solve a particular problem, or you wanted to be the first to get this recovery. But there was very little competition for, you know, for money, or anything of that nature, because everybody really assumed that when the war was over we would be leaving. I shouldn't say everybody; there were some people who had been there before and had careers, but the majority of the people considered it a temporary way of life.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>A temporary way of life...With a purpose, though?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>[laughs] Well yes, with a purpose, of course.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Alright, I think that-- MALE VOICE: I'm just curious. When they found out that the war was over, you were the first to know, right?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>I think we might have been. MALE VOICE: So you went to celebrate...Did people believe you? Was it--?</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>No, no, no. They announced it you see. MALE VOICE: Oh, they announced it.</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>We were not allowed to leave 'til the announcement. MALE VOICE: [laughter] I gotcha.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>That must have been quite a feeling, you know, to be sitting there saying, "I know the war ended, and I can't say anything until later."</p>
+               </sp>
+               <sp>
+                  <speaker>Ann Caracristi</speaker>
+                  <p>Well, you know, it was very close to ending. It was just having--knowing the specific moment at which the deal was done.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Yeah. That's neat, alright... Interview with Ann Caracristi ends Veterans History Project Interviewer: Leslie Sewell Subject: Jack Ingram</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Start off. Tell me your name, spell your name, and tell me your title.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>It's Jack Ingram. I-N-G- R-A-M. Curator of the National Cryptologic Museum.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay, great. I'd like to start off with you telling me the story about Ann [Caracristi], about what would happen if you were on a desert island. And so just tell me that--</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Okay. And do you want me to mention Solomon Kullback as well?</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Just mention--just say, you know, her boss or whatever, or the head of...yeah, okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Well I was sitting in a lecture one day, with Ann Caracristi and another former agency senior giving a presentation, and a question was asked of, "How good was Ann Caracristi as a cryptanalyst?" And the other person answered that during the war he had hypothetically asked a friend if he was on a desert island, in the middle of the Pacific, and only one broken message could get him home, who would he want to try to break that message. And right away he said, "Ann Caracristi would be the one to break that message for me."</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay. And she was one of a number of women who worked during World War II as a code breaker or cryptanalyst. Can you talk to me about the contributions that women made during that period?</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>In the Se--Prior to the Second World War and during the Second World War, women made a major impact in the American ability--in breaking into Axis systems and also helping to disseminate the information. Women filled positions by the hundreds at first and then thousands during the war, both with the Army and the Navy. From the most highly technical positions of cryptanalytic work, machine systems, to typing up the product and sending it out... They did just about everything. But they worked--if they were in the military, they worked shift work, which was very detrimental to their health quite often. The civilian counterparts didn't really have that problem because they worked like a regular civilian did--make you take vacations, so... But the women on both the military and civilian side just played a major role in the ability to break, analyze, and distribute the information from the Axis cipher systems.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay. Can you tell me something about the breaking of the code Purple, and what code Purple was, and sort of a little bit about that story?</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Sure. In the late 1930s the Signal Intelligence Service of the Army began looking at a system that they code-named Purple. It was a Japanese diplomatic cipher machine that the Japanese called their Secret Typewriter B. Well the Army put code colors on systems, and the one before that had been the Red Machine, so they just called this one the Purple. And it was a different system altogether than they had been looking at under the Type B, or Red Machine. And it became the highest priority for the Army's Signal Intelligence Service to break. William Friedman, the head of the Service, really was a-- [Sound of voices in the background, growing increasingly louder]</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Wait, wait, wait, wait. Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>[Looking somewhere off camera] Oh, people are coming.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Could you just ask people to be quiet?</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Where are they? [Looks off camera] Oh, it's Vera. She's another World War II; she helps out in the library.</p>
+               </sp>
+               <sp>
+                  <speaker>Unidentified Male</speaker>
+                  <p>Yeah, we'll start that question again.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Oh okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>On the Purple?</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Purple?</p>
+               </sp>
+               <sp>
+                  <speaker>Unidentified Male</speaker>
+                  <p>Do you want the Purple or the whole thing?</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Oh really? Okay, alright.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Gee, I might not be able to give as good an answer as...</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay, okay. Alright, well let's take it from the top again.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>[Looking off camera] Do we--maybe we should get Jennifer _____? to--or somebody in a position where...</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Yeah, just tell people to speak quietly.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>We've been meaning to get signs made and we keep forgettin'.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>That woman who just walked out, she--her husband just passed away. He worked at Bletchley Park [location of the United Kingdom's main code breaking establishment during World War II] and he was British--brilliant. [Camera cut, as if it was turned off and then turned on again]</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Actually, I'm just going to start with the code Purple stuff; I think the other stuff will be okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Yeah, it's okay. It's okay; it'll work, it'll work okay. Alright, so you were telling--tell me about code Purple, and how important it was, and how it was broken.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Okay. The Japanese had a diplomatic cipher system they introduced in 1938 that the Army Signal Intelligence Service called Purple; the Japanese called it Secret Typewriter B. It was a very difficult system, and the Army's main emphasis from 1938 until it was broken a year and a half later was to break this system. And William Friedman, the head of the Service, was under immense pressure from his superiors to get into this system, as tensions grew with the imperial Japanese government. It was a completely different cipher system than they were used to seeing, and they didn't really know how it was wor--being encrypted. They knew it didn't use the rotor, but they didn't know what it was using. And after just about a year and half a young woman named Genevieve Grotian, working for Frank Rowlett, who was the head of the diplomatic cipher section, made a break into Purple. And she was studying at her desk and got real still, real quiet. And Mr. Rowlett noticed something a little different over there, so he walked over and asked Genevieve if there was a problem. And she said, "No sir. I think I've made a break into Purple." So within a matter of a minute the whole office was in an uproar over this. And Mr. Friedman came rushing out of his office to see what was going on, and Rowlett said, "Genevieve has broken into Purple." And he [Friedman] looked over at the desk and said, "Very good. Carry on. I'm going to make a phone call." And so from that they developed an analog machine to break the system. It was given the cover name of Magic, because Friedman said these people were his magicians. And from September 1940 'til the end of World War II, building on what Genevieve had found, and Rowlett and Leo Rosen [cryptanalyst who worked with Frank Rowlett at the Signal Intelligence Service] built, we broke virtually every intercepted message from Purple.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay. And talk to me a little bit about the Enigma machine, which is sitting right behind you.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Okay. The Enigma machine was introduced as a commercial encryption machine in the 1920s in Germany. And in the late 1920s the military began buying them. It used what at the time was a state-of-the-art system, called a rotor, which some people refer to as a hockey puck. It's just a disk, hard-wired inside, for the Germans, that could--would turn in a machine and scramble your letter. It had a typewriter board, and then it had a circuitry in it that went to a light bulb, actually a little flashlight light bulb. And when you'd type on a letter the rotor would turn and scramble the message. And they would gang up more than one rotor; some machines had three, some had four. So every time you typed a wheel moved and scrambled it differently. And the number of possibilities on one of these machines, and this is in pre-computer era, was three times ten to the hundred and fourteenth power for a three-rotor machine. Now, the Germans were mesmerized by that number; they changed their settings or key every day. And they relied on this machine throughout the 1930s and up through the Second World War for military communications, also for government communications, they shared them with their allies somewhat, and had complete trust that this machine was unbreakable; that even if they lost one, which you always know you're gonna lose a machine, when you change that key, nobody could break it again. And that's still what--that's the way the cryptographer looks at it. You make it so hard, so many possibilities of setting the system up every time, that without that key you can't break it. And the Germans had no idea 'til about thirty years after the war that it had actually been broken.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>When was it actually broken?</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Enigma was broken slowly throughout the 1930s in Poland, with the help of a German traitor by the name of Hans Thilo Schmidt, who sold information to the Polish Army about Enigma. So much that they were able to build their own machines. They very, very methodically looked at what he gave them, and then analyzed it and figured out how these rotors, that were in use at that time, had to be wired to produce what they were seeing, because he was giving 'em decrypted messages as well as schematics of the machine and everything. So they began breaking the system. And they knew their country was going to be attacked and that they couldn't hold out, so they gave all this to the British and the French in the summer of 1939. So it was not broken, truly, through cryptanalytic attack. It was broken with the help of a traitor. But Great Britain took all this to their main headquarters for breaking into enemy ciphers, which was Bletchley Park, and put their brilliant team on and begin breaking into the Enigma. And [they] developed a machine that they called the Bombe, B-O-M-B-E, which was an early, I would say early computer without real memory; it only could remember what it was doing at the time to break into an Enigma key. And so it began breaking it. And around the early part of the war they began having some success. When the United States entered the war the Germans had added a fourth wheel to their submarine Enigma, so the United States Navy, in partner with the British--we developed the American cryptanalytic Bombe, which would solve that four-rotor Enigma. I might add that those are--the four-rotor cryptanalytic Bombe is the machine that was run by the WAVES [Women Accepted for Volunteer Emergency Service] here in Washington, around the clock, seven days a week, pumping out the Enigma messages from--mostly from the German submarine fleet.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Good. And that brings me--I wanted to ask you--so, if you can describe, a little bit more, the work that they actually did. They--I heard Arlington Hall was described as the world's largest message center.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Is, you know--Can you sort of paint a picture of what--</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>For the Navy?</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Let me think a minute...</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>They were all sitting at tables and they would get these mess--</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Okay. Well, at Nebraska Avenue, there--when the Bombes began coming online there were over--there were a hundred twenty ___? Bombes used at Nebraska Avenue, and they had 'em in three large rooms they called Bombe decks. And these would be four machines to a section; each one had two WAVES working it, with a WAVE supervisor normally. And they would get an Enigma message, and they would set these four machines, sometimes less, but usually four machines, on a program that came to them from another area; they didn't know where it was coming from. They really were not sure what the machine was doing; it was so compartmented. They would then take the program and set up the machine and turn it on. And this machine, or machines, would do a brute force attack on all these possible settings from the program. The program came from what they called cribs, which is you know your target, so they knew pretty well what some of that message said. So that would be used to program the Bombe. And in the early part of the day they may take up to two hours to break one key. But by midday, when they were getting a lot of good cribs and they had broken more and more messages back, in a matter of ten to fifteen minutes the Bombe, run by these WAVES, was breaking into the Enigma key. That would then be translated and sent back to the fleet. Second tape ends Third tape begins</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay, so we were talking about the women at Nebraska Avenue, and just describe to me what it was like out there.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Okay. The WAVES that worked in the cryptanalytic end of the business for the Navy at the Nebraska Avenue--Let me start that over.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay. Okay. [faint laughter in background] We edit this, so--</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Yeah, but, still... [looks off camera] Who was that laughing? Is that in Morrison's office? [to someone off screen] Tell 'em that they have to keep it down, will you Rick? [back to camera] He's another World War II guy, John Morrison. During the Second World War at the Naval Annex, Nebraska Avenue, Washington D.C., thousands of young women, civilians and military, known as WAVES, did cryptanalytic work and other skilled positions to help break into the Axis systems. The largest contingent were the young WAVES that worked in three rooms known as Bombe decks that were filled with our cryptanalytic Bombe, used to solve the Enigma keys; these ran around the clock. Four Bombes per section--[coughs] I'm sorry. [more coughing] I'm going to need some water. [to someone off camera] Hey Rick, there's a cup on my desk, would you put some cold water in it. I don't know where that came from. Do you want me to start that over?</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>That's okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Where do you want me to--</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>No, just pick it up where you were.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Alright. Let me get a drink of water.</p>
+               </sp>
+               <sp>
+                  <speaker>Unidentified Male</speaker>
+                  <p>Do you want to just stop this? [Camera turned off, then turned back on]</p>
+               </sp>
+               <sp>
+                  <speaker>Unidentified Male</speaker>
+                  <p>I know. It's not--</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay. Take four. [laughs] The Navy Annex. Okay. Nebraska Avenue.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>During the Second World War, the Naval Security Annex in Washington D.C., Nebraska Avenue, thousands of young women, either civilians or actually in the Navy as WAVES, worked in the cryptanalytic end of breaking Enigma, machine translation...That's wrong. Let's start over. I'm trying to think too much. Let me start over. Okay. During the Second World War, at the Naval Annex Station, Nebraska Avenue, Washington D.C., young women that joined the WAVES or came to work for the Navy as civilians, worked to break the Japanese and German codes. Many of these women worked on what we call the cryptanalytic Bombe. They were a hundred and twenty machines, in three rooms known as Bombe decks; they ran around the clock, seven days a week. There would be four machines per section with two WAVES per machine, with a supervisor. And these machines would be sent programs from a separate area, and the young women would then set the machine one message at a time to try to break the key or setting for that Enigma message. Early in the day, when they were just starting to get the programs in, it would take up to an hour or two to break one key. By midday they were breaking them [in] ten to fifteen minutes. Now the women would set the machines up, turn 'em on, get the product, and then, when it was finished, this would go to another area for translation, and then back to the ships. The women were not told in detail what they were doing; they were just told that what they were doing was very important to the war effort, was saving lives and helping win the war. As a matter of fact, there was one point when the women's morale seemed to be down a little bit from working shift work and all kinds of--not getting leave...And they decided to have an officer come in and call 'em together and tell 'em, not exactly what they were doing, but just how it important it was. And this really helped the women get pumped up, and they weren't quite as depressed. But they were just like the men; they had to work shift, they had to sleep under terrible conditions while noise was going on during the day. And they just weren't getting the leave and all the niceties they were used to in civilian life. But they did wonderful work in breaking the--especially their Nebraska Avenue work against those submarine codes that were critical to breaking for the Battle of the Atlantic. And then the young civilian women that worked there, although their conditions were a little better because they weren't in barracks, they had smaller sections and rooms... They did wonderful work, like transcribing messages, sending messages, formatting messages. They also did cryptanalytic work breaking codes--as well as some of the women in the WAVES; it was like hand in glove and together, but you had two different groups. They--most of them left when the war was over and went back to civilian life. Some of them came back later on and came into the business, worked actually at NSA. But somewhere around twenty-five percent eventually ended up working as civilians after the war. So really what happened in World War II--you had thousands of women, Army and Navy, coming in to work in this field of cryptology, and it was really the first time that many women were brought into a really meaningful position of great technical importance. And then many of them were able to stay in and have very, very rewarding careers.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Good. How important was secrecy during that time, and how difficult was it for people to maintain secrecy?</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>During the Second World War--Let me start over. Prior to the Second World War the United States didn't have a real system of secret and top-secret...we more or less got that from the British. But when they looked at people like these young women to come to work in this cryptologic end of the war, they looked for character and loyalty, as well as intelligence. So they wanted young women of good character, whatever that means. And nobody was really told more than they had to know--it was on a "need to know" basis of what their job was all about. But they were all--men and women were also told when they were given their in-briefing that what they were working on was critical to the war effort, it was secret, they were not to discuss it, and if they were found to be doing so they would be shot. And they took that to heart. And it was the best secret of World War II. The women, and the men, knew that when they weren't on duty they weren't to talk about what their work was, and when they weren't at the duty station... And they just didn't do it. They were embedded with security, and they just lived it. And a matter of fact, thirty years later when this became declassified and books began coming out on it, many of these people were so stunned; they still wouldn't talk about it. Just really engrained into them... It was the best secret of World War II.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Right, okay. Let me just ask you if you could repeat again for me our initial story that you told me about Ann.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Okay, sure. Yeah, that's a great story. So I recall one day hearing Ann Caracristi and another senior from the agency, retired, as she was at the time, giving a lecture, to a very senior audience. And they were talking about their time in World War II together. And one of the questions was to Ann's then supervisor, Solomon Kullback, and the question was, "Mr. Kullback, Dr. Kullback, how good was Ann Caracristi as a cryptanalyst?" And Dr. Kullback didn't bat an eye. He said, "During the war I asked a friend if he was caught on a deserted island in the middle of the Pacific and only a broken code message would allow him to be"--Let me start over, I messed that all up. [mumbling] Let me start over. I'm rambling on that...</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay. Start over.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Okay. I sat in on a lecture by Ann Caracristi and Dr. Solomon Kullback, who she had worked for during the Second World War, and this was a question and answer period. One of the people in the audience asked Dr. Kullback how good Ann Caracristi was as a cryptanalyst. And Dr. Kullback said that during the war he had asked a friend that if he had been isolated on a desert island and only one person could break a code message that would get him rescued, but only one person, who would he want to break that message. And he [the friend], without batting an eye, said, "Ann Caracristi would be my choice." So that's how good Ann Caracristi was.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Okay. Is there anything I haven't asked you about on this that you think is important in terms of--</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>The Battle of the Atlantic and all that, you think's okay that we did...How the Enigma came about...</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Yeah. Anything more about the women...</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>We talked about the women and the living conditions...Well you probably got some of that from Ann.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>If you want, I mean if you want, I could tell you a couple of stories of women that have come in here. I don't know if you can use them or not...</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Oh, okay. That would be good.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Even Wrens [W.R.N.S, Women's Royal Naval Service]-- we've had a couple of British Wrens in here.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Yeah, okay, why don't you...</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Let them tie that together.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Yeah, yeah. Tell me a couple.</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Okay. Well here at the museum, of course, we get a lot of World War II veterans and a lot of men and women that worked in the cryptologic business. And most of them will tell us the story about being told they'd be shot if they ever talked. And especially the women, that really impressed the women greatly. They said to me, "We came into Nebraska Avenue in our clean little uniforms, and we went to the chapel to get our in-briefing. And an officer stood up there, and we just knew we were going to be welcomed aboard and patted on the back. And instead he said, 'Now young women, you're in one of the most important, secret part of the war and if you're ever heard talking about what you do when not on duty you will be shot. Now go to your duty station.' " And it scared 'em to death, and they went to the duty station and never talked. Well one day I had two British Wrens come in here. And they were our WAVES counterparts, or WACs, and they told me virtually the same story: that they were told, "Go to your duty station; If you ever talk, you'll be shot." So we've had people in here, from the war, and you'll realize that maybe they worked in this, you'll say, "What did you do during World War II? Were you in this business?" "Oh I can't talk about it." Say, "Yeah, you can talk about it. It's declassified now after fifty years." "Oh no. I was told I could never talk about what I did during the war." So they were--it was engrained. I had one man run out the door one day after looking at the Enigma because he just could not handle it. He said, "It's secret, it's top-secret, it shouldn't be here," and he ran out the door. I haven't had any women run out the door, but I've had a number of them come in and tell us this--"'You'll be shot.' We knew it was important, but we just didn't know the whole picture, and really we didn't want to know the whole picture." It was so secret that the women and the men in the Navy had a patch, they called a Q patch [gestures towards upper arm, right below shoulder], it was a--it had the letter Q on it, and it was for people working in this cryptologic business. And when they would be out on the town, another sailor would see it, and say, "What's--What rating is that, a Q?" And of course they would have to make up some story. Well, when the officers found out about this they said, "Take off those Q patches. Put the Yeoman patch on. We don't need this attention." So we never saw a real Q patch until we opened the museum and a couple of people came in that had--instead of taking it off they just hung the uniform up and forgot it. So, that's how secret it was.</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>[laughs] That's a great story. Okay, well I think that's it. ...No more interference here. [Camera cuts. Now focusing on the Enigma machine with Ingram standing beside it, reaching for the keys/buttons]</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Gotta get this thing to wake up. [turns something on the machine] It was working perfect... [sound of buttons being pushed, one at a time]</p>
+               </sp>
+               <sp>
+                  <speaker>Jack Ingram</speaker>
+                  <p>Is that enough?</p>
+               </sp>
+               <sp>
+                  <speaker>Leslie Sewell</speaker>
+                  <p>Yep. That's good. [Camera cuts. Now it is zoomed in on a picture of women working at tables. Can hear conversation between Sewell and the cameraman about how to film it. This happens for multiple photos of women from the Signal Intelligence Service engaged in various activities. Can hear Ingram talking with people in the background.] Third tape ends</p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

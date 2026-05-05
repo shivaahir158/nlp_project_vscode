@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd" >
+
+<!--
+<!DOCTYPE TEI.2 SYSTEM "c:/standards/teilite/teixlite.dtd" >
+-->
+
+
+<TEI.2>
+  <teiHeader type="personal_narrative">
+    <fileDesc>
+      <titleStmt>
+	<title>Veterans Share Their Memories: Elmer Schnackenberg, May 27, 2004</title>
+	<author></author>
+	<respStmt>
+	  <resp>Encoded by</resp>
+	  <name>Matthew McCrady</name>
+	</respStmt>
+      </titleStmt>
+      <publicationStmt>
+	<idno>025333.pn0001</idno>
+      </publicationStmt>
+      <sourceDesc>
+	<bibl>
+	  <title>Veterans Share Their Memories: Elmer Schnackenberg, May 27, 2004</title>
+	  <author></author>
+	  <date>May 27, 2004</date>
+	</bibl>
+	<p/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+	<p>Encoded for the "World War II Reunion 2004" web site for the Veterans History Project.</p>
+      </projectDesc>
+      <samplingDecl>
+	<p>All items in the Elmer Schnackenberg, collection were digitized.</p>
+      </samplingDecl>
+      <editorialDecl>
+	<p>A VHP staff member or volunteer transcribed this narrative from the dictation of the veteran.  The transcription is meant to reflect minimal changes to the spoken account in an effort to communicate the veteran's experiences more accurately and clearly.</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1>
+	<p>I was a 2nd Lieutenant on a B-24. I was the co-pilot. We would take off and rendezvous at a certain height. At 10,000 feet we would have to put on our oxygen masks and then we would fly at 25,000 feet in formation. At that altitude, it was 55 below zero. All the crewman had heated flying suits. All except the pilot and the co-pilot. At 10,000 feet, we were up there eight hours at a time. Being that cold, everybody had to urinate. The B-24 was equipped with relief tubes with funnels for each position. So on our first mission, we finally had to urinate, we used the relief tubes. Right away, the ball turret gunner complained that the urine was being blown back on him and he was getting wet. More seriously, he couldn't see because it had frozen on the Plexiglas. So I came up with the idea for the next mission. We would use my metal helmet, and it froze instantly. When a person was through using it, it was ice and you would just throw it in the corner. Coming back from the mission at 10,000 feet, it began to thaw. When it completely thawed, we had a problem. So I came up with a solution. We got down to 8,000 feet, I told my bombardier, John Asbury, to open the bomb bay doors, and spill it out. He did so, but unfortunately, the back draft boomeranged the urine and gave John a urine bath! So that was the last time we used that method. From then on we waited until we got on the ground.</p>
+	<note>End of Transcript</note>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

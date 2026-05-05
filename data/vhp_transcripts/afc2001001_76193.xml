@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with Gerald Wendorf, 11/11/2010</title>
+            <author>Tavi Fraga</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Matthew McCrady</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with Gerald Wendorf</title>
+               <author>Tavi Fraga</author>
+               <date>11/11/2010</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with Gerald Wendorf was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with Gerald Wendorf [11/11/2010]</head>
+            <div2>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Good morning. Today is November 11, 2010. My name is a Tavi Fraga. I am conducting an oral history interview at the Scottish Rite Cathedral, Indianapolis, Indiana, with Gerald Wendorf.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Sir, please state your name, and the city and state of your residence for the record.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>I'm Gerald Wendorf. I live in Carmel, Indiana.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Thank you. Where and when were you born?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>In Wilton, Wisconsin, on December 17th, 1924.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>What did your parents do for a living?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>My father owned and operated a garage.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>A mechanic's garage?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Yes. My mother was a housewife.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>How many siblings do you have?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Well, I had three brothers. They are all dead.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>No sisters?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>No sisters.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>What were you doing before you entered the military?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>I graduated from high school in 1942. I took a job immediately after graduation in a defense industry, and because of my employment I received two six-month deferments. All the males in my class of '42 were drafted immediately. And I would have, too, had I not received those deferments. At the end of my second deferment, well, I was getting a little nervous, all my friends were gone, and I joined the Navy. Sometime -- I'm not as good on dates now as I used to be. I'll do a little guessing on dates. It was sometime in the fall of 1943 that I joined the Navy.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Okay. You sound like you're doing great to me so far. Did you have any other family members that served in the military, your dad or brothers maybe?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>I had a brother in the Coast Guard and another brother in the Navy.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Did they go before you?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>After me.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>So were you living in Wisconsin then?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Do you recall much about your first days in the service, Basic Training maybe, or --</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>I did my Boot Camp at Great Lakes, in Illinois, for that was eight weeks, still in 1943. And after the conclusion of my eight weeks of Boot Camp, I went by troop train to San Francisco, and awaited assignment to a ship. And only a few days after I arrived there, I was assigned to a ship that was being built by the Todd Steamship Company in Seattle. And I was transferred to Seattle to join that crew. And the ship was commissioned late in 1943. And the crew boarded the ship, and we went on shakedown cruise in Puget Sound. Part of the shakedown cruise was in Puget Sound. Then we transferred, by sea, of course, to Guantanamo Bay, in Cuba, to finish our shakedown cruise. After we finished the shakedown cruise, still in late '43, we went to Pearl Harbor, to await assignment. This was in late '43. But the devastation from the attack was still very evident. It was terrible. And I still remember that. Shortly after we arrived at Pearl Harbor, we were assigned to a fleet that was operating in the Aleutian Islands. At that time our Navy Intelligence reported that the Japanese. Army, a main source of their food, was seafood. And the area where the Japanese harvest the seafood was in the Kuril Islands, which are north of the Japanese mainland. The Ninth Fleet of which we were assigned to had nine destroyers and four cruisers. And we were based at Attu in the Aleutian Islands. Our mission, and the reason that we were there, was to attack the seafood industry in the Kuril Islands. And that's what we did. And we -- operating out of Attu, we would go westward to the Kuril Islands. It was about 900 miles. And depending upon the weather, if the weather was clear, we'd turn around and go home. If it was bad we went on, because we needed the bad weather to protect us from the Japanese. They had very little aircraft in that area, but they had some PT boats. And if the weather was calm enough, the PT boats would attack our fleet. Other than that, we got no resistance from the Japanese. And we would run our bombing run against the Kuril Islands, attacking the plants that processed the seafood, the cargo ships that carried it back to the mainland, the barracks where the personnel lived. There was a small airfield up there. We would attack that. There was fuel dumps that we would attack, personnel barracks, just anything that had any connection to the military. And but the seafood industry was our main target. And we made, oh, probably on an average once a month, we would go on a bombing mission. Many of these missions never materialized because of the weather. If it was too calm, we'd turn around and come home. Because the PT boats, they had a number of them. And they had a few shore batteries that they would fire at us. They didn't have any airplanes up there in that area. But if it was too calm, we would cancel the bombing run and return to base. When we went on a bombing run, which I explained in that memo that I wrote, the destroyers, and there was nine of us, would form a firing line about 5 miles offshore, and fire. Each destroyer had five 5-inch guns. And each gun fired a hundred rounds. So when you take nine ships, five guns each, with each ship firing 500 rounds, and the cruisers, they would be behind us, maybe at seven or eight miles offshore, and fire over our head. And they had bigger guns. So between the four cruisers and the nine destroyers, we really created a lot of problems for the poor guys on the islands. But that was our mission.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Did you see a lot of return fire?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>No. Very little. The main source of opposition was the PT boats, the torpedo boats. And depending on the weather, they were a non-factor.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>So were casualties kind of kept to a minimum in your unit?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Yes. Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Did you have any? Did you suffer any casualties, or -- that you can remember?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Wonderful. That's wonderful.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>We did not. It was fairly easy, because we had virtually no opposition.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Can I ask you, you said that you were operating out of -- it sounded to me like a 2?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>A-T-T-U.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>A-T-T-U.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>It's just an island in the Aleutian Islands.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>I see. I understand now. It's a place. I thought it was a boat of some sort.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>No. It's an island with a military base on it.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>And all the time that we were up there -- this is interesting. You've heard of Tokyo Rose.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>We heard her on the radio every day. She always knew what we were doing. They had spies up there all the time. They always knew what we were doing. And she'd talk about it on the radio.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>So they knew -- they knew before you would go on your bombing runs?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Well, they knew when we left port.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>They wouldn't really know what we were doing, or where we were going.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Where you were headed.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>But they would know when we left port. Oh, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Very interesting. What was your personal job?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>I was a machinist mate, which means I worked in the engine rooms.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Does that mean you fired the guns or --</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>No no. I never fired the guns. My battle station, which is where I wrote that report, was in the magazine for a -- a 40-millimeter machine gun station. I was in the magazine and supplied them with the bullets.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Okay. So I take it you were never taken Prisoner of War.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Did you receive any medals or citations?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Well, just area medals. No citations. Pacific area and the Atlantic area --</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>-- and good conduct.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>How did you stay in touch with your family?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>By letter. We could always write a letter. We always had mail. It was always censored. We couldn't say anything about our operations, or anything like that. Because our mail was always censored.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>How far behind, like if you received a letter from home, how long did it take from the time they wrote it for it to get to you?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>It would all depend. Our mail, when we were up in the Aleutians, and I'll get to that in a minute, after I left the Aleutians. When we were up there, it depended upon the weather. The mail came in by airplane from Seattle or San Francisco. And if the weather was bad and they couldn't land, then we didn't get any mail. So sometimes it would take a week, sometimes ten days.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>That's not too bad, though.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>No, it wasn't too bad. Now, because we were stationed at a permanent base, our mail was more regular than the fleet.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Okay. Okay. You sounded like you wanted to talk more about the Aleutians. And I interrupted you maybe.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>The major thing that I remember about the Aleutians, for one thing, the water is always 34 degrees. If you fall in you're dead. Your body can't stand that kind of temperature. So you didn't want to fall in. The weather was very temperamental up there. Most of the weather storms originated in northern Russia, in Siberia, and came across that area, and came right whipping through the Aleutians, and headed into Alaska. And the weather was very temperamental, lots of storms. We had bad weather. When -- because there were no docks where we could tie our ship up we had when we were in port, we would always be at anchorage. When the weather would deteriorate, and these winds were often a hundred miles an hour, the ships couldn't hold an anchor. So when the weather was bad, we went out to sea. We could survive at sea, but not in port. So we had to go out, when the weather deteriorated, we'd have to go out to sea. And nobody liked that, but we did it anyway.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Well, let me ask you a little bit more about what life was like in the military, when you -- during the war, just some basics, like: Was the food good? Did you have plenty of supplies?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Let me tell you why I joined the Navy.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>In the early months of the war, when my classmates were all gone, we would get reports back of what was going on down in the South Pacific Islands. And those Marines, they were mostly Marines, our people were mostly Marines, were living in mud, with snakes, and all kinds of reptiles. And I didn't like that at all. That's why I joined the Navy, because I always have a place to sleep, and we'd always have a place to eat. And we had good food. Not always fresh. We had a lot of canned ham, and a lot of frozen chicken. The only time we ever had any fresh, like milk, or ice cream, was when we tied up alongside of a major ship to get fuel, which we did a lot. Destroyers use a lot of fuel. And when you're in a battle area, the Navy has an 85 percent rule, which means you can't go below 85 percent of your fuel capacity. So we had to get fuel frequently. And most of the time we would get our fuel from battleships or aircraft carriers, or major ships that had big fuel capacity. And we fueled at sea all the time.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>So on those times you would get -- you'd get special treats, ice cream and --</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Well, we'd get sometimes ice cream, sometimes some milk, and maybe some potatoes and carrots, and a few things like that, that we couldn't keep on the ship.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Did you feel that you had plenty of supplies?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Oh, yeah. I think so. I mean, it wasn't always exactly what we would like, but we always had food, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>How about just your general stress level? Did you feel like you were constantly under stress, under pressure? Or were there times when the action would drop down?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>No, I don't think we had that. It was fairly calm up there. The weather was our biggest problem. But we had -- because we had very little opposition from the Japanese, why, we -- well, there was a few submarines operating up in that area, but they never really bothered us. We had lots of depths charges on board ship. And if they got near us, why, we would have a depth charge attack. And we could scare them off easily with our depth charges. So the submarines were not really a problem for us.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>What did people do to entertain themselves? Did you have like USO entertainers come in or --</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>No no?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>When we were in port, we could go ashore. Because there was an enlisted man's lounge over there where you could get some beer, and maybe a hamburger and a movie. So -- we played a lot of cards.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Okay. That was one of my questions. What did you do when you were on leave? Although, that was -- that's just being in port, right?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>We did our card playing on board ship.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>And chess. We played a lot of chess, too.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Where did you travel when you were in the service?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Where did I travel?</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Have we covered everywhere that you were?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Pearl Harbor, San Francisco, Seattle, the Aleutians. And then -- I can move on and conclude the Aleutian activity, if you're ready for it.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Absolutely.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Okay. In early 1945, my memory isn't as good as it used to be. Early 1945, I was transferred back to the States to get a new ship. And I traveled by -- by ship from Attu down to San Francisco. Then I went from train from San Francisco to Wisconsin. I had a little leave. And after the leave I was to report to Portsmouth, Virginia, for a new ship that was being built there. So I went to Portsmouth. And the new ship was the Destroyer Porter. And I -- our crew was assembled at Portsmouth. And the ship was approximately ready for occupancy when we arrived. So we boarded ship, and then we went to Guantanamo Bay for shakedown cruise. And this is still in early '45. After shakedown cruise we went to Pearl Harbor again. Pearl Harbor is very big in the Pacific for the Navy. So we went to Pearl Harbor again. We were there a few days, and we were assigned to the Third Fleet, which was the fleet that was being assembled in the South Pacific for an invasion of Japan. And we were assigned to the Third Fleet. While we were there the Franklin, which was a major aircraft carrier, was attacked by submarine, and was hit by two or more torpedos. And it was severely crippled. And we were assigned to escort the Franklin back to Pearl Harbor. And the Franklin, like I say, it was severely crippled and listing badly. And its engines had been damaged. And it could only go about 5 knots, which is pretty slow. So it took us several days to escort the Franklin from the area back to Pearl Harbor. And it was listing badly. Why, it should have sunk, it was in such bad shape. But the crew of the Franklin did a masterful job of keeping that ship afloat. And we got it back to Pearl Harbor -- I don't exactly remember the dates, but still in early 1945. Then we returned to the Third Fleet, in the Islands, off of the south shore of Japan, waiting for an invasion. While we were there, and this was in May. Harry Truman dropped the big bomb. And everybody in our ship, and I don't know about the other ships, but everybody in our ship thought that he just saved our life. No one wanted to invade Japan. It was anticipated that there would be a major opposition to an invasion. And it would be thousands of our people, as well as Japan, would have died in the invasion. So the bomb saved -- ended the war, and probably saved a lot of lives. There's a big dispute by people all the time about whether those bombs should have been dropped. But they saved thousands of lives, and it ended a war. Okay. The war's over.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Well, let me ask you a couple questions. A couple things that have struck me. One was when you talked about first arriving at Pearl Harbor, and you mentioned that the devastation was pretty severe.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Is there anything, in particular, that stands out to you about that, like anything that you observed, that you'd want to talk about?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>The sinking of the Arizona, which is there's a memorial there for the Arizona. I've been on it. Burying 1200 Navy people alive, that impressed me. That's the thing that, of all the thousands of people that died at Pearl Harbor, burying all of those people alive, and that's what happened. That's not an easy way to die.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>But it was -- the devastation was still very evident when I was there. And this was over a year later. Yeah. It was -- yeah. It was a criminal attack. That's exactly what it was.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>And then another thing, you've mentioned it a couple of times, and I'm not familiar with the term. And I'm wondering what it is that it actually means, and that is the shakedown cruise.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>A new ship has to undergo a period of testing. And that's what you're doing. You're testing the engines. You're testing the boilers. You're testing the guns. You're testing anything that needs testing. That's what it is. You make sure everything is working right. That's what happens on a shakedown cruise. It usually takes about six weeks.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Is it a fully manned?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Okay. All right. (I'm looking at the rest of the questions here.) When did you get out of the service?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Okay. After the bomb come and the Japanese surrendered, it still took awhile for the military to dissolve. So our ship was assigned to a gunnery school at Miami, Florida. And for about three or four months, we operated out of that gunnery school every week. And we would take students from the gunnery school, Navy students from the gunnery school, and take them out to sea for a week. And they would learn how to shoot the guns. And we would leave Miami on sometime on Monday. And the best part of this deal was every Wednesday night in Havana. At that time the Cubans were very friendly.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Had a few Cuban cigars?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Well, cigars and rum. They make rum. They make good rum. And it's cheap. So, anyway, Monday to Friday out to sea there, and overnight in Havana. At the end of that period, then our ship was directed to go to Green Cove Springs, Florida, which is about 30 miles inland from Jacksonville and the St. John's River. And that's where about 200 destroyers were tied up and decommissioned, and put into mothballs. That's what we did then for a couple more months. And then finally in May, of '46, April or May, May, I think, I was separated. And that ain't the end of my military. Then I went home, and I entered the University of Wisconsin at Madison that fall. And I was there for four years going to school, and I got my Bachelor of Science degree in 1950. I entered law school at Madison. And while -- and oh. I forgot to tell you. When I was separated from the Navy in 1946, I signed up into the Navy Reserve. That was a mistake. But anyway --</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Okay. I've got to ask. Why was it a mistake?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Anyway, so now I'm in the Navy Reserve, and the Korean War starts. And I wasn't thinking about the Korean War. I forgot all about that, until I got a letter from the Navy. And I was recalled. So I came back in the Navy in 1950 for a year and a half.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>And now you have a law degree?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Yeah. So while I was in the Navy, during the Korean War, I was assigned to the APD97, the USS Bristol, which was an attack personnel destroyer. And that ship was also being built at Portsmouth, Virginia. And the crew assembled there, and went on the usual shakedown cruise at Guantanamo Bay. And after the shakedown cruise, we were sent down to the Korean area. And for the next year we did patrol duty in the Korean area looking for the Korean Navy, and they didn't have any Navy. So we never ran into -- we never found them. And at the end of a year and a half, why, I was released. That ended my military service.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>There you go. And then did you practice law?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Then I got married. That ended everything.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Then you married the judge, huh?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Yeah. So, anyway, we just did our 58th anniversary, so --</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Congratulations.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>-- we still hung together pretty good.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>That's great. Well, what did you do once you -- what did you do for a living after that?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Pardon?</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>What did you do for work after that, after you were out?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>I worked for the Conrail. Or I started out for the Pennsylvania Railroad. And then, through a merger, we became the Penn Central. And then, through a bankruptcy, we became Conrail. And so I worked for them for 32 years. And I was in all kinds of departments. I was in sales, in pricing. And I ended up as a regional manager of intermodal operations. And I retired in 1985. I'm 86 years old. You didn't ask me that.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>When you went to school were you -- was your education paid for by the GI Bill, or supported?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Yeah. Oh, yes. I was the first one in my family to go to college. And without a GI Bill, I could not have gone to college. It paid my college. Oh, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Do you have any -- did you make any close friendships while you were in the Navy?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>None really that carried over, no.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Are you a member of any veterans organizations? Did you join any?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>I'm a Mason.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Are you?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>I'm a 32nd Degree Mason. I belong to American Legion. That's about all I belong to. I belong to a church.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>What church do you belong to?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Carmel Lutheran.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Okay. Here's a question. Did your military experience influence your thinking about war and about the military, in general?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>I don't like wars. Wars really don't settle anything. I'm a very strong supporter of our military people. I think it's -- yes, I think it's good and we need them. And it's good training. Most of the people that I went to the Navy with started out as young boys and came out men. That's the difference.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Have you attended any reunions, any military reunions?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>No, I never did that. I did go to one reunion. This is interesting. Green Bay, in Wisconsin, is my really home, although I haven't lived there for a long time. But, anyway, the 20th reunion, I got the usual notice. And I hadn't gone to any of the other reunions. I don't even know if they had them. I don't remember. But I decided I ought to go to that one. And I went to the 20th reunion. And, bear in mind, that my 20th -- that my reunion was the class of '42. Everyone went in the service. I went to that reunion, the 20th reunion. And my memory, of course, is -- is faulty, I suppose. It seemed to me that half of them were dead, and the other half were crippled. It was such a demoralizing experience that I never went back to another one.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>How did that make you feel, in terms of that you weren't a part of that group because of your deferments? Did you feel fortunate?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Well, I went in the Navy, for one thing. Most of these other people went into the Marines or the Army.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>And you would have, too, had you not had the deferments.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>And I would have, too, probably, if I would have got drafted, if I wouldn't have got deferred. I probably would have, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>It's an interesting thing to think about how your life might have been different.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Yeah. Oh, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>How do you feel that your experiences in the Navy affected the rest of your life?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>I don't know. I did some traveling that I wouldn't have done otherwise. That's for sure. I think I matured a little bit in the Navy, I think. I learned -- oh. I got to tell you about something that I really learned.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>We were in San Diego. Our ship had had some damage. And we went into San Diego to get it repaired. And we had been out to sea for awhile. And on the way into San Diego, I don't know if you've ever gone into the San Diego harbor by sea. But they have a very long channel, several miles long. And we were in the channel quite a while going slowly to go into the dock. And our paymaster had payday. When you're out to sea you don't get paid. Your money just goes in the books. So we're in the San Diego channel, headed into port. And we got paid. And we were going to be in San Diego a week. And I got in a crap game, in Number One Gun Tyrant, and I lost my $300 dollars.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Oh no.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>What does that teach me? I had never played crap again.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Do you and your wife have children?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>We have two, boy and a girl.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Did either one of them join the military?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>No? I guess I just ask you, if there's anything else that you want to add, anything else that you can think of that would be interesting?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Since I retired, in 1985, my retirement income today is almost the same as it was in 1985. Everything else is more. Everything else cost more except my money. But anyway, okay. We retired in 1985. And my wife, also enjoyed some of the main things that I do. We both liked to travel. We've been to Europe seven times. We've really covered Europe, western Europe, and central Europe, including Poland. And on those trips, in addition to all of the many things we've seen, we visited three Nazi death camps, Dachau, which is outside of Munich, and Auschwitz, which is Poland, and Treblinka, which is in Poland. That's scary, what they did, what those Nazis did to all the people, particularly Auschwitz, where they were killing up to a thousand people a day.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>I'll tell you, I was in the Air Force, and I was stationed in Berlin. And we visited Dachau. And the most sobering experience, at my at that point young life, I truly believe that everybody should see a concentration camp, should be there and experience.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>And Auschwitz, and I'm sure you've read about this. They had the --</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>I know.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>-- the shower room, which was really a gas chamber. And they put them in there. And everybody had to take their clothes off, and they expected the water to come out and gas came out. Killed them all. And then they carted them next door to the crematorium. And they had, in Auschwitz, they had six furnaces.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>My memory is that Dachau had the one.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Yeah, they only had one or two at the most.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>They hadn't even actually started functioning that.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>No, Dachau was really a work camp --</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>-- where was Auschwitz was a death camp.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>So, in addition to that, have you ever heard of the Elderhostel College Study Program?</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>I don't think so. WENDORF: You? THE REPORTER: (Indicating no.)</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Elderhostel is an organization. Their headquarters is in Boston. And they have college study programs at all of the major colleges throughout the United States, and some foreign countries. And it's for seniors, 55 and older. And they -- the programs usually run for a week at a time. And you go to different colleges and universities and live, in most cases, on the campus, and attend classes, and eat with the students. It's great. And we went to 40 of those programs.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Wow. So you and your wife would go to them together?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Oh yeah. Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>That's awesome. And they -- like everything else, the cost keeps going up. But probably, a general statement of these 40 that we went to, they probably averaged $500 per person, per program. So they are not cheap. But it was a good experience. And you learned things.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>And you see a lot of the country. We've been to Tupelo, Arizona, where that worked out okay, because I have a sister-in-law that lives in Phoenix. So we'd go out and visit her, and then go to an Elderhostel, and Grand Canyon, or one of those places. One of those programs, one that I really like, one of my favorites probably, we hiked the Grand Canyon, for a week.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Not because you got lost, right?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>No. No. We had -- oh, no. We had geologists as our guides. And we learned a lot about what the Grand -- everybody thinks the Colorado River made the Grand Canyon, but it didn't. Grand Canyon was created by earthquakes and volcanic action.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Huh. That's very interesting. Well, anything else?</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Anything you want to ask me, I guess. I'm all talked out.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>Yeah? Well, I'll say, I'll just, in closing, say thank you very much for your service to our country. And thank you so much for sharing your experiences today.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Well, it's not very glamorous, but that's what I did.</p>
+               </sp>
+               <sp>
+                  <speaker>Tavi Fraga</speaker>
+                  <p>I think it was quite glamorous. Very exciting. Thank you.</p>
+               </sp>
+               <sp>
+                  <speaker>Gerald Wendorf</speaker>
+                  <p>Okay. You're welcome.</p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

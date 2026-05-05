@@ -1,0 +1,397 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" 
+"http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd" >
+
+<!--
+<!DOCTYPE TEI.2 SYSTEM "../teixlite.dtd" >
+-->
+
+<TEI.2>
+  <teiHeader type="vets_interview">
+    <fileDesc>
+      <titleStmt>
+	<title>Interview with Violet Hill Gordon on March 25, 2002</title>
+      </titleStmt>
+      <publicationStmt>
+	<!-- one of (publisher distributor authority pubPlace address idno availability date p) -->
+	<distributor></distributor>
+      </publicationStmt>
+      <sourceDesc>
+	<!-- one of (listBibl biblFull bibl p) -->
+	<p></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <!-- one of (body group) -->
+    <body>
+
+      <!-- one of (eg bibl biblFull ab l lg p sp cit q label list listBibl note stage div div0 div1) -->
+      <div1 type="body">
+	<!-- one of (div2 divGen stage note listBibl list label q cit sp p lg l ab biblFull bibl eg) -->
+	<div2>
+	  <!-- one of (div3 divGen stage note listBibl list label q cit sp p lg l ab biblFull bibl eg) -->
+	  <head>Interview with Violet Hill Gordon on March 25, 2002</head>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Today is March 25, the year 2002. This interview is being conducted in Palm Coast, Florida in the private home of Mrs. Violet Hill Gordon, the veteran who will be interviewed. The interviewer, Judith Kent, is present representing the Flagler County Public Library where both she and Mrs. Gordon are volunteers and trustees.</p>
+	    <p>Testing, testing. Mrs. Gordon, would you state for the record what branch of the service you served in?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>I served in the Women's Army Corps, which originally was the Women's 
+Auxiliary Army Corps.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>In what war did you serve?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>World War II.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>And your rank?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>I was discharged as a Captain. I entered the training for the Officer Candidate class, the first one for women. That meant that I began as an enlisted person for training. At the end of the training period, which was, I believe six weeks; I earned the rank of what was then called, "The Second Commanding Officer".</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Where did you serve during your enlistment?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>My Officer Candidate Training took place in Ft. Des Moines, Iowa. At the completion of that I was assigned to Ft. Huachuca, Arizona where the first detachment of Black women were sent. There I served as the Second Commanding Officer. In other words, I was the Executive Officer. I served in that capacity until I was transferred to? until I moved with a detachment to Ft. Lewis, Washington.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>And from there?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>I served there until I received orders to report, I believe to Ft. Oglethorpe, Georgia for an overseas assignment. That involved assignment to? well; it involved going overseas to the European Theater where I served as an officer in the Six Triple Eight Central Postal Directory. [changed to 6888th Postal Battalion by Mrs. Gordon on 3/29/02] That was my assignment until I was discharged.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Let's go back now to 1942 and your enlistment. Where were you living at that time?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>In Chicago, Illinois.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Why did you join?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Well, I joined because my best friend, Mildred Osby, appeared at my house one day, all excited because she had either received information or had learned that there was going to be organized an officer? there was going to be organized really a Women's Army Corps. She wanted very much to be part of it; and, as we were very close friends she thought it would be wonderful if I also was interested and would do so.</p>
+	    <p>At that time I was working in State Civil Service; I was supervising a stenographic pool. I was not bored, but restless? kind of stuck, I guess. But I wasn't that excited about entering into anything that sounded as regimented as the Army. So I didn't pick up on it initially. She kept after me and after me and I finally said, "Well, OK." That OK involved filling out a detailed application, and then taking a series of examinations which included physical, aptitude tests, psychological tests. I think those were the three broad categories. One's selection? you had to pass those steps before you went for the final step, which was the interview.</p>
+	    <p>Those steps determined whether or not you were considered material for Officer Candidate Training. Of course there was a lot of? this was such a bold step in a way. One has to remember that at that time the Army was segregated and number two there were nurses but there were no enlisted or women officers as an official part of the Army. Of course, this would not be officially a part of the Army; it would be an Auxiliary branch of the Army. There were pros and cons, but eventually I did give in and apply.</p>
+	    <p>Then having applied I was sure that I would never pass all of this business. At that time I had completed two years of college. They were looking for? their goal was forty Negro women who would then form the officer corps that would train the subsequent enlisted women who came into the service. Their standards? their expectations and their hopes were high. They wanted forty professional women. I think that the minimum age was eighteen, and of course they preferred women who had not only the education background but also some maturity and work experience, which would be an asset in embarking on an endeavor that was experimental and had a lot riding on it.</p>
+	    <p>So, as I started to say, I really didn't expect to be selected, but in the end I was, along with my friend. She was selected first and I think they must have gotten almost to the end of their group of women because they never did reach the forty mark. I think that they had thirty-eight or thirty nine. I don't know if I was the thirty-eighth or thirty-ninth, but that is how it all began.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>So then you were inducted.</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Yes, I didn't know at that time, but there were four of us who were inducted from the Chicago area. There were more than four women selected from the Chicago area, but when I say four I am referring to four Negro women who were selected. I knew of one and she is the one that I trained with; my first assignment was as Second Officer under her. When we moved to Ft. Lewis I moved with the unit and was also second in Command in that unit.</p>
+	    <p>The induction consisted of the Army officer? we had to report and we were sworn in and then officially members of the Women's Army Auxiliary; I guess the Women's Auxiliary Army Corps is the way it went.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>And then Officer Training School? [Interviewer uses the term "boot camp" erroneously; corrected in transcript 3/30/02]</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Then off to Des Moines. Each step, [laughing] of course became more and 
+more final, like the whole application procedure, then the induction procedure, and then there we were all at the railroad station. I don't remember actually what the total number of women that went from Chicago, but it was a sizeable group. We went by train from Chicago to Des Moines (Ft. Des Moines) and that is where the official training began.</p>
+	    <p>I remember [pause] well, I had never been at an Army camp; I don't think that any of us had. Ft. Des Moines is an old, established camp. Of course, there had not been women there before so they had to set up and establish housing and facilities for women.I do remember writing a letter home because officially we were dubbed (quotation marks) "The Third Platoon" referring to the platoon of women who were being trained as officers. We were housed in a separate barracks, well, an Army barracks: one long building. We all slept in this one long room with the cots, footlockers and all of the Army 
+paraphernalia. [laughing]  That first morning when I woke up it was quite a shock to look around and see? not everybody arrived at the same time? but to see myself among what ever the number was (let's say twenty or twenty-five) in this barracks.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>These are all African American women?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Right. You have to remember that this was all before Truman truly 
+desegregated the services.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Was it physically very rigorous, the training?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>It seemed rigorous then, but from what I know about the Army now? 
+[laughing] it was rigorous for us, but it couldn't compare with what the training is now. We had to? we had a regular scholastic thing, like map reading; what else did we have in the scholastic line? I guess map reading stands out because I found it quite difficult. The other things involved physical activity: the marching, the drilling, learning the 
+commands. Moving emotionally from the civilian attitude and point of view into the military point of view [pause] moving from a kind of freedom into a regimented in six weeks? I think that was probably the most demanding part of it all.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Do you recall your instructors?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Not really. I don't recall? I know it was done by? it wasn't done by 
+women, it was done by male officers and like corporals and sergeants.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>What helped you get through that period?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>It helped that we were young! [laughing] I think that the thing that really sustained and enabled all of us was that underneath the adventurous aspect of it was a sense of duty; it was our country, that we were at war and that there was a purpose to all of this.  So, that there was excitement and fatigue. [laughing] In the beginning it was 
+mostly fatigue because it was: up at the crack of dawn and a day that just continued at such a pace until taps at night you were just exhausted. So that is why the fact that we were all in our early twenties (the youngest person in our group from Chicago, Sarah was only about nineteen) so, all of that helped. It was the feeling, the sustaining feeling was 
+that we were doing something purposeful and had value to it.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>It was worth the effort?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Yes.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>After Officer Training School you said that you moved on? [interviewer used the term "boot camp" erroneously; corrected in the transcript 3/30/02]</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>After we had successfully met the requirements and received? I guess we 
+got gold bars, indicating that we were what within the Army was call Second Lieutenants and in the Auxiliary was Second Commanding Officer. And, they gave us a furlough, [laughing] which meant that we could go home for ten days, show off these uniforms, beadmired, and taken care of by all of our families and await our orders. We didn't know when we went home? we knew that there would be an assignment but we didn't know where or anything like that. So, that was the reward for that training period. Then we received orders to report back to? we must have reported back to Ft. Des Moines and from there the Company was formed: the Thirty-Second Company.</p>
+	    <p>There were two Companies that were sent out to Ft. Huachuca, the Thirty Second and the Thirty-Third with a commanding officer and two additional officers (the commanding officer and one 
+to serve as executive or administrative officer and the third the supply officer). So, there were six officers, two companies of women? I'm trying to think of the exact number of women in each company [pause] it must have been between a hundred fifty and two hundred women.Ft. Huachuca is an old camp like Ft. Des Moines, an old, established fort. Just as we were being sent out to Huachuca, military regiments of men were being sent there also; the Ninety Second Division was stationed there. Ft. Huachuca is near [pause] I'm 
+trying to remember? Phoenix? I'm trying to think of the other large city. It is in that area. The memorable thing about that dispachment, being sent to Ft. Huachuca, was really the arrival! I don't think I'll ever forget that.</p>
+	    <p>As the troop train took us to the boundaries of the camp. Of course the male units that were already there knew that we were coming. There was a lot of controversy about women in the Service? a lot of rumors, most of them not really very complimentary. The curiosity, of course impelled as many of the enlisted men that were available and free to view this arrival; to come out and meet this so called "Women's Army". It was a little frightening in one sense in that we were like engulfed and surrounded by all these men. But fortunately, the Army is usually prepared for most things, so the enlisted male units were not there without officers who made sure that some kind of decorum and order was maintained. As we embarked from the train and the companies were formed, we then marched the units into our quarters.They had set up a whole area for the women so that we had our own headquarters building, our own barracks, officer's quarters, mess hall, and the whole shebang. We were really a self-sustained unit and that is the way we operated for the period of time that we were there.</p>
+	    <p>A certain portion of the women [were] being assigned for training. You had to have cooks, you had to have pastry chefs, and you had to have motor pool people and all of that. So the initial phase was to see that our women were trained to take over. The basic idea in all of this is that women were to replace and release the male soldiers so that they could be sent overseas or dispatched someplace else. Our initial stay at Huachuca really involved a training period for the women in the various areas that were needed to function properly.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>So, what would a typical day have been like for you?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>It was falling out at six o'clock in the morning, [laughing] assembling all of the? I think I was in the 32nd Company? so the Commanding Officer and the two additional officers? in other words, the three officers fell out at reveille, roll call was taken, then if there were? whoever was not present, it meant following up to see what the problem was. Why were they not there? Determining how many women needed to go on sick call? really needed to go on sick call [laughing] and were not just sleeping late.</p>
+	    <p>That was the first? that is the beginning of your day, getting the troops together and organized. After that they fall out they go back to their barracks and prepare then for mess. Everyone reports for breakfast. Following that, assignment of the women to their various duties, whether it is to go to whatever training assignment they had? to follow through on that, which would usually take care of the morning (some in the morning and some in the afternoon). That was the way that the morning went until lunchtime. After lunch there was always a period of relaxation.</p>
+	    <p>In the afternoons would vary, there were plans? not plans, there were opportunities for recreation: basketball,baseball, trips, that kind of thing would take you through the afternoons. Then, whatever regimental duties that were passed on to us by the Post Commander for us to participate in and for the units to participate in? pretty much that kind of routine. It was like going to school and always there was the morale factor. This was for many their first time away from home. It as certainly for everybody a novel and an unusual experience in terms of group living. You do some of it in college, [laughing] but not to the extent that took place there! Then, of course, always there was the interaction between the male troops and the female troops, finding a level where there could be enjoyment without too many disciplinary problems. That is pretty much the way it went.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Were you awarded any medals or special citations during your time?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>The citations that I have are the ones that were given I think to us in general for service in the American Theater and the European Theater.  I know it is on my discharge paper. I have to confess that I really do not know where they are. [laughing] There is a discharge/service award for everyone who fulfilled their assignment. I did nothing that warranted any kind of special badge or award.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>You spoke about morale; I know that family is a big part of that. How did you stay in touch with your family?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Primarily through letters, rather than telephone calls. Now, of course 
+telephoning is like? we use the telephone more than we use the pen. Then it was 
+basically pen. It never became dull; there was always some adventure around the corner. There was always the anticipation of? after all Ft. Huachuca is between Arizona and California and the Rocky Mountains. I remember the Christmas on which I looked out and we had decorated a pine tree out in the center of the barracks area, and the sun? I had come to Arizona from Chicago? I watched the needles as they turned brown and fell to the ground [laughing]. It was very weird! The other physical experience like that which was more alarming was really a sand storm, which I had never experienced. Experienced? I was unaware of sandstorms! It is unbelievable the way the sand just gets into everything. The wind and the sand? it was rather frightening. That is an aside in a 
+way, but my point is that the communication kind of took care of itself in that there was always something that was new that it seemed important to communicate to friends and to family members.</p>
+	    <p>Going back to the initial involvement, for example: the supplies and the uniforms. I guess that you could compare it to your parents getting you ready for school. Only again, here you are surrounded by a whole score of women. The Army, of course, outfitted us from the skin on out: underwear, stockings, the shirts, the skirts, the pants, jackets, and caps. Then when we were going to the cold weather areas, ski pants, boots. There you were always struggling to get something that really fit you properly. [laughing] So that's what I mean when I said there was always something to communicate. The Army naturally makes provisions for furloughs and leaves. They also provide opportunities for you to take courses that might have nothing whatsoever to do with the service, but just maybe to follow something that you are particularly interested 
+in. So that behind all this there is an awareness of the way people function and what they need in order to function well.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>How about the food? Do you remember anything special about the food?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>[laughing] Pretty terrible! Remember, though the Army trains the ? there is a Mess Officer and enlisted personnel that are under the Mess Officer. These people are trained, but this is cooking on a larger scale. So, there is always griping in Army mess, always. I guess it really wasn't that terrible, it just wasn't your mother's cooking. I think that is what it amounted to.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Did you have ample supplies that you needed?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>[nods, affirmatively] I don't ever remember? there probably was at times a delay in getting some item that you needed because they did not have a particular size or something like that. I remember how excited I was when I realized that the Army was supplying a Bali bra, which is what I had worn as a civilian. [Laughing] Although there was? I have forgotten now who the designer was for the WAC uniforms. A close friend of mine went into the Navy. Their uniforms were? both had a name designer. Her reason for going into the Navy? for selecting the Navy over the Army was that the Navy uniforms were much more chic.  She just couldn't imagine herself in all that kaki.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>What was your motivation for choosing the Army rather than the Navy?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>At that time the Navy wasn't ? The Army was the first. The WACs were 
+first and I think that the Marine Corps may have been next, then the Navy.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>What would you say was the most stressful aspect of?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Of the experience? [pause] Two things. One in Ft. Huachuca, when we 
+realized (or when it was brought to our attention by one of the sergeants) that there was lesbian activity in one of the barracks. We had not been given any special directive in terms of how to handle something like this. So, it was a question of trying this and trying that. Basically, as I recall the Commanding Officer did not ignore it, talked directly with the women who had been singled out (or whose names had been given) and there was some reshuffling in terms of the barrack assignments. No one was discharged or given any negative marks. I think that we were probably lucky in the sense that it was called to the officer's attention early, so that there was awareness on both sides. I don't know that it completely stopped, but it was not flagrant enough that it was disturbing to the other women in the barracks. That was the first disciplinary problem that was troubling.</p>
+	    <p>The second had to do with the assignment overseas. First we were in England, 
+then we moved from England to Rouen, France. When we were in Rouen, I just recall that it was? the area in which we were housed was an old, not a castle, it was more like a fort.  It was a larger area surrounded by an eight-footwall. The German prisoners of war were housed in one part and they were the ones who worked on the grounds and all of that. The part that was difficult was that it was cold! It was winter, so you expect it to be cold, but the heating was inadequate, the hot water was insufficient, the barracks were 
+cold. We were working like around the clock? three shifts? because we were handling mail that had been piled up waiting for this Postal Unit to come and handle this mail. It was like a factory, which was all right except that if we could have been more comfortable. It was just? I can almost feel that dampness and dankness of the whole thing. There it was a physical thing.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Let's pause here for a minute.</p>
+	    <p>Were there entertainers that came?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Yes there were, but I guess that the only one that stands out in my mind really is Cab Calloway, for some reason. He must have been with the USO and sent overseas. That is the one name person that I remember. Both in Birmingham, England? that is where we were for the first part of the ETO [European Theater of Operations] for the first part of the assignment overseas? this has nothing to do with entertainers? but the towns people in Birmingham particularly were so warm and receiving. When we had free time and went into town. One of the things that I remember is that? I love music? and the churches would have twelve o'clock or one o'clock concerts. If you had free time 
+on that particular day you could go into town to the concerts. That was just like a wonderful reward. And of course we had free time to travel.</p>
+	    <p>I remember going down to Biarritz? what part is that? [pause] I think that is Spain. It was called The University of Biarritz. I went for two weeks and studied photography. [laughing] And then there were recreational activities for the troops. Growing up when I was in high school I did track and played sports, basketball and stuff like that. We had a basketball team and the team 
+traveled to various parts and had like tournaments and stuff like that. [laughing] Always I think when we were out on the edge in terms of, "I don't think I can do much more." something like this would become available. And the townspeople were really very supportive. Then of course in Rouen, the damage was more prevalent and visible.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>From the bombing primarily?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Yes. I mean, like in England, in Birmingham, for example it was? I guess it is part of the English character? they cleaned up as much as they could as soon as it happened. In Rouen you were just always aware of it. I think also that the prisoners of war made you constantly aware of the War; it was ever present. And the cathedral at Rouen? that is Joan of Arc? that beautiful cathedral which was damaged. Two years ago we were in Paris. We took a train down through Rouen. I really wanted to see if I could find the area where we had been stationed. I didn't do it right; I should have planned all this in advance, but I didn't and we only had that one-day. The only part of it that I really got to explore was the cathedral; it was something to see the 
+restoration.  I think that I wandered off of what you asked me.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>That's fine. Was there anything particularly humorous or funny that you recall during that time? I know that it was a serious time, but?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>I really don't recall anything funny.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>No pranks in the barracks?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>No, I'm sure there must have been. I'm sure there must have been, but I 
+can't get away from this mental picture I have particularly in Rouen of our leaving the work area and moving to our quarters and our being all bundled up, and walking as fast as we could to get to our quarters (which were not that much warmer than the outside). I'm sure there must have been many funny things, but they have escaped me, interestingly enough.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Did you keep a diary at all?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>No, I am not a diary person at all. About four years ago one of the officers that I served with, the head of our unit of the whole 6888th Battalion? the officer was Charity Adams, who just died about a month ago. Her second in command of the Battalion was Campbell, Noel Abby Campbell. We had trained together in Ft. Des Moines, the tree of us. She was from Tuskegee, and Tuskegee was one of the schools? one of the Black universities? historic universities that I had never seen. I had never seen the campus. A friend's granddaughter was graduating so I went to Tuskegee to her graduation. Campbell, the second in command of the Battalion, Tuskegee was her home; she was born and grew up there. We arranged to meet at that time. I'm trying to think 
+now, why did I start on that? You asked me about a diary. She said that when she was discharged from the service and returned home (her brother had also served in the Army) her father said, "Sit down and write your experiences from the beginning to the end!" which she did.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Good for her.</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>I don't know why she didn't publish them because Charity Adams who was 
+the highest ranking did; she published hers in a book. Abby said that she was so grateful to her father for insisting that she do that. There were several who did memoirs. I regret it now that I look back on it, but just as there were several in our class and many among the enlisted who decided to stay in the service and completed tours of duty, like fifteen and twenty years. It never occurred to me. I saw the whole experience as? it was an experience within a period of time which provided invaluable, invaluable opportunities: my first plane ride, first ride in a Pullman car, my first across from coast to coast, those kinds of things. I am very grateful, very appreciative, but I had no desire whatsoever; I wanted to move on to the next phase.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Do you remember when the war ended, where you were?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Um, yeah. I was preparing really to return home. I think I remember more vividly Roosevelt's death and the feeling of the terrible, terrible sadness at his death. When we were in London many times during the period when we were over there? we knew what it was like to hear the warnings and ?</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Sirens?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Sirens and bombs. [pause] It had an impact; there is no doubt about that.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>So you applied to end your enlistment.</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Yeah, as I said in the beginning it was the Auxiliary; then after the act was passed to make this a full part of the Army we had an option at that point to leave or to stay, and I had a conflict. I remember that I wrote not only home but also to very close friends saying that I wasn't sure that I wanted to stay in. All of the advice that I got was, "Stay". [laughing] So I thought, "Well, maybe they know something that I don't know." I don't know that they knew something but they weren't as close to it as I was so therefore 
+they could be more objective. They saw that there would be more value in remaining than in leaving at that juncture. They were so right because on discharge I finished my college and graduate school on my G.I. Bill.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>What was your major?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Sociology, I went to Howard and finished college there and then went to 
+Catholic University and did graduate work in social work. That provided me with a lifetime career.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Do you think that would have happened without the G.I. Bill?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>I don't know. I was floundering at the point that I went into the Army. It was like everything? not everything? but certain things became resolved and I became focused and knew what I wanted, what I wanted to do. I wasn't sure about the occupation, but my Company Commander was a graduate social worker; many of course were teachers. But from high school and college I had been attracted to two things: one was to be a phys-ed teacher and the other was to be a librarian. [laughing] Neither of which I ended up being.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>It sounds like you had some good friends before during and after that you have continued relationships.</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Yes, there are all kinds of organizations but some how or other I have really not become involved in any of the organizations. Our Company Clerk is from St. Louis, Missouri, and when I was growing up I spent summers there. My one remaining Aunt used to live in St. Louis so I was back and forth there. So Ruby and I have maintained a relationship. My Company Commander, Irma [Wertz] who lives in Detroit and we were inducted together, but afterward she remarried and moved to Detroit and has continued to live there. She and I are in frequent communication. And then Sarah [Emmert], this is the youngest one; this is Sarah. [points to a photo] This is Irma; Irma is the one that lives in 
+Detroit? we are good buddies. Sarah now lives in Florida and she writes a newsletter and it is headed, "Third Platoon" which refers to our training right at the beginning when we were the third platoon of the company. She keeps us in touch. When the Women's Memorial was finally completed in Washington D.C.,</p>
+	    <p>I went to D.C. along with a friend, Frances (who said that she couldn't imagine herself being in the WACS and went into the Navy). She and her husband and I, we went to Washington D.C. and we went to the dedication of the memorial. They had all kinds of activities and I think it was on the final day as I was leaving one of the tents where something was going on I heard somebody say, "Violet?" I looked around and there was Sarah whom I had not seen in what, forty years? [laughing] I had no trouble what so ever recognizing her and 
+obviously she had no trouble recognizing me.</p>
+	    <p>She said, "We have been wondering where you were!" A group of them from that first officer's class and a couple from the Postal directors Overseas? a group of them were still sitting together in an area in that tent. That was really? that is the second time really that I have been with a group. Quite a few years ago, probably ten, there was a meeting; I guess it was an annual meeting of Women in the Service held in Detroit. That was the only one that I had been to. It was a big, three-day thing, one of those.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Would you say that your experience in the military enhanced your professional role afterward in social work?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Well, yeah. I doubt that I would have gone into social work if I had not had the interpersonal experience with Irma and a couple of other people who were also in the service and were moving in that direction. It drew my attention to a profession that I had really not considered up until that time. So, once having decided on that, I knew where I was headed.The other thing of value is that I had interesting group experiences in that right after high school I had worked as a clerk for A. Philip Randolph.</p>
+	    <p>I don't know if the name means anything to you, but he was the one who organized the Brotherhood of Sleeping Car Porters, the first Black labor union. He was ahead in the sense of the Martin Luther King era in that the first march on Washington was organized by him. The point of all this is that it enabled me to really see group activism and to see that there could be a role in that for me if this was something that I wanted to pursue. It really formed my political and social point of view? the association and activity and what not.</p>
+	    <p>So that I went from having gone to a high school? elementary and high school in Batavia, Illinois, which is a suburb of Chicago, a town of five thousand people. So thatI was really in development from there to the experiences that followed with the labor union movement, followed by movement into the WAC, which moved me then into both an administrative as well as a command level. It kind of enabled me to move away from a bucolic, somewhat shy, introspective person. So that I would say that the Army influence was like the final push in a very positive direction? if that answers what you asked.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Very much so. Is there anything else that you would like to add that we haven't covered?</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>[pause] I think that we have covered everything. When we went to 
+Washington to the dedication of the Women's Memorial it was such an exciting, 
+exhilarating moment! It is one thing to see two WACs. It is mind boggling to see a whole amphitheater of women representing all branches of the service  (which was not true at the time that the WAC was formed) and to see the range both in age and rank because by and large those in attendance? certainly there were the retired and the women from World War II and subsequent wars, Viet Nam and what not? but the bulk of them were women who were on active duty, in all branches of the service, representing all colors, all races, and all ranks. It was something that I would have never envisioned in 1942 was right there in front of me. It was really so exciting. The final touch was the fly over of the 
+Air Force with women pilots! [laughing] It was a great moment, a great moment!</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Well, I very much appreciate you sharing your memories with us.</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>Well, happy to do it. I hope it has meaning.</p>
+	  </sp>
+	  <sp>
+	    <speaker>KENT</speaker>
+	    <p>Very much so.</p>
+	  </sp>
+	  <sp>
+	    <speaker>GORDON</speaker>
+	    <p>OK</p>
+	  </sp>
+	  <note>END OF SIDE TWO</note>
+	</div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>
