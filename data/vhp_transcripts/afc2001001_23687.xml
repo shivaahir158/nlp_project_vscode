@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with Donald W. Mulder, 10/24/2003</title>
+            <author>Mary Martin and Susan Evonne Rodriguez [transcriber]</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Matt McCrady</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with Donald W. Mulder</title>
+               <author>Mary Martin and Susan Evonne Rodriguez [transcriber]</author>
+               <date>10/24/2003</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with Donald W. Mulder was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with Donald W. Mulder [10/24/2003]</head>
+            <div2>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Good afternoon. This is Mary Adams Martin, Rochester Minnesota. Today, October 24, 2003, I'm interviewing on audio tape Dr. Donald W. Mulder, America's Professor of Neurology, Mayo Clinic, Rochester, Minnesota. Dr. Mulder was born June 30, 1917, and now lives at 211 Second Street NW Rochester, Minnesota. Aaron Manthei, engineer at Tom Johns Recording Studios, 1620 Greenview Drive SW, Rochester, is recording the interview. This is the sixth in a series of interviews called "American War, American Medicine," prepared for the Veteran's History Project, Library of Congress. The series explores the experiences of men who served in America's wars, and then returned to work in the medical community established by Mayo Clinic in Rochester, Minnesota. In developing these medical tapes, we're becoming aware of certain characteristics that were common to most of these men as they joined the armed forces in World War II. Most of them, but not all, were physicians. They were children of the depression and they were still poor at the time of the war. They were young and recently married, and most importantly, they were in the very early stages of their formal medical training. And although they were commissioned officers and often assigned to hazardous military duty, medically speaking, they were still kids. This afternoon we'll be talking to one of the physicians who was not assigned to hazardous duty, but found himself in a position to observe the practice of medicine as it interacted with the United States military establishment. Welcome, Doctor. We're honored to have you with us this afternoon and before we get started, I need to ask you a few routine questions. First of all, what wars were you in?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>I was in World War II and then the Korean conflict.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>And in what branch of the service?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>I was in the United States Navy.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>And what was your rank at the end of your service?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>At the end of the Korean War, I was a Lieutenant.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>And in what theatre of war did you serve?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>I served both in the continental United States and in Japan and in Micronesia.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>In Micronesia, but you didn't serve in Korea itself?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>No, I was not in Korea.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Now, you said at the opening that you were in both World War II and Korea. I guess we'll have to take them one at a time. You were born June 30, 1917, so when the Japanese bombed Pearl Harbor, you were about 24 years old?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>That is correct.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Okay. So where were you on December 7th, and what were you doing?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, I was in medical school. I was a sophomore and friends had asked me for dinner at their home because it was a Sunday and we had dinner and we heard it over the TV that afternoon that the war had started. That the Japanese had dropped bombs at Pearl Harbor.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>So when World War II is declared, great pressure was put on the profession of medicine. It seemed to the public, and to me, as I remember it, that everybody's family doctor was immediately sent to war. Would you give us a picture of what was happening in the medical schools? How did that work for you?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, in the medical schools there was an immediate change. And the changes were many. One of the first was that this curriculum was altered in such a way that we went to medical school year-round. That's although previously we had had three months off every summer, now, we suddenly found ourselves going to school in the summer as well as during the rest of the year. Each nine-month period then was able to be contracted so that we were able to get finished with medical school in just under three and a half years. This was one of the first changes that occurred. The second one that occurred was that so many of the faculty left, that it became necessary for us to fill in in certain places. We had to fill in, for example, in some of the teaching of the undergraduates as time went on. More importantly, we began filling in very early into the hospitals who had lost so many of their residents. We in particular were asked to take over two hospitals in Recine, Wisconsin. The group I was with -- there were six of us who took over as senior medical students as residents in the two hospitals in Recine. We were drive to Recine in the -- in the afternoon to take over the hospital for over night because there were very few patients -- very few physicians left in Recine. All of these changes went on, and this nine months which took -- which took the place of a year schedule, was a nine-month rotation that amounted to a year, went onto our further training. We then went on, and I personally went on to a nine-month internship while I finished medical school. This was -- I was accepted -- this is accepted as a full year in my graduate training. And following this, there was the opportunity to have additional training and residencies, but was setup so that of the people that finished a nine-month internship, only a third of them were allowed to go on for an additional nine months of residency. I was able to get this residency at the University of Michigan in neurology and then of the -- of those who finished that first nine-month residency, a third of them were allowed to go on for an additional nine months. And I was able to also get that, so that -- we subsequently were able to finish our medical school training and residency by the time I was -- I was -- in 1946, at which time I had the -- accomplished both graduating from medical school and having had an internship and two years of residency.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Okay. So you -- but you also had that -- not only did you have to study, you had the job of taking care of the hospitals; right?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>I had --</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Who else helped you with the hospitals?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well --</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>The civilian hospitals, I mean.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>These were civilian hospitals. The hospital that I worked in was a Catholic hospital and we were very fortunate that the sisters were very competent people and they helped us a great deal. What we would do is we would be on call. There were four of us. Two of us would be on call every other night so that -- we would go to bed in essence with a medical textbook and when they called us from the emergency room, the sister would tell us a little of the story. We would oftentimes look it up before we went down stairs. Usually when we got downstairs to examine the patient and review the problem, we knew enough about it with the help of the sister to handle it, but oftentimes we were well over our depth. But as I mentioned, the sisters were particularly competent -- were the ones who helped us. We of course learned a great deal, but it was very difficult, and it also had us doing without sleep for great periods of time.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>So among your official papers, I read that you applied for a commission in the US Navy on March 18th, 1942, about 4 months, I guess, after Pearl Harbor. What kind of training did the Navy give you?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>The Navy actually gave us no real training. They gave us, I think, as I remember, our underwear if I remember properly, was what came, and maybe -- and I think I got shoes from them very early too. I happen to have big feet and they were very -- they're size 12 fit my feet very nicely. That's the thing I remember most clearly of that. The people on the Army side seemed to get additional training in how to salute and things of that nature. The Navy apparently didn't think that was necessary.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>So you just learned by yourself pretty much --</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Those things we learned by ourselves.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Yeah. What your official papers also indicate that you stayed 17 months at Naval Medical Hospital -- or The Naval Hospital in Bethesda. What were your primary assignments, your medical assignments there?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>My orders read when I came to Washington that I was to go there -- they apparently had a great need for psychiatrists. And although I hadn't had neurologic training, my orders read that I was to be trained in two months to be a psychiatrist. On arrival in Washington, it so happened that they really were short, at the Naval Medical Center, of neurologists. And so I worked with one of the other neurologists for a month or two, and at the end of that time, the person who was in charge of the neuropsychiatric department informed my wife, not me, that it would be a good idea if we bought a house because my orders were going to be changed, and I would be staying in Washington as a neurologist, and so that is what I did. I was -- initially, I was the -- worked with (?Dr. Lawrence Cobb?), who is a trained neurologist, and then at the end of the time, I was actually the senior neurologist on the staff there and was listed as an instructor in neurology in the National Naval Medical School.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>So what kind of patients then would be sent to Bethesda Hospital? People from the frontlines or --</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, what would happen there, they really were sort of through by the time they got to us. We saw difficult kinds of patients with whom the'd have had problems. The acute injuries, we did not see. We saw people -- some people from the Veteran's Hospital. We saw a lot of people from official Washington, particularly in consultation. We saw many very difficult kinds of problems. One of the common problems that we had for example, were the patients who had had episodes of unconsciousness which no one had been able to decipher. Fortunately, we had a very excellent electroencephalography department there, and we were able to work through some of these problems. And we tried some various ways of trying to decide which ones of these syncopal episodes were really a serious episode or which one was just a faint. And we did -- we did some things in that which were, I think quite good.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Did you -- Did you worry about ____+ in that particular setting?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>We really didn't have much trouble with ____+ as I recall. That isn't one of the vivid memories I had. That one would likely have seen those much more if they came in out of the veteran's hospitals and were from World War II or before. I saw patients even out of the Spanish-American War.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Did you really?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Yeah. I guess we all know that the Navy has its hospitals and the Army has its hospitals and so, would you -- give us an overall view of the levels of medical care within the US Navy, and then where did Bethesda Naval Hospital fit into that overall structure?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, Bethesda Naval Hospital, I think from my experience later, was the tops in the United States Navy.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>In a way it was the counterpart of the Walter Reed Army Hospital in Washington D.C --</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>That is correct.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Is that right? Yes. Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>And they -- they there had very excellent physicians as a whole. In fact, I found them to be equal -- well, I think they were superior of any group that I had worked with up to that period of time. I had worked at the University of Michigan and Milwaukee and other places, and these physicians as a whole were more competent and were more capable. They came from all parts of the country and they were selected out. Particularly the younger ones were very competent human beings; very caring, very knowledgeable.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Okay. You must have been in a position then to observe two very powerful organizations, the US Navy on one hand, and established medicine on the other. How did they get along?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>At that point and in that hospital, they got along very well. At that point in time, Dr. Craig, who had been a neurosurgeon at the Mayo Clinic, had been chief of the hospital. He was an admiral and so that had made quite a bit of difference. He apparently had run the hospital much as he would have run the -- been working in the Mayo Clinic.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Is that right?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>And they let him have that privilege.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Were there any Mayo people at Bethesda?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Yes, there were quite a few Mayo people who I knew who then later came -- some who later came, but (?Dr. Colin McCarty?) was there, (?Dr. Al Hails?) was there, and I think (?Dr. Odel?) was there at the time. (?Dr. Lawrence Cobb?) was there.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>So --</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>There are others, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Yeah. When you -- when you were at this high level of medicine in Bethesda, did you have any physicians your -- who taught you -- whose medical teaching was outstanding that you remember even all these many years ago?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, surely there were a number of people like that. One of them is ____ and (?Dr. Lawrence Cobb?) was another person who was, although he was trained as a neurologist, later became chairman of the department of psychiatry at Columbia. There was a very remarkable man who was a regular Navy officer who had come out of Mississippi and was in charge of the neuropsychiatric department whose name was Howard -- whose name was (?George Rains?) who I learned a great deal about how to deal with people. He was a class -- he was a classic person at this kind of problem.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>So would you consider your World War II experience a good medical experience?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Yes, very much. I learned a great deal. I was really very distressed that I had to break up my training. When it happened, I was very distressed. I thought that I was -- it was going to be a complete waste of time and the truth of the matter is, I learned a great deal of medicine. I learned a great deal about human nature and about people, and I learned a great deal about our own political climate in this country.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>So now you mentioned your wife and -- so your wife was with you? You were able to stay together then?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Yes, we were.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>During the 17 months in -- at Bethesda. How did that work out for you? Was your wife working as well?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Yes. My wife is a nurse, and she worked at the Bethesda Hospital and got a job there immediately when we got there so --</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>And you don't have children or you do?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>We did not have children.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>I see. Okay so there were just the two of you then?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>That's right.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>You were very lucky actually to be able to live together during your military service.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>We were very fortunate, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>So you were then discharged after 17 months. How did -- how did that work for you? What --</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, the war came to an end and they -- they came through and said that I could go, and -- but I probably shouldn't have done it because that let them have a tag on me to get me back, which I didn't quite realize. If I didn't have 24 months -- or really, I guess it was 18 months is what I should have had. But anyway, they wanted me to stay in Washington for another year, but I was so eager to get out and go on with my training, that I thought I should go.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>I see. Oh, okay. Well, Doctor, the Korean War started June 26, 1950. A little less than five years after the end of World War II. So I've got two questions for you: What were you doing between the wars, and how did you get caught up in the Korean War? You'd already paid your dues.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, what happened is that I was -- went to Colorado and was in a psychiatric training program there. Then I went on from that to become the first full-time neurologist at the University of Colorado and had a faculty appointment in the department of medicine. And in the interim I had obtained my boards in neurology. And the -- some of the -- I ran -- while I'm talking my boards actually, I ran into some of the people from the Mayo Clinic who I hadn't known before. And shortly thereafter, they apparently were looking for people, and they asked me to come to the Mayo. And so I decided at that time I obviously needed more formal training and by coming on the faculty here, I was able to continue my -- my education much better than by staying alone as I was in Colorado.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>I see.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>So that's when I came here in 1950, and I -- I spent the first two years on the staff here, and then I ran into my friend, (?Gorge Rains?) at a meeting, and he told me that I was -- would be surely be called back in because they would need me, and I came back --</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Now, was this before the Korean War had started?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>It was after the war had started.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Oh, it had started, but it started slowly, I think, didn't it? Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Yeah. And I came back and told them here at Mayo about this situation, and they said, "Oh, that would never happen." And I sort of knew that Gorge Rains was probably smarter than they were about this. I couldn't do anything about it, and then I finally got a letter from Gorge telling me that his -- my name was on his list. And he was chief at the ____ at the time, and it's true my orders came through, but he offered me a position in Korea -- in Japan. They had a head injury research project and it sounded like a reasonable thing to do. During the Korean War there were many head injuries from gunshot wounds and the poor fellas didn't die and one of the reasons was they were using low velocity bullets on the Korea -- rifles on the Korean side. So they would get shot in the head and not die. And they had so many of these and they were trying to find ways to better care for them and so they set up a program of studying of these patients, and they thought that this study would help them not only in the immediate care of the patient, but also would help in preventing epilepsy or epileptic seizures later in life and help to have the patients and preventing them from having paralysis and that it might eventually help us in our knowledge about how the brain works. So this study had been set up, and it was ongoing, and they had lost the person who was directing it, and (?Dr. Rains?) offered me that position and so that is what I did. I went then to Yokooska(ph), Japan to the Naval hospital there were the research project -- the center for the research project was. We had psychologists and neurologists and neurosurgeons involved. And we would pick up the patients from Korea right out to the hospital ship, which in those years, strangely, was anchored just off from the coastline of Korea, just off from the frontline. And so they would be within hours from being shot, be on the hospital ship, and we had a team there waiting to start taking care of them and studying them. And then they were brought to the Naval hospital in Japan that -- at Yokooska(ph) , and we would continue the studies and working with them for the next few months until we were able to get them transferred to the States for further observation.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>I see.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>So that's essentially what we did there. And we conducted these studies. We used all the newer techniques. EEG had come in in the entering year and intervening years and already was present during World War II, but was a new technique which we could use to evaluate these people. And our hope was by the use of these techniques that we would be able to improve the care and improve the prognosis of these patients and of those others in the future.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Now, did these patients have seizures, or --</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>They often had seizure and then the problem was that ____+ have had head wounds such as that, are seizures.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>I see.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>And that was what one of issues was that we were going to try to prevent.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>So that was a highlight in your -- in your career in the Korean War certainly?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>That was really what we did there and we had an addition that had an ongoing -- took over the whole neurology service, and we had a tremendous number of neuro -- of patients. What was it? It was a couple thousand bed hospital, and it had a very active, ongoing service. Big ships came in and we'd see their patients and we saw patients from the whole -- there was a large military contingent on the Island of Guam, of course.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>The public In the Korean War -- I remember there was talk about the Hospital Ship Hope. Was that -- was that part of your outfit?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, it wasn't part of my outfit, but it was what we used. Hospital Ship Hope was where the young men would be brought to.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>From the battle lines to Hope, which was anchored near the DMC; is that it?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>I see. And then they'd bring them over to Japan?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Periodically they'd take the ship and bring it into harbor, and then we'd meet it and so on. But we had a team aboard the Hospital Ship Hope with EEG and the whole thing. So I often wondered, you know, that ship was just anchored there, but nobody bombed it in those years. I guess they didn't do those things but --</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Now, so that was your first study with the US Navy?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, we -- I had done other studies with the Navy when we were in -- we were aboard -- we were in Washington D.C. We had studied some ways of trying to detect the difference between seizures and syncope, fainting, and epilepsy. And we had done some studies to distinguish what one could learn from the electroencephalogram in the study of strokes and other brain injuries, and we had had those published in the time I was there.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>I see. And then that was in about '53, '54?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, those studies we did --</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>I mean with the head injuries to the Marines.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Yeah. Head injuries, '53 and '54, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Then what did you do when that was finished?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, when that was finished, I had talked to (?Dr. Rains?). When we had talked --</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Now, he goes back to your days in -- in Bethesda; right?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>That's right. He was the connection I had back -- he was the chief of the (bureau) of medicine and surgery at that -- this time now. So he was a connection I had, and I told him about this issue that we knew about on the Island of Guam where Lou Gehrig's Disease was supposedly so common. And Guam was an important naval bases and still is one of our important Naval base, and the reason -- the fact that there was suddenly a real focus of this strange disease which causes death in an average of about two years, seemed very important.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Before you go on, Doctor, tell us a little more of what Lou Gehrig's Disease actually is. People use the term all the time. I'm never quite sure what they're talking about.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>It's -- Lou -- the disease is a disease of muscle which is caused by loss of nerve cells and begins in one part of the body. It may -- and this part of the body varies. It doesn't always -- isn't always the same. And it spreads to involve all of the musculature so that the patient becomes completely paralyzed, and they usually die either of respiratory difficulty, or of difficulty with swallowing and sometimes or often with a combination of both. It does not effect the mind or the brain. The patient remains perfectly conscious and as you know, there is a very famous astrophysicist at present who's living on a respirator with this disorder and has for some years. But most patients with this disease die at -- those years, particularly in about 19 to 20 months.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>I see. Now -- and this affected the natives or --</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>This affected only the natives and the Guamanian people. And natives in those areas in the islands is a very strange thing because those islands were -- everyone has stopped at one of those islands at one time or another, you know, since Spanish times, so they -- the natives were often wiped out, or the local people were wiped out in part by Smallpox, then you add all of these other kinds of bloods into the mixture, so they are a very mixed up group. But on Guam particularly which was an island which Magellan first saw in 1522, so it's -- it's had contact with the West for a long time, but it was those people, the local people, who got this illness, and we did not see it in other groups on the island.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>And then how did you -- how did you -- what was your method of studying them? How did you do that?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, our initial study was just to confirm that this was true. And so what we did, we went to the island, and I was able to get (?Dr. Leonard Kurland?) who was a public health physician who's trained in epidemiology to be sent out from the States with me. And so I flew down from Japan and Leonard flew out from the states. In those days it was with propeller planes of course, and we were able to get -- there were -- we were able to get Navy help to -- physician's assistants, nurses, and the local nurses who were trained by the Navy and transportation of various kinds that we went to see these patients on this island. And we went and visited each patient and examed them, and in the course of several weeks, we were able to exam 42 patients with this disorder, which was just a hundred times as many as one who expect in a similar community in the United States.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>That's extraordinary.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>It was an extraordinary thing. And we were able to find that this disease had been recorded in the death records which had been kept by the Navy since the first -- since the 1900s, had been back as far as 1904, there were two deaths on one page of this disorder, so this was an unusual problem. And I was able to -- I wrote a report to the Surgeon General about this. I sent a copy to the man who was chief of the NIH, and they all agreed that something more should be done about this.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>So then what happened?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, when they got this report, they authorized me that as soon as the Korean War was finished, and it had just finished, that we would have -- armistice had been signed, that I could go to the island to start studying the disorder. And that's what I did at the next -- which I did -- We arrived there, as I remember, in October of 1953.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>I see. And then you published the results, did you?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>We published our results after we had finished the studies. We had -- What we did in essence is we did a very careful study of -- study of all of the villages in the Island of Guam. I examed, in some villages, the entire population. And then in addition, I went to visit the other Marianas Islands, which are part of the same group as Guam is, and checked there to see whether there were patients. In some of these islands, particularly one like Saipan, which is quite large, I examed many patients, but none -- but we did not find the same high instance of ALS on Saipan. I also went out into Micronesia, which is an area of that part of the Pacific Ocean in which similar peoples live as the Guamanians, and we went to -- over a tremendous area actually. It covers a total ocean area the same size as the United States, so it's just scattered little islands all over this area. But we didn't find ALS in any of those islands. We then did -- I then picked two villages. One of them with the highest instance of ALS, and one with lowest instance of ALS.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Now, this was on Guam?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>On Guam.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Back on Guam? Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>And the Village of Dededo had a very low instance, Village of Umatac had a very high instance. I went to -- first of all examed all the people in these villages, all the adults. Then I got -- developed a questionnaire with the help of (?Dr. Leonard Kurland?) who's the epidemiologist I mentioned.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Now, he was back in Washington; right?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>He was back in Washington. And he -- this questionnaire, we were going to use to see if we could find some kind of local environmental thing which might be the cause or might precipitate this disease in these people. We picked -- we obviously picked the wrong things, or at least it would seem that we did because we weren't able to find anything. But I -- we used these questionnaires in these two villages with the thought that if there was some difference we could find between Dededo and Umatic, what people did, maybe this would help us understand it. Leonard Kurland came out to visit me and spent a week with us and was -- we were unable to find anything in this cursory visit that he had, but I then later sent to him all of our collected papers including the neurologic examinations and the data we had obtained from the epidemiologic survey. The Navy had fortunately given us secretaries and typists and all kinds of help, but unfortunately, all those papers were subsequently lost in Washington. And I don't know quite what happened to them.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>What a tragedy.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Yeah, but the -- that is essentially what we did on that Island of Guam. The studies on Guam have continued. The Public Health Service took it over in the 1960s, and then we still hear from them quite a lot. They still have not found the real answer. It's interesting. Every new person who arrives in Guam, within a few months has an answer, and then that answer disappears, but some day they'll --</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Well that's not unusual though, it is?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>No. Some day we will find the answer, but we had to hope, you know, that if one could find where the disease was a hundred times more common, you would think that it would be easier to find the answer.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>You're saying that it was a hundred times more common than, for instance, in the States. Is that -- those are incredible -- I don't know much about statistics, but they're impressive figures.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>They're very impressive because, you see, you hear about, about data, you know, about focuses of disease, and very rare that they start talking about a focus that turns out two or three times as much or five times as much.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>But here it was a hundred times as much. This village of Umatac, when I got there, there were seven people dying of ALS. They had a total population of six hundred, but were only 200 adults in that village over the age of 20, and it's a disease of adult life so, you know, it had to be -- you felt there had to be something. It did not appear to be inherited as a dominant. That doesn't mean, you know, that it couldn't be inherited in some way we don't understand as yet, but people have made quite a few studies of the heredity of that disease on Guam, and haven't found the answers yet.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Did you see any change in the figures of the prevalence through the years? Was there any change at all, or did it stay just as it was when you started?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>It's a very interesting question. There were -- was another disease which was common on the island. Not nearly as common, but it resembled Parkinsonism. It resembled the Parkinsonism which we saw after the World War I epidemic of Encephalitis, and was called Postencephalitic Parkinsonism. That disease I saw in seven patients the first time I was on Guam. Interestingly, ALS has gradually diminished in frequency in the natives on Guam, while the Postencephalitic Parkinsonism has increased in frequency.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Is that right?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>And no one also understands this -- what this is all about. It's very clear that the people have changed. When I got there it was still -- they were living by themselves. They weren't living with the Navy. They had their own kind of diet. Now they are largely living all from Navy food and living like we are. But in spite of that, this Postencephalitic Parkinsonism has gradually increased in number, but the ALS has decreased.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>In -- certainly you must have had to really spend sort of intimate time with the people on Guam. Did you get any resentment toward your efforts, or were they cooperative, or how did they --</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Oh, they were extremely cooperative. I liked island people, and I don't know if they -- how it is now, but we always enjoyed working with them, and they were most eager to help. They recognized this as a very serious problem. It's interesting, you know, they've been -- the Catholic church in Umatac Guam is surely several hundred years older than the one in Rochester.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>It's amazing.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Yeah it is kind of amazing to think about different --</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Yes, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Well then I'm assuming you published the results of your --</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>We published a number of --</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Where did you publish your thing? Your material?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, we published in a number of places.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Do you have a list? Do you have your bibliography?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>I have this list here. Let's see. Well, I first of all said that the original survey -- I reported it to the Surgeon General of the United States Navy in August of '54. I reported it in the proceedings of the staff meeting, the Mayo Clinic Volume 29, Page 666 in 1954. I reported it in the United States Armed Forces Medical Journal in December of '54, and then I report it in a number of other places, but the New England Journal of Medicine in Volume 252, Pages 649, in April of 1955.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Well, you certainly had a fruitful time in the Korean War. Then you went between Guam and Japan. I don't mean that you shuttled between them, but you have experienced both islands?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>That is correct.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>And you -- then you lived with the Japanese part of the -- your time there?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>We were very fortunate --</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>That, no, was that when you were at --</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Yokooska(ph), _____.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Oh, okay.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Yes, we were very fortunate when we arrived there -- when I arrived there was no housing available for -- for additional people from -- for additional physicians. They hadn't decided to allow people to live off the base.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>And Gertrude was with you at this time?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, she was still on mainland then, but I was able to get some housing rather quickly because we were one of the earliest ones to ask for such housing. And we lived over in a little village called Hayama, just below Kamakura. And we had a little Japanese house we were able to rent. And then they allowed my wife to come and to live with us, so we were able to live there. It was a very very good experience.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>And how did you get along with the Japanese?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>The Japanese were very gracious to us. We did have one problem with -- the first week we were there, they robbed us of everything.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Oh, really?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>But after that, things went very well.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>_______+ (42:23)</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Yeah. But we didn't have much.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>How did -- how did you communicate?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, I'm not very good at languages, but Gertrude is quite good at languages. And we took two hours of Japanese language lessons from a very lovely Japanese woman. Twice a week we'd go to her house and have this one-on-one instruction and Gertrude got so she could go to Tokyo and order things.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Oh, really?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>And in addition, the -- our instructors gave us a list of things that we could use. She wrote things out for us that we could use for ordinary communication. Our local -- there was a little hardware store in our community, and that man had obtained a Sears Roebuck Catalog, and if I walked in, he'd pull out the catalog and get what we needed. But they were -- the Japanese were very kind to us, very helpful. I'm not sure what would happen if after a war in which we had burned out half the town, that they would have been -- we would be so kind to people.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>I was just about to ask you that. It's a sensitive subject, but it was, what? About eight years after we dropped the bomb? Did anybody ever talk about it? I mean among the Japanese, did they --</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>They never, never brought it up, Mary. You know, the other thing is we talk about the bomb, but you know what we did to Yokohama and Tokyo? We firebombed them and we dropped those incendiary bombs on them and they -- just whole areas of Yokohama and Tokyo were burned flat. I don't know how many people must have died in that because they just dropped those bombs on those paper houses they had, and the whole thing just went. They left -- the only thing that was left really standing was right around the emperor's palace. That area wasn't bombed, but so --</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>But they never talked to you about it or -- As the years have gone by, what -- it's a few years now, over 50 years. As you think about it, have you ever been able to sort of explain to yourself this difference in the culture between the Americans and the -- and the Japanese? You know, I'm sure if something like that happened to us, they would here about it, you know, but they just --</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>They didn't. You know, they'd say ____+ (45:15) thank you, ____+ (45:18), and you'd never get beyond some sort of a facade.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Only rarely even so now with Japanese friends who I've had and known for many years do I get beyond the first facade. Chinese people, that's completely different.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Quite different?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Yeah. Right away, you know.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>And they would tell you, I'm sure. But these -- this is a different kind of culture and it's rather -- it is remarkable. They were very upset at whoever it was who did all this robbing at our house.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Oh, they didn't -- They didn't approve of that?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>They didn't approve of that. Whether -- how that happened, I don't know, but it -- they apologized and so on for that and --</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>But they never confronted you about the bomb or</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Huh-uh.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Well, when the war was over, what happened to you and Gertrude? Where did you go then?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, we came back to Washington -- came back to Rochester.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>To Rochester? Yeah and -- but what year was that? About '55, '54?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Fifty -- '55, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>And so did you -- for the rest of your career then, you stayed at Mayo?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>That is correct.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>And tell us what you did? Your field is neurology?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>And what were your special interests?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well, I changed my special interest. My special interest prior to this experience had been really in -- in epilepsy and in the organic side of the brain diseases. I was interested in Schizophrenia and those kinds of disorders, but because of this experience, I became sort of hooked on the neuromuscular disorders. And I became -- I became very conversant with the problems of neuromuscular disease, particularly Amyotrophic Lateral Sclerosis.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>I see.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>And I remained with that throughout my career, and was involved with many of the civilly, public organizations trying to combat that disorder. And I maintained my interest in the Guam situation, and for a while I would -- I spent -- I would visit there occasionally, but I haven't done that in 10 years or so.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Well, due to the unusual nature of your wartime experience, and having an opportunity to do studies in your own field and so on, do you have any feelings or observations about the difference between doing research in -- during wartime with a medic -- with a military institution, or doing research at home and at Mayo in a private institution? It was -- is there any -- is there any significant difference between how both organizations operate?</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>Well surely there are very significant differences if you think about the military. The military are interested in research which has a specific answer, has a specific problem that they're thinking about. Hopefully at Mayo we can think about things a little more broadly.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>I see.</p>
+               </sp>
+               <sp>
+                  <speaker>Donald W. Mulder</speaker>
+                  <p>And the real issue though is that we've all become so dependent upon outside monies, that we have become -- these have become the controlling power, I think in most the research today. Now, in the military, right after World War II, that wasn't a problem for them, but I'm sure it is now.</p>
+               </sp>
+               <sp>
+                  <speaker>Mary Martin</speaker>
+                  <p>Yeah. Well, thank you, Doctor. This has been very informative, and we truly appreciate your time and your participation.</p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

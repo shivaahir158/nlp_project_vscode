@@ -121,4 +121,8 @@ Adding BERT embeddings and DLATK-style linguistic features improves the model. T
 
 On the larger dataset, the MAE increases slightly, but the positive R² shows better generalization. This means the model is learning more realistic patterns instead of only performing well on a smaller dataset.
 
+<<<<<<< HEAD
 Overall, these results show that transcript-based features can be useful for age prediction, and advanced semantic features provide a clear improvement over traditional linguistic features.
+=======
+We could say that these results show that transcript-based features can be useful for age prediction, and advanced semantic features provide a clear improvement over traditional linguistic features.
+>>>>>>> 713167a (adding ablations and sentiment embeddings)

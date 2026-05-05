@@ -1,0 +1,1400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with James P. Danes, 12/12/2002</title>
+            <author>Daniel Packer</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Matthew McCrady</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with James P. Danes</title>
+               <author>Daniel Packer</author>
+               <date>12/12/2002</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with James P. Danes was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with James P. Danes [12/12/2002]</head>
+            <div2>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>My name is Dan Packer of Plymouth, Michigan. Today is December 12, 2002. As part of the Veteran's History Project, we are here to interview a local veteran, Mr. James Danes. And I wish you a good morning, Mr. Danes.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Good morning.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Thank you for participating in the Veteran's History Project. One of the first questions I always ask the veterans is what did you do before the war?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Well, actually, I graduated from high school in January of '44. And I was going to Wayne State University as a student when I went into the service in April.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>What year was that again sir? '44?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>'44.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Okay. And what were you studying in school?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>At that time, I really hadn't selected a major. I knew I was gonna be drafted pretty quick anyway, so I was taking history.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Well, how did the --</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- history, primarily.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>History. Well, how did the draft work back in 1944, how were you called up? How did the system work, as you recall?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Well, you got a notice in the mail. And then you went down and had a physical. And then you waited for the call-up. I think I was about 18 years and 5 months before they got to me. I had expected to go a little earlier than I did.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>So a lot of your friends were being drafted --</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>-- at the time.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>So you were part of the draft?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>So you were drafted and you knew you were gonna be drafted.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Okay. They didn't have a number system or anything like that then, did they?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Not that I recollect. Not that I -- I don't believe so.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>I think, as I recall, some of the veterans telling me, it was pretty much up to the local draft boards --</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Exactly.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>-- how you were drafted.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>They had the power to say when and where.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Okay. So I take it you were drafted then.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>That's correct.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>And when did that occur?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>April 1944, early April.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>And what service did you enter?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>The Army.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>The Army. And in the Army, you were where for training? What was your first stop for training?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>I took basic training at Fort Robinson near Little Rock, Arkansas.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>That was your basic training --</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>-- as they call it, where all the soldiers get this basic training?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>I think it was 15 weeks; do you recall?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Thirteen, as I recall.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Thirteen weeks? Okay. They shortened it as time went on.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>The thing I remember the most about Arkansas, it was summer, and well, we finished our basic training in June. It was -- it was hotter than hell. And you'd go out on the McAdams streets and they were soft; it was so hot.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>And how long were you there -- for 13 weeks, so that would take you up until the summer of 1944?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>June of 1944?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>June we were finished.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>May, June?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>I was waiting for assignment on D-day. I was finished basic training and I was in Arkansas waiting to be assigned to duty.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>What do you remember about D-day? I mean, how did the news come to you?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>You know, I'm not dead sure; but I think on the radio. I think we -- as I recall -- the day -- I recall it.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>It was June 6, 1944, D-day, you heard it on the radio?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yes, sir, I think so.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Yeah. So it was like -- I remember hearing old broadcasts, and it was like breaking in -- and they said we have, you know, it was flash.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Flash.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Right, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>I believe that's -- as I recall -- that is the way it was.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>So what did you think when you heard that?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Well, I guess -- I thought -- we knew it was coming, and it was -- it was about time. I wondered how long it would last after that -- the remainder of the war.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Now for your advanced training, where did you go?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>There really wasn't -- I had some -- what was known as message center training at -- in Arkansas, at Little Rock. And then it was through there, I was assigned to the 20th Armored Division, which was at -- it was in Camp Campbell, Kentucky. I think they call it Fort Campbell now.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>And what was your job; what were you trained for?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Well, as I say -- rifleman and this message center.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>What was this message center, Mr. Danes? What was that all about?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Well, it was -- you took Morse code and worked with decoding machines. Once I got to the 20th Armored Division, I never did anything with that, though.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>I was assigned to Company B, 8th Armored Infantry Battalion, and I was, well -- to start I was a rifleman.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Okay. Can you tell us at what --</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- armored infantry was -- the basic unit was the squad, which had a half track, which was -- that you rode around in. Half tracks had -- the crew -- we all had garand rifles.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>This would be the M-1?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah, the M-1, garand rifle, except for the driver, who had what we called a grease gun. It was a machine gun with a handle. And there was a 50 caliber machine gun on a ring mount of the vehicle.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>What was your function then? You had the squad and this half track. What was your function? What was your job to do?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Well, basically in an armored division, the armored infantry's function is to work with the tanks and support the tanks. In other words, later on in training and in the little bit of the part of the war we did see, the battalion of armored infantry work with the battalion of tanks. The tanks would generally -- we would get out of the half tracks and spread out and move with the -- with the tanks.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Now, were you more or less, I mean, an observer for the armored? You're more mobile than the tanks, for sure. I mean, their site lines and their mobility by their size and weight was, you know, you're much quicker running a half track; and to me it sounds like --</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah, a half track, it would go about 50 miles an hour.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Fifty miles an hour?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah, yeah. The terrain --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>So it got around pretty quick?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>It didn't go that fast most of the time.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>No, I understand. But it got you around a lot quicker than the tanks, and I was wondering if it was like a forward observer type thing --</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>No, no, generally, generally the half tracks in the field would be slightly behind the tanks. The infantry would get out and we'd be kind of between -- between the tanks.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>And what was your job doing that?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Nothing, really.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Well, you had -- the Army must have had an idea to take you out of that safe armored vehicle and put you out on the road -- or the field next -- between the armored vehicles. And what was your function-- it was kind of to take out enemy infantry?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Take out infantry. Look for -- well, the Germans had a thing they called a panzer fist, which is a big bazooka, and try to look out for that kind of thing so the tanks didn't -- didn't get blown up.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>So after completing your training at Fort --</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>You just did what you were told pretty much.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>-- after your training at Fort Campbell, now you're at -- you're in the armored division, right?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Right, right.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Now, what happened to you after that?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Now at Fort Campbell, it ended up we had night maneuvers a couple of times out in the woods. That always was a little frightening. There were tanks running around and you had -- in the dark. But after that, we -- the 20th had been a training division for armored. They had a cadre and they trained replacements for armored divisions that were already in Europe. It was getting down to the end of the war, and I guess they quit doing that. So they sent the 20th Armored overseas. So we, we -- in January we went to Boston, Massachusetts.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>That would be January 1945?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>January of '45. Yeah. And from there we -- I remember it was snowing the day we left Boston Harbor on the old -- it was a pretty tired ship, the Brazil, which had been a passenger liner in South America. And I remember I was on a -- on what had been the open deck, but they boarded it up.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>H-mm.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>And you could -- there was a little hole you could look out and it was snow was flying. And from there we went across -- I think it took us nine or ten days to Le Havre, France, where we disembarked on -- what do you call it -- the dock was -- the harbor was pretty well blown up at that point. We moved in to past Rouen to -- our division headquarters was in a French town called Buchy.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Buchy?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah. B-u-c-h-y, I think. And we were in a -- and our company was in a -- we needed to, you know, to get the gear out and get the coxswain off it and -- and get prepared --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- to go forward. And we -- we happened to be assigned to a little -- kind of an old castle. It was the castle with a bad neighbor, it was called.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Castle with a bad neighbor?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- bad neighbor, yeah. It was near -- it was near-- it was in Normandy area, not far from division headquarters.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>One interesting thing -- Sparky Schultz, who was in our company, made a movie about the castle from a bad neighbor years later.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Did he really?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>He went back there. That's kind of a side light; but I knew him -- not well at all -- but you know we were from the same company. He was a sergeant in charge of the machine gun squad. And I didn't put together until years later when we started getting together that he was the writer of Peanuts.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh, is that right?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Charles Schultz?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>You called him Sparky?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Sparky, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Sparky Schultz. No kidding. Well, he became famous, didn't he?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>He sure did -- famous and wealthy.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Well, that's interesting.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>But he was there in the castle with a bad neighbor, that was our company. I don't remember that we -- the mess was kind of between the wall and the main building in the castle. We'd run around the main building and get back in line so we would get breakfast and we would get seconds. We had to -- washed in a little stream that went by the place. And I remember sleeping up on the third floor of the castle. We put our sleeping bags on straw up there.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>H-mm.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>So, so we spent about -- I think four weeks there preparing and getting -- getting ready to move out. And we did finally -- we did finally head for -- head out. We went through Belgium. I remember Cambrai was one of the towns we went through.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Okay. You have a travel map there, it looks like.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Well, this is just kind of a rough thing. You know Cambrai was in France. It was Charleroi that was in Belgium. We went through Charleroi, and then Aachen, Germany, which was totally, totally devastated.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Let's put that on the board so everybody can see it and we can refer to it.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>All right.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Let's see here.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>[Referring to map} The unloading and cleaning the equipment. And then when we did move out, we went through northern France, Belgium, Charleroi. We went through the -- a corner of Holland, just a corner. And we crossed -- then we went into Germany north of Aachen. Duren was the town that I remarked earlier was so completely leveled. There was nothing but rubble. We crossed the -- we crossed the Rhine on a pontoon bridge at Bonn, and further south into Germany, north of Frankfurt, down by N&amp;#252;rnberg, and the first war was winding -- winding down then. The first action was saw was on the way -- on the way to Munich. The one thing I recall vividly, {coughing} excuse me, we were outside a small town somewhere between N&amp;#252;rnberg and Munich, I think closer to Munich, and there was small arms and machine gun fire coming from the -- coming from the town. We were out in a field outside the town with the tanks, and we were dismounted from our vehicles and between the tanks. And they called in -- they called in the Air Force. It was the Army Air Force then, and about six P-51's came over and shot the town up. One thing I recall from that is there were a bunch of cattle standing around outside the town and these cattle were -- got shot up by the Mustangs and they were either dead or standing around bleeding. So after the Mustangs shot the place up, we went on and went through the little town. And I recall we were -- we were pretty well spread out. I thought I -- I thought there was -- I remember a greenhouse. I thought there was somebody in there, so I emptied a clip into the -- into the greenhouse. And then we went on -- we went on through that small town, and with no -- no damage. But the group that was coming behind us, the tanks and half tracks that were coming behind us, the next group -- they thought the town had been cleared. And some of the Germans had hidden in the basements, and they blew the bottom out of a couple of tanks.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>H-mm. Were these the panzer fist?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah. Panzer fist, yeah. Using panzer fist. We went on down across the Danube and toward -- toward Munich. And other than small arms fire, we didn't encounter much resistance until we got to -- there was a big building in Munich there that had been a German armored training -- training center. In fact, I think there's a picture of it in here.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Okay. We'll have to take a look at that later.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>They had 88's, German 88's, which is a marvelous piece of artillery. And we sat -- I remember we sat all night out on a riverbank and we were finally -- we were told to dig in; and as soon as we did that, then the word came to move out. But, well our group didn't encounter any serious problem there. Another tank battalion in the division, they rolled right -- right up to this fortification with the 88's, and I think they lost six tanks.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>H-mm. They were deadly -- these 88's, weren't they?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Especially at close range.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Uh-huh. The 70's -- our tanks, were the old Sherman's with 75's on it, which were vastly inferior. But that was -- that was about -- and then we, along with two infantry divisions, I think it was 42nd and the 45th, moved into Munich. And one of the other interesting things I recall is that we -- our division -- afterwards -- after the war, we styled ourselves as the liberators of Dachau.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh, is that right? That was a concentration camp, was it not?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>It was a concentration camp -- one of the original German concentration camps. And I went -- we went through there at night, so I don't recall a lot about it. But I do remember the stacks of -- the stacks of bodies. The 40, I guess in reality, we kind of moved through; but the -- as I say -- at night. The 42nd infantry, which I think was the rainbow division, they actually got there a few hours before we did.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>To liberate the camp?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Yeah. Did you go through the camp itself?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Ah, as I say, only -- only as night, and not dismounted. Just --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>-- on your vehicle then, on your armored vehicle?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>On the armored vehicles really, going by. Then we went on down to Salzburg, Austria -- a beautiful, beautiful city. My one recollection from there that maybe is interesting is we were told not to go out -- not to be afoot in Salzburg in groups of less than squad strength, because all the -- the place was run -- overrun with liberated Russian prisoners.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>And they figured they were more of a danger.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>They got a little crazy, were they?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Oh, yeah. They were looting and anything that wasn't fastened down.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>There was no love lost between the Russians and the Germans?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>None at all. None at all. A little -- a little later we came back from Salzburg and we guarded a -- the war was over then.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>By the time you got to Salzburg?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>No, we were in Salzburg when it --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh, okay.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>That was the 6th -- the 6th of May, I believe.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>The 6th of May?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>And we were supposed to wait for some -- I don't remember the name now -- a German general to come in and surrender; but he never did. And so the war was over, and we moved back up near Lauffen, Germany. And our job there was guarding a bridge. We -- I remember searching people. And this bridge was between Austria and Bavaria.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Huh!</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>And then we did get a chance to take some trips from there. We went up to the Eagles Nest.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>In Berchtesgaden?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>In Berchtesgaden. Well, you could see -- the glass was all gone and everything from that -- from that Eagle's Nest thing you could see for 70 miles out over the --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Did you get into the winery they had underneath there?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>No, no.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>You heard about that?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>I heard about it afterwards, but I didn't know -- didn't know about it at the time. Another thing we did is we had -- we went for R &amp; R at Chiemsee, which was a beautiful lake down there in one of the -- one of the last kings of Bavaria, Mad king Ludwig, built a two-thirds scale replica of a -- oh, the a -- in Paris -- the Louvre.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>The Louvre? Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Was it the Louvre? Louis's palace, anyway.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Okay. Okay, sure. At Versailles?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Versailles. Two-thirds scale model of Versailles. So we spent a couple of days there. And from thereon, we really --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Well, you brought your divisional book with you here. And we looked at the map. Let's take a look, if you will, Mr. Danes, at the some of the --</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>{Looking at pictures} This was a parade we put on in San Antonio on Navy day. Now why -- why the Army thought it was a good thing, because it tore the streets up pretty good.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Did it really? So this is a parade in San Antonio, Texas in your half track?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>And you say you're in that first half track there in the ring mount?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>In the ring mount.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>The gun ring mount? Okay. There you are. I've got a picture of you there.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>I was a sergeant there by then, so --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Now this was the kind of vehicle that you were in Europe in, right?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Right. Exactly.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>All right. Now, how many men were in the unit, the squad?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Twelve.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Twelve men. So you got a lot of men in that one little vehicle, didn't you?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah. Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>So you had a driver, and you probably had a guy riding shotgun, I would imagine?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>You had in the front -- there was two side-by-side seats. And then there were four and a half seats in the -- in the back.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>If I will -- I will just walk around you for a second and put your photograph up here. This is you. Right? {Looking at photograph}</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yep.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>And this was taken where, sir?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>That again is that bridge between -- spanning the river between Bavaria and Austria. I think it was River Inn, but I'm not quite -- I won't say that for sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>You were all of 19 years old when this picture was taken?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Right. Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Kind of young and fresh and -- the war is just winding down for you, too, which is interesting. So, your anxiety level -- I don't know what kind of anxiety level you had, Mr. Danes, when you were getting ready to ship out -- especially out of France. There's a few more photographs I can share. {Looking at photographs}</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Oh. Here's -- that's one of the things I think on Ludwig's --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>All right, we can take that picture and pull that right up off. If you can hold that up, then I'll just -- I'll just zoom in on it.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>That's Herrenchiemsee and Frauen, they were two islands, in this --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Okay. And this is what the Baron Ludwig --</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- king --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>-- King Ludwig, of Bavaria.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- of Bavaria.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Ah, okay.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>I think he was the last king of -- he was mad. I mean literally.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>A mad king of Bavaria. Again, this is out of the pages of your divisional book showing all kinds of pictures of the period. We've got a pin-up girl here on the left.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>All right.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>There was one other thing I --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Yeah, sure, go ahead.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- I wasn't sure you had here is -- here are some pictures of Dachau. {Looking at pictures}</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh, yeah. How soon had it been liberated by the time you came rolling through; do you remember?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>H-mm?</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>When you went to Dachau, how long had it been liberated by the time you came through?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>About four hours.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh, a matter of hours?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh my gosh.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>In fact, for a while the 20th armored division claimed to be the liberators.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>But apparently the 42nd was in there first?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>The 42nd was actually in there first. It was the same day, any way.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>What did you think about when you saw that? What was --</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>There, there's some of the --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>What did you think of that, Mr. Danes, when you saw the bodies all just stacked up like that?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Well, it was something that was pretty much incomprehensible to me. It's just not anything you would expect to see -- ever. But it was there. I understand some people claim that the German prison camps were a hoax, but they weren't; at least this one wasn't.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>So you saw it firsthand as you rolled through -- your unit rolled through. Okay, I'm going to pause for a second. END OF FILE ONE; BEGIN FILE TWO</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Bavaria, Ludwig of Bavaria built, right?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Correct.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>And this is a direct copy of the one you'll find in Versailles, France.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>I think it's two-thirds scale.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Two-thirds scale; all right, okay. Again, this is in your book here, showing a building. Did you have any dealings with the local German populations, especially towards the end of the war?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Immediately after the end of the war, yes. We were -- on two occasions -- we were sent out on just a squad mission -- just our squad and our half track to police a little town. I remember the Bergermeister there. It was -- it was kind of interesting. We also -- we also had a squad mission guarding a dump where there was parts for V-2 rockets.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>No kidding. Now V-2 rockets were quite the weapon of mass destruction back in World War II?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>They sure were. And if they'd had it earlier, it would have made --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Can you describe for the audience what a V-2 is, basically.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Well, it's a rocket propelled --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>-- missile?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- missile. First the Germans had the V-1, which was kind of a chug chug bomb. It had fins and a thing up on the top. It was slow enough so a fighter plane could --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Shoot it down?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- shoot it down. But the V-2's, they were launched from France and Belgium into England -- into London.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>So when you came across this when in Germany, you found the parts for these rockets, right?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>The -- it was a -- so we guarded that for a while. We had -- we had a number of little missions after that. We also guarded a prison camp out in a big field where we didn't retain anybody except the SS. They all had the little --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Tattoo?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- tattoo, up on their upper arm. I remember we were there for quite some number of days, and there were two incidents there that were interesting. Some -- you know, took their arms: pistols and binoculars and whatever else. But one of the Germans -- I believe he was a lieutenant -- he was cursing out the Americans for some reason, and one of the guys in our outfit spoke --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>German.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- German. So he wrapped a carbine around his head and made him dig a six by six hole.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh, really?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>The other thing I remember about that assignment was there was a whole field full of abandoned vehicles -- motorcycles, cars, and what have you.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>These are German?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah, German vehicles. And we hot wired them and drove them around.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>{Laughing}</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>And I also had a little -- I took a ride on one of the big German military motorcycle bikes, and I tipped over on it. I never rode any -- any more motorcycles. The thing was so damned heavy you could barely hold it up.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Was there a little side car with it?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Just a two wheel bike?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>No, just a two wheel --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh, okay.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- two wheel bike. And there was also -- had a little car, as I say. We drove around for a couple days when we were up there at the prison camp.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>And what did you do with the prisoners? Just watch them?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Just watched them. There was somebody else came in -- they were still there when we left, and somebody else came in.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>How many prisoners were there, do you think?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Ah, I would guess a couple of hundred. And I also from that thing remember taking a bunch of them down to the river to bathe, all by myself; which was a little worrisome. And how beautifully they sang in cadence.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh, really?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>It was -- it was impressive. So after all those little assignments, then we turned in our equipment and headed back. We spent one -- got a one day pass to Paris, and then to what was called Camp Lucky Strike, where we got on the ships for home. And our division, we were the third division to come back through New York Harbor.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh, okay.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>And the reason was, you know, you would think that the more veteran groups would come back first, but we were on the fast track for Japan.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Ah.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>So we came into -- I remember coming into New York Harbor, and it was still an event at that time. There were fireboats out and their hoses. And I forget which was going which way, but the Queen Mary was coming in and the Queen Elizabeth was going out --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh, is that right?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- or the opposite. It was quite memorable. And we had a delay in route when we were headed to California to prepare a shipment to Japan. And I was home on delay in route when the A-bomb fell on -- and Japan surrendered. We got hold of the plan afterwards. The invasion of Japan was supposed to be a two stage thing. First they were going to invade the south island, and I believe in December, and then the main island in April in '47 it would have been, I guess -- '46.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>'46.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>'46, right, '46. And our division, along with a dozen infantry divisions, were scheduled for the plane outside of Tokyo.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh, really?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>So I always figured the decision to use the atomic bomb probably saved by life.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Probably a lot of others, too.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>A lot of others.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>There were estimates anywhere from half a million to a million, I think, in casualties.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>It would have been a blood bath.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>I've talked to several veterans that were in the Pacific theater, and they were very happy about the A-bomb and the end of the war. They felt same way you did -- is that the casualty rate was so high. It was just trying --</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- well the Japanese were so fanatic.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Yeah, yeah. The everyday Japanese -- not just the SS like the Germans had were more or less fanatical for the Germans, you know; but the Japanese in total -- the whole -- the whole ball game with them. So -- it happened that you unit was pretty well still intact by the end of the war. That's probably why it was --</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah, we were still intact, and we went to California intact, and I think we were there until -- oh, probably -- it was about March that they broke the division up.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>I'd like to ask you a question about the time that you were in Germany. Now going through France, it sounds like you went through France pretty quick. Other than the stay at the castle there.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Other than the stay at the castle, we were probably only a day or so before we got to Belgium.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>So you were right bang -- you're right from that -- that base camp into Belgium.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>And when you went through Belgium, was it pretty war worn, was it -- was there a lot of damage, did you see a lot of --</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>I don't recall seeing an awful lot-- of seeing an awful lot of damage in Belgium. The thing I remember going through there were the kids begging for chocolate and cigarettes.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>That was pretty much in Germany too, I would imagine.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Not as much, I don't think.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>No?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah, there -- there was.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>But they were kind of wary -- a little more wary of the G.I.'s?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Could -- could be. We used to -- well I remember when we were at the castle -- I never really smoked. I would barter cigarettes for bread and hard cider. It was pretty good for a G. I.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Yeah. Did you ever try the calvados in Normandy?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Tried it -- yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>What did you think?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>I wasn't much of a drinker then. It was too strong for me.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Was it too strong? Really?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Now I could --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>I felt the same way. I had some calvados while I was in Normandy. And they told me it was an apple cider liquere, and it was very light. It had a real kick to it, though --</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>-- as I recall. Pretty strong stuff.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>I hadn't really -- the hard cider -- it was hard, too. I drank the hard cider. It was pretty good.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>So, pretty much your unit stayed intact and your friends that you made during the time you were in service pretty much were also intact. In other words, they stayed together as a unit throughout the war, pretty much -- 1944 when you were there in February up until the end of the war in May -- up through those four months your unit stayed pretty much together.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Well, it stayed together until the next February.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Out in California.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Okay.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>February of '46. We still have division reunions. But our company, Company B, we used to have reunions every two years. Now we have them every year.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh, really?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>We've met all over the country -- St. Louis; Chicago; Portland, Oregon; and Williamsburg. I always enjoy it. The numbers are dwindling, but -- well --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>When you were over in Germany, other than the altercation that you had near Munich, that was about it though as far as really getting into a battle situation?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>That's -- that's right. We did -- we did get enough so we got one battle star and a combat infantry badge. But that was -- there was -- as I say -- these small town things like the one I described -- and small arms fire, rifle, machine guns, occasionally mortars. But I think that thing at Munich was only major battle our division was in. And our part of it -- our battalion was not on the cutting edge of that, either.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Yeah. Well, that's good. If you're going to be in a battle, it's better to be in the back, you know. I saw no problem with that. Any way -- would you like any more -- tell us Mr. Danes, and we'll close with this. If you've got any other pictures that you might want to share with us. I know you have your memoirs here with us, and I'll make a copy of that and I'll make it part of your file, so that if anybody wants to do some research, it's like a timeline you have from the time you went in and all the places you visited in Europe are in that.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>One other thing I guess I do remember about Munich is -- we were on some high ground by the river -- and I guess I did mention that in passing -- and we were waiting there all night to be told to move out. And they were shooting 88's. And you hear that straff and that whir. And somebody decided -- I don't know just why -- that they ought to go across the river and see what was there. And they found a rowboat, and some of them -- two or three guys -- and they started to cross the river. And there was some machine gunfire fire from over the river, and they capsized. And one of the guys, Wendy McCracken, one of the guys in our platoon, was a good swimmer. And he ran out, and he swam out and helped rescue them. He got the bronze star for that.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Good for him. Good under fire like that -- that's what bronze stars are for though, aren't they?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>But those are about the --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>You had a very interesting time in Europe.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- those are the things I remember.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Yeah. You were pretty happy to get home, weren't you?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Oh, yeah. That's for sure. That's for sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Getting out of harm's way, number one. Number two, the war's over for everybody, so it's got to be a great relief for the country. So when you came back home, what did you do?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Well, I had a -- had a job that summer, and in the fall I went to college. I went to Albion College.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh, Albion? Okay, here in Michigan.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>I went to Albion for two years, and then transferred to the University of Michigan.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh, okay. I take it you eventually got a degree?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>Oh, yeah. B.B.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>in the business school.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Oh, okay.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>B.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>in the business school.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Excellent, excellent. So the initial training you had when you were in basic for the message center never really --</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- never really --</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>That happened a lot, though, didn't it?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>-- kicked in.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>Yeah, that happened a lot. I remember I've heard very many similar stories where you were trained for one thing and you did just the opposite. I had a poor guy who was a Seabee, and he was put on the first line of a Marine unit on Okinawa. I mean -- ?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>That's where they needed him.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>That's where they needed him at the time. Yeah. Okay, Mr. Danes. Now, as I told you at the start of this, that this is a tape that will be given to the Library of Congress in Washington for further research. If anybody wanted research on the 20th Division, or your unit, or World War II. If you would like to impart anything to future generations, as far -- you know -- as you have relived your experiences in the service and in wartime?</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>I don't guess I have anything very profound to say about it, but it was -- it was a wonderful experience, but I wouldn't want to repeat it.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>A lot of people say that. Thank you, Mr. Danes, very much. I appreciate it.</p>
+               </sp>
+               <sp>
+                  <speaker>James P. Danes</speaker>
+                  <p>You're welcome.</p>
+               </sp>
+               <sp>
+                  <speaker>Daniel Packer</speaker>
+                  <p>All right. </p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

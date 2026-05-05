@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with John Henderson, 11/10/2018</title>
+            <author>Nick Mosyunic and Stephen H. Clark [transcriber]</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Matthew McCrady</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with John Henderson</title>
+               <author>Nick Mosyunic and Stephen H. Clark [transcriber]</author>
+               <date>11/10/2018</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with John Henderson was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.   Spelling errors are indicated with [sic]; however, recurring errors in spelling within a single document have been marked the first time and not subsequently.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with John Henderson [11/10/2018]</head>
+            <div2>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>My name is Nick Mosyunic, and today is November 10, 2018, and we are at Ginger Cove in Annapolis, Maryland, and the organization that's doing the interviewing is NCRA. So, if you could tell us your full name.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>John Merrill Henderson.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Wonderful, John. And so, if you could tell us the address that you live in.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>I live in Ginger Cove, a retirement community in Annapolis, Maryland.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Okay. And do you remember -- do you remember where were you born?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>In Herkimer, New York.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>And that's -- when you were little, do you remember your parents?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Oh, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>You remember their names?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>John Dubois Henderson was my father. Margarete Merrill Henderson was my mother.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>And do you remember something about their occupation?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>My father was an insurance agent and had an agency in Herkimer, New York, that his father and uncle had formed in the early years of this century, of the 20th century.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So they were in business, like even --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>-- even your grandparents, your grandfather, your father's father?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>No, my grandparents I never met. They had all died before I was born.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>But so your father was in the business --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>-- that was also operated by his father?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes, to a degree, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>To a degree, yeah. And then your father built it up more?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>And also your uncle was in that, somehow connected?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>He would have been a great-uncle, I think, not an uncle.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Oh, wow. So it goes way back then, huh?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yeah, quite a ways.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Wow. So then your mom, she was --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>She was, they would say, housewife.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes, yes, she was working at home. Okay. And so like afterwards, you remember something about how you spent your childhood, when you were a young child, how things were?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>I had a normal youth growing up. I remember the start of World War II before the United States was in it, and I was in high school then, and when World War II, VE Day came, I was still in high school and too young to be drafted. But I went into an Army training program called the Army Specialized Training Program Reserve, which was a college program that sent me to Rutgers University in Brunswick, New Brunswick.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>In New Jersey?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Wow.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Looks like you've been there.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Well, near there yes, yes. That is wonderful, you did on your own, you went to college and then you --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, I left the Army Specialized Training Reserve Program. I was discharged for the convenience of the government to attend the Naval Academy.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Oh.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Then I finished the Naval Academy, and that became my career. And that's where I qualified as a veteran was my service then.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Wow. So you --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>But it was very little facing the enemy, very little if any.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>But you accomplished a whole lot by going into --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>My whole active duty career, yes. Well, not completely. When I retired from the Navy, and I don't right off recall the exact date, I then went to work for Navy Federal Credit Union, which is a financial organization, and I retired from there.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Wonderful. So then, to come back, how you went from your childhood, and this was before World War II --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>World War II started in 1939. And I was in the last years of what we call grammar school, I believe. I graduated from high school after VE Day, and then went to the Army training program, and then on to the Naval Academy.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So you went through education, and you were really accomplishing a lot.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, I was just doing my duties.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes, you really took it as a duty, and you worked with such responsibility and strength within yourself to accomplish what you were accomplishing.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, I think that's dramatizing it a bit. It was a career.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>And when I graduated from the Naval Academy, my thoughts were that I would stay in the Navy until the Navy did something to me that I didn't like, and they never did that. And I had some wonderful experiences: Spent 20 months in Madrid, Spain; was supply officer on two ships that were deploying to Europe. So it was a good deal of fun too.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes, yes, yes. So what you did they liked, they liked you, right?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>I think so.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>And they sent me to business school.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>That's right. So they saw, they saw the talent, the capability, and they --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>I think maybe you're exaggerating it, but there we go.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Okay. So that's good, John, that you're really a humble person who was doing --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, I was doing my job.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>That's right. That's right. See, you are taking it, saying it simply, I was doing my job. But they saw that, and then they --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, I progressed in my job.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>That's right, that's right, you were progressing with that. Right? Yeah. Now, you mentioned before on paper here, you wrote that you went to Stanford.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Mm-hmm. The Navy sent me to the VE Day, which was a wonderful opportunity.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Two academic years.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So that's a known, very well-known business school, and the Navy sent you there, and that was for two years?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Two academic years.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Two academic years, right. And when you finished that school, were you awarded some kind of a degree or how was it --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>A degree, MBA, master of business administration. I stood number three in my class, and another naval officer stood just ahead of me.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>All right. That's very good. Number three is number three.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>That's right.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Okay. All right. And then after you got your business degree, the MBA, master in business administration, how did you work with that, or how did --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, I then -- my next duty station was at the Navy Supply System headquarters in Washington, and I was in the planning division there. And then at someplace there, I don't remember exactly, I went also to the Armed Forces Staff College in Norfolk for that course, either just before I went back to sea on the cruiser, the Northampton. The Northampton was a ship. It had a -- it was the national command post afloat, and they had onboard a team from the Joint Chiefs of Staff that maintained the records and everything. So that if the President or other people from Washington had to evacuate, if they chose to they could come to that ship, which would operate from there.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So, John, your service was such a great help to the people who were in the Navy, including the people of the highest rank that --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, it was satisfactory to them. You know, it was nothing all that special, but that was my job and an enjoyable one.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Well, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Although we didn't go very far. We just stayed off the East Coast within easy range of Washington, and operated out of Norfolk, Virginia.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So we go Washington, East Coast, down to south to Norfolk, and the people up to the Chiefs of Staff, and all the people underneath that you were in charge of supplying. So you were like such -- you were administering --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>That's right, providing for their arrival if a team should come from Washington. We would provide them with their living quarters and that sort of thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>So they could continue to conduct operations.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Right, right. So, that was quite a responsibility that you were administering and --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, the ship was administering it. I was supporting people who might come to the ship.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>And you were supplying -- you were in charge of supplies; you were making sure that everybody there got their supplies.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>That's about right.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes. It's wonderful that this is the kind of service that you were doing for them.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Mm-hmm.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Now, you know, they talk about the jobs before entering service. Do you know anything about -- do you have any jobs that wasn't --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, when I was -- I guess my early years in high school I was -- I worked in a local drugstore, helped, you know, to do all sorts of small work. I would not -- I could not fill a prescription legally. Just helped out.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Helping out was doing -- being a helpful person was something that you started from early on.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, that's true.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>It may be little things, but you were of help to people, and then as you progressed on, you were a helpful person to many --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>I hope so.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>-- to many people, right?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>I hope so.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes, yes, yeah. Now, they mention about entering the military. They asked were you drafted or did you enlist, or how would you put it? Like you were known -- in your own way.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>I would say I enlisted.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>You enlisted.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Then I graduated from high school, we were fully in the war, it was after VE Day. We still had the Pacific war, which was a bigger percentage of the US effort. And I went to the Naval Academy, and when I graduated from that went to sea duty out of Norfolk. The ship deployed two summers to Europe, and we went around the Mediterranean, ship calls and did exercises with other ships in the Mediterranean.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Now, when you were enlisting, do you remember like what kind of -- what was going through your mind, and like what were your thinking?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, I think my attitude in the Navy was that I was doing an important job and that it needed to be done.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>And I enjoyed the work, I enjoyed the travel, and I sort of took the attitude that I would stay in the Navy until retirement age or until they did something to me that I didn't like, and then I'd think about getting out of the Navy early or retiring. And I ended up retiring.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yeah, so you were like going into the Navy, you were thinking of like what you would be doing, what kind of work you would be doing, something that you enjoyed, and also like that included traveling.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>And then you enjoyed that too. So like when you came to Mediterranean, when you were doing the different duties, that you -- it looks like you enjoyed it, because I see a smile on your face.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>I think I did, essentially.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes, yes. And that you enjoyed, in a way, your work throughout.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yeah, yeah. And they approved, right?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>I think so.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yeah. And they rewarded you for it.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, yes. I got good duty stations that I went to afterwards.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes, yes. And then so like for work, and then how did you -- did you have a family or did you -- were you alone?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>No, I got married a year after I -- I think a year, roughly a year after I graduated from the Naval Academy, and my ship was deploying to the Mediterranean. But the girl that I married was working in New York City, and I met her when I called another young lady for a date; she was busy and suggested that I might date the girl that later became my wife.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Wow. So the girl from Annapolis? From Naval Academy -- you go from Annapolis to Naval Academy to New York.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yeah, but the girl was -- none of the women involved were from either New York state or Annapolis. My wife was originally from Cincinnati, Ohio, and lived there, went to college. The girl that introduced us lived in New Jersey, but they both went to the same college. That's the way I met my wife.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Brunswick?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes. That's when I was in Brunswick.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Right. And then, so after you got married, did you have any more family?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Four daughters, in succession.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Four daughters, wow. And then like how did the family -- how did you combine your helpful work in the Navy with your family? How did you do that?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, I guess my wife thought it was interesting enough, so she accepted my proposal of marriage. And my daughters didn't -- they knew nothing different from it, so they knew that was what their parents' life was, and they accepted it.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>And how did you do -- and how did they work their education, and how did that work out?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>They went to a number of different schools, for example, but they all were pretty good scholars. So they got a good education. We moved a couple of times in the middle of their school year, but they picked it up. That was just part of their responsibility.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Right, because many a times that's kind of disrupting their education.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>But they took it, and you as a father see that, and they realize that this is their responsibility --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>And they did.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>How far did they go in their education?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>They all graduated from a four-year college, different colleges. Two of them from Smith College, one of them from Mount Holyoke, and the other one from -- what is the name of the college in Virginia? Oh, Mary Washington College.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Oh, wow. So, that's really important, right, that was important that they finish college education?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>And they all did it.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Right. And then, like did they -- do they have their own families or how did they --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>One of them died a couple of years ago, from cancer. One of them is still unmarried, and she is the chef at a Harvard institution that operates in Washington. She went to the Culinary Institute of America for training in food service. Another one is the wife of a man, they live in Oregon. Who else? Who have I missed? Well --</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>They're responsible people with --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Oh, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>With their own families, doing responsible work.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>One of them is married to a college professor. The oldest one is married to a -- they're operating a farm in Oregon. And the youngest one still is living in Massachusetts, and her husband is working as a professor at Holy Cross College.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Holy Cross College, university, huh?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So they're responsible people with the accomplished education, and doing their work --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>-- as families, with the families. Okay. Now, we go back to -- well, to stay with the family. So, it was like really the accomplishment like they're doing, they too have the family, they work as a family, you know, your children, and they also have very responsible jobs outside the family. So that the -- right?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Oh, yes, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>And then how about their children? Do you know anything about them, like how much --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, one of them, the oldest one has no children, and they live in Oregon. The next oldest one and her husband live in Massachusetts. They have a daughter who is now a professor at the -- I'm trying to think of the name of the educational organization in Baltimore. It's the Maryland Institute of Contemporary Art, I think it is. She has a PhD degree in art. The other one is the wife of a professor at Holy Cross, and she has not gotten additional degrees, but she is working with some of the people at her church who are refugees and teaching them, the wife especially, teaching her English and so on.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So they too, some of them have the highest educational degrees, but then even those that don't, what they are doing, they are being of service --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Useful citizens.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>That's right, useful to other people, so that even, say, the one that you said that doesn't have children or the one that's not married, that they are being like a mother that's helping other people.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes. I forgot one of the younger -- the middle grandchild is in law school and finishing up there. She's got another year to finish that. So they're all keeping busy.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes, yes, that's right. So they get the people with PhDs, doctorate in philosophy, and then we have people who you have your children, and then who have grandchildren who are going into law. So we have like the covering so many areas of service and being helpful to other people. Like you were saying, even the people who come in, into the country, and who don't know the language, they're teaching them, one of them is teaching them English as a second language, so they can be --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, yes, that's true. One of them in particular, the wife of a man who's English is better, my daughter is working with her.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So what do they say, the apple doesn't fall far from --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>The tree.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>-- the tree.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Like the daddy, like the daughters, huh? Okay. Now, they mention something about the branch of the service that you got in and that --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>I was a Supply Corps in the Navy. They have a separate group, the Navy Supply Corps. I am Navy -- in that group, I would not be ever the commanding officer of a ship because of what I had chosen as my career within the Navy.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So John, you were a real person of service. You were there, you knew that you would not be commanding. However, you knew that you would be, really that you would be serving.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, yes, but -- yes. I think that may be a little overdrawn, but yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>But I do see that that puts a smile on your face. So I take it that that was satisfying, not only --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, it was a degree of competition.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Oh, yes? Uh-huh.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>You know, others would have liked to have had my --</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So you see yourself also as a person who is competing?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>A little bit, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>A little bit, yeah. Yeah, that puts a smile on your face and it's kind of contagious, yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>That's good.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Okay. You mentioned something about the training that the Navy sent you for. Was that the Norfolk?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>The Norfolk sent me to the Stanford Business School.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Business school, right.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>They sent me also to the Armed Forces Staff College, which was only a six-month course, I think it was, but it was for -- it served officers from all of the military services, so that we learned how to get along with each other, learned about what they did and what we did, that sort of thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So John, you mentioned a little bit that in you there is a competitive streak, but also like you were aware that, say, with the Army, like that they wanted, and somehow you went along with that, that there had to be a spirit of cooperation and that you were doing that, or how did you see it?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, that's true, that the mission of the ship that I was on, the cruiser, was to be ready to accept the national command people from Washington, and to maintain the necessary records and everything, so that the group could fly in from Washington in an emergency.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Right.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>And they were multiservice people, and that was the job, was supporting them. So it was an important one. We never went very far from the coast, but we were at sea a great deal of the time so that we were available.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So that you had for them to have the security, you have to -- you had to supply the multiservices, and that included the Navy and somehow the Army too?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>And the Air Force too.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>And the Air Force too. So like somehow, recollecting that, John, somehow -- I see the grin on your face. So that somehow it was satisfying work that you were doing.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>A lot of it was fun.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>It was even fun.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Oh, okay. Well, so this is that your life of service was even fun?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes, I'd say that is correct.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Well, that's wonderful. They talk about when you first started, like what kind of drew you into --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, while I was at the Naval Academy, I was, of course, competing with all of my classmates, and the better you were in your academic performance, which included military duties at the Naval Academy too, the better you did that, the higher you stood in the class and the more choice you would have in your duties when you graduated. I had the opportunity to be either an aviator or the Supply Corps, which was my idea, and I just decided I wasn't heroic in terms necessary to be a good pilot, combat pilot, and also I thought I'd live longer if I was on the ocean or the ground.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>John, so the heroes may be sometimes those that are flying, but also the unsung heroes may be the ones who supplied the base.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, you say that, and I won't disagree.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Okay. I said it because I heard you saying that you saw yourself as a person who would be doing the supplies and doing the work.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, yes, I thought my jobs were important.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes, yes, and you competed for it, you got the education, and you went to work. And then the officer, that you got the awards, do you remember what kind of awards? I know you put down some on the paper, like you were a captain or --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, I got promoted.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>So I had done a satisfactory job, or I would not have been promoted.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So what did you get promoted to?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Captain.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>To captain.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>And I was not selected for admiral, and so I decided to get out, and I had a second career with the Navy Credit Union, and that turned out to be a pleasant tour of duty with people. I talked last night on the telephone for some time with one of my cohorts that I was in a carpool for a while with, and we were reviewing the bidding in all our lives, where we were at the point.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So the business career in the Naval Credit Union, that proved to be quite an undertaking.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Oh, well, yes, Navy Federal Credit Union is the world's largest credit union now. Are you a member, by chance?</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>No, no, no.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, we operate all over the world and have a huge office here in Annapolis.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Right, right. So that is quite a business.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Oh, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Right?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Right. Don't call it a bank, but it's --</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes, that's right. That's right. That's right, we can have a smile, but we know that a naval credit union may not have officially the name of the bank, but it is --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>It does much of the same functions.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes. Yes. Yeah. So another way of you being a person of service, being a person of help, to help people --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, yeah, that's true, I suppose.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Okay. Is there any, like, vivid memories that stand out from the time of the war or times of --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>I can't say there are, except that in the travels through the smaller islands and cities in Europe, seaports, it was very pleasing to see the friendship that we engendered with the people of other countries. If we would go to a small island -- well, for example, we were, my ship was to go into the port of Argostoli in Greece, which is up in the Ionian Sea, and I was wondering how I would handle purchase of goods ashore, and because they used different units, different monetary systems, and different languages.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>And I was pleased to see, as our ship went up the roadstead to go into the port, there was an American flag flying from one of the houses. So I went up to see that person, and he became kind of my assistant, and we went to the stores together and various things where I needed somebody who spoke Greek. And he had been a -- he was a retired owner of a restaurant and -- yeah, it was a restaurant in Maryland here. So he knew this country, and it was a great help to have.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yeah, so this is the relationship that you established or that you had, right, that was such a great help, so that then you knew how to combine your work with the relationship, and that really was --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>That's right, that's right.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>-- it proved successful. Yeah. Oh, wow. Now, do you remember anybody, say, when you were going through the training or work on the ship or off the ship, any of your superiors or anybody under you or with you that stands out, maybe your instructors or here from the academy or any other place?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, there were a lot of people at the academy, and afterwards. I wouldn't say any particular ones. But I benefited from a lot of relationships that I made with people that I encountered in my work. And looking back on it, I would say it was fun.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>It was fun, huh?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>And I'm sometimes a little ashamed of the fact that to be a veteran is you feel you have to do something pretty patriotic, and I don't look upon any of what I did as being motivated by patriotism. It was the job I had to do, and the job that I wanted to do as well as I could, and it turned out to be a career.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>And you don't see that, or it's hard for you to put it as patriotic? You don't think?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, I don't think it was any great surge of patriotism. I did the jobs that I was assigned to do, and I tried to do them well and enjoy them.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So if I just can add that patriotism comes from the word patria --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Country.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Country, right.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>And you were saying that this was your career. So do you think it was anything on your mind and in your heart that you were doing for your country, for your countrymen, for your family, for the other families?</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, I think all of those considerations mixed in and depended, and my determination to do things --</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>And to follow those courses.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>-- was a mixture of liking to do the work and making it a useful thing for other people.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Right, right.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>In the Navy.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Well, you were saying before how you used -- you were competitive, but also you were cooperating.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So then here too, yes, I have to do, this is I want to go on --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>I became number three, but at the same time I did for the others. So that became, this whole thing became even not just work, not just duty, but it was even fun.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes. Yes, it was.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>So that in Mediterranean, and then in particular in Greece, you were able to work with this guy and --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, don't overdo that. I mean, that was an example.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes, yeah, it was an example that you did, and that puts a smile on your face and on ours too.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>And I must say that my experience as I recollect it is probably more of an enjoyable career than when it was happening.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes. Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>If you know what I mean.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>When it happened, sometimes it was irksome.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>But all in all, it was a career that I enjoyed.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes, yes. So that at times even the things that were what you described as irksome, kind of looking back you see it that you experienced the whole thing even as fun.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes. At a positive --</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>In a positive way, yeah. How are we doing on time? &gt;&gt; We're at 50 minutes, so we're great.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Do you want to cut it? &gt;&gt; Sure.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Am I released?</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Is there anything else that --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>No. I just would say that I became a veteran more or less by accident, and I utilized some of the veteran services, and I've been very pleased with them so far. My glasses are VA glasses. I have hearing aids that were VA hearing aids. So I'm enjoying being a veteran as well.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes, yes.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>But I shudder to think of the sadness of a veteran being one who has been in dangerous situations and heroic actions. I don't think I've really been in dangerous situations or done anything heroic. I've just tried to do my job, and I had a satisfying job to do.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes, yes. But many a times people, and I'll use my own term or somebody else's term, that people who have seen other people in danger and they themselves not being in danger, they may even feel a little guilty, you know? But what you were saying about yourself, you did many things that were helpful to many people, and now you kind of enjoy some of the benefits that --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>-- that go to a veteran.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>That's true.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Maybe this is a one-way, if I can use just myself, to say that this is then that the other people sort of, say, pay you back, that you said --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>-- they can say, okay, John did this, now he's entitled to a pair of glasses and to have hearing aids, yeah. And that's -- okay, that's all right. Yeah.</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Well, I can say also too that the benefit of the Veterans Administration, I've been very pleased with the service that I've gotten from the Veterans Administration.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>Yes, that you're thankful to the Veterans Administration, and to our government and to the people of the United States that you have now what you have, yeah. That sounds wonderful. Wonderful, John, that it puts, again, a smile on your face and that --</p>
+               </sp>
+               <sp>
+                  <speaker>John Henderson</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Nick Mosyunic</speaker>
+                  <p>-- that you feel good about everything. Yeah, that's great. [End of interview]</p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

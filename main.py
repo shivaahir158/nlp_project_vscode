@@ -14,7 +14,7 @@ from src.train_models import train_and_evaluate
 from src.advanced_features import add_advanced_features
 
 
-N_ITEMS =  5000
+N_ITEMS =  7000
 
 DATA_DIR = Path("data/vhp_transcripts")
 DATA_DIR.mkdir(parents=True, exist_ok=True)

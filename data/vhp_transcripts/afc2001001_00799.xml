@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 SYSTEM "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[Valentine card, undated]</title>
+				<author>Marion Reh Gurfein</author>
+				<respStmt>
+					<resp>Encoded by</resp>
+					<name>Eileen Simon</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>[Valentine card, undated]</title>
+					<author>Marion Reh Gurfein</author>
+					<date>undated</date>
+				</bibl>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Encoded for the Experiencing War web site, "Special Bonds" release, for the Veterans History Project, 11/7/2003.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>All cards in the Gurfein collection were digitized.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<p>Documents are transcribed with minimal changes to the original text in an effort to preserve original appearance, content, and idiosyncrasies of composition.  Period language and terminology are also retained.  Transcription is literal with regard to the writer's capitalization, punctuation, spelling, and visible corrections (i.e. crossed out words).   Spelling errors are indicated with [sic]; however, recurring errors in spelling or grammar within  a single document have been marked the first time and and not subsequently.  Crossed out words are presented {in braces}.  Any special emphasis (i.e. underlining) is presented *between asterisks*.  When the writer spells out the word "and" it appears spelled out; when a symbol is used for "and" the editor used the ampersand.</p>
+				<p>Alterations to the original text are consistent throughout and all editorial comments appear in [square brackets]: a single space is placed between sentences, nontextual symbols (circled page numbers, scribbles, etc.) have been changed to plain typographical characters when possible or omitted with a note, obvious slips of the pen have been silently corrected, and malformed letters are presented as the intended letter, based on spelling and context.  All superscripts and underscored superscripts have been lowered to the regular line of text and are not underscored.  Single word interlineations are indicated with a single caret (^) before the word; multiple word interlineations are presented ^surrounded by carets^.</p>
+			</editorialDecl>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<!-- begins encoded document -->
+		<body>
+			<div0 type="card" id="Gurfein35" n="35">
+				<!-- entire document is designated as lettertext rather than further dividing -->
+				<pb id="pm0035001" n="1"/>
+				<p>*This* valentine went to <name type="place" key="PFR" reg="Paris, France">Paris</name>,/ and *this* valentine went to Rome,/ and *this* one is off to <name type="place" key="K" reg="Korea">Korea</name></p>
+				<pb id="pm0035002" n="2"/>
+				<p>But the *next* one just wants to *stay home!*</p>
+				<p>With all my dearest love,</p>
+				<p>
+					<name type="person" key="MRG" reg="Gurfein, Marion Reh">Marion</name>
+				</p>
+			</div0>
+		</body>
+	</text>
+</TEI.2>

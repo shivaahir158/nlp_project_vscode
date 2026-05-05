@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2
+  PUBLIC "-//TEI//DTD TEI Lite XML ver. 1//EN" "http://lcweb2.loc.gov/natlib/schemas/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interview with William C. Chesney, 12/26/2005</title>
+            <author>Eugene Green and Judy Myler [transcriber]</author>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Matt McCrady</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Interview with William C. Chesney</title>
+               <author>Eugene Green and Judy Myler [transcriber]</author>
+               <date>12/26/2005</date>
+            </bibl>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Encoded for the Experiencing War web site for the Veterans History Project.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>The recording of the interview with William C. Chesney was digitized.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>This transcription was encoded with minimal changes to the original text in an effort to preserve original content and idiosyncrasies of the person interviewed.  Period language and terminology are also retained.  Encoding is literal with regard to the transcriptionist's capitalization, punctuation, and spelling.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>Interview with William C. Chesney [12/26/2005]</head>
+            <div2>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>I am an interviewer for the Veteran's History Project. I am doing this for RSVP. I am interviewing Bill Chesney at his home at Michigan. There is no one at present time home with us. We will continue.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Okay Bill, were you drafted or did you enlist?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>I was drafted.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Where did you live prior to going into service?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Bay City.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Do you recall your first days in the service?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Did you come with a group from Marquette?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>A group from Saginaw.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>That's right, you were living there. And what did you do after you raised your hand and said I do?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>I went to Camp Sheridan.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>You said you were at Camp Sheridan. Anything happen there that was interesting or that you remember?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Every time you turned around you got a shot. Sometimes you didn't get a chance to turn around.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Could you lift your arm?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Only the next couple of days were kind of sore.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Do you remember your instructors?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Which war did you serve in?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>I started out in field artillery.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>And that was in World War II?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Yah. I went from Sheridan to Fort Leonard Wood. At Fort Leonard Wood I ended up in the service squadron.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Expand on that a little bit. Now was that part of your boot training or was that part of a further education type thing?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Part of Boot training.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Anything interesting in there that?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>No, just the usual crap.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>You get a lot of that. So you were in field artillery then?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>At that point I was in field artillery. I started out in ... battery and then transferred to headquarters. The reason I transferred to headquarters was because I knew something about radio. They were in dire need of somebody who knew something about electronics. So we had some of the real old World War I transceivers, the kind with cheap antenna and the hand crank. So we found out that they had a whole bunch of radios over at the service area so my sergeant and myself went over and I told him which ones to take back. I said let's take the guts out of this one, that one and that one. So there were three power supplies that we could be use and we could hook them up to radio supply. So back in those days first things were two separate chassis, power supply chassis and the radio chassis. And I was in for the power supplies. We had meters so we could figure out what the hell we had and these damn old things were bad so we could change the tac and you change the voltage. So we proceeded to do so and separate the radios from the power. Power up some ofthe old and we came out with some new stuff. Can't do any damn thing now. This was 165. So we had a lot of fun with that.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>This was in your basic training right there on that.</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Around that area. Yah, at basic training at battery. And I moved up to headquarters to work on radios.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Anything happen there, you talk about your sergeant. Have you got any stories from the instructors that you had during that period?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>No. Remember this was a National Guard outfit. There was a staff sergeant there from St. Charles. And he had a radio repair shop when he got drafted. He was a sharp fellow. What I learned a lot from him. What happened from here was considerable. So we had all these radios that had been given. He knew the pieces and the prices we got from salvage. And modified the power supplies. Maybe you saw pictures of ones we had. Anyhow this sergeant from St. Charles was a pretty sharp boy. I had enough experience on some of this stuff. I was working on power supply side. When it came to trying to do something on the radios themselves I wasn't so sharp. Anyway we had a lot of fun.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>You served in World War II. Can you give me the places where you were? Just a real short, you said you were in Canada and then in the Aleutians, anyplace else?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>No. When we came back, a different can of worms. We started out on the west coast and we were on the train all the way home. But no everyplace I went I didn't wait for somebody to give me a job. I found one.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>What was job assignment when you got to Canada?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>I carried two specs at that point in time. Radio instructor and radio repaIrman.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Were you teaching Americans and Canadians?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Just Americans. We got to Camp Edwards and we spent about six weeks there. Found out the guy that ran the telephone exchange didn't know what the hell he was doing. As an ex-telephone man, boy oh boy I thought I would have ajob right now. I said where' s the specs on these things. There should be a book around here someplace about how it worked. He said it's around here someplace. Scratched around and found it. Discovered that the power supply was thirty two volts and the equipment needed forty eight. So thirty two and twelve is forty four. We had, who's that (Bill's son came overrsentence was lost. When we came back)</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Did you see any combat all? Any infiltration or anything like that?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>No. Just one day when a submarine came up along side the island. Didn't identify himself immediately. Had the anti-aircraft down ready to shoot him when he finally identified.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Tell me about your most memorable experience in the Aleutians? I've interviewed a couple guys from the Aleutians and they've really had some good background stories.</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Well, I was wire chief on shift of all the telephone stuff. We made a pact with the transportation unit and so the first thing I did was get involved with their NCO's and see what they were up to. They were some of the biggest black boys I had ever met. We were on a personal basis very shortly. Hugh was one of the guys. I said let's go eat so we went over to the mess hall. And man did they have some good food.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>They let you in but they wouldn't let him in because you were white?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>It was an interesting type of operation. They were transportation people. Of course, they never did things the way they were supposed to do .... One of their boys got killed, looked like he had a bullet hole in his forehead. Oh, for God's sake. The backside of a mirror. Anyway we fished him out of the ocean, a hole in his forehead. Didn't take long to figure out what that was. So anyway we got ahold of the Sergeant whose name was Hugh. I said you better tell these guys to get those mirrors up high enough so they hide a guys head. I said we just fished a guy out of the ocean with a hole in his forehead. ... That's the downside. I fixed it. ... But anyway he had a storage area with bombs and we were close to a thousand of the damn things .... Into this cave and took some dynamite and set a whole pile off and blew the cable up .... We got all the black guys to pick up the pieces. Anyway we finally got the breakwater all fixed up. So the boys on the radar stood up when the strike came in ....</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Were you awarded any medals or citations? Now I do remember that Alaska gave a certificate out for all the people on the Aleutians for protecting Alaska. And there was the Good Conduct Medal and I thought there was an American Defense.</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>I think there was. I don't know really. I know I got the Good Conduct Medal because it wasn't that hard.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>What was life like up there? What did you do, how was the barracks, how was the life?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>The barracks were Quonset huts. We had five guys in a Quonset hut. Wood stove for heat. Five gallon cans of water. Of course, the water was chlorinated. So we'd take a five gallon can of water and set it on the stove and boiled it to get the chlorine out. Poured it from one can to another to carry it. ... And ways and means of getting equipment so ... I'd horse trade. I'd get electrical conduit and romax. When we got it all wired up the lieutenant walked in. And guess what, Hey Bill how about coming over doing my place. So I went over and wired up his place. I was most happy to do it. I was wire chief so I had a line crew, all the operators reported to me. So after six or seven months I ... The head honcho ... You have a family some place you need the money. I said thanks anyway. So he set up the schedules for the operators. Line crew switched places. So we did a good job on that.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>How did you keep in touch with your family?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>From there by mail. And after I had served about six months up there we got a new signal officer, and he went through the roster and picked out all the Bell guys and transferred them back to Anchorage. So I go back to Anchorage there was telephone services. I talked to my wife and asked her when she was going over to see my folks and she said she was going over there on Saturday night. So I put in for some time on the telephone on Saturday night and called my folks where she was at and talked to mother and dad and to Dee for a while. It was an interesting evening.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>That's good when you get into something like that.</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>After I got out of the service I kept working for Bell. I got my first class radio telephone license and every time we got a chance to use a first class radio I was one of the guys they called for.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Did you get plenty of supplies, material that kind of stuff for your job?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Did you feel any stress up there other than being away from your family?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Well, we had an inspection. And I didn't know who in the hell the inspector was. Come to find out he was the Chief Toll Tester from St. Louis, Missouri. He looked at me and he said well... Anyway he and I got along fine. He was a telephone man and so was I. If it makes any difference. Anyway my experience with him was very good. Our security man was a first lieutenant; I don't where the hell he was from. I know he ended up in West Virginia. After the war he called me one time. We had a strike going on and I was working on the board. The other guy down on the board said hey Bill this guy here wants to talk to you. It's so and so. Oh, he's down in West Virginia and he's on the switchboard down there. So we chatted for about a half an hour and I talked to him once again after that. I don't know what the hell happened to him. I never heard from him again. And then I don't' know if he died or just old age.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Bill, did you carry something for good luck? Anything that you had in civilian life, or something, like a rabbit foot</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Carried a picture of my wife.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>That's what a lot of guys say. They got the question down here. It's interesting some of the answers I get. Okay, how did you entertain yourselves? I mean it's got to be pretty boring up there when it's dark twenty four hours a day.</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Between my splicer and myself we put up an antenna between the entrance poles, which was about fifty yards from where, the Quonset hut where our switchboard was at. And I had a long wave radio from the special services. So I had an antenna and we drove a ground wire outside my room ... and there was some what do you call them, there were ten stations in the United States high powered and they were the only ones that were on at night. I could pick up two of them. One was Salt Lake City. One was in Mexico .... Anyway it was Salt Lake City, that was one of the best ones I could receive. And we could get Seattle once in a while. We couldn't get Detroit. Anyhow we had a lot of fun playing with all that stuff.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Were there any entertainers brought in for entertainment, USO or any of that kind of stuff?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>We had a band come in but I can't remember his name. I had breakfast with the leader of the band one time. But now I can't recall his name. But we went to one of the theaters, took over the theater, it was in .... And he said have you got any microphones? I said sure. He said well, let's see if we can make one of them work. So he brought a microphone amp with a bunch of cable and brought it up to the film room. ... So we tried a mike with the amplifiers and one of them had a volume control. The rest of the stuff was permanently wired. So we tried the mike and it worked. So we had a mic cable in the movie room and on the main floor and they put on a show for us that night. I had breakfast with him the next morning. And we chatted back and forth and found out we had some mutual friends. The father of one of the guys I went to school with, Clarence, I don't remember his name ... But anyway Clarence was with one of the bands and years later after the war we met him and we found out that he was with Shep Fields and played clarinet. I went to school with one of his kids and I was in love with his daughter. She never knew it. And I wasn't smart enough to follow it up. One day she came home with a boy friend. That was the end of that crush.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Well, looking at it, the wife you did end up with, you did quite well.</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>She was a beautiful girl, very beautiful girl.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Very pretty.</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Not only pretty, she was smart. She was talented and she was one hell of a gal.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Did you go on any leaves? Did you get into Alaska at all on leave or while you were on the island?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>No. I was on Alaska to start out with and then I went to Hirtion school. I was in the 13 th Signal Company in Alaska. I went to ... I was Chief Wire Chief.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>What rank did you end up with Bill?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>I was a Master Sergeant.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>How many years?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Five.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Five years, yeah, that's good.</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Yeah, we had some ... tried to go part way ... This was one of those random splicers so he had to take it to some repair where the repair was and then he had to take the other end back to town and have to splice it together. It took us a couple of days to get it all back together. Truck driver did it at night. Back in wood country.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>How about humorous? Something really, really funny, a lot ofha-ha's. I know we had quite a few when I was in. How about pranks? That goes right in the same pattern. Some pranks some guy pulled on somebody else or some group pulled on another.</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>I don't remember any humorous things that happened overseas.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>No pranks, no nothing. You guys were sure a good bunch of guys not like any I ever seen.</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>They were a big pain in the neck, most of them.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>What did you think of your officers and your fellow soldiers, the guys that you worked with?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>We had a captain that was a pain. He was always raising hell. And I said since you're always raising hell with all of us why don't you go back to the states. He said I'd love to. So I was on good terms with the chaplain so I said hey can you give us a helping hand. He said what do you mean a helping hand? I said send the captain back to the states, he wants to go back anyway and he's a pain in the ass, sir. About two weeks later he went back to the states.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>That's all right. I would like to have sent a couple of them I had. You were in the service when the war ended. So where were you and what were you doing on the day the war was over?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>I was sitting at the dress board. We had a dress board about yah wide and so high. You could stick a, patch a line in and test it. I had been testing lines we had, most of the problems we had were in the extensions the guys put on. We put a, I can't remember the name of it, doggone wires we use for, crazy, anyway you put an extension from the office to the .. extension and the W AA's disappeared over time. And I had made friends with two chiefs that were still on the island who were married and they had all sorts of food because they had their women there at one time and the food was there for their women. They had all good canned stuff. And it all started out when the switchboard quit. I got a call, hey sarge could you help us get our switchboard back in service. When I turned around to see if you got battery or anything anymore. Turned around to the guy and it was all white ash. It had deteriorated. So anyway I grabbed a four volt battery out of the stock, switchboard room. Finally got his switchboard working again. Boy did that payoff in the end. GREEN : You guys ate pretty good for a while.</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>I would say about six months. When he got ready to pullout he called me and said bring a six by six over. I said okay. So I went over with a six by six and crate after crate of canned stuff. And that's not the best part. He goes in his freezer and in the top of his freezer, he had plastic boxes full of steaks. So we had steak at midnight chow when the guys came off duty. The guys on daytime found about it they were madder than hell. We said well you talked yourself into working days so you wouldn't have to work nights.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>There's got to be an advantage for everything.</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Anyway, then one day we got a shipment in, we got fresh eggs. So everybody filled up on eggs. And we had toast and about a half dozen eggs .... about twenty foot long, the thing's real hot and then it cools off so everything goes down so the warm water on the other end and toast in the middle. It worked good. And I got the fresh eggs in and I think what ... happened was ... before we got through.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>What did you do in the days and weeks after the war was over?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Oh, hell, we packed up a lot of stuff to ship back to the states .... There was one box that we put together that had about one hundred telephones in it. Remember the square ones before they got the curves. Well, anyway, we crated up a box of those. Then we crated up a bunch of wires, all sorts of stuff that it took me years to get. The big crate, the last I saw of it, it was still sitting on the runway. So I never did know what happened to it. But there was inside wire, you know. There were lead sleeves that splicers need, I kept two, one short one and one long one. But anyway there were telephones in there, inside wire in there, boxes of .... , telephone .... ,jumpers and I don't know, all sorts of stuff.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Well, then, how long did it take before you, the war was over and you took off to go home?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Well, the war was over in September and I think I took off to go home the first of October. You know when that hurricane was, it hit Japan. You probably heard about it from somebody. Well, there was a hurricane that hit Japan, Okinawa, and then it trailed north. And eventually it hit us in the Indian Oceans. And so the hurricane was just about over, the ship got in and we loaded the ship to go back to the states. The David W. Branch, a banana boat, still smelled like bananas in some places. And we had, the hull was full of blacks, a transportation outfit. And there were probably about twenty of us were whites, so we ended up in cabins. And I looked around and didn't see my first three blacks anywhere around so I said you got three top sergeants down there amongst the blacks, get them up here and get them a place. So he said okay, what are their names? So I gave him the names and he went down and called them up to get their stuff and get to their cabins. So anyway when we met I said do you guys have comfortable quarters. They said ya, what did you have to do with it. I told him to go get you and get you a cabin. So anyway we parted good friends when we got back to the states. I never heard from them again. The only one I heard from was a crazy staff sergeant. He had a wild sense of humor and he was always pulling something. But he was picking on the top sergeants any way he could. He was a staff sergeant. So I don't know how he finally ended up. He was still a staff sergeant when he got back to the states I remember that much.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Did you go back to work or did you go back to school?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>I went right back to work</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>You went right back to the same job?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Yeah, I got out of the army on the lih of December and I went to work on the last week of December. So I got a year's seniority by going back at that time.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Did you have any trouble going back into civilian?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Do you, did you use any of your G. 1. Schooling at all?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>I did some map work. And damned near ruined that. And then I got involved in something else at home and never finished it. About a month later I got a letter, if you don't turn in some of that work within the next month, we'll cancel the whole thing. So I dug in to it and I finally got it finished so I turned it in and got credit for it. That's the only thing I did with it.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Did you make any close friends in the service? CHESNEY : Yeah, I made two. The only two real friends I made were guys from Washington and Oregon, hell ofa long way from Michigan. We went out to see them. The day we got out there Ralph got a call and the guy in Oregon died. So instead of going to see him we went out and buried him.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Were you guys still in uniform?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>No. I still keep in touch with his wife. Once in a while I'll call her. My telephone service that I've got today is real handy. This spring, I think it was this spring anyway, last fall, this was last fall SBC came along and gave us full coverage in the United States and Canada. For free. So like I say every now and again I call one of the gals. One has died and but Beverly is still alive. She was a widow of the fIrst one that died. I still keep in touch with her. Once in a great while I'll call her.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>You're still calling them and still talking to them. Good. Did you join any veteran's organizations?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Forty-four.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>American Legion?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>American Legion. I'm not totally impressed with them.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>How long were you a member?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Still am.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>You're a life member? Got a life member certifIcate?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>No. I pay about thirty dollars a year.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Did your military experience, did that influence your job and what you did after the war?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Quite a while after. I worked in the test center in Saginaw. I was a toll test man working on long distance phone. And my boss came along and said Joe Love wanted to see me. So I went up to see Joe and said what's on your mind. He said how would you like to go to Marquette. I said when. He said the fourth of July. I said fIne. This was about the second week of June. So anyway he said take Dee Ann up there and fInd yourself a place to live. So I took my wife and Patty still kicking around. We stayed in a motel for a few days and met a character, Neil Nystrom, real nice, and his mother was in real estate. So we got together with her and went by rentals. She had three and most of them were bad. So I said well what have you got in the way of houses to sell. So she took us around the comer and showed up this one. I said well what do you want for it. She said $27,000. So I waited to see what I could get for mine, we had one just like this one in Bridgeport Michigan. So I called one of my friends who was a realtor down there and told him to see what he could get for it. He called me back in a couple of days later and he said I got $27,000 for it. By the time I got through with this one here it was $28,000. But a pretty nice house so we bought this. Sold the one down there for $27,500. So it wasn't too bad. Let's see what else. Oh. Neil Nystrom worked in storage here in town .... He used to big around as a house and the doctor told him Neil you are going to die this year if you don't lose some of that fat. He proceeded to lose about two hundred pounds. He weighs about 140 pounds now. Saw him the first time this past year and didn't know him.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Have you gone to any reunions from the military?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Nope. We started to go out west and have a reunion with the two guys out there and got out there and one of them died. So I spent a couple weeks there. But I put my back out when I was fixing tires and could hardly get around. So Ralph said you shouldn't have gone to a motel, come to my house. So I went over to his house. He had a rec area down there. He had a bed down there. We had their bedroom. So I got in touch with a chiropractor there. And He worked me over and got my back to the point where I could get around good. Still sore but I got around all right. We stayed with Ralph. Anyway we stayed there about two weeks, ... muddy water country, Seattle all the way down. Ralph had built a house there before the war. It's up on a hill. So anyway I kicked my back out and we stayed with them two weeks. Betty, she made all my favorites. Ralph and Betty .... These are cherry cottons of all the things I liked so she made copies of those for Ralph and Betty. And then after a couple of weeks we started for home. By that time my back was doing pretty good. We stopped into a motel in Canada. I got under the shower and stayed there for about an hour. And the next morning I got up and my back wasn't hurting anymore and I got in the car and started drive back across Canada to go home. I went across to Calgary. I looked at the map and I tried to pick up a highway down in Michigan, or Wisconsin rather. So the next day we picked up our dishes and started home. And we were at Calgary and came down here in to North Dakota. We went through North Dakota into South Dakota, found a motel there and spent the night, got up the next morning and went home.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Well, Bill, is there anything else that you would like to add? You went through quite a bit of stuff here. Is there anything that you would like to add, anything that raised in your mind? Something that wasn't covered so far?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>No. I guess the only thing I would like to say is that my experience in the telephone company did me well in the service. I was, when we were coming back across down into Canada from Calgary I stopped at .... and they said oh you're from Michigan. And I said, yah. Do you know so and so? Sure I know so and so. One of the guys in our business office in Traverse City. Well, she said when you see him the next time tell him you saw his cousin. Anyway I told him that when I did see him and he said where in the hell was she? I said she was running a boarding ... can' remember where it was now. Near the customs place. Found out she was his cousin.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Nothing else you can think of, Bill? I just want to thank you for letting me have the interview. I think we got pretty much of your story while you were in the service and I really appreciate it.</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>One thing you missed. I got married in the service.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Oh, you were in the service when you got married?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>Yeah, I was in Fort Leonard Wood. And I went to radio school in Kansas City. Dee came out and we got together for a couple of days and she went back to Bay City. About a month later she came out and we got married.</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>In a military or civilian church?</p>
+               </sp>
+               <sp>
+                  <speaker>William C. Chesney</speaker>
+                  <p>I was married in a civilian but I was in the military at the time. We were married in ... Holy Trinity Cathedral in Kansas City Missouri. We had a two day honeymoon. She went back to Bay City and I went back to Fort Leonard Wood. Shortly after that I got transferred to Fort ... So I was floating around for about six months and from there I could call Dee collect. That got to be too much of a good thing, our telephone bill. So anyway instead of calling her I wrote copious letters. Just before I went into service we bought a car, 1941 Ford, so she came out and brought a friend of hers and her brat. She was a brat. Anyway I had an A T and T credit card and gave her the numbers off it and she called me from someplace in Pennsylvania and said I'm coming in tonight but I don't know what time I'll get there. I said well when you get to Fort Monmouth. She got in there about seven 0' clock. She had this gal and her brat of a kid and I said to her well what are you going to do with her. She said I'm going to take her down and put her on a bus. How do I get to the bus station? I said you have to go to Asbury Park. Go on Oceanside Blvd. until you get to Asbury Park. You'll have to ask for directions when you get there. So she did that and she was gone about three quarters of an hour. She came back and we had dinner and went to bed. What else? We had been apart for a year, about a year. Well, anyway, the next morning we had breakfast together in my apartment. And we lived there for a couple years until I got out of the service. And we had bought a 1941 Ford and that's what we went home in. I had accumulated C stamps so I had about one hundred gallons and I still had C stamps I didn't use. So anyway I went down to the gas station where I always traded and filled up the tank and they filled up a ten gallon tank in the back trunk. Knock a hose down into the tank, ran a hose from the spigot to the ten gallon tank and went down to my favorite gas station and I figured I'd get about 20 miles per gallon. I figured out how far I was from home, kept enough stamps to get me home and gave the rest to the guy for taking care of me. And Dee and I loaded up and we had that car loaded to the ceiling and we came home. Now does it pass inspection? But anyway we finally loaded up the car and the trunk and still had my ten gallon tank and went to my favorite gas station and loaded up the car with gasoline and got a spare can of oil and we started out for Bay City or Saginaw, guess we ended up in Saginaw that time. Anyway it was a pleasant trip home. I was cruising across Ohio at about sixty five and a state trooper goes by this way. I put on my cap and kept right on going sixty five. Pretty soon he got alongside of me and I saw his light come on. I saw him looking and he turned out the light and went by me and kept right on going. He went by me and we stopped for coffee and he was there and he said what's the matter, that thing couldn't go any faster?</p>
+               </sp>
+               <sp>
+                  <speaker>Eugene Green</speaker>
+                  <p>Well, thanks again Bill, thank you for letting me spend the afternoon here. I think we did quite well.</p>
+               </sp>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>
