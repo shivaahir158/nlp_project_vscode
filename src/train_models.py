@@ -11,6 +11,9 @@ from sklearn.pipeline import Pipeline
 from sklearn.metrics import mean_absolute_error, r2_score
 
 
+# =========================
+# FEATURE GROUPS
+# =========================
 TRADITIONAL_COLS = [
     "ttr", "mattr", "avg_word_len", "total_words",
     "avg_sent_len", "std_sent_len", "avg_dep_depth", "subord_ratio",
@@ -28,6 +31,9 @@ DLATK_COLS = [
 ]
 
 
+# =========================
+# MODELS
+# =========================
 def get_models():
     return {
         "Ridge": Pipeline([
@@ -49,7 +55,12 @@ def get_models():
     }
 
 
+# =========================
+# CORE EVALUATION
+# =========================
 def evaluate_feature_set(df, feature_cols, setup_name, output_dir):
+
+    # keep only valid numeric columns
     feature_cols = [
         c for c in feature_cols
         if c in df.columns and pd.api.types.is_numeric_dtype(df[c])
@@ -69,41 +80,92 @@ def evaluate_feature_set(df, feature_cols, setup_name, output_dir):
     cv = KFold(n_splits=5, shuffle=True, random_state=42)
     models = get_models()
 
-    results = {}
-    best_name = None
     best_model = None
+    best_name = None
     best_mae = float("inf")
 
     for name, model in models.items():
-        mae_scores = -cross_val_score(
-            model, X, y, cv=cv, scoring="neg_mean_absolute_error"
-        )
-        r2_scores = cross_val_score(
-            model, X, y, cv=cv, scoring="r2"
-        )
+        mae = -cross_val_score(model, X, y, cv=cv, scoring="neg_mean_absolute_error")
+        r2 = cross_val_score(model, X, y, cv=cv, scoring="r2")
 
-        results[name] = {
-            "Setup": setup_name,
-            "Samples": len(df_m),
-            "Features": len(feature_cols),
-            "MAE": mae_scores.mean(),
-            "MAE_std": mae_scores.std(),
-            "R2": r2_scores.mean(),
-            "R2_std": r2_scores.std(),
-        }
+        print(f"{name:18s} MAE: {mae.mean():.3f} | R2: {r2.mean():.3f}")
 
-        print(
-            f"{name:18s} MAE: {mae_scores.mean():.3f} | "
-            f"R2: {r2_scores.mean():.3f}"
-        )
-
-        if mae_scores.mean() < best_mae:
-            best_mae = mae_scores.mean()
-            best_name = name
+        if mae.mean() < best_mae:
+            best_mae = mae.mean()
             best_model = model
+            best_name = name
 
+    # predictions
     y_pred = cross_val_predict(best_model, X, y, cv=cv)
 
+    # =========================
+    # FEATURE IMPORTANCE
+    # =========================
+    safe_name = setup_name.lower().replace(" ", "_").replace("+", "plus")
+
+    if isinstance(best_model, RandomForestRegressor):
+
+        print("\nExtracting feature importance...")
+
+        rf = RandomForestRegressor(
+            n_estimators=200,
+            max_depth=10,
+            random_state=42
+        )
+        rf.fit(X, y)
+
+        importances = pd.Series(rf.feature_importances_, index=feature_cols)
+        importances = importances.sort_values(ascending=False)
+
+        print("\nTop 15 Important Features:")
+        print(importances.head(15))
+
+        importances.to_csv(output_dir / f"{safe_name}_feature_importance.csv")
+
+        plt.figure(figsize=(8, 6))
+        importances.head(15).plot(kind="barh")
+        plt.gca().invert_yaxis()
+        plt.title(f"Top Features - {setup_name}")
+        plt.tight_layout()
+        plt.savefig(output_dir / f"{safe_name}_feature_importance.png", dpi=150)
+        plt.close()
+
+    # =========================
+    # ERROR ANALYSIS
+    # =========================
+    print("\nPerforming error analysis...")
+
+    df_error = df_m.copy()
+    df_error["pred_age"] = y_pred
+    df_error["error"] = y_pred - y
+    df_error["abs_error"] = np.abs(df_error["error"])
+
+    print("\nTop 10 worst predictions:")
+    print(
+        df_error[["age", "pred_age", "abs_error"]]
+        .sort_values("abs_error", ascending=False)
+        .head(10)
+    )
+
+    error_corr = df_error[feature_cols].corrwith(df_error["abs_error"])
+    error_corr = error_corr.dropna().sort_values(ascending=False)
+
+    print("\nTop error-correlated features:")
+    print(error_corr.head(10))
+
+    error_corr.to_csv(output_dir / f"{safe_name}_error_correlation.csv")
+
+    plt.figure(figsize=(8, 6))
+    error_corr.head(10).plot(kind="barh")
+    plt.gca().invert_yaxis()
+    plt.title(f"Error Analysis - {setup_name}")
+    plt.tight_layout()
+    plt.savefig(output_dir / f"{safe_name}_error_analysis.png", dpi=150)
+    plt.close()
+
+    # =========================
+    # FINAL METRICS
+    # =========================
     final_mae = mean_absolute_error(y, y_pred)
     final_r2 = r2_score(y, y_pred)
     within_5 = (np.abs(y_pred - y) <= 5).mean() * 100
@@ -113,73 +175,55 @@ def evaluate_feature_set(df, feature_cols, setup_name, output_dir):
     print(f"Final R2: {final_r2:.3f}")
     print(f"Within 5 years: {within_5:.1f}%")
 
-    safe_name = setup_name.lower().replace(" ", "_").replace("+", "plus")
-
+    # prediction plot
     plt.figure(figsize=(6, 6))
     plt.scatter(y, y_pred, alpha=0.6)
     plt.plot([y.min(), y.max()], [y.min(), y.max()], "r--")
     plt.xlabel("Actual Age")
     plt.ylabel("Predicted Age")
-    plt.title(
-        f"{setup_name}\n{best_name}: MAE={final_mae:.3f}, R2={final_r2:.3f}"
-    )
+    plt.title(f"{setup_name} ({best_name})")
     plt.tight_layout()
     plt.savefig(output_dir / f"{safe_name}_pred.png", dpi=150)
     plt.close()
 
-    summary = {
+    return {
         "Setup": setup_name,
         "Best_Model": best_name,
         "Samples": len(df_m),
         "Features": len(feature_cols),
-        "Final_MAE": final_mae,
-        "Final_R2": final_r2,
+        "MAE": final_mae,
+        "R2": final_r2,
         "Within_5_Years": within_5,
     }
 
-    return pd.DataFrame(results).T, summary
 
-
+# =========================
+# MAIN DRIVER
+# =========================
 def train_and_evaluate(df, output_dir="outputs"):
+
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
     bert_cols = [c for c in df.columns if c.startswith("bert_pc")]
 
-    traditional = TRADITIONAL_COLS
-
-    traditional_plus_bert = TRADITIONAL_COLS + bert_cols
-
-    traditional_plus_bert_dlatk = TRADITIONAL_COLS + bert_cols + DLATK_COLS
-
     experiments = {
-        "Traditional Only": traditional,
-        "Traditional + BERT": traditional_plus_bert,
-        "Traditional + BERT + DLATK": traditional_plus_bert_dlatk,
+        "Traditional Only": TRADITIONAL_COLS,
+        "Traditional + BERT": TRADITIONAL_COLS + bert_cols,
+        "Traditional + BERT + DLATK": TRADITIONAL_COLS + bert_cols + DLATK_COLS,
     }
 
-    all_results = []
     summaries = []
 
-    for setup_name, cols in experiments.items():
-        result_df, summary = evaluate_feature_set(
-            df=df,
-            feature_cols=cols,
-            setup_name=setup_name,
-            output_dir=output_dir,
-        )
+    for name, cols in experiments.items():
+        result = evaluate_feature_set(df, cols, name, output_dir)
+        summaries.append(result)
 
-        all_results.append(result_df)
-        summaries.append(summary)
-
-    full_results = pd.concat(all_results)
     summary_df = pd.DataFrame(summaries)
-
-    full_results.to_csv(output_dir / "ablation_all_model_results.csv", index=True)
     summary_df.to_csv(output_dir / "ablation_summary.csv", index=False)
 
     print("\n" + "=" * 60)
-    print("FINAL ABLATION SUMMARY")
+    print("FINAL SUMMARY")
     print("=" * 60)
     print(summary_df)
 

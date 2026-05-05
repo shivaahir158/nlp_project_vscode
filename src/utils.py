@@ -17,13 +17,15 @@ def safe_get(url, **kwargs):
         "User-Agent": "VHP-Transcript-Scraper/1.0 academic research"
     }
 
-    for attempt in range(6):
+    for attempt in range(8):
         try:
-            resp = requests.get(url, headers=headers, timeout=30, **kwargs)
+            resp = requests.get(url, headers=headers, timeout=60, **kwargs)
 
-            if resp.status_code == 429:
-                wait = (2 ** attempt) * 10
-                logger.warning(f"429 rate limit. Waiting {wait}s...")
+            if resp.status_code in [429, 500, 502, 503, 504]:
+                wait = min((2 ** attempt) * 10, 120)
+                logger.warning(
+                    f"Server/rate-limit error {resp.status_code}. Waiting {wait}s..."
+                )
                 time.sleep(wait)
                 continue
 
@@ -32,15 +34,19 @@ def safe_get(url, **kwargs):
             return resp
 
         except HTTPError as e:
-            if getattr(e.response, "status_code", 0) == 429:
-                wait = (2 ** attempt) * 10
-                logger.warning(f"429 rate limit. Waiting {wait}s...")
+            status = getattr(e.response, "status_code", None)
+
+            if status in [429, 500, 502, 503, 504]:
+                wait = min((2 ** attempt) * 10, 120)
+                logger.warning(f"HTTP error {status}. Waiting {wait}s...")
                 time.sleep(wait)
                 continue
+
             raise
 
         except Exception as e:
-            logger.warning(f"Network error: {e}. Retrying...")
-            time.sleep(2 ** attempt)
+            wait = min((2 ** attempt) * 5, 60)
+            logger.warning(f"Network error: {e}. Retrying in {wait}s...")
+            time.sleep(wait)
 
-    raise Exception(f"Request failed after retries: {url}")
+    raise Exception(f"Request failed after multiple retries: {url}")

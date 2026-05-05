@@ -256,3 +256,6 @@ Traditional linguistic features provide a basic baseline, but their performance 
 The best performance is achieved using Traditional + BERT + DLATK features with Random Forest. This setup obtains the lowest MAE, the highest R², and the best within ±5 years score.
 
 These results show that transcript-based features can be useful for age prediction, but advanced semantic and linguistic features provide a clear improvement over traditional features alone.
+=======
+These results show that transcript-based features can be useful for age prediction, but advanced semantic and linguistic features provide a clear improvement over traditional features alone.
+
