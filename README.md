@@ -198,10 +198,7 @@ The results show a clear progression:
 - BERT embeddings introduce strong semantic understanding and improve performance.
 - DLATK features further refine predictions by adding linguistic and psychological signals.
 
-Overall, the best performance is achieved by combining all feature types. The improvement in MAE, R², and accuracy shows that age prediction from text benefits from both semantic and stylistic information.
+the best performance is achieved by combining all feature types. The improvement in MAE, R², and accuracy shows that age prediction from text benefits from both semantic and stylistic information.
 
-<<<<<<< HEAD
-We could say that these results show that transcript-based features can be useful for age prediction, and advanced semantic features provide a clear improvement over traditional linguistic features.
-=======
-The consistent success of Random Forest also highlights that the relationship between language and age is non-linear and requires models that can capture complex patterns.
->>>>>>> f45e634 (updating readme with ablation studies and experiments)
+We could say that these results show that transcript-based features can be useful for age prediction, and advanced semantic features provide a clear improvement over traditional linguistic features. The consistent success of Random Forest also highlights that the relationship between language and age is non-linear and requires models that can capture complex patterns.
+
