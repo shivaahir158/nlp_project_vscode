@@ -20,11 +20,9 @@
 
 ### Explanation
 
-The traditional linguistic baseline uses only transcript-based features. Ridge Regression performs best in this setup, which suggests that the basic linguistic features mostly capture simple linear patterns.
+The traditional setup uses only transcript-based linguistic features. Ridge Regression performs best, which shows that the signal captured here is mostly linear.
 
-The MAE of 3.222 means the model is off by about 3.2 years on average. The within ±5 years accuracy of 78.0% shows that many predictions are reasonably close.
-
-However, the negative R² means the model is still weak at explaining age variation in the data. In simple words, the model is making useful predictions, but it is not yet learning strong age-related patterns.
+The MAE of about 3.2 years means predictions are reasonably close. However, the negative R² shows the model is not learning strong patterns and struggles to explain variation in age.
 
 ---
 
@@ -48,20 +46,18 @@ However, the negative R² means the model is still weak at explaining age variat
 
 ### Explanation
 
-After adding BERT embeddings and DLATK-style features, the model improves.
+Adding BERT embeddings and DLATK-style features improves performance.
 
-The MAE improves from 3.222 to 3.126. The within ±5 years accuracy also improves from 78.0% to 78.9%.
+The MAE drops from 3.222 to 3.126. Accuracy within ±5 years also improves slightly.
 
-The best model changes from Ridge Regression to Random Forest. This is important because it suggests that the added semantic and sentiment features contain more complex patterns. Random Forest can capture these non-linear relationships better than a simple linear model.
-
-The R² becomes slightly positive, which means the model is starting to learn meaningful structure from the data.
+The best model changes to Random Forest, which shows that the new features introduce non-linear patterns. The R² becomes slightly positive, meaning the model starts learning meaningful structure.
 
 ---
 
 ## 3. Larger Dataset Experiment
 
 **Input size:** N = 9000  
-**Usable training samples:** 132 samples
+**Usable samples:** 132
 
 | Model | MAE | MAE Std | R² | R² Std |
 |---|---:|---:|---:|---:|
@@ -79,46 +75,133 @@ The R² becomes slightly positive, which means the model is starting to learn me
 
 ### Explanation
 
-When the dataset size increases, the model is tested on more diverse samples. Because of this, the MAE increases from 3.126 to 3.535.
+With more data, the MAE increases slightly because the dataset becomes more diverse and harder.
 
-This does not necessarily mean the model became worse. It means the evaluation became more realistic. A larger dataset usually contains more variation, noise, and difficult examples.
-
-The important point is that the final R² becomes positive at 0.053. This suggests that the model is learning more general patterns instead of only fitting a smaller dataset.
-
-The within ±5 years accuracy drops to 74.2%, but the result is still reasonable because the task becomes harder with more varied data.
+This is expected. The important improvement is that R² becomes more positive, which means the model generalizes better instead of overfitting.
 
 ---
 
-## Comparison
+# 4. Feature Ablation Study
 
-| Experiment | Dataset Size | Best Model | Final MAE | Final R² | Within ±5 Years |
-|---|---:|---|---:|---:|---:|
-| Traditional Linguistic Baseline | 109 | Ridge | 3.222 | -0.048 | 78.0% |
-| BERT + DLATK Features | 109 | Random Forest | 3.126 | 0.023 | 78.9% |
-| Larger Dataset Experiment | 132 usable samples | Random Forest | 3.535 | 0.053 | 74.2% |
+To understand the contribution of each feature group, we perform a controlled ablation study.
 
 ---
 
-## Key Observations
+## 4.1 Traditional Features Only
+
+**Samples:** 133  
+**Features:** 19  
+
+| Model | MAE | R² |
+|---|---:|---:|
+| Ridge | 3.865 | -0.259 |
+| Random Forest | 3.627 | -0.131 |
+| Gradient Boosting | 4.039 | -0.354 |
+
+**Best Model:** Random Forest
+
+| Metric | Value |
+|---|---:|
+| Final MAE | 3.634 |
+| Final R² | -0.051 |
+| Within ±5 years | 73.7% |
+
+### Explanation
+
+Using only traditional linguistic features leads to weak performance.
+
+The MAE is relatively high and R² is negative. This confirms that basic features alone are not enough to capture age-related patterns effectively.
+
+---
+
+## 4.2 Traditional + BERT Features
+
+**Samples:** 133  
+**Features:** 29  
+
+| Model | MAE | R² |
+|---|---:|---:|
+| Ridge | 3.728 | -0.193 |
+| Random Forest | 3.444 | 0.004 |
+| Gradient Boosting | 3.666 | -0.186 |
+
+**Best Model:** Random Forest
+
+| Metric | Value |
+|---|---:|
+| Final MAE | 3.450 |
+| Final R² | 0.043 |
+| Within ±5 years | 75.2% |
+
+### Explanation
+
+Adding BERT embeddings gives a clear improvement.
+
+MAE drops from 3.634 to 3.450. R² becomes positive, which shows that semantic understanding from BERT helps the model learn meaningful patterns.
+
+---
+
+## 4.3 Traditional + BERT + DLATK
+
+**Samples:** 133  
+**Features:** 41  
+
+| Model | MAE | R² |
+|---|---:|---:|
+| Ridge | 3.686 | -0.141 |
+| Random Forest | 3.440 | 0.016 |
+| Gradient Boosting | 3.636 | -0.147 |
+
+**Best Model:** Random Forest
+
+| Metric | Value |
+|---|---:|
+| Final MAE | 3.447 |
+| Final R² | 0.066 |
+| Within ±5 years | 75.9% |
+
+### Explanation
+
+Adding DLATK features on top of BERT gives further improvement.
+
+The MAE improves slightly, and R² increases to 0.066, which is the best among all setups. This shows that sentiment, topic, and linguistic style features provide additional useful signals.
+
+---
+
+## 4.4 Final Ablation Summary
+
+| Setup | Best Model | Samples | Features | Final MAE | Final R² | Within ±5 Years |
+|---|---|---:|---:|---:|---:|---:|
+| Traditional Only | Random Forest | 133 | 19 | 3.634 | -0.051 | 73.7% |
+| Traditional + BERT | Random Forest | 133 | 29 | 3.450 | 0.043 | 75.2% |
+| Traditional + BERT + DLATK | Random Forest | 133 | 41 | 3.447 | 0.066 | 75.9% |
+
+---
+
+## Key Insights from Ablation
 
 | Observation | Meaning |
 |---|---|
-| BERT + DLATK improves MAE | Error decreases from 3.222 to 3.126 years |
-| Within ±5 years accuracy improves | Accuracy increases from 78.0% to 78.9% |
-| Best model changes to Random Forest | Advanced features contain non-linear patterns |
-| R² becomes positive | The model begins learning meaningful structure |
-| Larger data gives more realistic results | More samples introduce more variation and noise |
-| MAE increases on larger data | The task becomes harder with more diverse examples |
-| R² improves on larger data | Generalization becomes more stable |
+| BERT improves MAE significantly | Semantic features capture age-related patterns |
+| R² becomes positive after BERT | Model starts learning real structure |
+| DLATK gives additional gains | Linguistic style and sentiment add value |
+| Random Forest is consistently best | Non-linear modeling is important |
+| More features improve generalization | Performance becomes more stable |
 
 ---
 
 ## Final Summary
 
-The traditional linguistic baseline already gives a reasonable starting point for age prediction using transcript-based features.
+The results show a clear progression:
 
-Adding BERT embeddings and DLATK-style linguistic features improves the model. The improvement in MAE, within ±5 years accuracy, and R² shows that semantic and sentiment-based information adds useful signals.
+- Traditional features provide a basic baseline but are limited.
+- BERT embeddings introduce strong semantic understanding and improve performance.
+- DLATK features further refine predictions by adding linguistic and psychological signals.
 
-On the larger dataset, the MAE increases slightly, but the positive R² shows better generalization. This means the model is learning more realistic patterns instead of only performing well on a smaller dataset.
+Overall, the best performance is achieved by combining all feature types. The improvement in MAE, R², and accuracy shows that age prediction from text benefits from both semantic and stylistic information.
 
+<<<<<<< HEAD
 We could say that these results show that transcript-based features can be useful for age prediction, and advanced semantic features provide a clear improvement over traditional linguistic features.
+=======
+The consistent success of Random Forest also highlights that the relationship between language and age is non-linear and requires models that can capture complex patterns.
+>>>>>>> f45e634 (updating readme with ablation studies and experiments)
