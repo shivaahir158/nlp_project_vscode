@@ -1,0 +1,289 @@
+============================================================
+ABLATION: Traditional Only
+============================================================
+Training on 133 samples
+Number of features: 19
+Ridge              MAE: 3.865 | R2: -0.259
+RandomForest       MAE: 3.641 | R2: -0.143
+GradientBoosting   MAE: 4.076 | R2: -0.386
+XGBoost            MAE: 3.778 | R2: -0.234
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+LightGBM           MAE: 3.851 | R2: -0.320
+CatBoost           MAE: 3.652 | R2: -0.154
+
+Extracting feature importance...
+
+Top 15 Important Features:
+avg_word_len           0.119187
+first_person_rate      0.105373
+mattr                  0.092624
+repetition_rate        0.066269
+subord_ratio           0.066138
+avg_sent_len           0.063958
+adj_ratio              0.059374
+filler_rate            0.050500
+cohort_rate            0.049014
+verb_ratio             0.048204
+total_words            0.046502
+std_sent_len           0.039018
+avg_dep_depth          0.037082
+pronoun_types          0.034231
+flesch_reading_ease    0.032387
+dtype: float64
+
+Performing error analysis...
+
+Top 10 worst predictions:
+     age   pred_age  abs_error
+128   94  81.202838  12.797162
+123   97  84.441198  12.558802
+65    97  84.984688  12.015312
+68    97  85.007687  11.992313
+132   95  83.677231  11.322769
+82    93  82.384117  10.615883
+97    94  83.526316  10.473684
+108   78  87.834719   9.834719
+127   76  85.495906   9.495906
+118   92  83.027808   8.972192
+
+Top error-correlated features:
+filler_rate          0.146498
+adj_ratio            0.118893
+mattr                0.066735
+subord_ratio         0.057115
+repetition_rate      0.049015
+ttr                  0.038807
+first_person_rate    0.036366
+std_sent_len         0.034162
+fk_grade             0.026017
+gunning_fog          0.025830
+dtype: float64
+
+Age-group error analysis:
+  age_group  samples       mae  mean_error   within_5
+0     70-79       21  5.637827    5.637827  33.333333
+1     80-89       95  2.308120    0.334834  92.631579
+2       90+       17  8.678987   -8.678987  17.647059
+
+Best model: RandomForest
+Final MAE: 3.648
+Final R2: -0.062
+Within 5 years: 73.7%
+
+============================================================
+ABLATION: Traditional + BERT
+============================================================
+Training on 133 samples
+Number of features: 29
+Ridge              MAE: 3.728 | R2: -0.193
+RandomForest       MAE: 3.454 | R2: -0.004
+GradientBoosting   MAE: 3.666 | R2: -0.188
+XGBoost            MAE: 3.437 | R2: -0.036
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+LightGBM           MAE: 3.600 | R2: -0.116
+CatBoost           MAE: 3.341 | R2: 0.021
+
+Extracting feature importance...
+
+Top 15 Important Features:
+bert_pc1             8.927266
+bert_pc6             8.289589
+bert_pc2             7.101173
+mattr                6.340479
+bert_pc4             4.861135
+bert_pc10            4.318835
+bert_pc5             4.300715
+first_person_rate    3.945108
+filler_rate          3.805296
+bert_pc7             3.787697
+ttr                  3.567336
+avg_word_len         3.526241
+repetition_rate      3.162407
+subord_ratio         3.051541
+std_sent_len         2.904363
+dtype: float64
+
+Performing error analysis...
+
+Top 10 worst predictions:
+     age   pred_age  abs_error
+123   97  82.874953  14.125047
+68    97  84.646076  12.353924
+82    93  81.645797  11.354203
+128   94  82.808276  11.191724
+65    97  86.254777  10.745223
+132   95  84.930367  10.069633
+109   95  85.168889   9.831111
+97    94  84.716553   9.283447
+21    91  82.525141   8.474859
+90    89  80.659006   8.340994
+
+Top error-correlated features:
+adj_ratio            0.181675
+filler_rate          0.117240
+bert_pc6             0.096039
+bert_pc3             0.079809
+bert_pc9             0.068939
+bert_pc7             0.067890
+mattr                0.060203
+repetition_rate      0.055082
+first_person_rate    0.044536
+bert_pc5             0.040299
+dtype: float64
+
+Age-group error analysis:
+  age_group  samples       mae  mean_error   within_5
+0     70-79       21  4.951962    4.951962  47.619048
+1     80-89       95  2.028070   -0.184459  97.894737
+2       90+       17  8.711755   -8.711755  11.764706
+
+Best model: CatBoost
+Final MAE: 3.344
+Final R2: 0.081
+Within 5 years: 78.9%
+
+============================================================
+ABLATION: Traditional + BERT + DLATK
+============================================================
+Training on 133 samples
+Number of features: 41
+Ridge              MAE: 3.686 | R2: -0.141
+RandomForest       MAE: 3.424 | R2: 0.014
+GradientBoosting   MAE: 3.621 | R2: -0.148
+XGBoost            MAE: 3.452 | R2: -0.039
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\utils\validation.py:2691: UserWarning: X does not have valid feature names, but LGBMRegressor was fitted with feature names
+  warnings.warn(
+LightGBM           MAE: 3.712 | R2: -0.157
+CatBoost           MAE: 3.351 | R2: 0.026
+
+Extracting feature importance...
+
+Top 15 Important Features:
+bert_pc6             7.133484
+bert_pc1             6.505448
+avg_word_len         5.104537
+bert_pc4             5.071170
+mattr                3.973039
+first_person_rate    3.926349
+bert_pc5             3.842200
+avg_sent_len         3.673981
+bert_pc10            3.663877
+ttr                  3.583975
+bert_pc2             3.526469
+vader_neg            3.245150
+vader_pos            2.958749
+bert_pc7             2.858965
+repetition_rate      2.840187
+dtype: float64
+
+Performing error analysis...
+
+Top 10 worst predictions:
+     age   pred_age  abs_error
+123   97  83.133625  13.866375
+68    97  84.880193  12.119807
+128   94  82.663678  11.336322
+65    97  86.406201  10.593799
+132   95  84.494207  10.505793
+82    93  82.517859  10.482141
+109   95  84.690477  10.309523
+127   76  85.626651   9.626651
+97    94  85.086350   8.913650
+21    91  82.670091   8.329909
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\lib\_function_base_impl.py:3023: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\lib\_function_base_impl.py:3024: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+Top error-correlated features:
+adj_ratio          0.166313
+vader_compound     0.139563
+vader_pos          0.132014
+filler_rate        0.114668
+bert_pc3           0.097661
+bert_pc6           0.083231
+repetition_rate    0.062393
+bert_pc9           0.060343
+bert_pc5           0.049128
+bert_pc10          0.032609
+dtype: float64
+
+Age-group error analysis:
+  age_group  samples       mae  mean_error   within_5
+0     70-79       21  5.188768    5.188768  47.619048
+1     80-89       95  2.032631   -0.156934  96.842105
+2       90+       17  8.468086   -8.468086  11.764706
+
+Best model: CatBoost
+Final MAE: 3.354
+Final R2: 0.078
+Within 5 years: 78.2%
+
+============================================================
+FINAL SUMMARY
+============================================================
+                        Setup    Best_Model  Samples  Features       MAE        R2  Within_5_Years
+0            Traditional Only  RandomForest      133        19  3.648185 -0.061989       73.684211
+1          Traditional + BERT      CatBoost      133        29  3.344043  0.080634       78.947368
+2  Traditional + BERT + DLATK      CatBoost      133        41  3.353545  0.078089       78.195489
+DONE
+                        Setup    Best_Model  Samples  Features       MAE        R2  Within_5_Years
+0            Traditional Only  RandomForest      133        19  3.648185 -0.061989       73.684211
+1          Traditional + BERT      CatBoost      133        29  3.344043  0.080634       78.947368
+2  Traditional + BERT + DLATK      CatBoost      133        41  3.353545  0.078089       78.195489

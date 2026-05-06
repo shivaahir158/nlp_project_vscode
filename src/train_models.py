@@ -3,12 +3,29 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
+from sklearn.base import clone
 from sklearn.linear_model import Ridge
 from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
 from sklearn.model_selection import cross_val_score, cross_val_predict, KFold
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import mean_absolute_error, r2_score
+
+# Optional advanced models
+try:
+    from xgboost import XGBRegressor
+except ImportError:
+    XGBRegressor = None
+
+try:
+    from lightgbm import LGBMRegressor
+except ImportError:
+    LGBMRegressor = None
+
+try:
+    from catboost import CatBoostRegressor
+except ImportError:
+    CatBoostRegressor = None
 
 
 # =========================
@@ -35,104 +52,107 @@ DLATK_COLS = [
 # MODELS
 # =========================
 def get_models():
-    return {
+    models = {
         "Ridge": Pipeline([
             ("scaler", StandardScaler()),
             ("model", Ridge(alpha=1.0)),
         ]),
+
         "RandomForest": RandomForestRegressor(
-            n_estimators=200,
+            n_estimators=300,
             max_depth=10,
             min_samples_leaf=2,
             random_state=42,
         ),
+
         "GradientBoosting": GradientBoostingRegressor(
-            n_estimators=200,
+            n_estimators=300,
             learning_rate=0.05,
             max_depth=3,
             random_state=42,
         ),
     }
 
+    if XGBRegressor is not None:
+        models["XGBoost"] = XGBRegressor(
+            n_estimators=300,
+            learning_rate=0.03,
+            max_depth=3,
+            subsample=0.8,
+            colsample_bytree=0.8,
+            objective="reg:squarederror",
+            random_state=42,
+        )
+
+    if LGBMRegressor is not None:
+        models["LightGBM"] = LGBMRegressor(
+            n_estimators=300,
+            learning_rate=0.03,
+            max_depth=3,
+            subsample=0.8,
+            colsample_bytree=0.8,
+            random_state=42,
+            verbose=-1,
+        )
+
+    if CatBoostRegressor is not None:
+        models["CatBoost"] = CatBoostRegressor(
+            iterations=300,
+            learning_rate=0.03,
+            depth=4,
+            loss_function="MAE",
+            verbose=0,
+            random_seed=42,
+        )
+
+    return models
+
 
 # =========================
-# CORE EVALUATION
+# FEATURE IMPORTANCE
 # =========================
-def evaluate_feature_set(df, feature_cols, setup_name, output_dir):
-
-    # keep only valid numeric columns
-    feature_cols = [
-        c for c in feature_cols
-        if c in df.columns and pd.api.types.is_numeric_dtype(df[c])
-    ]
-
-    df_m = df[feature_cols + ["age"]].dropna()
-
-    X = df_m[feature_cols].values
-    y = df_m["age"].values
-
-    print("\n" + "=" * 60)
-    print(f"ABLATION: {setup_name}")
-    print("=" * 60)
-    print(f"Training on {len(df_m)} samples")
-    print(f"Number of features: {len(feature_cols)}")
-
-    cv = KFold(n_splits=5, shuffle=True, random_state=42)
-    models = get_models()
-
-    best_model = None
-    best_name = None
-    best_mae = float("inf")
-
-    for name, model in models.items():
-        mae = -cross_val_score(model, X, y, cv=cv, scoring="neg_mean_absolute_error")
-        r2 = cross_val_score(model, X, y, cv=cv, scoring="r2")
-
-        print(f"{name:18s} MAE: {mae.mean():.3f} | R2: {r2.mean():.3f}")
-
-        if mae.mean() < best_mae:
-            best_mae = mae.mean()
-            best_model = model
-            best_name = name
-
-    # predictions
-    y_pred = cross_val_predict(best_model, X, y, cv=cv)
-
-    # =========================
-    # FEATURE IMPORTANCE
-    # =========================
+def save_feature_importance(best_model, X, y, feature_cols, setup_name, output_dir):
     safe_name = setup_name.lower().replace(" ", "_").replace("+", "plus")
 
-    if isinstance(best_model, RandomForestRegressor):
+    model_for_importance = clone(best_model)
+    model_for_importance.fit(X, y)
 
-        print("\nExtracting feature importance...")
+    if isinstance(model_for_importance, Pipeline):
+        final_model = model_for_importance.named_steps["model"]
+    else:
+        final_model = model_for_importance
 
-        rf = RandomForestRegressor(
-            n_estimators=200,
-            max_depth=10,
-            random_state=42
-        )
-        rf.fit(X, y)
+    if not hasattr(final_model, "feature_importances_"):
+        print("\nFeature importance not available for this model.")
+        return
 
-        importances = pd.Series(rf.feature_importances_, index=feature_cols)
-        importances = importances.sort_values(ascending=False)
+    print("\nExtracting feature importance...")
 
-        print("\nTop 15 Important Features:")
-        print(importances.head(15))
+    importances = pd.Series(
+        final_model.feature_importances_,
+        index=feature_cols
+    ).sort_values(ascending=False)
 
-        importances.to_csv(output_dir / f"{safe_name}_feature_importance.csv")
+    print("\nTop 15 Important Features:")
+    print(importances.head(15))
 
-        plt.figure(figsize=(8, 6))
-        importances.head(15).plot(kind="barh")
-        plt.gca().invert_yaxis()
-        plt.title(f"Top Features - {setup_name}")
-        plt.tight_layout()
-        plt.savefig(output_dir / f"{safe_name}_feature_importance.png", dpi=150)
-        plt.close()
+    importances.to_csv(output_dir / f"{safe_name}_feature_importance.csv")
 
-    # =========================
-    # ERROR ANALYSIS
-    # =========================
+    plt.figure(figsize=(8, 6))
+    importances.head(15).plot(kind="barh")
+    plt.gca().invert_yaxis()
+    plt.title(f"Top Features - {setup_name}")
+    plt.tight_layout()
+    plt.savefig(output_dir / f"{safe_name}_feature_importance.png", dpi=150)
+    plt.close()
+
+
+# =========================
+# ERROR ANALYSIS
+# =========================
+def save_error_analysis(df_m, y, y_pred, feature_cols, setup_name, output_dir):
+    safe_name = setup_name.lower().replace(" ", "_").replace("+", "plus")
+
     print("\nPerforming error analysis...")
 
     df_error = df_m.copy()
@@ -163,9 +183,155 @@ def evaluate_feature_set(df, feature_cols, setup_name, output_dir):
     plt.savefig(output_dir / f"{safe_name}_error_analysis.png", dpi=150)
     plt.close()
 
-    # =========================
-    # FINAL METRICS
-    # =========================
+    return df_error
+
+
+# =========================
+# AGE-GROUP ERROR ANALYSIS
+# =========================
+def save_age_group_error(df_error, setup_name, output_dir):
+    safe_name = setup_name.lower().replace(" ", "_").replace("+", "plus")
+
+    bins = [0, 60, 70, 80, 90, 120]
+    labels = ["<60", "60-69", "70-79", "80-89", "90+"]
+
+    df_error["age_group"] = pd.cut(
+        df_error["age"],
+        bins=bins,
+        labels=labels,
+        right=False
+    )
+
+    age_group_summary = (
+        df_error.groupby("age_group", observed=True)
+        .agg(
+            samples=("age", "count"),
+            mae=("abs_error", "mean"),
+            mean_error=("error", "mean"),
+            within_5=("abs_error", lambda x: (x <= 5).mean() * 100),
+        )
+        .reset_index()
+    )
+
+    print("\nAge-group error analysis:")
+    print(age_group_summary)
+
+    age_group_summary.to_csv(
+        output_dir / f"{safe_name}_age_group_error.csv",
+        index=False
+    )
+
+    plt.figure(figsize=(7, 5))
+    plt.bar(age_group_summary["age_group"].astype(str), age_group_summary["mae"])
+    plt.xlabel("Age Group")
+    plt.ylabel("MAE")
+    plt.title(f"MAE by Age Group - {setup_name}")
+    plt.tight_layout()
+    plt.savefig(output_dir / f"{safe_name}_age_group_error.png", dpi=150)
+    plt.close()
+
+
+# =========================
+# CORE EVALUATION
+# =========================
+def evaluate_feature_set(df, feature_cols, setup_name, output_dir):
+
+    feature_cols = [
+        c for c in feature_cols
+        if c in df.columns and pd.api.types.is_numeric_dtype(df[c])
+    ]
+
+    df_m = df[feature_cols + ["age"]].dropna()
+
+    X = df_m[feature_cols].values
+    y = df_m["age"].values
+
+    print("\n" + "=" * 60)
+    print(f"ABLATION: {setup_name}")
+    print("=" * 60)
+    print(f"Training on {len(df_m)} samples")
+    print(f"Number of features: {len(feature_cols)}")
+
+    cv = KFold(n_splits=5, shuffle=True, random_state=42)
+    models = get_models()
+
+    best_model = None
+    best_name = None
+    best_mae = float("inf")
+
+    model_rows = []
+
+    for name, model in models.items():
+        mae_scores = -cross_val_score(
+            model,
+            X,
+            y,
+            cv=cv,
+            scoring="neg_mean_absolute_error"
+        )
+
+        r2_scores = cross_val_score(
+            model,
+            X,
+            y,
+            cv=cv,
+            scoring="r2"
+        )
+
+        print(
+            f"{name:18s} "
+            f"MAE: {mae_scores.mean():.3f} "
+            f"| R2: {r2_scores.mean():.3f}"
+        )
+
+        model_rows.append({
+            "Setup": setup_name,
+            "Model": name,
+            "MAE_mean": mae_scores.mean(),
+            "MAE_std": mae_scores.std(),
+            "R2_mean": r2_scores.mean(),
+            "R2_std": r2_scores.std(),
+        })
+
+        if mae_scores.mean() < best_mae:
+            best_mae = mae_scores.mean()
+            best_model = model
+            best_name = name
+
+    model_comparison = pd.DataFrame(model_rows)
+
+    safe_name = setup_name.lower().replace(" ", "_").replace("+", "plus")
+    model_comparison.to_csv(
+        output_dir / f"{safe_name}_model_comparison.csv",
+        index=False
+    )
+
+    y_pred = cross_val_predict(best_model, X, y, cv=cv)
+
+    save_feature_importance(
+        best_model,
+        X,
+        y,
+        feature_cols,
+        setup_name,
+        output_dir
+    )
+
+    df_error = save_error_analysis(
+        df_m,
+        y,
+        y_pred,
+        feature_cols,
+        setup_name,
+        output_dir
+    )
+
+    save_age_group_error(
+        df_error,
+        setup_name,
+        output_dir
+    )
+
     final_mae = mean_absolute_error(y, y_pred)
     final_r2 = r2_score(y, y_pred)
     within_5 = (np.abs(y_pred - y) <= 5).mean() * 100
@@ -175,7 +341,6 @@ def evaluate_feature_set(df, feature_cols, setup_name, output_dir):
     print(f"Final R2: {final_r2:.3f}")
     print(f"Within 5 years: {within_5:.1f}%")
 
-    # prediction plot
     plt.figure(figsize=(6, 6))
     plt.scatter(y, y_pred, alpha=0.6)
     plt.plot([y.min(), y.max()], [y.min(), y.max()], "r--")
