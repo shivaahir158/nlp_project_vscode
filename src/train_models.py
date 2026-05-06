@@ -6,7 +6,12 @@ import matplotlib.pyplot as plt
 from sklearn.base import clone
 from sklearn.linear_model import Ridge
 from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
-from sklearn.model_selection import cross_val_score, cross_val_predict, KFold
+from sklearn.model_selection import (
+    cross_val_score,
+    cross_val_predict,
+    KFold,
+    GridSearchCV,
+)
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import mean_absolute_error, r2_score
@@ -109,6 +114,46 @@ def get_models():
 
 
 # =========================
+# CATBOOST HYPERPARAMETER TUNING
+# =========================
+def tune_catboost(X, y, cv):
+    if CatBoostRegressor is None:
+        print("\nCatBoost not installed. Skipping tuned CatBoost.")
+        return None
+
+    print("\nTuning CatBoost...")
+
+    param_grid = {
+        "iterations": [300, 500],
+        "depth": [3, 4, 5],
+        "learning_rate": [0.01, 0.03, 0.05],
+        "l2_leaf_reg": [1, 3, 5],
+    }
+
+    base_model = CatBoostRegressor(
+        loss_function="MAE",
+        verbose=0,
+        random_seed=42,
+    )
+
+    grid = GridSearchCV(
+        estimator=base_model,
+        param_grid=param_grid,
+        scoring="neg_mean_absolute_error",
+        cv=cv,
+        n_jobs=-1,
+    )
+
+    grid.fit(X, y)
+
+    print("\nBest CatBoost parameters:")
+    print(grid.best_params_)
+    print(f"Best tuned CatBoost CV MAE: {-grid.best_score_:.3f}")
+
+    return grid.best_estimator_
+
+
+# =========================
 # FEATURE IMPORTANCE
 # =========================
 def save_feature_importance(best_model, X, y, feature_cols, setup_name, output_dir):
@@ -199,7 +244,7 @@ def save_age_group_error(df_error, setup_name, output_dir):
         df_error["age"],
         bins=bins,
         labels=labels,
-        right=False
+        right=False,
     )
 
     age_group_summary = (
@@ -218,7 +263,7 @@ def save_age_group_error(df_error, setup_name, output_dir):
 
     age_group_summary.to_csv(
         output_dir / f"{safe_name}_age_group_error.csv",
-        index=False
+        index=False,
     )
 
     plt.figure(figsize=(7, 5))
@@ -243,7 +288,8 @@ def evaluate_feature_set(df, feature_cols, setup_name, output_dir):
 
     df_m = df[feature_cols + ["age"]].dropna()
 
-    X = df_m[feature_cols].values
+    # Keep X as DataFrame to avoid LightGBM feature-name warnings
+    X = df_m[feature_cols]
     y = df_m["age"].values
 
     print("\n" + "=" * 60)
@@ -253,7 +299,12 @@ def evaluate_feature_set(df, feature_cols, setup_name, output_dir):
     print(f"Number of features: {len(feature_cols)}")
 
     cv = KFold(n_splits=5, shuffle=True, random_state=42)
+
     models = get_models()
+
+    tuned_catboost = tune_catboost(X, y, cv)
+    if tuned_catboost is not None:
+        models["TunedCatBoost"] = tuned_catboost
 
     best_model = None
     best_name = None
@@ -267,7 +318,7 @@ def evaluate_feature_set(df, feature_cols, setup_name, output_dir):
             X,
             y,
             cv=cv,
-            scoring="neg_mean_absolute_error"
+            scoring="neg_mean_absolute_error",
         )
 
         r2_scores = cross_val_score(
@@ -275,7 +326,7 @@ def evaluate_feature_set(df, feature_cols, setup_name, output_dir):
             X,
             y,
             cv=cv,
-            scoring="r2"
+            scoring="r2",
         )
 
         print(
@@ -303,7 +354,7 @@ def evaluate_feature_set(df, feature_cols, setup_name, output_dir):
     safe_name = setup_name.lower().replace(" ", "_").replace("+", "plus")
     model_comparison.to_csv(
         output_dir / f"{safe_name}_model_comparison.csv",
-        index=False
+        index=False,
     )
 
     y_pred = cross_val_predict(best_model, X, y, cv=cv)
@@ -314,7 +365,7 @@ def evaluate_feature_set(df, feature_cols, setup_name, output_dir):
         y,
         feature_cols,
         setup_name,
-        output_dir
+        output_dir,
     )
 
     df_error = save_error_analysis(
@@ -323,13 +374,13 @@ def evaluate_feature_set(df, feature_cols, setup_name, output_dir):
         y_pred,
         feature_cols,
         setup_name,
-        output_dir
+        output_dir,
     )
 
     save_age_group_error(
         df_error,
         setup_name,
-        output_dir
+        output_dir,
     )
 
     final_mae = mean_absolute_error(y, y_pred)

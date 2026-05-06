@@ -1,0 +1,268 @@
+============================================================
+ABLATION: Traditional Only
+============================================================
+Training on 133 samples
+Number of features: 19
+
+Tuning CatBoost...
+
+Best CatBoost parameters:
+{'depth': 4, 'iterations': 500, 'l2_leaf_reg': 3, 'learning_rate': 0.01}
+Best tuned CatBoost CV MAE: 3.575
+Ridge              MAE: 3.865 | R2: -0.259
+RandomForest       MAE: 3.641 | R2: -0.143
+GradientBoosting   MAE: 4.076 | R2: -0.386
+XGBoost            MAE: 3.778 | R2: -0.234
+LightGBM           MAE: 3.851 | R2: -0.320
+CatBoost           MAE: 3.652 | R2: -0.154
+TunedCatBoost      MAE: 3.575 | R2: -0.110
+
+Extracting feature importance...
+
+Top 15 Important Features:
+avg_word_len           9.343171
+repetition_rate        8.710106
+first_person_rate      7.875371
+subord_ratio           6.389482
+mattr                  6.263880
+avg_sent_len           6.062965
+filler_rate            5.293215
+verb_ratio             5.260508
+cohort_rate            5.126610
+pronoun_types          4.978172
+flesch_reading_ease    4.716478
+fk_grade               4.435219
+adj_ratio              4.214923
+noun_ratio             4.102840
+std_sent_len           3.793266
+dtype: float64
+
+Performing error analysis...
+
+Top 10 worst predictions:
+     age   pred_age  abs_error
+123   97  83.995399  13.004601
+68    97  84.300059  12.699941
+65    97  84.846667  12.153333
+128   94  82.281009  11.718991
+132   95  83.643460  11.356540
+97    94  83.164619  10.835381
+109   95  84.295787  10.704213
+82    93  82.344901  10.655099
+118   92  83.125558   8.874442
+48    92  83.156929   8.843071
+
+Top error-correlated features:
+adj_ratio            0.150841
+filler_rate          0.147746
+repetition_rate      0.055183
+first_person_rate    0.039013
+mattr                0.038570
+avg_dep_depth        0.025687
+ttr                  0.023428
+std_sent_len         0.021366
+fk_grade             0.011069
+gunning_fog          0.010805
+dtype: float64
+
+Age-group error analysis:
+  age_group  samples       mae  mean_error   within_5
+0     70-79       21  5.177207    5.177207  52.380952
+1     80-89       95  2.194277   -0.275357  96.842105
+2       90+       17  9.339853   -9.339853   5.882353
+
+Best model: TunedCatBoost
+Final MAE: 3.579
+Final R2: -0.029
+Within 5 years: 78.2%
+
+============================================================
+ABLATION: Traditional + BERT
+============================================================
+Training on 133 samples
+Number of features: 29
+
+Tuning CatBoost...
+
+Best CatBoost parameters:
+{'depth': 3, 'iterations': 500, 'l2_leaf_reg': 5, 'learning_rate': 0.03}
+Best tuned CatBoost CV MAE: 3.306
+Ridge              MAE: 3.728 | R2: -0.193
+RandomForest       MAE: 3.454 | R2: -0.004
+GradientBoosting   MAE: 3.666 | R2: -0.188
+XGBoost            MAE: 3.437 | R2: -0.036
+LightGBM           MAE: 3.600 | R2: -0.116
+CatBoost           MAE: 3.341 | R2: 0.021
+TunedCatBoost      MAE: 3.306 | R2: 0.005
+
+Extracting feature importance...
+
+Top 15 Important Features:
+bert_pc6             7.872390
+bert_pc1             7.394431
+bert_pc2             6.487001
+bert_pc4             5.511351
+first_person_rate    5.460008
+mattr                5.283329
+avg_word_len         4.780675
+bert_pc10            4.440453
+repetition_rate      3.981528
+ttr                  3.907186
+bert_pc7             3.832819
+bert_pc5             3.407992
+total_words          3.108291
+filler_rate          2.889956
+bert_pc9             2.671451
+dtype: float64
+
+Performing error analysis...
+
+Top 10 worst predictions:
+     age   pred_age  abs_error
+123   97  82.828706  14.171294
+68    97  84.907166  12.092834
+82    93  81.889655  11.110345
+128   94  82.890554  11.109446
+109   95  84.543889  10.456111
+65    97  86.636844  10.363156
+132   95  85.510568   9.489432
+48    92  82.553018   9.446982
+92    77  85.784030   8.784030
+97    94  85.372049   8.627951
+
+Top error-correlated features:
+adj_ratio          0.149330
+filler_rate        0.120176
+bert_pc3           0.108304
+bert_pc9           0.086359
+bert_pc7           0.078569
+bert_pc6           0.068267
+repetition_rate    0.065503
+bert_pc5           0.060966
+bert_pc10          0.048472
+ttr                0.046651
+dtype: float64
+
+Age-group error analysis:
+  age_group  samples       mae  mean_error   within_5
+0     70-79       21  4.903070    4.903070  52.380952
+1     80-89       95  1.983167   -0.135901  96.842105
+2       90+       17  8.741648   -8.741648  11.764706
+
+Best model: TunedCatBoost
+Final MAE: 3.308
+Final R2: 0.082
+Within 5 years: 78.9%
+
+============================================================
+ABLATION: Traditional + BERT + DLATK
+============================================================
+Training on 133 samples
+Number of features: 41
+
+Tuning CatBoost...
+
+Best CatBoost parameters:
+{'depth': 3, 'iterations': 500, 'l2_leaf_reg': 1, 'learning_rate': 0.05}
+Best tuned CatBoost CV MAE: 3.253
+Ridge              MAE: 3.686 | R2: -0.141
+RandomForest       MAE: 3.424 | R2: 0.014
+GradientBoosting   MAE: 3.621 | R2: -0.148
+XGBoost            MAE: 3.452 | R2: -0.039
+LightGBM           MAE: 3.712 | R2: -0.157
+CatBoost           MAE: 3.351 | R2: 0.026
+TunedCatBoost      MAE: 3.253 | R2: 0.058
+
+Extracting feature importance...
+
+Top 15 Important Features:
+bert_pc1                  7.712700
+bert_pc6                  6.874327
+bert_pc2                  5.200999
+avg_word_len              4.842736
+bert_pc4                  4.572764
+mattr                     4.240179
+ttr                       4.227085
+bert_pc5                  4.019979
+first_person_word_rate    3.915502
+vader_neg                 3.613556
+vader_neu                 3.322464
+bert_pc9                  3.301564
+std_sent_len              3.032833
+bert_pc10                 2.872864
+flesch_reading_ease       2.725190
+dtype: float64
+
+Performing error analysis...
+
+Top 10 worst predictions:
+     age   pred_age  abs_error
+123   97  82.320636  14.679364
+68    97  84.830499  12.169501
+128   94  82.898457  11.101543
+82    93  82.135113  10.864887
+65    97  86.606891  10.393109
+97    94  84.564797   9.435203
+109   95  85.671030   9.328970
+132   95  85.678208   9.321792
+130   90  81.714837   8.285163
+21    91  82.853311   8.146689
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\lib\_function_base_impl.py:3023: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[:, None]
+C:\Users\Shiva Ahir\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\lib\_function_base_impl.py:3024: RuntimeWarning: invalid value encountered in divide
+  c /= stddev[None, :]
+
+Top error-correlated features:
+adj_ratio          0.171442
+vader_compound     0.151003
+vader_pos          0.142688
+bert_pc3           0.128103
+filler_rate        0.119867
+repetition_rate    0.106932
+bert_pc6           0.098708
+bert_pc9           0.062159
+ttr                0.056908
+subord_ratio       0.051997
+dtype: float64
+
+Age-group error analysis:
+  age_group  samples       mae  mean_error   within_5
+0     70-79       21  4.933148    4.933148  52.380952
+1     80-89       95  1.979760   -0.104812  96.842105
+2       90+       17  8.324412   -8.324412  11.764706
+
+Best model: TunedCatBoost
+Final MAE: 3.257
+Final R2: 0.105
+Within 5 years: 78.9%
+
+============================================================
+FINAL SUMMARY
+============================================================
+                        Setup     Best_Model  Samples  Features       MAE        R2  Within_5_Years
+0            Traditional Only  TunedCatBoost      133        19  3.578610 -0.029352       78.195489
+1          Traditional + BERT  TunedCatBoost      133        29  3.308070  0.081520       78.947368
+2  Traditional + BERT + DLATK  TunedCatBoost      133        41  3.257055  0.104769       78.947368
+DONE
+                        Setup     Best_Model  Samples  Features       MAE        R2  Within_5_Years
+0            Traditional Only  TunedCatBoost      133        19  3.578610 -0.029352       78.195489
+1          Traditional + BERT  TunedCatBoost      133        29  3.308070  0.081520       78.947368
+2  Traditional + BERT + DLATK  TunedCatBoost      133        41  3.257055  0.104769       78.947368
+
+
+=====================================================================================================
+
+
+* **Traditional Only:** Basic linguistic features like vocabulary richness, sentence length, and filler usage were able to predict age with an average error of about 3.58 years. 
+
+* **Traditional + BERT:** Adding BERT embeddings improved performance, showing that contextual and semantic language patterns help capture aging-related speech characteristics better. 
+
+* **Traditional + BERT + DLATK:** Adding sentiment and psychological features provided a small additional improvement, suggesting emotional tone contributes some extra age-related information. 
+
+* **TunedCatBoost:** Hyperparameter tuning made CatBoost the best-performing model across all experiments, reducing the prediction error to about 3.26 years. 
+
+* **Feature Importance:** Features related to semantic embeddings, vocabulary complexity, and speaking style were the strongest indicators for predicting age. 
+
+* **Error Analysis:** The model consistently underestimated extremely old speakers, often predicting ages in the 80s for people aged 90+. 
+
+* **Age-Group Analysis:** The model performed best for ages 80–89 but struggled significantly for the 90+ group due to limited training samples and regression toward the mean. 
